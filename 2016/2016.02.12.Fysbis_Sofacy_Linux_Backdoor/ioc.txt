@@ -1,0 +1,21 @@
+Type	Value
+MD5	364ff454dcf00420cff13a57bcb78467
+SHA256	8bca0031f3b691421cb15f9c6e71ce193355d2d8cf2b190438b6962761d0c6bb
+ssdeep	3072:n+1R4tREtGN4qyGCXdHPYK9l0H786O26BmMAwyWMn/qwwiHNl:n+1R43QcILXdF0w6IBmMAwwCwwi
+MD5	075b6695ab63f36af65f7ffd45cccd39
+SHA-256	02c7cf55fd5c5809ce2dce56085ba43795f2480423a4256537bfdfda0df85592
+ssdeep	3072:9ZAxHANuat3WWFY9nqjwbuZf454UNqRpROIDLHaSeWb3LGmPTrIW33HxIajF:9ZAxHANJAvbuZf454UN+rveQLZPTrV3Z
+MD5	e107c5c84ded6cd9391aede7f04d64c8
+SHA-256	fd8b2ea9a2e8a67e4cb3904b49c789d57ed9b1ce5bebfe54fe3d98214d6a0f61
+ssdeep	6144:W/D5tpLWtr91gmaVy+mdckn6BCUdc4mLc2B9:4D5Lqgkcj+
+Path	/bin/rsyncd
+Path Desc	synchronize and backup service
+Path	~/.config/dbus-notifier/dbus-inotifier
+Path Desc	system service d-bus notifier
+Path	/bin/ksysdefd
+Path	~/.config/ksysdef/ksysdefd
+Path Desc	system kernel service defender
+C2	azureon-line[.]com
+C2	198.105.125[.]74
+C2	mozilla-plugins[.]com
+C2	Mozillaplagins[.]com

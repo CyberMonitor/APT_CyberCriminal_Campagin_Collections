@@ -1,0 +1,18 @@
+SHA255 HASHES
+52939b9ec4bc451172fa1c5810185194af7f5f6fa09c3c20b242229f56162b0f
+1dee9b9d2e390f217cf19e63cdc3e53cc5d590eb2b9b21599e2da23a7a636184
+52d465e368d2cb7dbf7d478ebadb367b3daa073e15d86f0cbd1a6265abfbd2fb
+a02e1cb1efbe8f3551cc3a4b452c2b7f93565860cde44d26496aabd0d3296444
+43eb1b6bf1707e55a39e87985eda455fb322afae3d2a57339c5e29054fb52042
+
+DOMAINS
+www.junfac[.]com
+www.htomega[.]com
+mcm-yachtmanagement[.]com
+www.combra[.]eu
+
+URLS
+www.junfac[.]com/tires/skin/tires.php
+www.htomega[.]com/rgboard/image/rgboard.gif
+mcm-yachtmanagement[.]com/installx/install_ok.php
+www.combra[.]eu/includes/images/logo.jpg

@@ -1,0 +1,14 @@
+372f1e4d2d5108bbffc750bb0909fc49 BOOTRASH dropper
+ac64ef80f8209ae7b67be0be9ea6400e Windows 7 and later 32-bit modified VBR
+073a2998a6f1ccf0ea89fe60ce4bdeaf Windows 7 and later 64-bit modified VBR
+c145624f148980ad026ea7b79e61212d Windows XP 32-bit modified VBR
+472926fe51fc6a4fdf687e8a4de64d78 Windows XP 64-bit modified VBR
+1c17c92519523a129e9abd298bb78521 Bootstrap code for systems with NTFS/MBR
+15de35de527ebe2115746b4fd4f1ba1d 32-bit Boot loader driver
+012e6f3ee70d6558f8002d0efce5c9e0 64-bit Boot loader driver
+dd366fcb810594e0620fdf672b03f4d5 32-bit Core services driver
+fed12e07499e8cd3a5a47f1f7a8db0be 64-bit Core services driver
+21cd4a30ac322bfc9bd2401ea17acfc0 32-bit Nemesis driver
+76b6dc622264e3ad822a691a7ec68865 64-bit Nemesis driver
+d0b9f9bccbc3725bfcc9546986982ff3 32-bit VFS driver
+efbff3b08b5d368976eb4675bb4c000f 64-bit VFS driver

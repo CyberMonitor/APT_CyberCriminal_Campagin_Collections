@@ -1,0 +1,102 @@
+SHA1: a7d206791b1cdec616e9b18ae6fa1548ca96a321
+First Seen: Nov. 24, 2015
+Name:STEP Democracy Year 1 Acheivements_25112015.exe
+Decoy Doc: STEP Democracy Year 1 Acheivements_25112015.docx
+Campaign ID: om
+C2s: 	jackhex.md5c.net:8080
+	jackhex.md5c.net:53
+	jackhex.md5c.net:53
+Mutex: 20150120
+Password: 18703983384
+
+SHA1: 724166261e9c2e7718be22b347671944a1e7fded
+First Seen: Nov. 23, 2015
+Name:Year1achievementsv2.exe
+Decoy Doc: Year1achievementsv2.docx
+Campaign ID: om
+C2s: 	jackhex.md5c.net:8080
+	jackhex.md5c.net:53
+	jackhex.md5c.net:53
+Mutex: 20150120
+Password: 15911117665
+
+SHA1: 675a3247f4c0e1105a41c685f4c2fb606e5b1eac
+First Seen: April 7, 2016
+Name: Commission on Filipinos Overseas & Dubai %E2%80%AEcod.doc
+Decoy Doc: Commission on Filipinos Overseas & Dubai.doc
+Campaign ID: gmkill
+C2s: 	webserver.servehttp.com:8080
+	webserver.servehttp.com:8080
+	webserver.servehttp.com:8081
+Mutex: 20150120
+Password: 13813819438
+
+SHA1: 63e00dbf45961ad11bd1eb55dff9c2771c2916a6
+First Seen: April 11, 2016
+Name: 1.exe
+Decoy Doc: Chairman's Report of the 19th ASEAN Regional Forum Heads of Defence Universities, Colleges, Instiutions Meeting, Nay Pay Taw, Myanmar.doc
+Campaign ID: mm20160405
+Domain Created: December 17, 2015
+C2s: 	admin.nslookupdns.com:81
+	admin.nslookupdns.com:53
+	admin.nslookupdns.com:8080
+Mutex: 	20150120
+Password: 52100521000
+
+SHA1: 31756ccdbfe05d0a510d2dcf207fdef5287de285
+First Seen: March 20, 2016
+Name: Unknown
+Decoy Doc: Robertus Subono-REGISTRATION_FORM_ASEAN_CMCoord2016.docx
+Campaign ID: modth
+Domain Created: December 17, 2015
+C2s: 	admin.nslookupdns.com:80
+	admin.nslookupdns.com:53
+	admin.nslookupdns.com:8080
+Mutex: 	20150120
+Password: 52100521000
+
+SHA1: ec646c57f9ac5e56230a17aeca6523a4532ff472
+First Seen: March 10, 2016
+Name: 2016.02.29-03.04 -ASEM Weekly.docx.rar^2016.02.29-03.04 -ASEM Weekly.docx.exe
+Decoy Doc: 2016.02.29-03.04 -ASEM Weekly.docx (Mongolian language)
+Campaign ID: wj201603
+Domain Created: January 14, 2016
+C2s:	web.microsoftdefence.com:8080
+	web.microsoftdefence.com:8080
+	web.microsoftdefence.com:80
+Mutex: 20150120 
+Password: 80012345678
+
+SHA1: f389e1c970b2ca28112a30a8cfef1f3973fa82ea
+Name: Unknown
+Decoy Doc: 1.docx (corrupted but recoverable, Korean language)
+First Seen: April 9, 2016
+CampaignID: kk31
+C2s: 	webserver.servehttp.com:59148
+	webserver.servehttp.com:59418
+	webserver.servehttp.com:5000
+Mutex: 20160301
+Password: 13177776666
+
+SHA1: 49e36de6d757ca44c43d5670d497bd8738c1d2a4
+Name: Unknown
+Decoy doc: 1.pdf, references project in Vietnam requesting an email to a Thailand email address
+First Seen: March 10, 2016
+C2s: 	webserver.servehttp.com:59148
+		webserver.servehttp.com:59418
+		webserver.servehttp.com:1024
+Mutex: 20160219
+Campaign ID: mt39
+
+Discovered during investigation, but do not drop decoy docs, exhibited similar configuration padding
+SHA1: ef2618d58bd50fa232a19f9bcf3983d1e2dff266
+Name: 2.tmp
+Decoy Doc: None
+First Seen: June 3, 2015
+Domain Created: May 29, 2015
+C2s:	news.tibetgroupworks.com:80
+	news.tibetgroupworks.com:80
+	news.tibetgroupworks.com:80
+Campaign ID: 213
+Mutex: 2015012
+

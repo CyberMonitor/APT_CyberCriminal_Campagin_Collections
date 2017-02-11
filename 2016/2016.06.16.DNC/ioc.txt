@@ -1,0 +1,18 @@
+6c1bce76f4d2358656132b6b1d471571820688ccdbaca0d86d0ca082b9390536	COZY BEAR	SHA256	pagemgr.exe (SeaDaddy implant)
+b101cd29e18a515753409ae86ce68a4cedbe0d640d385eb24b9bbb69cf8186ae	COZY BEAR	SHA256	pagemgr.exe
+(SeaDaddy implant)
+
+185[.]100[.]84[.]134:443	COZY BEAR	C2	SeaDaddy implant C2
+58[.]49[.]58[.]58:443	COZY BEAR	C2	SeaDaddy implant C2
+218[.]1[.]98[.]203:80	COZY BEAR	C2	Powershell implant C2
+187[.]33[.]33[.]8:80	COZY BEAR	C2	Powershell implant C2
+fd39d2837b30e7233bc54598ff51bdc2f8c418fa5b94dea2cadb24cf40f395e5	FANCY BEAR	SHA256	twain_64.dll
+(64-bit X-Agent implant)
+
+4845761c9bed0563d0aa83613311191e075a9b58861e80392914d61a21bad976	FANCY BEAR	SHA256	VmUpgradeHelper.exe (X-Tunnel implant)
+40ae43b7d6c413becc92b07076fa128b875c8dbb4da7c036639eccf5a9fc784f	FANCY BEAR	SHA256	VmUpgradeHelper.exe
+(X-Tunnel implant)
+
+185[.]86[.]148[.]227:443	FANCY BEAR	C2	X-Agent implant C2
+45[.]32[.]129[.]185:443	FANCY BEAR	C2	X-Tunnel implant C2
+23[.]227[.]196[.]217:443	FANCY BEAR	C2	X-Tunnel implant C2

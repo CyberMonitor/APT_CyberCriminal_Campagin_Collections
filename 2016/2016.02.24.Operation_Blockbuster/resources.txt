@@ -1,0 +1,14 @@
+	
+Indicators
+www.operationblockbuster.com/C2_Indicators.csv.zip
+
+STIX file
+www.operationblockbuster.com/CA-2016-012-STIX.xml.zip
+
+(This file provided courtesy of CERT Australia www.cert.gov.au)
+
+YARA signatures
+www.operationblockbuster.com/YaraSigs.zip
+
+Large CSV of Family Hashes
+www.operationblockbuster.com/family_hashes.csv.zip

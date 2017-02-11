@@ -1,0 +1,8 @@
+JPCERT post (June 30):
+http://blog.jpcert.or.jp/2016/06/asruex-malware-infecting-through-shortcut-files.html
+
+Microsoft post (June 9):
+https://blogs.technet.microsoft.com/mmpc/2016/06/09/reverse-engineering-dubnium-2/
+
+Background on DarkHotel (November 2014):
+https://www.wired.com/2014/11/darkhotel-malware/

@@ -1,0 +1,26 @@
+afset
+MD5: b5ddd6ed3bd16c6f438b3bc95a2b49a8
+SHA256: 38c87a92694b597e5d402342ab4a9ff88b5b81beb2791405637bdca2b8384eac
+
+setMFT
+MD5: f83f9d1797f5dbd419dfa86987790153
+SHA256: fe30da9e47010d3522d30ff90fb10d6c30302e8d16001c1a12c149b508888ab8
+
+YARA
+rule Destover
+{
+meta:
+description = “Rule to detect Destover trojan and associated tools by license key”
+author = “Willis McDonald”
+company = “Damballa Inc.”
+reference = “not set”
+date = “2015/10/30”
+
+strings:
+$key = “99E2428CCA4309C68AAF8C616EF3306582A64513E55C786A864BC83DAFE0C 78585B692047273B0E55275102C664C5217E76B8E67F35FCE385E4328EE1AD139EA6AA2634
+5C4F93000DBBC7EF1579D4F”
+$MZ = “MZ”
+
+condition:
+$key and $MZ at 0
+}

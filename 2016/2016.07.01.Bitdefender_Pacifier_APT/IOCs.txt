@@ -1,0 +1,58 @@
+File paths
+%APPDATA%\Microsoft\Word\MSWord.exe
+%APPDATA%\Axpim\ubfic.exe (random)
+%APPDATA%\Axpim\anfel.js (random)
+%APPDATA%\Nuuw\ilebi.xpi (random)
+%APPDATA%\Nuuw\yqyra.js (random)
+%TEMP%\ntlm.exe
+%TEMP%\msvci.dll
+%TEMP%\msvcp.dll
+%TEMP%\msvck.dll
+%TEMP%\msvct.dll
+%TEMP%\msvci.exe (64bit)
+%TEMP%\msvck60.dll (64bit)
+%TEMP%\msvct60.dll (64bit)
+%APPDATA%\Microsoft\VisualStudio\11.0\dws.exe
+%APPDATA%\Microsoft\VisualStudio\11.0\msi.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\msi.exe
+%APPDATA%\Microsoft\VisualStudio\11.0\msi32.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\msi60.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\msk.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\msk60.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\msp.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\msp60.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\mst.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\mst60.dll
+%APPDATA%\Microsoft\VisualStudio\11.0\msvci60.dll
+%APPDATA%\Axpim\selfdel.bat
+%TEMP%\xmlupd.bat
+pipes
+\\.\pipe\bc367
+\\.\pipe\bc31a7
+Registry paths
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\svchostUpdate
+-> %TEMP%\ntlm.exe
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Devices
+-> %TEMP%\ntlm.exe
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run\svchostUpdate
+-> %TEMP%\svchost.exe
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Devices
+-> %TEMP%\svchost.exe
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run\dwm service
+-> %TEMP%\dwms.exe
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Devices
+-> %TEMP%\dwms.exe
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\dwupdate
+-> %APPDATA%\Microsoft\VisualStudio\11.0\dws.exe
+tasks
+update
+• command schtasks /create /SC DAILY /ST 12:00 /TN update /F /TR %APPDATA%\Microsoft\VisualStudio\11.0\dws.exe
+network activity
+2014-2015 variants:
+reckless.dk/wp-includes/class-pomo.php
+reckless.dk/wp-includes/class.wp-db.php
+fishstalk.esy.es/wp-content/plugins/bbpress/includes/common/menu.php
+fishstalk.esy.es/wp-includes/SimplePie/Net/IPv4.php
+77-ufo.com/wp-includes/class-menu.php
+77-ufo.com/pma/db_table.php
+scientific.otzo.com/rss.php

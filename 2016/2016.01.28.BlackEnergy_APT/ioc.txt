@@ -1,0 +1,15 @@
+Word document with macros (Trojan-Downloader.Script.Generic):
+
+e15b36c2e394d599a8ab352159089dd2
+
+Dropper from Word document (Backdoor.Win32.Fonten.y):
+
+ac2d7f21c826ce0c449481f79138aebd
+
+Final payload from Word document (Backdoor.Win32.Fonten.o):
+
+3fa9130c9ec44e36e52142f3688313ff
+
+BlackEnergy C&C Server:
+
+5.149.254[.]114
