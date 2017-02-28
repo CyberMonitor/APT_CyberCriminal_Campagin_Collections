@@ -1,15 +1,13 @@
 # APT & CyberCriminal Campaign Collection
 
-I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other reseearchers.
+This is a collection of APT and CyberCriminal campaigns. 
+Please fire issue to me if any lost of APT/Malware events/campaigns. 
 
-news: APTnotes going forward to [APTnotes](https://github.com/aptnotes/data)
-
-The great APT Groups data can be found from [Florian Roth](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
-
-Another APT Groups information can be found in [Attack Wiki](https://attack.mitre.org/wiki/Groups)
-
-Please fire issues to me if any lost of APT/Malware events/campaigns.   
-
+## Reference Resource
+* [kbandla](https://github.com/kbandla/APTnotes) 
+* [APTnotes](https://github.com/aptnotes/data)
+* [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
+* [Attack Wiki](https://attack.mitre.org/wiki/Groups)
 
 ## 2017
 * Feb 23 - [Dissecting the APT28 Mac OS X Payload](https://download.bitdefender.com/resources/files/News/CaseStudies/study/143/Bitdefender-Whitepaper-APT-Mac-A4-en-EN-web.pdf) | [Local](../../blob/master/2017/2017.02.23.APT28_Mac_OS_X_Payload)
