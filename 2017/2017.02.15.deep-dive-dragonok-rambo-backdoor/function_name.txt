@@ -1,0 +1,31 @@
+vaddr=0x10001431 paddr=0x00000831 ord=000 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Err_Errno2String
+
+vaddr=0x10001431 paddr=0x00000831 ord=001 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Log
+
+vaddr=0x10001431 paddr=0x00000831 ord=002 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Log_CfgInterface
+
+vaddr=0x10001431 paddr=0x00000831 ord=003 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Log_InitWithFileSimpleInt
+
+vaddr=0x10001431 paddr=0x00000831 ord=004 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Log_SetProductInfo
+
+vaddr=0x10001431 paddr=0x00000831 ord=005 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Preference_Init
+
+vaddr=0x10001431 paddr=0x00000831 ord=006 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_ProductState_GetBuildNumberString
+
+vaddr=0x10001431 paddr=0x00000831 ord=007 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_ProductState_GetCompilationOption
+
+vaddr=0x10001431 paddr=0x00000831 ord=008 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_ProductState_GetName
+
+vaddr=0x10001431 paddr=0x00000831 ord=009 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_ProductState_GetVersion
+
+vaddr=0x10001431 paddr=0x00000831 ord=010 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_W32Util_AsciiStrToWideStr
+
+vaddr=0x10001431 paddr=0x00000831 ord=011 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_W32Util_GetInstalledFilePath
+
+vaddr=0x10001431 paddr=0x00000831 ord=012 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Warning
+
+vaddr=0x10001431 paddr=0x00000831 ord=013 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Win32U_LoadLibrary
+
+vaddr=0x10001431 paddr=0x00000831 ord=014 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Win32U_RegCreateKeyEx
+
+vaddr=0x10001431 paddr=0x00000831 ord=015 fwd=NONE sz=0 bind=GLOBAL type=FUNC name=FirstBlood.tmp_Win32U_RegOpenKeyEx
