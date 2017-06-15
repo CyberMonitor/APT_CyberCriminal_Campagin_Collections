@@ -10,6 +10,7 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [Attack Wiki](https://attack.mitre.org/wiki/Groups)
 
 ## 2017
+* Jun 13 - [CRASHOVERRIDE Analysis of the Threat to Electric Grid Operations](https://dragos.com/blog/crashoverride/CrashOverride-01.pdf) | [Local](../../blob/master/2017/2017.06.13.CRASHOVERRIDE)
 * Jun 13 - [HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure](https://www.us-cert.gov/ncas/alerts/TA17-164A) | [Local](../../blob/master/2017/2017.06.13.HIDDEN_COBRA)
 * May 30 - [Lazarus Arisen: Architecture, Techniques and Attribution](http://www.group-ib.com/lazarus.html) | [Local](../../blob/master/2017/2017.05.30.Lazarus_Arisen)
 * May 03 - [Kazuar: Multiplatform Espionage Backdoor with API Access](http://researchcenter.paloaltonetworks.com/2017/05/unit42-kazuar-multiplatform-espionage-backdoor-api-acces) | [Local](../../blob/master/2017/2017.05.03.kazuar-multiplatform-espionage-backdoor-api-access)
