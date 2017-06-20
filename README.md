@@ -11,6 +11,7 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [threat-INTel](https://github.com/fdiskyou/threat-INTel)
 
 ## 2017
+* Jun 19 - [SHELLTEA + POSLURP MALWARE: memory resident point-of-sale malware attacks industry](https://www.root9b.com/sites/default/files/whitepapers/PoS%20Malware%20ShellTea%20PoSlurp_0.pdf) | [Local](../../blob/master/2017/2017.06.19.SHELLTEA_POSLURP_MALWARE)
 * Jun 13 - [CRASHOVERRIDE Analysis of the Threat to Electric Grid Operations](https://dragos.com/blog/crashoverride/CrashOverride-01.pdf) | [Local](../../blob/master/2017/2017.06.13.CRASHOVERRIDE)
 * Jun 13 - [HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure](https://www.us-cert.gov/ncas/alerts/TA17-164A) | [Local](../../blob/master/2017/2017.06.13.HIDDEN_COBRA)
 * May 30 - [Lazarus Arisen: Architecture, Techniques and Attribution](http://www.group-ib.com/lazarus.html) | [Local](../../blob/master/2017/2017.05.30.Lazarus_Arisen)
