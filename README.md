@@ -11,6 +11,7 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [threat-INTel](https://github.com/fdiskyou/threat-INTel)
 
 ## 2017
+* Jul 11 - [Winnti Evolution - Going Open Source](https://www.protectwise.com/blog/winnti-evolution-going-open-source.html) | [Local](../../blob/master/2017/2017.07.11.winnti-evolution-going-open-source)
 * Jul 10 - [OSX Malware Linked to Operation Emmental Hijacks User Network Traffic](http://blog.trendmicro.com/trendlabs-security-intelligence/osx_dok-mac-malware-emmental-hijacks-user-network-traffic/) | [Local](../../blob/master/2017/2017.07.10.osx_dok-mac-malware-emmental-hijacks-user-network-traffic)
 * Jul 05 - [Insider Information: An intrusion campaign targeting Chinese language news sites](https://citizenlab.org/2017/07/insider-information-an-intrusion-campaign-targeting-chinese-language-news-sites/) | [Local](../../blob/master/2017/2017.07.04.insider-information-an-intrusion-campaign-targeting-chinese-language-news-sites)
 * Jun 22 - [The New and Improved macOS Backdoor from OceanLotus](https://researchcenter.paloaltonetworks.com/2017/06/unit42-new-improved-macos-backdoor-oceanlotus/) | [Local](../../blob/master/2017/2017.06.22.new-improved-macos-backdoor-oceanlotus)
