@@ -9,8 +9,10 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 * [Attack Wiki](https://attack.mitre.org/wiki/Groups)
 * [threat-INTel](https://github.com/fdiskyou/threat-INTel)
+* [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 
 ## 2017
+* Jul 18 - [Recent Winnti Infrastructure and Samples](http://www.clearskysec.com/winnti/) | [Local](../../blob/master/2017/2017.07.18.winnti) 
 * Jul 11 - [Winnti Evolution - Going Open Source](https://www.protectwise.com/blog/winnti-evolution-going-open-source.html) | [Local](../../blob/master/2017/2017.07.11.winnti-evolution-going-open-source)
 * Jul 10 - [OSX Malware Linked to Operation Emmental Hijacks User Network Traffic](http://blog.trendmicro.com/trendlabs-security-intelligence/osx_dok-mac-malware-emmental-hijacks-user-network-traffic/) | [Local](../../blob/master/2017/2017.07.10.osx_dok-mac-malware-emmental-hijacks-user-network-traffic)
 * Jul 05 - [Insider Information: An intrusion campaign targeting Chinese language news sites](https://citizenlab.org/2017/07/insider-information-an-intrusion-campaign-targeting-chinese-language-news-sites/) | [Local](../../blob/master/2017/2017.07.04.insider-information-an-intrusion-campaign-targeting-chinese-language-news-sites)
