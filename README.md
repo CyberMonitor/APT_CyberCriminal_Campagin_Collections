@@ -12,6 +12,7 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 
 ## 2017
+* Aug 25 - [Operation RAT Cook: Chinese APT actors use fake Game of Thrones leaks as lures](https://www.proofpoint.com/us/threat-insight/post/operation-rat-cook-chinese-apt-actors-use-fake-game-thrones-leaks-lures) | [Local](../../blob/master/2017/2017.08.25.operation-rat-cook)  
 * Aug 11 - [APT28 Targets Hospitality Sector, Presents Threat to Travelers](https://www.fireeye.com/blog/threat-research/2017/08/apt28-targets-hospitality-sector.html) | [Local](../../blob/master/2017/2017.08.11.apt28-targets-hospitality-sector)  
 * Aug 01 - [Cobalt strikes back: an evolving multinational threat to finance](http://blog.ptsecurity.com/2017/08/cobalt-group-2017-cobalt-strikes-back.html) | [Local](../../blob/master/2017/2017.08.01.cobalt-group-2017-cobalt-strikes-back) 
 * Jul 27 - [ChessMaster Makes its Move: A Look into the Campaign’s Cyberespionage Arsenal](http://blog.trendmicro.com/trendlabs-security-intelligence/chessmaster-cyber-espionage-campaign/) | [Local](../../blob/master/2017/2017.07.27.chessmaster-cyber-espionage-campaign) 
