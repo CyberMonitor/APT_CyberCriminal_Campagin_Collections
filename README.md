@@ -12,7 +12,8 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 
 ## 2017
-* Oct 16 - [[BAE Systems] Taiwan Heist: Lazarus Tools And Ransomware](https://baesystemsai.blogspot.kr/2017/10/taiwan-heist-lazarus-tools.html) | [Local](../../blob/master/2017/2017.10.16.Taiwan-Heist)  
+* Oct 16 - [[BAE Systems] Taiwan Heist: Lazarus Tools And Ransomware](https://baesystemsai.blogspot.kr/2017/10/taiwan-heist-lazarus-tools.html) | [Local](../../blob/master/2017/2017.10.16.BlackOasis_APT)  
+* Oct 16 - [[Kaspersky] BlackOasis APT and new targeted attacks leveraging zero-day exploit](https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/) | [Local](../../blob/master/2017/2017.10.16.Taiwan-Heist) 
 * Sep 20 - [Insights into Iranian Cyber Espionage: APT33 Targets Aerospace and Energy Sectors and has Ties to Destructive Malware](https://www.fireeye.com/blog/threat-research/2017/09/apt33-insights-into-iranian-cyber-espionage.html) | [Local](../../blob/master/2017/2017.09.20.apt33-insights-into-iranian-cyber-espionage) 
 * Sep 06 - [Dragonfly: Western energy sector targeted by sophisticated attack group](https://www.symantec.com/connect/blogs/dragonfly-western-energy-sector-targeted-sophisticated-attack-group) | [Local](../../blob/master/2017/2017.09.06.dragonfly-western-energy-sector-targeted-sophisticated-attack-group)   
 * Sep 06 - [Intelligence Games in the Power Grid](https://treadstone71llc.files.wordpress.com/2017/09/intelligence-games-in-the-power-grid-2016.pdf) | [Local](../../blob/master/2017/2017.09.06.intelligence-games-in-the-power-grid-2016)  
