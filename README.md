@@ -12,6 +12,7 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 
 ## 2017
+* Oct 27 - [[Bellingcat] Bahamut Revisited, More Cyber Espionage in the Middle East and South Asia](https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-cyber-espionage-middle-east-south-asia/) | [Local](../../blob/master/2017/2017.10.27.bahamut-revisited) 
 * Oct 24 - [[ClearSky] Iranian Threat Agent Greenbug Impersonates Israeli High-Tech and Cyber Security Companies](http://www.clearskysec.com/greenbug/) | [Local](../../blob/master/2017/2017.10.02.Aurora_Operation_CCleaner_II) 
 * Oct 16 - [[BAE Systems] Taiwan Heist: Lazarus Tools And Ransomware](https://baesystemsai.blogspot.kr/2017/10/taiwan-heist-lazarus-tools.html) | [Local](../../blob/master/2017/2017.10.16.BlackOasis_APT)  
 * Oct 16 - [[Kaspersky] BlackOasis APT and new targeted attacks leveraging zero-day exploit](https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/) | [Local](../../blob/master/2017/2017.10.16.Taiwan-Heist) 
