@@ -1,0 +1,11 @@
+Related hashes detected as BKDR_ANEL.ZKEI (SHA-256):
+
+af1b2cd8580650d826f48ad824deef3749a7db6fde1c7e1dc115c6b0a7dfa0dd
+Command-and-control server:
+
+hxxp://62[.]75[.]197[.]131/page/?[random strings]
+URLs related to the campaign
+
+hxxp://89[.]18[.]27[.]159/img.db
+hxxp://89[.]18[.]27[.]159:8080/lK0RS
+hxxp://89[.]18[.]27[.]159/FA347FEiwq.jpg
