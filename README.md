@@ -12,6 +12,7 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 
 ## 2017
+* Nov 07 - [[Symantec] Sowbug: Cyber espionage group targets South American and Southeast Asian governments](https://www.symantec.com/connect/blogs/sowbug-cyber-espionage-group-targets-south-american-and-southeast-asian-governments) | [Local](../../blob/master/2017/2017.11.07.sowbug-cyber-espionage-group-targets)
 * Nov 06 - [[Trend Micro] ChessMaster’s New Strategy: Evolving Tools and Tactics](http://blog.trendmicro.com/trendlabs-security-intelligence/chessmasters-new-strategy-evolving-tools-tactics/) | [Local](../../blob/master/2017/2017.11.06.ChessMaster_New_Strategy)   
 * Nov 02 - [[PwC] The KeyBoys are back in town](http://www.pwc.co.uk/issues/cyber-security-data-privacy/research/the-keyboys-are-back-in-town.html) | [Local](../../blob/master/2017/2017.11.02.KeyBoys_are_back)   
 * Oct 31 - [[Cybereason] Night of the Devil: Ransomware or wiper? A look into targeted attacks in Japan using MBR-ONI](https://www.cybereason.com/blog/night-of-the-devil-ransomware-or-wiper-a-look-into-targeted-attacks-in-japan) | [Local](../../blob/master/2017/2017.10.31.MBR-ONI.Japan)  
