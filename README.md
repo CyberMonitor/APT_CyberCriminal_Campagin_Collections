@@ -12,6 +12,8 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 
 ## 2017
+* Nov 14 - [[Palo Alto Networks] Muddying the Water: Targeted Attacks in the Middle East](https://researchcenter.paloaltonetworks.com/2017/11/2017.11.14.Muddying_the_Water) 
+* Nov 10 - [[Palo Alto Networks] New Malware with Ties to SunOrcal Discovered](https://researchcenter.paloaltonetworks.com/2017/11/unit42-new-malware-with-ties-to-sunorcal-discovered/) | [Local](../../blob/master/2017/2017.11.10.New_Malware_with_Ties_to_SunOrcal_Discovered)
 * Nov 07 - [[McAfee] Threat Group APT28 Slips Office Malware into Doc Citing NYC Terror Attack](https://securingtomorrow.mcafee.com/mcafee-labs/apt28-threat-group-adopts-dde-technique-nyc-attack-theme-in-latest-campaign/#sf151634298) | [Local](../../blob/master/2017/2017.11.07.APT28_Slips_Office_Malware)
 * Nov 07 - [[Symantec] Sowbug: Cyber espionage group targets South American and Southeast Asian governments](https://www.symantec.com/connect/blogs/sowbug-cyber-espionage-group-targets-south-american-and-southeast-asian-governments) | [Local](../../blob/master/2017/2017.11.07.sowbug-cyber-espionage-group-targets)
 * Nov 06 - [[Trend Micro] ChessMaster’s New Strategy: Evolving Tools and Tactics](http://blog.trendmicro.com/trendlabs-security-intelligence/chessmasters-new-strategy-evolving-tools-tactics/) | [Local](../../blob/master/2017/2017.11.06.ChessMaster_New_Strategy)   
