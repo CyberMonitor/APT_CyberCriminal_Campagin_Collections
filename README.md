@@ -452,7 +452,7 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * Feb 13 - [Operation SnowMan: DeputyDog Actor Compromises US Veterans of Foreign Wars Website](http://www.fireeye.com/blog/technical/cyber-exploits/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html)
 * Feb 11 - [Unveiling "Careto" - The Masked APT](http://www.securelist.com/en/downloads/vlpdfs/unveilingthemask_v1.0.pdf)
 * Jan 31 - [Intruder File Report- Sneakernet Trojan](http://www.fidelissecurity.com/sites/default/files/FTA%201011%20Follow%20UP.pdf)
-* Jan 21 - [Shell_Crew (Deep Panda)](http://www.emc.com/collateral/white-papers/h12756-wp-shell-crew.pdf)
+* Jan 21 - [[RSA] Shell_Crew (Deep Panda)](http://www.emc.com/collateral/white-papers/h12756-wp-shell-crew.pdf) | [Local](../../blob/master/2014/2014.01.21.Shell_Crew)
 * Jan 15 - [“New'CDTO:'A'Sneakernet'Trojan'Solution](http://www.fidelissecurity.com/sites/default/files/FTA%201001%20FINAL%201.15.14.pdf)
 * Jan 14 - [The Icefog APT Hits US Targets With Java Backdoor](https://www.securelist.com/en/blog/208214213/The_Icefog_APT_Hits_US_Targets_With_Java_Backdoor)
 * Jan 13 - [Targeted attacks against the Energy Sector](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/targeted_attacks_against_the_energy_sector.pdf)
