@@ -12,7 +12,8 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 
 ## 2017
-* Dec 07 - [[FireEye] New Targeted Attack in the Middle East by APT34, a Suspected Iranian Threat Group, Using CVE-2017-11882 Exploit]() | [Local](../../blob/master/2017/2017.12.07.New_Targeted_Attack_in_the_Middle_East_by_APT34)
+* Dec 07 - [[FireEye] New Targeted Attack in the Middle East by APT34, a Suspected Iranian Threat Group, Using CVE-2017-11882 Exploit](https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html) | [Local](../../blob/master/2017/2017.12.07.New_Targeted_Attack_in_the_Middle_East_by_APT34)
+* Dec 05 - [[ClearSky] Charming Kitten: Iranian Cyber Espionage Against Human Rights Activists, Academic Researchers and Media Outlets – And the HBO Hacker Connection](http://www.clearskysec.com/wp-content/uploads/2017/12/Charming_Kitten_2017.pdf) | [Local](../../blob/master/2017/2017.12.05.Charming_Kitten) 
 * Dec 04 - [[RSA] The Shadows of Ghosts: Inside the Response of a Unique Carbanak Intrusion](https://community.rsa.com/community/products/netwitness/blog/2017/12/04/anatomy-of-an-attack-carbanak) | [Local](../../blob/master/2017/2017.12.04.The_Shadows_of_Ghosts)
 * Nov 14 - [[Palo Alto Networks] Muddying the Water: Targeted Attacks in the Middle East](https://researchcenter.paloaltonetworks.com/2017/11/2017.11.14.Muddying_the_Water) | [Local](../../blob/master/2017/2017.11.14.Muddying_the_Water)
 * Nov 10 - [[Palo Alto Networks] New Malware with Ties to SunOrcal Discovered](https://researchcenter.paloaltonetworks.com/2017/11/unit42-new-malware-with-ties-to-sunorcal-discovered/) | [Local](../../blob/master/2017/2017.11.10.New_Malware_with_Ties_to_SunOrcal_Discovered)
