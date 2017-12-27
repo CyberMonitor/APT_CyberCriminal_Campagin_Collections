@@ -11,6 +11,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [threat-INTel](https://github.com/fdiskyou/threat-INTel)
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 
+
 ## 2017
 * Dec 19 - [[Proofpoint] North Korea Bitten by Bitcoin Bug: Financially motivated campaigns reveal new dimension of the Lazarus Group](https://www.proofpoint.com/us/threat-insight/post/north-korea-bitten-bitcoin-bug-financially-motivated-campaigns-reveal-new) | [Local](../../blob/master/2017/2017.12.19.North_Korea_Bitten_by_Bitcoin_Bug) 
 * Dec 11 - [[Group-IB] MoneyTaker, revealed after 1.5 years of silent operations.](https://www.group-ib.com/resources/reports/money-taker.html) | [Local](../../blob/master/2017/2017.12.11.MoneyTaker) 
