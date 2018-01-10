@@ -1,0 +1,41 @@
+<stix:STIX_Package 
+	xmlns:Cymmetria="http://cymmetria.com"
+	xmlns:FileObj="http://cybox.mitre.org/objects#FileObject-2"
+	xmlns:cybox="http://cybox.mitre.org/cybox-2"
+	xmlns:cyboxCommon="http://cybox.mitre.org/common-2"
+	xmlns:cyboxVocabs="http://cybox.mitre.org/default_vocabularies-2"
+	xmlns:indicator="http://stix.mitre.org/Indicator-2"
+	xmlns:stix="http://stix.mitre.org/stix-1"
+	xmlns:stixCommon="http://stix.mitre.org/common-1"
+	xmlns:stixVocabs="http://stix.mitre.org/default_vocabularies-1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Cymmetria:Package-2c40b2b0-dc12-4f09-8b89-5861346cc0ba" version="1.2">
+    <stix:STIX_Header>
+        <stix:Description>stewardess1.pps hash indicator</stix:Description>
+    </stix:STIX_Header>
+    <stix:Indicators>
+        <stix:Indicator id="Cymmetria:indicator-62396b52-fd9b-4fdb-bef6-f8c20618c4fc" timestamp="2016-07-14T09:44:00.832683+00:00" xsi:type='indicator:IndicatorType'>
+            <indicator:Title>stewardess1.pps hash indicator</indicator:Title>
+            <indicator:Description>An indicator containing a File observable with an associated hash</indicator:Description>
+            <indicator:Observable id="Cymmetria:Observable-1868b465-f575-4a87-902f-8cfe1f49bb68">
+                <cybox:Object id="Cymmetria:File-d396c980-ed9e-45a6-8f33-7f5e936293af">
+                    <cybox:Properties xsi:type="FileObj:FileObjectType">
+                        <FileObj:Hashes>
+                            <cyboxCommon:Hash>
+                                <cyboxCommon:Type xsi:type="cyboxVocabs:HashNameVocab-1.0">SHA256</cyboxCommon:Type>
+                                <cyboxCommon:Simple_Hash_Value>d4a9a07192ba6ddafe86ea8c72277650cc8996cd1ec487d3677d8a4e92e28983</cyboxCommon:Simple_Hash_Value>
+                            </cyboxCommon:Hash>
+                        </FileObj:Hashes>
+                    </cybox:Properties>
+                </cybox:Object>
+            </indicator:Observable>
+            <indicator:Producer>
+                <stixCommon:Identity>
+                    <stixCommon:Name>Cymmetria Inc.</stixCommon:Name>
+                </stixCommon:Identity>
+                <stixCommon:Time>
+                    <cyboxCommon:Produced_Time>2016-07-14T09:44:00.832911+00:00</cyboxCommon:Produced_Time>
+                </stixCommon:Time>
+            </indicator:Producer>
+        </stix:Indicator>
+    </stix:Indicators>
+</stix:STIX_Package>
