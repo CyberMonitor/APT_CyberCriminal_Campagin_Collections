@@ -354,9 +354,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jan 22 - [The Waterbug attack group](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/waterbug-attack-group.pdf)
 * Jan 20 - [Reversing the Inception APT malware](https://www.bluecoat.com/security-blog/2015-01-20/reversing-inception-apt-malware)
 * Jan 20 - [Analysis of Project Cobra](https://blog.gdatasoftware.com/blog/article/analysis-of-project-cobra.html)
-* Jan 15 - [Evolution of Agent.BTZ to ComRAT](https://blog.gdatasoftware.com/blog/article/evolution-of-sophisticated-spyware-from-agentbtz-to-comrat.html)
-* Jan 12 - [Skeleton Key Malware Analysis](http://www.secureworks.com/cyber-threat-intelligence/threats/skeleton-key-malware-analysis/)
-* Jan 11 - [Hong Kong SWC attack](http://blog.dragonthreatlabs.com/2015/01/dtl-12012015-01-hong-kong-swc-attack.html) | [Local](../../blob/master/2015/2015.01.11.Hong_Kong_SWC_Attack)
+* Jan 15 - [[G DATA] Evolution of Agent.BTZ to ComRAT](https://blog.gdatasoftware.com/blog/article/evolution-of-sophisticated-spyware-from-agentbtz-to-comrat.html) | [Local](../../blob/master/2015/2015.01.15.Evolution_of_Agent.BTZ_to_ComRAT)
+* Jan 12 - [[Dell] Skeleton Key Malware Analysis](http://www.secureworks.com/cyber-threat-intelligence/threats/skeleton-key-malware-analysis/) | [Local](../../blob/master/2015/2015.01.12.skeleton-key-malware-analysis)
+* Jan 11 - [[Dragon Threat Labs] Hong Kong SWC attack](http://blog.dragonthreatlabs.com/2015/01/dtl-12012015-01-hong-kong-swc-attack.html) | [Local](../../blob/master/2015/2015.01.11.Hong_Kong_SWC_Attack)
 
 ## 2014
 * Dec 22 - [Anunak: APT against financial institutions](http://www.group-ib.com/files/Anunak_APT_against_financial_institutions.pdf)
