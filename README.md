@@ -14,6 +14,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2018
 * Jan 09 - [[ESET] Diplomats in Eastern Europe bitten by a Turla mosquito](https://www.welivesecurity.com/wp-content/uploads/2018/01/ESET_Turla_Mosquito.pdf) | [Local](../../blob/master/2018/2018.01.09.Turla_Mosquito) 
+* Jan 04 - [[Carnegie] Iran’s Cyber Threat: Espionage, Sabotage, and Revenge](http://carnegieendowment.org/files/Iran_Cyber_Final_Full_v2.pdf) | [Local](../../blob/master/2018/2018.01.04.Iran_Cyber_Threat_Carnegie) 
 
 ## 2017
 * Dec 19 - [[Proofpoint] North Korea Bitten by Bitcoin Bug: Financially motivated campaigns reveal new dimension of the Lazarus Group](https://www.proofpoint.com/us/threat-insight/post/north-korea-bitten-bitcoin-bug-financially-motivated-campaigns-reveal-new) | [Local](../../blob/master/2017/2017.12.19.North_Korea_Bitten_by_Bitcoin_Bug) 
