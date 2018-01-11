@@ -1,0 +1,125 @@
+Scieron DLL
+===========
+01c694c4ce68254edae3491c8245f839
+0ad2821d0ed826082c8adead19c0c441
+1c15767a091e32c3163390668eae8eab
+21c861900a557d3375c94a959742122f
+24a35bf10cb091eae0ab56486ff3453f
+2518be42bb0713d29b60fd08d3b5fed4
+3515daf08a5daa104a8be3169d64bef2
+4556056b0228ee6ca66cec17711b8f62
+6cffa20c14e4b6309f867f253c546fd2
+7b236dc0e3ab71d32c47f70cf9a68728
+7fa1df91016374d4b1bfb157716b2196
+97692bc24a40175a12ffbcb68ade237f
+9cd780d7349ee496639371a3ed492fe0
+ad94a29538ee89cd4eb50f7786ae3392
+b5f2cc8e8580a44a6aefc08f9776516a
+c330b6aa705b60e5bec414299b387fe1
+c630abbefb3c3503c37453ecb9bbcbb8
+cd3dc15104d22fb86b7ba436a7c9a393
+cfbc6a5407d465a125cbd52a97bd9eff
+eb7f32f9fc3aeb26d7e867a263d3d325
+eea30d5a1a83a396183d8f1d451b3b13
+f38e4bf41df736b4785f15513b3e660d
+f870a5c2360932a35aa76568a07f9c16
+fb7d2714e73b143243b7041a38a70ac8
+
+Scieron PE Dropper
+==================
+0ef2259ee73ab6c8fbb195f0b686642c
+26b13ba4aaa87615ff38ff3d04329a9a
+28395195dc75ac41e9d42f25473703f5
+3c976017a568920f27e06023781718c8
+46cb4d82ab2077b9feec587bc58c641a
+4a7b76e9610ea581268103fbfe8156a8
+66984d9371636067e9ea6ae327e2427e
+6876a99ddb8c5cc4dd4c80902a102895
+a5e144523b490722b283c70775688732
+cf08c09fcc7ca2dc9424bd703ab09550
+d6365ce1f71a8dda9e485427c8a3d680
+e5e15a46352b84541e8f9da7f26f174c
+faa1e548a846e9c91e8bb1d1c7b3d6b9
+fd4b54bb92dd5c8cd056da618894816a
+
+Exploit DOC droppers
+====================
+45b8d83f7f583156fa923583acf16fe9
+6d3c6d452cd013de459351eade91d878
+767b243a7b84d51f333c056cae5d2d67
+
+Scieron.B
+=========
+57789c4f3ba3e8f4921c6cbdc83e60cc	hidsvc.dat
+1e08a2dbbd422b546837802ef932f26c	seclog32.dll
+03f789b0b8c40e4d813ec626f32cae7c	seclog32.dll
+
+C&Cs
+====
+
+apple.dynamic-dns.net
+autocar.ServeUser.com
+blackblog.chatnook.com
+bulldog.toh.info
+cew58e.xxxy.info
+coastnews.darktech.org
+demon.4irc.com
+dynamic.ddns.mobi
+expert.4irc.com
+football.mrbasic.com
+gjjb.flnet.org
+imirnov.ddns.info
+jingnan88.chatnook.com
+lehnjb.epac.to
+logoff.25u.com
+logoff.ddns.info
+ls910329.my03.com
+mailru.25u.com
+Markshell.etowns.net
+mydear.ddns.info
+nazgul.zyns.com
+newdyndns.scieron.com
+newoutlook.darktech.org
+photocard.4irc.com
+pricetag.deaftone.com
+rubberduck.gotgeeks.com
+shutdown.25u.com
+sorry.ns2.name
+sskill.b0ne.com
+text-First.flnet.org
+uudog.4pu.com
+will-smith.dtdns.net
+www.ndcinformation.acmetoy.com
+www.service.authorizeddns.net
+www.text-first.trickip.org
+yellowblog.flnet.org
+
+Yara Signature
+
+rule Scieron
+{
+    meta:
+        author = "Symantec Security Response"
+
+    strings:
+        // .text:10002069 66 83 F8 2C                       cmp     ax, ','
+        // .text:1000206D 74 0C                             jz      short loc_1000207B
+        // .text:1000206F 66 83 F8 3B                       cmp     ax, ';'
+        // .text:10002073 74 06                             jz      short loc_1000207B
+        // .text:10002075 66 83 F8 7C                       cmp     ax, '|'
+        // .text:10002079 75 05                             jnz     short loc_10002080
+        $code1 = {66 83 F? 2C 74 0C 66 83 F? 3B 74 06 66 83 F? 7C 75 05}
+        
+        // .text:10001D83 83 F8 09                          cmp     eax, 9          ; switch 10 cases
+        // .text:10001D86 0F 87 DB 00 00 00                 ja      loc_10001E67    ; jumptable 10001D8C default case
+        // .text:10001D8C FF 24 85 55 1F 00+                jmp     ds:off_10001F55[eax*4] ; switch jump
+        $code2 = {83 F? 09 0F 87 ?? 0? 00 00 FF 24}
+        
+        $str1  = "IP_PADDING_DATA" wide ascii
+        
+        $str2  = "PORT_NUM" wide ascii
+        
+    condition:
+        all of them
+}
+
