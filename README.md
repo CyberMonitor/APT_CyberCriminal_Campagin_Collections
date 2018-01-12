@@ -13,6 +13,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* jan 11 - [[McAfee] North Korean Defectors and Journalists Targeted Using Social Networks and KakaoTalk](https://securingtomorrow.mcafee.com/mcafee-labs/north-korean-defectors-journalists-targeted-using-social-networks-kakaotalk/) | [Local](../../blob/master/2018/2018.01.09.Turla_Mosquito) 
 * Jan 09 - [[ESET] Diplomats in Eastern Europe bitten by a Turla mosquito](https://www.welivesecurity.com/wp-content/uploads/2018/01/ESET_Turla_Mosquito.pdf) | [Local](../../blob/master/2018/2018.01.09.Turla_Mosquito) 
 * Jan 06 - [[McAfee] Malicious Document Targets Pyeongchang Olympics](https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/) | [Local](../../blob/master/2018/2018.01.06.malicious-document-targets-pyeongchang-olympics) 
 * Jan 04 - [[Carnegie] Iran’s Cyber Threat: Espionage, Sabotage, and Revenge](http://carnegieendowment.org/files/Iran_Cyber_Final_Full_v2.pdf) | [Local](../../blob/master/2018/2018.01.04.Iran_Cyber_Threat_Carnegie) 
