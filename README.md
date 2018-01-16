@@ -13,6 +13,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Jan 16 - [[CISCO] Korea In The Crosshairs](http://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html) | [Local](../../blob/master/2018/2018.01.16.korea-in-crosshairs) 
 * Jan 15 - [[Trend Micro] New KillDisk Variant Hits Financial Organizations in Latin America](https://blog.trendmicro.com/trendlabs-security-intelligence/new-killdisk-variant-hits-financial-organizations-in-latin-america/) | [Local](../../blob/master/2018/2018.01.15.new-killdisk-variant-hits-financial-organizations-in-latin-america)  
 * Jan 12 - [[Trend Micro] Update on Pawn Storm: New Targets and Politically Motivated Campaigns](http://blog.trendmicro.com/trendlabs-security-intelligence/update-pawn-storm-new-targets-politically-motivated-campaigns/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork) | [Local](../../blob/master/2018/2018.01.12.update-pawn-storm-new-targets-politically) 
 * Jan 11 - [[McAfee] North Korean Defectors and Journalists Targeted Using Social Networks and KakaoTalk](https://securingtomorrow.mcafee.com/mcafee-labs/north-korean-defectors-journalists-targeted-using-social-networks-kakaotalk/) | [Local](../../blob/master/2018/2018.01.11.North_Korean_Defectors_and_Journalists_Targeted) 
