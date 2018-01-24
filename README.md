@@ -13,6 +13,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Jan 18 - [[NCSC] Turla group update Neuron malware](https://www.ncsc.gov.uk/content/files/protected_files/article_files/Turla%20Neuron%20Malware%20Update.pdf) | [Local](../../blob/master/2018/2018.01.18.Turla_group_update_Neuron_malware)  
+* Jan 16 - [[Kaspersky] Skygofree: Following in the footsteps of HackingTeam](https://securelist.com/skygofree-following-in-the-footsteps-of-hackingteam/83603/) | [Local](../../blob/master/2018/2018.01.16.skygofree)  
 * Jan 16 - [[Recorded Future] North Korea Targeted South Korean Cryptocurrency Users and Exchange in Late 2017 Campaign](https://www.recordedfuture.com/north-korea-cryptocurrency-campaign/) | [Local](../../blob/master/2018/2018.01.16.north-korea-cryptocurrency-campaign) 
 * Jan 16 - [[CISCO] Korea In The Crosshairs](http://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html) | [Local](../../blob/master/2018/2018.01.16.korea-in-crosshairs) 
 * Jan 15 - [[Trend Micro] New KillDisk Variant Hits Financial Organizations in Latin America](https://blog.trendmicro.com/trendlabs-security-intelligence/new-killdisk-variant-hits-financial-organizations-in-latin-america/) | [Local](../../blob/master/2018/2018.01.15.new-killdisk-variant-hits-financial-organizations-in-latin-america)  
