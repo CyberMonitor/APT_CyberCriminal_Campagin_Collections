@@ -13,8 +13,10 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Jan 30 - [[RSA] APT32 Continues ASEAN Targeting](https://community.rsa.com/community/products/netwitness/blog/2018/01/30/apt32-continues-asean-targeting) | [Local](../../blob/master/2018/2018.01.30.APT32_Continues_ASEAN_Targeting)  
 * Jan 29 - [[Palo Alto Networks] VERMIN: Quasar RAT and Custom Malware Used In Ukraine](https://researchcenter.paloaltonetworks.com/2018/01/unit42-vermin-quasar-rat-custom-malware-used-ukraine/) | [Local](../../blob/master/2018/2018.01.29.VERMIN_Quasar_RAT_and_Custom_Malware_Used_In_Ukraine)  
 * Jan 27 - [[Accenture] DRAGONFISH DELIVERS NEW FORM OF ELISE MALWARE TARGETING ASEAN DEFENCE MINISTERS’ MEETING AND ASSOCIATES](https://www.accenture.com/t20180127T003755Z__w__/us-en/_acnmedia/PDF-46/Accenture-Security-Dragonfish-Threat-Analysis.pdf) | [Local](../../blob/master/2018/2018.01.27.DRAGONFISH)  
+* Jan 26 - [[Palo Alto Networks] The TopHat Campaign: Attacks Within The Middle East Region Using Popular Third-Party Services](https://researchcenter.paloaltonetworks.com/2018/01/unit42-the-tophat-campaign-attacks-within-the-middle-east-region-using-popular-third-party-services/) | [Local](../../blob/master/2018/2018.01.26.TopHat_Campaign)  
 * Jan 25 - [[Palo Alto Networks] OilRig uses RGDoor IIS Backdoor on Targets in the Middle East](https://researchcenter.paloaltonetworks.com/2018/01/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east/) | [Local](../../blob/master/2018/2018.01.25.oilrig_Middle_East)  
 * Jan 18 - [[NCSC] Turla group update Neuron malware](https://www.ncsc.gov.uk/content/files/protected_files/article_files/Turla%20Neuron%20Malware%20Update.pdf) | [Local](../../blob/master/2018/2018.01.18.Turla_group_update_Neuron_malware)  
 * Jan 16 - [[Kaspersky] Skygofree: Following in the footsteps of HackingTeam](https://securelist.com/skygofree-following-in-the-footsteps-of-hackingteam/83603/) | [Local](../../blob/master/2018/2018.01.16.skygofree)  
