@@ -13,6 +13,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Jan 30 - [[Palo Alto Networks] Comnie Continues to Target Organizations in East Asia]() | [Local](../../blob/master/2018/2018.01.31.Comnie_Continues_to_Target_Organizations_in_East_Asia)  
 * Jan 30 - [[RSA] APT32 Continues ASEAN Targeting](https://community.rsa.com/community/products/netwitness/blog/2018/01/30/apt32-continues-asean-targeting) | [Local](../../blob/master/2018/2018.01.30.APT32_Continues_ASEAN_Targeting)  
 * Jan 29 - [[Palo Alto Networks] VERMIN: Quasar RAT and Custom Malware Used In Ukraine](https://researchcenter.paloaltonetworks.com/2018/01/unit42-vermin-quasar-rat-custom-malware-used-ukraine/) | [Local](../../blob/master/2018/2018.01.29.VERMIN_Quasar_RAT_and_Custom_Malware_Used_In_Ukraine)  
 * Jan 27 - [[Accenture] DRAGONFISH DELIVERS NEW FORM OF ELISE MALWARE TARGETING ASEAN DEFENCE MINISTERS’ MEETING AND ASSOCIATES](https://www.accenture.com/t20180127T003755Z__w__/us-en/_acnmedia/PDF-46/Accenture-Security-Dragonfish-Threat-Analysis.pdf) | [Local](../../blob/master/2018/2018.01.27.DRAGONFISH)  
