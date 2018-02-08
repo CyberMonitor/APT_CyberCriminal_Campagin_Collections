@@ -13,6 +13,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Feb 07 - [[CISCO] Targeted Attacks In The Middle East](http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html) | [Local](../../blob/master/2018/2018.02.07.targeted-attacks-in-middle-east_VBS_CAMPAIGN)  
 * Feb 02 - [[McAfee] Gold Dragon Widens Olympics Malware Attacks, Gains Permanent Presence on Victims’ Systems](https://securingtomorrow.mcafee.com/mcafee-labs/gold-dragon-widens-olympics-malware-attacks-gains-permanent-presence-on-victims-systems/) | [Local](../../blob/master/2018/2018.02.02.gold-dragon-widens-olympics-malware)  
 * Feb 01 - [[Bitdefender] Operation PZChao: a possible return of the Iron Tiger APT](https://labs.bitdefender.com/2018/02/operation-pzchao-a-possible-return-of-the-iron-tiger-apt/) | [Local](../../blob/master/2018/2018.02.01.operation-pzchao)  
 * Jan 30 - [[Palo Alto Networks] Comnie Continues to Target Organizations in East Asia](https://researchcenter.paloaltonetworks.com/2018/01/unit42-comnie-continues-target-organizations-east-asia/) | [Local](../../blob/master/2018/2018.01.31.Comnie_Continues_to_Target_Organizations_in_East_Asia)  

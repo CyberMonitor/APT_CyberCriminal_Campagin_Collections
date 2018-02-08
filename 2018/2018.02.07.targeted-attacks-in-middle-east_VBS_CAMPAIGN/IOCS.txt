@@ -1,0 +1,23 @@
+VBS Campaign:
+Initial script: 15f5aaa71bfa3d62fd558a3e88dd5ba26f7638bf2ac653b8d6b8d54dc7e5926b
+Domain #1: office-update[.]services
+IP #2: 176[.]107[.]185[.]246
+
+.NET Campaign:
+Initial dropper: 4b03bea6817f0d5060a1beb8f6ec2297dc4358199d4d203ba18ddfcca9520b48
+.NET #1: d49e9fdfdce1e93615c406ae13ac5f6f68fb7e321ed4f275f328ac8146dd0fc1
+.NET #2: e66af059f37bdd35056d1bb6a1ba3695fc5ce333dc96b5a7d7cc9167e32571c5
+Domain #1: jo[.]foxlove[.]life
+Domain #2: eg[.]foxlove[.]life
+Domain #3: fox[.]foxlove[.]life
+
+Campaign #3:
+Initial Dropper: af7a4f04435f9b6ba3d8905e4e67cfa19ec5c3c32e9d35937ec0546cce2dd1ff
+Payload: 76a9b603f1f901020f65358f1cbf94c1a427d9019f004a99aa8bff1dea01a881
+Domain: download[.]share2file[.]pro
+
+Campaign #4:
+Initial Dropper: 88e4f306f126ce4f2cd7941cb5d8fcd41bf7d6a54cf01b4a6a4057ed4810d2b6
+Payload #1: c5bfb5118a999d21e9f445ad6ccb08eb71bc7bd4de9e88a41be9cf732156c525
+Payload #2: 1176642841762b3bc1f401a5987dc55ae4b007367e98740188468642ffbd474e
+Domain: update[.]share2file[.]pro
