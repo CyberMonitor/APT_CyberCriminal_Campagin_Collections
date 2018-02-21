@@ -13,6 +13,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Feb 20 - [[Arbor] Musical Chairs Playing Tetris](https://www.arbornetworks.com/blog/asert/musical-chairs-playing-tetris/) | [Local](../../blob/master/2018/2018.02.20.musical-chairs-playing-tetris)  
 * Feb 20 - [[Kaspersky] A Slice of 2017 Sofacy Activity](https://securelist.com/a-slice-of-2017-sofacy-activity/83930/) | [Local](../../blob/master/2018/2018.02.20.a-slice-of-2017-sofacy-activity)  
 * Feb 20 - [[FireEye] APT37 (Reaper): The Overlooked North Korean Actor](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) | [Local](../../blob/master/2018/2018.02.20.APT37)  
 * Feb 07 - [[CISCO] Targeted Attacks In The Middle East](http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html) | [Local](../../blob/master/2018/2018.02.07.targeted-attacks-in-middle-east_VBS_CAMPAIGN)  
