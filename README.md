@@ -13,6 +13,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Feb 20 - [[FireEye] APT37 (Reaper): The Overlooked North Korean Actor](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) | [Local](../../blob/master/2018/2018.02.20.APT37)  
 * Feb 07 - [[CISCO] Targeted Attacks In The Middle East](http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html) | [Local](../../blob/master/2018/2018.02.07.targeted-attacks-in-middle-east_VBS_CAMPAIGN)  
 * Feb 02 - [[McAfee] Gold Dragon Widens Olympics Malware Attacks, Gains Permanent Presence on Victims’ Systems](https://securingtomorrow.mcafee.com/mcafee-labs/gold-dragon-widens-olympics-malware-attacks-gains-permanent-presence-on-victims-systems/) | [Local](../../blob/master/2018/2018.02.02.gold-dragon-widens-olympics-malware)  
 * Feb 01 - [[Bitdefender] Operation PZChao: a possible return of the Iron Tiger APT](https://labs.bitdefender.com/2018/02/operation-pzchao-a-possible-return-of-the-iron-tiger-apt/) | [Local](../../blob/master/2018/2018.02.01.operation-pzchao)  
@@ -84,10 +85,11 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jul 05 - [[Citizen Lab] Insider Information: An intrusion campaign targeting Chinese language news sites](https://citizenlab.org/2017/07/insider-information-an-intrusion-campaign-targeting-chinese-language-news-sites/) | [Local](../../blob/master/2017/2017.07.05.insider-information)
 * Jun 30 - [[ESET] TeleBots are back: supply-chain attacks against Ukraine](https://www.welivesecurity.com/2017/06/30/telebots-back-supply-chain-attacks-against-ukraine/) | [Local](../../blob/master/2017/2017.06.30.telebots-back-supply-chain)
 * Jun 30 - [[Kaspersky] From BlackEnergy to ExPetr](https://securelist.com/from-blackenergy-to-expetr/78937/) | [Local](../../blob/master/2017/2017.06.30.From_BlackEnergy_to_ExPetr)
-* Jun 26 - [[Dell] Threat Group-4127 Targets Google Accounts]() | [Local](../../blob/master/2017/2017.06.26.Threat_Group-4127) 
+* Jun 26 - [[Dell] Threat Group-4127 Targets Google Accounts](https://www.secureworks.com/research/threat-group-4127-targets-google-accounts) | [Local](../../blob/master/2017/2017.06.26.Threat_Group-4127) 
 * Jun 22 - [[Palo Alto Networks] The New and Improved macOS Backdoor from OceanLotus](https://www.secureworks.com/research/threat-group-4127-targets-google-accounts) | [Local](../../blob/master/2017/2017.06.22.new-improved-macos-backdoor-oceanlotus)
 * Jun 22 - [[Trend Micro] Following the Trail of BlackTech’s Cyber Espionage Campaigns](http://blog.trendmicro.com/trendlabs-security-intelligence/following-trail-blacktech-cyber-espionage-campaigns/) | [Local](../../blob/master/2017/2017.06.22.following-trail-blacktech-cyber-espionage-campaigns)
 * Jun 19 - [[root9B] SHELLTEA + POSLURP MALWARE: memory resident point-of-sale malware attacks industry](https://www.root9b.com/sites/default/files/whitepapers/PoS%20Malware%20ShellTea%20PoSlurp_0.pdf) | [Local](../../blob/master/2017/2017.06.19.SHELLTEA_POSLURP_MALWARE)
+* Jun 18 - [[Palo Alto Networks] APT3 Uncovered: The code evolution of Pirpi](https://recon.cx/2017/montreal/resources/slides/RECON-MTL-2017-evolution_of_pirpi.pdf) | [Local](../../blob/master/2017/2017.06.18.APT3_Uncovered_The_code_evolution_of_Pirpi)
 * Jun 15 - [[Recorded Future] North Korea Is Not Crazy](https://www.recordedfuture.com/north-korea-cyber-activity/) | [Local](../../blob/master/2017/2017.06.15.north-korea-cyber-activity)
 * Jun 14 - [[ThreatConnect] KASPERAGENT Malware Campaign resurfaces in the run up to May Palestinian Authority Elections](https://www.threatconnect.com/blog/kasperagent-malware-campaign/) | [Local](../../blob/master/2017/2017.06.14.KASPERAGENT)
 * Jun 13 - [[US-CERT] HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure](https://www.us-cert.gov/ncas/alerts/TA17-164A) | [Local](../../blob/master/2017/2017.06.13.HIDDEN_COBRA)
@@ -399,7 +401,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Nov 24 - [TheIntercept's report on The Regin Platform](https://firstlook.org/theintercept/2014/11/24/secret-regin-malware-belgacom-nsa-gchq/)
 * Nov 24 - [Kaspersky's report on The Regin Platform](http://securelist.com/blog/research/67741/regin-nation-state-ownage-of-gsm-networks/)
 * Nov 23 - [Symantec's report on Regin](http://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance)
-* Nov 21 - [Operation Double Tap](https://www.fireeye.com/blog/threat-research/2014/11/operation_doubletap.html) | [IOCs](https://github.com/fireeye/iocs/tree/master/APT3)
+* Nov 21 - [[FireEye] Operation Double Tap](https://www.fireeye.com/blog/threat-research/2014/11/operation_doubletap.html) | [IOCs](https://github.com/fireeye/iocs/tree/master/APT3) | [Local](../../blob/master//2014/2014.11.21.Operation_Double_Tap)
 * Nov 20 - [EvilBunny: Suspect #4](http://0x1338.blogspot.co.uk/2014/11/hunting-bunnies.html)
 * Nov 14 - [Roaming Tiger (Slides)](http://2014.zeronights.ru/assets/files/slides/roaming_tiger_zeronights_2014.pdf)
 * Nov 14 - [OnionDuke: APT Attacks Via the Tor Network](http://www.f-secure.com/weblog/archives/00002764.html)

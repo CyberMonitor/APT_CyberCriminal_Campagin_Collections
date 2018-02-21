@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    TITLE:          db0b6ac6-874a-498e-892b-ac7c2020e061.ioc
+    VERSION:        1.0
+    DESCRIPTION:    OpenIOC file
+    LICENSE:        Copyright 2014 FireEye Corporation.  Licensed under the Apache 2.0 license.
+
+    FireEye licenses this file to you under the Apache License, Version
+    2.0 (the "License"); you may not use this file except in compliance with the
+    License.  You may obtain a copy of the License at:
+
+            http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+    implied.  See the License for the specific language governing
+    permissions and limitations under the License.
+-->
+<ioc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.mandiant.com/2010/ioc" id="db0b6ac6-874a-498e-892b-ac7c2020e061" last-modified="2014-11-21T17:13:09Z">
+  <short_description>OPERATION DOUBLE TAP (BLOG)</short_description>
+  <description>This IOC contains indicators detailed in the blog post "Operation Double Tap" that can be read here: https://www.fireeye.com/blog/threat-research/2014/11/operation_doubletap.html. This IOC contains indicators for a spearphishing campaign carried out by APT3.</description>
+  <keywords/>
+  <authored_by>FireEye</authored_by>
+  <authored_date>2014-11-21T16:02:16Z</authored_date>
+  <links>
+    <link rel="threatgroup">APT3</link>
+    <link rel="threatcategory">APT</link>
+    <link rel="category">Downloader</link>
+    <link rel="license">Apache 2.0</link>
+  </links>
+  <definition>
+    <Indicator id="913a13b9-7b27-4545-82a7-5f79379887c4" operator="OR">
+      <IndicatorItem id="1817f443-6ef0-430a-ae3b-ec67625bdf8c" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir"/>
+        <Content type="md5">5a0c4e1925c76a959ab0588f683ab437</Content>
+      </IndicatorItem>
+      <IndicatorItem id="fa516ed8-abad-4d18-9a58-dad86b8ec673" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir"/>
+        <Content type="md5">492a839a3bf9c61b7065589a18c5aa8d</Content>
+      </IndicatorItem>
+      <IndicatorItem id="c987c697-71b1-4618-b8b3-e4b4479fb955" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir"/>
+        <Content type="md5">744a17a3bc6dbd535f568ef1e87d8b9a</Content>
+      </IndicatorItem>
+      <IndicatorItem id="874eaa02-c369-4e7f-bd8e-51bb3cb4b14a" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir"/>
+        <Content type="md5">5c08957f05377004376e6a622406f9aa</Content>
+      </IndicatorItem>
+      <IndicatorItem id="3442cfc6-7a16-4df7-bc37-2cd53628c64c" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir"/>
+        <Content type="md5">8849538ef1c3471640230605c2623c67</Content>
+      </IndicatorItem>
+      <IndicatorItem id="80a94416-f08a-4428-8807-f0f8b1975be0" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">join.playboysplus.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="fa1c1b69-274f-42e0-90f6-b5da1f79f933" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">inform.bedircati.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="f38535da-5a76-41a7-9132-33b89622ff5d" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">pn.lamb-site.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="8fc8bfca-c183-4de8-ad09-6e59200f50f8" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">securitywap.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="30f8f64c-7dd2-446c-ac38-e2fb976ce5a4" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">walterclean.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="243d75b5-b297-43c1-b23f-8adbd64a24bf" condition="contains">
+        <Context document="PortItem" search="PortItem/remoteIP" type="mir"/>
+        <Content type="IP">192.157.198.103</Content>
+      </IndicatorItem>
+      <IndicatorItem id="ef749445-2e6d-4dd2-94cd-d1c42dae0f1e" condition="contains">
+        <Context document="PortItem" search="PortItem/remoteIP" type="mir"/>
+        <Content type="IP">192.184.60.229</Content>
+      </IndicatorItem>
+      <IndicatorItem id="0cabbc62-7898-4b60-81be-e7e5cd9f45b8" condition="contains">
+        <Context document="PortItem" search="PortItem/remoteIP" type="mir"/>
+        <Content type="IP">198.55.115.71</Content>
+      </IndicatorItem>
+      <IndicatorItem id="6ad592ae-b3f5-4098-a86a-44faac241e5f" condition="contains">
+        <Context document="PortItem" search="PortItem/remoteIP" type="mir"/>
+        <Content type="IP">210.109.99.64</Content>
+      </IndicatorItem>
+      <IndicatorItem id="02c77f79-d893-463c-9877-5e077dc47daf" condition="contains">
+        <Context document="PortItem" search="PortItem/remoteIP" type="mir"/>
+        <Content type="IP">104.151.248.173</Content>
+      </IndicatorItem>
+      <IndicatorItem id="bf5d9d0e-51d6-4385-aa98-7fe0efa88089" condition="is">
+        <Context document="FileItem" search="FileItem/FullPath" type="mir"/>
+        <Content type="string">C:\Users\Public\doc.exe</Content>
+      </IndicatorItem>
+      <IndicatorItem id="af184ec2-2798-4f7b-88e3-9cdd8af4d25c" condition="is">
+        <Context document="FileItem" search="FileItem/FullPath" type="mir"/>
+        <Content type="string">C:\Users\Public\test.exe</Content>
+      </IndicatorItem>
+      <IndicatorItem id="89aca0a4-c5b7-4ecd-b639-ed285423da0b" condition="contains">
+        <Context document="FileItem" search="FileItem/FullPath" type="mir"/>
+        <Content type="string">AppData\Local\Temp\notepad1.exe</Content>
+      </IndicatorItem>
+      <IndicatorItem id="1a437cb3-274c-4d18-9f2c-5d116b68e6e4" condition="contains">
+        <Context document="FileItem" search="FileItem/FullPath" type="mir"/>
+        <Content type="string">AppData\Local\Temp\notepad.exe</Content>
+      </IndicatorItem>
+      <IndicatorItem id="5da8c5a7-42bd-44b0-89b0-264679885cb3" condition="contains">
+        <Context document="FileItem" search="FileItem/FullPath" type="mir"/>
+        <Content type="string">AppData\Local\Temp\newnotepad.exe</Content>
+      </IndicatorItem>
+      <IndicatorItem id="b057cfd8-48c3-4d70-a5bf-871974c75f7f" condition="contains">
+        <Context document="FileItem" search="FileItem/FullPath" type="mir"/>
+        <Content type="string">AppData\Local\Temp\notepad2.exe</Content>
+      </IndicatorItem>
+      <IndicatorItem id="35bd099b-0030-4ec3-8fe4-386235cdd124" condition="contains">
+        <Context document="FileItem" search="FileItem/FullPath" type="mir"/>
+        <Content type="string">AppData\Local\Temp\note.txt</Content>
+      </IndicatorItem>
+      <IndicatorItem id="fb92c3b8-c770-453d-8942-249a5287744e" condition="is">
+        <Context document="FileItem" search="FileItem/StringList/string" type="mir"/>
+        <Content type="string">c:\Users\aa\Documents\Visual Studio 2008\Projects\MShell\Release\MShell.pdb</Content>
+      </IndicatorItem>
+      <IndicatorItem id="70acd39a-bbd9-44f0-95ef-29e5a65c70ba" condition="is">
+        <Context document="FileItem" search="FileItem/StringList/string" type="mir"/>
+        <Content type="string">c:\Users\aa\Documents\Visual Studio 2008\Projects\4113\Release\4113.pdb</Content>
+      </IndicatorItem>
+      <IndicatorItem id="1f9da0fd-06d1-44f2-b7db-6c0a817db532" condition="is">
+        <Context document="FileItem" search="FileItem/StringList/string" type="mir"/>
+        <Content type="string">C:\Users\aa\Documents\Visual Studio 2010\Projects\MyRat\Client\Client\obj\x86\Release\Client.pdb</Content>
+      </IndicatorItem>
+      <IndicatorItem id="4bbc1f95-db58-4f09-be5f-8b7f436b26e9" condition="contains">
+        <Context document="FileItem" search="FileItem/StringList/string" type="mir"/>
+        <Content type="string">C:\Users\aa\Documents\Visual Studio 2010\Projects</Content>
+      </IndicatorItem>
+      <IndicatorItem id="d7fff4c4-0c0e-4cbe-afe0-31715237f531" condition="is">
+        <Context document="TaskItem" search="TaskItem/ActionList/Action/ExecProgramPath" type="mir"/>
+        <Content type="string">C:\Users\Public\test.exe</Content>
+      </IndicatorItem>
+      <Indicator id="1c095197-148b-4c31-8760-704793a674b5" operator="AND">
+        <IndicatorItem id="198ef6ca-64f7-4484-b325-406656e2dac5" condition="contains">
+          <Context document="TaskItem" search="TaskItem/Name" type="mir"/>
+          <Content type="string">mysc</Content>
+        </IndicatorItem>
+        <Indicator id="fdc61631-2435-447a-a07a-d973fbd97184" operator="OR">
+          <IndicatorItem id="7e2e355c-ca9c-4a19-92a0-c02d14e5bbcb" condition="is">
+            <Context document="TaskItem" search="TaskItem/TriggerList/Trigger/TriggerFrequency" type="mir"/>
+            <Content type="string">TASK_TRIGGER_LOGON</Content>
+          </IndicatorItem>
+          <IndicatorItem id="d8447a59-ab54-4fa4-9609-7e03fdbd689b" condition="is">
+            <Context document="TaskItem" search="TaskItem/AccountName" type="mir"/>
+            <Content type="string">SYSTEM</Content>
+          </IndicatorItem>
+        </Indicator>
+      </Indicator>
+    </Indicator>
+  </definition>
+</ioc>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    TITLE:          62f65dae-9475-44b0-a9eb-c1baebbd9885.ioc
+    VERSION:        1.0
+    DESCRIPTION:    OpenIOC file
+    LICENSE:        Copyright 2015 FireEye Corporation.  Licensed under the Apache 2.0 license.
+
+    FireEye licenses this file to you under the Apache License, Version
+    2.0 (the "License"); you may not use this file except in compliance with the
+    License.  You may obtain a copy of the License at:
+
+            http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+    implied.  See the License for the specific language governing
+    permissions and limitations under the License.
+-->
+<ioc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.mandiant.com/2010/ioc" id="62f65dae-9475-44b0-a9eb-c1baebbd9885" last-modified="2015-07-12T02:55:58Z">
+  <short_description>DEMONSTRATING HUSTLE - APT3 (BLOG)</short_description>
+  <description>This IOC contains indicators detailed in the blog post "Demonstrating Hustle" that can be read here: https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html. This IOC contains indicators for a spearphishing campaign carried out by APT3.</description>
+  <keywords/>
+  <authored_by>FireEye</authored_by>
+  <authored_date>2015-07-10T21:17:05Z</authored_date>
+  <links>
+    <link rel="threatgroup">APT3</link>
+    <link rel="threatcategory">APT</link>
+    <link rel="license">Apache 2.0</link>
+  </links>
+  <definition>
+    <Indicator id="dbdc4925-7273-4a8b-977a-fc4a2c7da158" operator="OR">
+      <IndicatorItem id="5d305afe-813e-4b7b-895c-84028d2340bc" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">report.perrydale.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="418fd471-aa8c-4134-94b8-2e1b9f64fb29" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">vic.perrydale.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="261d3424-9f7d-40cf-9c9d-3a665cc4be67" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">rpt.perrydale.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="49a77cca-ad53-4719-b9bc-295e7f2fda58" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">psa.perrydale.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="70fcd1c7-2624-48f3-aae8-b70f2c8e3827" condition="contains">
+        <Context document="DnsEntryItem" search="DnsEntryItem/RecordName" type="mir"/>
+        <Content type="string">link.angellroofing.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="a43587bd-d437-4cdf-9574-8925d3220424" condition="is">
+        <Context document="PortItem" search="PortItem/remoteIP" type="mir"/>
+        <Content type="IP">107.20.255.57</Content>
+      </IndicatorItem>
+      <IndicatorItem id="e070e527-907a-4b11-aaba-4351e191c164" condition="is">
+        <Context document="PortItem" search="PortItem/remoteIP" type="mir"/>
+        <Content type="IP">23.99.20.198</Content>
+      </IndicatorItem>
+    </Indicator>
+  </definition>
+</ioc>
