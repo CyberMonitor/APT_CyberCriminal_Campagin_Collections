@@ -13,6 +13,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Feb 21 - [[Avast] Avast tracks down Tempting Cedar Spyware](https://blog.avast.com/avast-tracks-down-tempting-cedar-spyware) | [Local](../../blob/master/2018/2018.02.21.Tempting_Cedar) 
 * Feb 20 - [[Arbor] Musical Chairs Playing Tetris](https://www.arbornetworks.com/blog/asert/musical-chairs-playing-tetris/) | [Local](../../blob/master/2018/2018.02.20.musical-chairs-playing-tetris)  
 * Feb 20 - [[Kaspersky] A Slice of 2017 Sofacy Activity](https://securelist.com/a-slice-of-2017-sofacy-activity/83930/) | [Local](../../blob/master/2018/2018.02.20.a-slice-of-2017-sofacy-activity)  
 * Feb 20 - [[FireEye] APT37 (Reaper): The Overlooked North Korean Actor](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) | [Local](../../blob/master/2018/2018.02.20.APT37)  
@@ -328,7 +329,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jun 10 - [[Crysys Lab] Duqu 2.0](http://blog.crysys.hu/2015/06/duqu-2-0/) | [Local](../../blob/master/2015/2015.06.10.Duqu_2.0)
 * Jun 09 - [[Microsoft] Duqu 2.0 Win32k Exploit Analysis](https://www.virusbtn.com/pdf/conference_slides/2015/OhFlorio-VB2015.pdf) | [Local](../../blob/master/2015/2015.06.09.Duqu_2.0_Win32k_Exploit_Analysis)
 * Jun 04 - [[JP Internet Watch] Blue Thermite targeting Japan (CloudyOmega)](http://internet.watch.impress.co.jp/docs/news/20150604_705541.html) | [Local](../../blob/master/2015/2015.06.09.Duqu_2.0_Win32k_Exploit_Analysis)
-* Jun 03 - [Thamar Reservoir](http://www.clearskysec.com/thamar-reservoir/)
+* Jun 03 - [[ClearSky] Thamar Reservoir](http://www.clearskysec.com/thamar-reservoir/) | [Local](../../blob/master/2015/2015.06.03.thamar-reservoir)
 * May 29 - [OceanLotusReport](http://blogs.360.cn/blog/oceanlotus-apt/)
 * May 28 - [Grabit and the RATs](https://securelist.com/blog/research/70087/grabit-and-the-rats/)
 * May 27 - [Analysis On Apt-To-Be Attack That Focusing On China's Government Agency'](http://www.antiy.net/p/analysis-on-apt-to-be-attack-that-focusing-on-chinas-government-agency/)
