@@ -13,6 +13,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Mar 02 - [[McAfee] McAfee Uncovers Operation Honeybee, a Malicious Document Campaign Targeting Humanitarian Aid Groups](https://securingtomorrow.mcafee.com/mcafee-labs/mcafee-uncovers-operation-honeybee-malicious-document-campaign-targeting-humanitarian-aid-groups/) | [Local](../../blob/master/2018/2018.03.02.Operation_Honeybee) 
+* Feb 28 - [[Palo Alto Networks] Sofacy Attacks Multiple Government Entities](https://researchcenter.paloaltonetworks.com/2018/02/unit42-sofacy-attacks-multiple-government-entities/) | [Local](../../blob/master/2018/2018.02.28.sofacy-attacks-multiple-government-entities) 
 * Feb 28 - [[Symantec] Chafer: Latest Attacks Reveal Heightened Ambitions](https://www.symantec.com/blogs/threat-intelligence/chafer-latest-attacks-reveal-heightened-ambitions) | [Local](../../blob/master/2018/2018.02.28.Chafer_Latest_Attacks_Reveal) 
 * Feb 21 - [[Avast] Avast tracks down Tempting Cedar Spyware](https://blog.avast.com/avast-tracks-down-tempting-cedar-spyware) | [Local](../../blob/master/2018/2018.02.21.Tempting_Cedar) 
 * Feb 20 - [[Arbor] Musical Chairs Playing Tetris](https://www.arbornetworks.com/blog/asert/musical-chairs-playing-tetris/) | [Local](../../blob/master/2018/2018.02.20.musical-chairs-playing-tetris)  
