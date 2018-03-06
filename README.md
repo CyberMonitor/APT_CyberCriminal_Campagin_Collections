@@ -108,6 +108,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * May 03 - [[CISCO] KONNI: A Malware Under The Radar For Years](http://blog.talosintelligence.com/2017/05/konni-malware-under-radar-for-years.html) | [Local](../../blob/master/2017/konni-malware-under-radar-for-years)
 * Apr 27 - [[Morphisec] Iranian Fileless Attack Infiltrates Israeli Organizations](http://blog.morphisec.com/iranian-fileless-cyberattack-on-israel-word-vulnerability) | [Local](../../blob/master/2017/2017.04.27.iranian-fileless-cyberattack-on-israel-word-vulnerability)
 * Apr 13 - [[F-SECURE] Callisto Group](https://www.f-secure.com/documents/996508/1030745/callisto-group) | [Local](../../blob/master/2017/2017.04.13.callisto-group)
+* Mar 14 - [[Clearsky] Operation Electric Powder – Who is targeting Israel Electric Company?](http://www.clearskysec.com/iec/) | [Local](../../blob/master/2017/2017.03.14.Operation_Electric_Powder)
 * Mar 06 - [[Kaspersky] From Shamoon to StoneDrill](https://securelist.com/blog/research/77725/from-shamoon-to-stonedrill/) | [Local](../../blob/master/2017/2017.03.06.from-shamoon-to-stonedrill)
 * Feb 28 - [[IBM] Dridex’s Cold War: Enter AtomBombing](https://securityintelligence.com/dridexs-cold-war-enter-atombombing/) | [Local](../../blob/master/2017/2017.02.28.dridexs-cold-war-enter-atombombing)
 * Feb 27 - [[Palo Alto Networks] The Gamaredon Group Toolset Evolution](http://researchcenter.paloaltonetworks.com/2017/02/unit-42-title-gamaredon-group-toolset-evolution/) | [Local](../../blob/master/2017/2017.02.27.gamaredon-group-toolset-evolution/)
