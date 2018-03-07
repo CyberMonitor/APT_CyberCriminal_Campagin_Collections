@@ -10,6 +10,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [Attack Wiki](https://attack.mitre.org/wiki/Groups)
 * [threat-INTel](https://github.com/fdiskyou/threat-INTel)
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
+* [Raw Threat Intelligence](https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc/edit)
 
 
 ## 2018
