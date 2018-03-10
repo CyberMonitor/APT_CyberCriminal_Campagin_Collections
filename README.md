@@ -15,6 +15,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2018
 * Mar 08 - [[Crysis] Territorial Dispute – NSA’s perspective on APT landscape](https://www.crysys.hu/files/tedi/ukatemicrysys_territorialdispute.pdf) | [Local](../../blob/master/2018/2018.03.08.Territorial_Dispute) 
+* Mar 05 - [[Palo Alto Networks]] Sure, I’ll take that! New ComboJack Malware Alters Clipboards to Steal Cryptocurrency](https://researchcenter.paloaltonetworks.com/2018/03/unit42-sure-ill-take-new-combojack-malware-alters-clipboards-steal-cryptocurrency/) | [Local](../../blob/master/2018/2018.03.05.New_ComboJack_Malware) 
 * Mar 02 - [[McAfee] McAfee Uncovers Operation Honeybee, a Malicious Document Campaign Targeting Humanitarian Aid Groups](https://securingtomorrow.mcafee.com/mcafee-labs/mcafee-uncovers-operation-honeybee-malicious-document-campaign-targeting-humanitarian-aid-groups/) | [Local](../../blob/master/2018/2018.03.02.Operation_Honeybee) 
 * Mar 01 - [[Security 0wnage] A Quick Dip into MuddyWater's Recent Activity](https://sec0wn.blogspot.tw/2018/03/a-quick-dip-into-muddywaters-recent.html) | [Local](../../blob/master/2018/2018.03.01.a-quick-dip-into-muddywaters-recent) 
 * Feb 28 - [[Palo Alto Networks] Sofacy Attacks Multiple Government Entities](https://researchcenter.paloaltonetworks.com/2018/02/unit42-sofacy-attacks-multiple-government-entities/) | [Local](../../blob/master/2018/2018.02.28.sofacy-attacks-multiple-government-entities) 
