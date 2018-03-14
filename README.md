@@ -15,6 +15,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2018
 * Mar 13 - [[Proofpoint] Drive-by as a service: BlackTDS](https://www.proofpoint.com/us/threat-insight/post/drive-service-blacktds) | [Local](../../blob/master/2018/2018.03.13.BlackTDS) 
+* Mar 09 - [[Kaspersky] Masha and these Bears 2018 Sofacy Activity](https://securelist.com/masha-and-these-bears/84311/) | [Local](../../blob/master/2018/2018.03.09.masha-and-these-bears) 
 * Mar 08 - [[Arbor] Donot Team Leverages New Modular Malware Framework in South Asia](https://www.arbornetworks.com/blog/asert/donot-team-leverages-new-modular-malware-framework-south-asia/) | [Local](../../blob/master/2018/2018.03.08.donot-team-leverages-new-modular) 
 * Mar 08 - [[Crysis] Territorial Dispute – NSA’s perspective on APT landscape](https://www.crysys.hu/files/tedi/ukatemicrysys_territorialdispute.pdf) | [Local](../../blob/master/2018/2018.03.08.Territorial_Dispute) 
 * Mar 06 - [[Kaspersky] The Slingshot APT](https://s3-eu-west-1.amazonaws.com/khub-media/wp-content/uploads/sites/43/2018/03/09133534/The-Slingshot-APT_report_ENG_final.pdf) | [Local](../../blob/master/2018/2018.03.06.The-Slingshot-APT) 
