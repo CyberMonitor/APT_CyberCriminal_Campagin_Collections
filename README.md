@@ -14,6 +14,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Mar 14 - [[Trend Micro] Tropic Trooper’s New Strategy](https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-trooper-new-strategy/) | [Local](../../blob/master/2018/2018.03.14.tropic-trooper-new-strategy) 
 * Mar 13 - [[Proofpoint] Drive-by as a service: BlackTDS](https://www.proofpoint.com/us/threat-insight/post/drive-service-blacktds) | [Local](../../blob/master/2018/2018.03.13.BlackTDS) 
 * Mar 09 - [[Kaspersky] Masha and these Bears 2018 Sofacy Activity](https://securelist.com/masha-and-these-bears/84311/) | [Local](../../blob/master/2018/2018.03.09.masha-and-these-bears) 
 * Mar 08 - [[Arbor] Donot Team Leverages New Modular Malware Framework in South Asia](https://www.arbornetworks.com/blog/asert/donot-team-leverages-new-modular-malware-framework-south-asia/) | [Local](../../blob/master/2018/2018.03.08.donot-team-leverages-new-modular) 
