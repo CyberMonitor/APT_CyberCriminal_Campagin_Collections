@@ -14,6 +14,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Mar 14 - [[Symantec] Inception Framework: Alive and Well, and Hiding Behind Proxies](https://www.symantec.com/blogs/threat-intelligence/inception-framework-hiding-behind-proxies) | [Local](../../blob/master/2018/2018.03.14.Inception_Framework) 
 * Mar 14 - [[Trend Micro] Tropic Trooper’s New Strategy](https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-trooper-new-strategy/) | [Local](../../blob/master/2018/2018.03.14.tropic-trooper-new-strategy) 
 * Mar 13 - [[Proofpoint] Drive-by as a service: BlackTDS](https://www.proofpoint.com/us/threat-insight/post/drive-service-blacktds) | [Local](../../blob/master/2018/2018.03.13.BlackTDS) 
 * Mar 12 - [[Trend Micro] Campaign Possibly Connected to “MuddyWater” Surfaces in the Middle East and Central Asia](https://blog.trendmicro.com/trendlabs-security-intelligence/campaign-possibly-connected-muddywater-surfaces-middle-east-central-asia/) | [Local](../../blob/master/2018/2018.03.12.MuddyWater_Middle_East_and_Central_Asia) 
