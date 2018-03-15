@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2018
 * Mar 14 - [[Trend Micro] Tropic Trooper’s New Strategy](https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-trooper-new-strategy/) | [Local](../../blob/master/2018/2018.03.14.tropic-trooper-new-strategy) 
 * Mar 13 - [[Proofpoint] Drive-by as a service: BlackTDS](https://www.proofpoint.com/us/threat-insight/post/drive-service-blacktds) | [Local](../../blob/master/2018/2018.03.13.BlackTDS) 
+* Mar 12 - [[Trend Micro] Campaign Possibly Connected to “MuddyWater” Surfaces in the Middle East and Central Asia](https://blog.trendmicro.com/trendlabs-security-intelligence/campaign-possibly-connected-muddywater-surfaces-middle-east-central-asia/) | [Local](../../blob/master/2018/2018.03.12.MuddyWater_Middle_East_and_Central_Asia) 
 * Mar 09 - [[Kaspersky] Masha and these Bears 2018 Sofacy Activity](https://securelist.com/masha-and-these-bears/84311/) | [Local](../../blob/master/2018/2018.03.09.masha-and-these-bears) 
 * Mar 09 - [[NCC] APT15 is alive and strong: An analysis of RoyalCli and RoyalDNS](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/march/apt15-is-alive-and-strong-an-analysis-of-royalcli-and-royaldns/?Year=2018&Month=3) | [Local](../../blob/master/2018/2018.03.09.APT15_is_alive_and_strong) 
 * Mar 09 - [[ESET] New traces of Hacking Team in the wild](https://www.welivesecurity.com/2018/03/09/new-traces-hacking-team-wild/) | [Local](../../blob/master/2018/2018.03.09.new-traces-hacking-team-wild) 
