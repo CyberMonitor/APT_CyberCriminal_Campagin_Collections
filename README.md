@@ -14,6 +14,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Mar 15 - [[US-CERT] Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors](https://www.us-cert.gov/ncas/alerts/TA18-074A)| [Local](../../blob/master/2018/2018.03.15.Russian_Government_Cyber_Activity_TA18-074A) 
 * Mar 14 - [[Symantec] Inception Framework: Alive and Well, and Hiding Behind Proxies](https://www.symantec.com/blogs/threat-intelligence/inception-framework-hiding-behind-proxies) | [Local](../../blob/master/2018/2018.03.14.Inception_Framework) 
 * Mar 14 - [[Trend Micro] Tropic Trooper’s New Strategy](https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-trooper-new-strategy/) | [Local](../../blob/master/2018/2018.03.14.tropic-trooper-new-strategy) 
 * Mar 13 - [[Proofpoint] Drive-by as a service: BlackTDS](https://www.proofpoint.com/us/threat-insight/post/drive-service-blacktds) | [Local](../../blob/master/2018/2018.03.13.BlackTDS) 
