@@ -14,7 +14,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
-* Mar 15 - [[US-CERT] Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors](https://www.us-cert.gov/ncas/alerts/TA18-074A)| [Local](../../blob/master/2018/2018.03.15.Russian_Government_Cyber_Activity_TA18-074A) 
+* Mar 15 - [[US-CERT] Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors](https://www.us-cert.gov/ncas/alerts/TA18-074A) | [Local](../../blob/master/2018/2018.03.15.Russian_Government_Cyber_Activity_TA18-074A) 
 * Mar 14 - [[Symantec] Inception Framework: Alive and Well, and Hiding Behind Proxies](https://www.symantec.com/blogs/threat-intelligence/inception-framework-hiding-behind-proxies) | [Local](../../blob/master/2018/2018.03.14.Inception_Framework) 
 * Mar 14 - [[Trend Micro] Tropic Trooper’s New Strategy](https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-trooper-new-strategy/) | [Local](../../blob/master/2018/2018.03.14.tropic-trooper-new-strategy) 
 * Mar 13 - [[Proofpoint] Drive-by as a service: BlackTDS](https://www.proofpoint.com/us/threat-insight/post/drive-service-blacktds) | [Local](../../blob/master/2018/2018.03.13.BlackTDS) 
@@ -76,6 +76,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Nov 06 - [[Trend Micro] ChessMaster’s New Strategy: Evolving Tools and Tactics](http://blog.trendmicro.com/trendlabs-security-intelligence/chessmasters-new-strategy-evolving-tools-tactics/) | [Local](../../blob/master/2017/2017.11.06.ChessMaster_New_Strategy)   
 * Nov 02 - [[PwC] The KeyBoys are back in town](http://www.pwc.co.uk/issues/cyber-security-data-privacy/research/the-keyboys-are-back-in-town.html) | [Local](../../blob/master/2017/2017.11.02.KeyBoys_are_back)   
 * Nov 02 - [[Clearsky] LeetMX – a Yearlong Cyber-Attack Campaign Against Targets in Latin America](http://www.clearskysec.com/leetmx/) | [Local](../../blob/master/2017/2017.11.02.LeetMX)  
+* Nov 02 - [[RISKIQ] New Insights into Energetic Bear’s Watering Hole Attacks on Turkish Critical Infrastructure](https://www.riskiq.com/blog/labs/energetic-bear/) | [Local](../../blob/master/2017/2017.11.02.Energetic_Bear_on_Turkish_Critical_Infrastructure)  
 * Oct 31 - [[Cybereason] Night of the Devil: Ransomware or wiper? A look into targeted attacks in Japan using MBR-ONI](https://www.cybereason.com/blog/night-of-the-devil-ransomware-or-wiper-a-look-into-targeted-attacks-in-japan) | [Local](../../blob/master/2017/2017.10.31.MBR-ONI.Japan)  
 * Oct 30 - [[Kaspersky] Gaza Cybergang – updated activity in 2017](https://securelist.com/gaza-cybergang-updated-2017-activity/82765/) | [Local](../../blob/master/2017/2017.10.30.Gaza_Cybergang) 
 * Oct 27 - [[Bellingcat] Bahamut Revisited, More Cyber Espionage in the Middle East and South Asia](https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-cyber-espionage-middle-east-south-asia/) | [Local](../../blob/master/2017/2017.10.27.bahamut-revisited) 
