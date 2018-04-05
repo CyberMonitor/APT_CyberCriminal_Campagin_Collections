@@ -14,6 +14,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Apr 04 - [[Trend Micro] New MacOS Backdoor Linked to OceanLotus Found](https://blog.trendmicro.com/trendlabs-security-intelligence/new-macos-backdoor-linked-to-oceanlotus-found/) | [Local](../../blob/master/2018/2018.04.04.MacOS_Backdoor_OceanLotus) 
 * Mar 29 - [[Trend Micro] ChessMaster Adds Updated Tools to Its Arsenal](https://blog.trendmicro.com/trendlabs-security-intelligence/chessmaster-adds-updated-tools-to-its-arsenal/) | [Local](../../blob/master/2018/2018.03.29.ChessMaster_Adds_Updated_Tools) 
 * Mar 27 - [[Arbor] Panda Banker Zeros in on Japanese Targets](https://www.arbornetworks.com/blog/asert/panda-banker-zeros-in-on-japanese-targets/) | [Local](../../blob/master/2018/2018.03.27.panda-banker-zeros-in-on-japanese-targets) 
 * Mar 23 - [[Ahnlab] Targeted Attacks on South Korean Organizations](http://global.ahnlab.com/global/upload/download/techreport/Tech_Report_Malicious_Hancom.pdf) | [Local](../../blob/master/2018/2018.03.23.Targeted_Attacks_on_South_Korean_Organizations) 
