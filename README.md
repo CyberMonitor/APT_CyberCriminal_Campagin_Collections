@@ -14,6 +14,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Apr 12 - [[Kaspersky] Operation Parliament, who is doing what?](https://securelist.com/operation-parliament-who-is-doing-what/85237/) | [Local](../../blob/master/2018/2018.04.12.operation-parliament) 
 * Apr 04 - [[Trend Micro] New MacOS Backdoor Linked to OceanLotus Found](https://blog.trendmicro.com/trendlabs-security-intelligence/new-macos-backdoor-linked-to-oceanlotus-found/) | [Local](../../blob/master/2018/2018.04.04.MacOS_Backdoor_OceanLotus) 
 * Mar 29 - [[Trend Micro] ChessMaster Adds Updated Tools to Its Arsenal](https://blog.trendmicro.com/trendlabs-security-intelligence/chessmaster-adds-updated-tools-to-its-arsenal/) | [Local](../../blob/master/2018/2018.03.29.ChessMaster_Adds_Updated_Tools) 
 * Mar 27 - [[Arbor] Panda Banker Zeros in on Japanese Targets](https://www.arbornetworks.com/blog/asert/panda-banker-zeros-in-on-japanese-targets/) | [Local](../../blob/master/2018/2018.03.27.panda-banker-zeros-in-on-japanese-targets) 
@@ -447,7 +448,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Nov 14 - [Roaming Tiger (Slides)](http://2014.zeronights.ru/assets/files/slides/roaming_tiger_zeronights_2014.pdf)
 * Nov 14 - [OnionDuke: APT Attacks Via the Tor Network](http://www.f-secure.com/weblog/archives/00002764.html)
 * Nov 13 - [Operation CloudyOmega: Ichitaro 0-day targeting Japan](http://www.symantec.com/connect/blogs/operation-cloudyomega-ichitaro-zero-day-and-ongoing-cyberespionage-campaign-targeting-japan)
-* Nov 12 - [Korplug military targeted attacks: Afghanistan & Tajikistan](http://www.welivesecurity.com/2014/11/12/korplug-military-targeted-attacks-afghanistan-tajikistan/)
+* Nov 12 - [[ESET] Korplug military targeted attacks: Afghanistan & Tajikistan](http://www.welivesecurity.com/2014/11/12/korplug-military-targeted-attacks-afghanistan-tajikistan/)
 * Nov 11 - [The Uroburos case- Agent.BTZ’s successor, ComRAT](http://blog.gdatasoftware.com/blog/article/the-uroburos-case-new-sophisticated-rat-identified.html)
 * Nov 10 - [The Darkhotel APT - A Story of Unusual Hospitality](https://securelist.com/blog/research/66779/the-darkhotel-apt/)
 * Nov 03 - [Operation Poisoned Handover: Unveiling Ties Between APT Activity in Hong Kong’s Pro-Democracy Movement](http://www.fireeye.com/blog/technical/2014/11/operation-poisoned-handover-unveiling-ties-between-apt-activity-in-hong-kongs-pro-democracy-movement.html)
