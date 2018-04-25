@@ -18,6 +18,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2018
 * Apr 24 - [[McAfee] Analyzing Operation GhostSecret: Attack Seeks to Steal Data Worldwide](https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/) | [Local](../../blob/master/2018/2018.04.24.Operation_GhostSecret) 
 * Apr 24 - [[ESET] Sednit update: Analysis of Zebrocy](https://www.welivesecurity.com/2018/04/24/sednit-update-analysis-zebrocy/) | [Local](../../blob/master/2018/2018.04.24.sednit-update-analysis-zebrocy) 
+* Apr 23 - [[Symantec] New Orangeworm attack group targets the healthcare sector in the U.S., Europe, and Asia](https://www.symantec.com/blogs/threat-intelligence/orangeworm-targets-healthcare-us-europe-asia) | [Local](../../blob/master/2018/2018.04.23.New_Orangeworm) 
 * Apr 23 - [[Kaspersky] Energetic Bear/Crouching Yeti: attacks on servers](https://securelist.com/energetic-bear-crouching-yeti/85345/) | [Local](../../blob/master/2018/2018.04.23.energetic-bear-crouching-yeti) 
 * Apr 12 - [[Kaspersky] Operation Parliament, who is doing what?](https://securelist.com/operation-parliament-who-is-doing-what/85237/) | [Local](../../blob/master/2018/2018.04.12.operation-parliament) 
 * Apr 04 - [[Trend Micro] New MacOS Backdoor Linked to OceanLotus Found](https://blog.trendmicro.com/trendlabs-security-intelligence/new-macos-backdoor-linked-to-oceanlotus-found/) | [Local](../../blob/master/2018/2018.04.04.MacOS_Backdoor_OceanLotus) 
