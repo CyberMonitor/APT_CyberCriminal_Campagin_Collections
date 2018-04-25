@@ -16,7 +16,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
-* Apr 23 - [[Kaspersky] Energetic Bear/Crouching Yeti: attacks on servers](https://securelist.com/energetic-bear-crouching-yeti/85345/) | [Local](../../blob/master/2018/2018.04.12.operation-parliament) 
+* Apr 24 - [[ESET] Sednit update: Analysis of Zebrocy](https://www.welivesecurity.com/2018/04/24/sednit-update-analysis-zebrocy/) | [Local](../../blob/master/2018/2018.04.24.sednit-update-analysis-zebrocy) 
+* Apr 23 - [[Kaspersky] Energetic Bear/Crouching Yeti: attacks on servers](https://securelist.com/energetic-bear-crouching-yeti/85345/) | [Local](../../blob/master/2018/2018.04.23.energetic-bear-crouching-yeti) 
 * Apr 12 - [[Kaspersky] Operation Parliament, who is doing what?](https://securelist.com/operation-parliament-who-is-doing-what/85237/) | [Local](../../blob/master/2018/2018.04.12.operation-parliament) 
 * Apr 04 - [[Trend Micro] New MacOS Backdoor Linked to OceanLotus Found](https://blog.trendmicro.com/trendlabs-security-intelligence/new-macos-backdoor-linked-to-oceanlotus-found/) | [Local](../../blob/master/2018/2018.04.04.MacOS_Backdoor_OceanLotus) 
 * Mar 29 - [[Trend Micro] ChessMaster Adds Updated Tools to Its Arsenal](https://blog.trendmicro.com/trendlabs-security-intelligence/chessmaster-adds-updated-tools-to-its-arsenal/) | [Local](../../blob/master/2018/2018.03.29.ChessMaster_Adds_Updated_Tools) 
