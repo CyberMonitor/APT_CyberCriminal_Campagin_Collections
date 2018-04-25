@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* Apr 24 - [[FireEye] Metamorfo Campaigns Targeting Brazilian Users](https://www.fireeye.com/blog/threat-research/2018/04/metamorfo-campaign-targeting-brazilian-users.html) | [Local](../../blob/master/2018/2018.04.24.metamorfo-campaign) 
 * Apr 24 - [[McAfee] Analyzing Operation GhostSecret: Attack Seeks to Steal Data Worldwide](https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/) | [Local](../../blob/master/2018/2018.04.24.Operation_GhostSecret) 
 * Apr 24 - [[ESET] Sednit update: Analysis of Zebrocy](https://www.welivesecurity.com/2018/04/24/sednit-update-analysis-zebrocy/) | [Local](../../blob/master/2018/2018.04.24.sednit-update-analysis-zebrocy) 
 * Apr 23 - [[Symantec] New Orangeworm attack group targets the healthcare sector in the U.S., Europe, and Asia](https://www.symantec.com/blogs/threat-intelligence/orangeworm-targets-healthcare-us-europe-asia) | [Local](../../blob/master/2018/2018.04.23.New_Orangeworm) 
