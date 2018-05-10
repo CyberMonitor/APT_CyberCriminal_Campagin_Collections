@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2018
+* May 09 - [[360] Analysis of CVE-2018-8174 VBScript 0day and APT actor related to Office targeted attack](http://blogs.360.cn/blog/cve-2018-8174-en/) | [Local](../../blob/master/2018/2018.05.09.APT-C-06_CVE-2018-8174) 
 * May 03 - [[ProtectWise] Burning Umbrella](https://github.com/401trg/detections/raw/master/pdfs/20180503_Burning_Umbrella.pdf) | [Local](../../blob/master/2018/2018.05.03.Burning_Umbrella) 
 * May 03 - [[Kaspersky] Who’s who in the Zoo: Cyberespionage operation targets Android users in the Middle East](https://securelist.com/whos-who-in-the-zoo/85394/) | [Local](../../blob/master/2018/2018.05.03.whos-who-in-the-zoo) 
 * Apr 27 - [[Tencent] (CN) OceanLotus new malware analysis](https://s.tencent.com/research/report/471.html) | [Local](../../blob/master/2018/2018.04.27.OceanLotus_new_malware) 
