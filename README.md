@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* May 23 - [[CISCO] New VPNFilter malware targets at least 500K networking devices worldwide](https://blog.talosintelligence.com/2018/05/VPNFilter.html) | [Local](../../blob/master/2018/2018.05.23.New_VPNFilter)
 * May 23 - [[Ahnlab] [KR] Andariel Group Trend Report](http://download.ahnlab.com/kr/site/library/[Report]Andariel_Threat_Group.pdf) | [Local](../../blob/master/2018/2018.05.23.Andariel_Group)
 * May 22 - [[ESET] Turla Mosquito: A shift towards more generic tools](https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/) | [Local](../../blob/master/2018/2018.05.22.Turla_Mosquito)
 * May 09 - [[Recorded Future] Iran’s Hacker Hierarchy Exposed](https://go.recordedfuture.com/hubfs/reports/cta-2018-0509.pdf) | [Local](../../blob/master/2018/2018.05.09.Iran_Hacker_Hierarchy_Exposed) 
