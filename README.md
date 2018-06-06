@@ -535,6 +535,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * May 13 - [CrowdStrike's report on Flying Kitten](http://blog.crowdstrike.com/cat-scratch-fever-crowdstrike-tracks-newly-reported-iranian-actor-flying-kitten/)
 * May 13 - [Operation Saffron Rose (aka Flying Kitten)](http://www.fireeye.com/resources/pdfs/fireeye-operation-saffron-rose.pdf)
 * Apr 26 - [CVE-2014-1776: Operation Clandestine Fox](https://www.fireeye.com/blog/threat-research/2014/05/operation-clandestine-fox-now-attacking-windows-xp-using-recently-discovered-ie-vulnerability.html)
+* Mar 12 - [[Fireeye] A Detailed Examination of the Siesta Campaign](https://www.fireeye.com/blog/threat-research/2014/03/a-detailed-examination-of-the-siesta-campaign.html)| [Local](../../blob/master/2014/2014.03.12.Detailed_Siesta_Campaign)
 * Mar 08 - [Russian spyware Turla](http://www.reuters.com/article/2014/03/07/us-russia-cyberespionage-insight-idUSBREA260YI20140307)
 * Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
 * Mar 06 - [[TrendMicro] The Siesta Campaign](http://blog.trendmicro.com/trendlabs-security-intelligence/the-siesta-campaign-a-new-targeted-attack-awakens/) | [Local](../../blob/master/2014/2014.03.06.The_Siesta_Campaign)
