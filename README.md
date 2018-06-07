@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Jun 06 - [[GuardiCore] OPERATION PROWLI: MONETIZING 40,000 VICTIM MACHINES](https://www.guardicore.com/2018/06/operation-prowli-traffic-manipulation-cryptocurrency-mining/) | [Local](../../blob/master/2018/2018.06.06.OPERATION_PROWLI)
 * Jun 06 - [[Palo Alto Networks] Sofacy Group’s Parallel Attacks](https://researchcenter.paloaltonetworks.com/2018/06/unit42-sofacy-groups-parallel-attacks/) | [Local](../../blob/master/2018/2018.06.06.sofacy-groups-parallel-attacks)
 * May 31 - [[CISCO] NavRAT Uses US-North Korea Summit As Decoy For Attacks In South Korea](https://blog.talosintelligence.com/2018/05/navrat.html) | [Local](../../blob/master/2018/2018.03.31.NavRAT_Uses_US-North_Korea_Summit_As_Decoy)
 * May 23 - [[CISCO] New VPNFilter malware targets at least 500K networking devices worldwide](https://blog.talosintelligence.com/2018/05/VPNFilter.html) | [Local](../../blob/master/2018/2018.05.23.New_VPNFilter)
