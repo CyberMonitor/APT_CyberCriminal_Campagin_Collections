@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Jun 07 - [[ICEBRG] ADOBE FLASH ZERO-DAY LEVERAGED FOR TARGETED ATTACK IN MIDDLE EAST](https://www.icebrg.io/blog/adobe-flash-zero-day-targeted-attack) | [Local](../../blob/master/2018/2018.06.07.dobe-flash-zero-day-targeted-attack)
 * Jun 07 - [[FireEye] A Totally Tubular Treatise on TRITON and TriStation](https://www.fireeye.com/blog/threat-research/2018/06/totally-tubular-treatise-on-triton-and-tristation.html) | [Local](../../blob/master/2018/2018.06.07.Totally_Tubular_Treatise_on_TRITON_TriStation)
 * Jun 06 - [[CISCO] VPNFilter Update - VPNFilter exploits endpoints, targets new devices](https://blog.talosintelligence.com/2018/06/vpnfilter-update.html) | [Local](../../blob/master/2018/2018.06.06.vpnfilter-update)
 * Jun 06 - [[GuardiCore] OPERATION PROWLI: MONETIZING 40,000 VICTIM MACHINES](https://www.guardicore.com/2018/06/operation-prowli-traffic-manipulation-cryptocurrency-mining/) | [Local](../../blob/master/2018/2018.06.06.OPERATION_PROWLI)
