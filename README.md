@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Jun 20 - [[Symantec] Thrip: Espionage Group Hits Satellite, Telecoms, and Defense Companies](https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets) | [Local](../../blob/master/2018/2018.06.20.thrip-hits-satellite-telecoms-defense-targets)
 * Jun 14 - [[TrendMicro] Another Potential MuddyWater Campaign uses Powershell-based PRB-Backdoor](https://blog.trendmicro.com/trendlabs-security-intelligence/another-potential-muddywater-campaign-uses-powershell-based-prb-backdoor/) | [Local](../../blob/master/2018/2018.06.14.another-potential-muddywater-campaign)
 * Jun 14 - [[intezer] MirageFox: APT15 Resurfaces With New Tools Based On Old Ones](https://www.intezer.com/miragefox-apt15-resurfaces-with-new-tools-based-on-old-ones/) | [Local](../../blob/master/2018/2018.06.14.MirageFox_APT15)
 * Jun 13 - [[Kaspersky] LuckyMouse hits national data center to organize country-level waterholing campaign](https://securelist.com/luckymouse-hits-national-data-center/86083/) | [Local](../../blob/master/2018/2018.06.13.LuckyMouse)
