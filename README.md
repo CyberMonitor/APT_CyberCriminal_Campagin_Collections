@@ -19,6 +19,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jul 16 - [[TrendMicro] New Andariel Reconnaissance Tactics Hint At Next Targets](https://blog.trendmicro.com/trendlabs-security-intelligence/new-andariel-reconnaissance-tactics-hint-at-next-targets/) | [Local](../../blob/master/2018/2018.07.16.new-andariel)
 * Jul 13 - [[CSE] Operation Roman Holiday – Hunting the Russian
 APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Roman%20Holiday-Report_v6_1.pdf) | [Local](../../blob/master/2018/2018.07.13.Operation_Roman_Holiday)
+* Jul 12 - [[CISCO] Advanced Mobile Malware Campaign in India uses Malicious MDM](https://blog.talosintelligence.com/2018/07/Mobile-Malware-Campaign-uses-Malicious-MDM.html) | [Local](../../blob/master/2018/2018.07.12.Advanced_Mobile_Malware_Campaign_in_India)
 * Jul 09 - [[ESET] Certificates stolen from Taiwanese tech-companies misused in Plead malware campaign](https://www.welivesecurity.com/2018/07/09/certificates-stolen-taiwanese-tech-companies-plead-malware-campaign/) | [Local](../../blob/master/2018/2018.07.09.certificates-stolen-taiwanese-tech-companies-plead-malware-campaign)
 * Jul 08 - [[CheckPoint] APT Attack In the Middle East: The Big Bang](https://research.checkpoint.com/apt-attack-middle-east-big-bang/) | [Local](../../blob/master/2018/2018.07.08.Big_Bang)
 * Jun XX - [[Ahnlab] [KR] Operation Red Gambler](http://image.ahnlab.com/file_upload/asecissue_files/ASEC%20REPORT_vol.91.pdf) | [Local](../../blob/master/2018/2018.06.xx.Operation_Red_Gambler)
