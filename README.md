@@ -16,6 +16,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Aug 09 - [[McAfee] Examining Code Reuse Reveals Undiscovered Links Among North Korea’s Malware Families](https://securingtomorrow.mcafee.com/mcafee-labs/examining-code-reuse-reveals-undiscovered-links-among-north-koreas-malware-families/) | [Local](../../blob/master/2018/2018.08.09.north-koreas-malware-families)
+* Jul 31 - [[Palo Alto Network] Bisonal Malware Used in Attacks Against Russia and South Korea](https://researchcenter.paloaltonetworks.com/2018/07/unit42-bisonal-malware-used-attacks-russia-south-korea/) | [Local](../../blob/master/2018/2018.07.31.bisonal-malware-used-attacks-russia-south-korea)
+* Jul 31 - [[Medium] Malicious document targets Vietnamese officials](https://medium.com/@Sebdraven/malicious-document-targets-vietnamese-officials-acb3b9d8b80a) | [Local](../../blob/master/2018/2018.07.31.APT_SideWinder_Malicious_Doc)
 * Jul 16 - [[TrendMicro] New Andariel Reconnaissance Tactics Hint At Next Targets](https://blog.trendmicro.com/trendlabs-security-intelligence/new-andariel-reconnaissance-tactics-hint-at-next-targets/) | [Local](../../blob/master/2018/2018.07.16.new-andariel)
 * Jul 13 - [[CSE] Operation Roman Holiday – Hunting the Russian
 APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Roman%20Holiday-Report_v6_1.pdf) | [Local](../../blob/master/2018/2018.07.13.Operation_Roman_Holiday)
@@ -72,6 +75,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Mar 08 - [[Kaspersky] OlympicDestroyer is here to trick the industry](https://securelist.com/olympicdestroyer-is-here-to-trick-the-industry/84295/) | [Local](../../blob/master/2018/2018.03.08.olympicdestroyer-is-here-to-trick-the-industry) 
 * Mar 08 - [[Arbor] Donot Team Leverages New Modular Malware Framework in South Asia](https://www.arbornetworks.com/blog/asert/donot-team-leverages-new-modular-malware-framework-south-asia/) | [Local](../../blob/master/2018/2018.03.08.donot-team-leverages-new-modular) 
 * Mar 08 - [[Crysis] Territorial Dispute – NSA’s perspective on APT landscape](https://www.crysys.hu/files/tedi/ukatemicrysys_territorialdispute.pdf) | [Local](../../blob/master/2018/2018.03.08.Territorial_Dispute) 
+* Mar 08 - [[Avast] ]() | [Local](../../blob/master/2018/2018.03.08.Territorial_Dispute) 
 * Mar 07 - [[Palo Alto Networks] Patchwork Continues to Deliver BADNEWS to the Indian Subcontinent](https://researchcenter.paloaltonetworks.com/2018/03/unit42-patchwork-continues-deliver-badnews-indian-subcontinent/) | [Local](../../blob/master/2018/2018.03.07.patchwork-continues-deliver-badnews-indian-subcontinent) 
 * Mar 06 - [[Kaspersky] The Slingshot APT](https://s3-eu-west-1.amazonaws.com/khub-media/wp-content/uploads/sites/43/2018/03/09133534/The-Slingshot-APT_report_ENG_final.pdf) | [Local](../../blob/master/2018/2018.03.06.The-Slingshot-APT) 
 * Mar 05 - [[Palo Alto Networks] Sure, I’ll take that! New ComboJack Malware Alters Clipboards to Steal Cryptocurrency](https://researchcenter.paloaltonetworks.com/2018/03/unit42-sure-ill-take-new-combojack-malware-alters-clipboards-steal-cryptocurrency/) | [Local](../../blob/master/2018/2018.03.05.New_ComboJack_Malware) 
