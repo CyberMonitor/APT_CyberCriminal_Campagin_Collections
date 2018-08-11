@@ -700,10 +700,10 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Jan 18 - [Impact of Alleged Russian Cyber Attacks](https://www.baltdefcol.org/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf)
 
 ## 2008
-* Nov 19 - [Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/)
-* Nov 04 - [China's Electronic Long-Range Reconnaissance](http://fmso.leavenworth.army.mil/documents/chinas-electronic.pdf)
-* Oct 02 - [How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf)
-* Aug 10 - [Russian Invasion of Georgia Russian Cyberwar on Georgia](http://www.mfa.gov.ge/files/556_10535_798405_Annex87_CyberAttacks.pdf) (OFFLINE)
+* Nov 19 - [[Wired] Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/) | [Local](../../blob/master/2008/2008.11.19.UNDER_WORM_ASSAULT)
+* Nov 04 - [[DTIC] China's Electronic Long-Range Reconnaissance](http://www.dtic.mil/dtic/tr/fulltext/u2/a492659.pdf) | [Local](../../blob/master/2008/2008.11.04.China_Electornic_Long_Range_Reconnaissance)
+* Oct 02 - [[Culture Mandala] How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf) | [Local](../../blob/master/2008/2008.10.02.China_Cyber_Warfare)
+* Aug 10 - [[Georgia] Russian Invasion of Georgia Russian Cyberwar on Georgia](http://georgiaupdate.gov.ge/doc/10006922/CYBERWAR-%20fd_2_.pdf) | [Local](../../blob/master/2008/2008.08.10.Russian_Cyberwar_on_Georgia)
 
 ## 2006
 * ["Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf)
