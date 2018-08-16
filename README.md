@@ -43,6 +43,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * May 29 - [[intezer] Iron Cybercrime Group Under The Scope](https://www.intezer.com/iron-cybercrime-group-under-the-scope-2/) | [Local](../../blob/master/2018/2018.05.29.iron-cybercrime-group)
 * May 23 - [[CISCO] New VPNFilter malware targets at least 500K networking devices worldwide](https://blog.talosintelligence.com/2018/05/VPNFilter.html) | [Local](../../blob/master/2018/2018.05.23.New_VPNFilter)
 * May 23 - [[Ahnlab] [KR] Andariel Group Trend Report](http://download.ahnlab.com/kr/site/library/[Report]Andariel_Threat_Group.pdf) | [Local](../../blob/master/2018/2018.05.23.Andariel_Group)
+* May 22 - [[Intrusiontruth] The destruction of APT3](https://intrusiontruth.wordpress.com/2018/05/22/the-destruction-of-apt3/) | [Local](../../blob/master/2018/2018.05.22.The_destruction_of_APT3)
 * May 22 - [[ESET] Turla Mosquito: A shift towards more generic tools](https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/) | [Local](../../blob/master/2018/2018.05.22.Turla_Mosquito)
 * May 09 - [[Recorded Future] Iran’s Hacker Hierarchy Exposed](https://go.recordedfuture.com/hubfs/reports/cta-2018-0509.pdf) | [Local](../../blob/master/2018/2018.05.09.Iran_Hacker_Hierarchy_Exposed) 
 * May 09 - [[360] Analysis of CVE-2018-8174 VBScript 0day and APT actor related to Office targeted attack](http://blogs.360.cn/blog/cve-2018-8174-en/) | [Local](../../blob/master/2018/2018.05.09.APT-C-06_CVE-2018-8174) 
