@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Aug 16 - [[Recorded Future] Chinese Cyberespionage Originating From Tsinghua University Infrastructure](https://go.recordedfuture.com/hubfs/reports/cta-2018-0816.pdf) | [Local](../../blob/master/2018/2018.08.16.Chinese_Cyberespionage_Tsinghua_University)
 * Aug 09 - [[McAfee] Examining Code Reuse Reveals Undiscovered Links Among North Korea’s Malware Families](https://securingtomorrow.mcafee.com/mcafee-labs/examining-code-reuse-reveals-undiscovered-links-among-north-koreas-malware-families/) | [Local](../../blob/master/2018/2018.08.09.north-koreas-malware-families)
 * Jul 31 - [[Palo Alto Network] Bisonal Malware Used in Attacks Against Russia and South Korea](https://researchcenter.paloaltonetworks.com/2018/07/unit42-bisonal-malware-used-attacks-russia-south-korea/) | [Local](../../blob/master/2018/2018.07.31.bisonal-malware-used-attacks-russia-south-korea)
 * Jul 31 - [[Medium] Malicious document targets Vietnamese officials](https://medium.com/@Sebdraven/malicious-document-targets-vietnamese-officials-acb3b9d8b80a) | [Local](../../blob/master/2018/2018.07.31.APT_SideWinder_Malicious_Doc)
