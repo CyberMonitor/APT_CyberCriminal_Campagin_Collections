@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Aug 21 - [[TrendMicro] Supply Chain Attack Operation Red Signature Targets South Korean Organizations](https://blog.trendmicro.com/trendlabs-security-intelligence/supply-chain-attack-operation-red-signature-targets-south-korean-organizations) | [Local](../../blob/master/2018/2018.08.21.Operation_Red_Signature)
 * Aug 16 - [[Recorded Future] Chinese Cyberespionage Originating From Tsinghua University Infrastructure](https://go.recordedfuture.com/hubfs/reports/cta-2018-0816.pdf) | [Local](../../blob/master/2018/2018.08.16.Chinese_Cyberespionage_Tsinghua_University)
 * Aug 09 - [[McAfee] Examining Code Reuse Reveals Undiscovered Links Among North Korea’s Malware Families](https://securingtomorrow.mcafee.com/mcafee-labs/examining-code-reuse-reveals-undiscovered-links-among-north-koreas-malware-families/) | [Local](../../blob/master/2018/2018.08.09.north-koreas-malware-families)
 * Aug 02 - [[Medium] Goblin Panda against the Bears](https://medium.com/@Sebdraven/gobelin-panda-against-the-bears-1f462d00e3a4) | [Local](../../blob/master/2018/2018.08.02.Goblin_Panda)
