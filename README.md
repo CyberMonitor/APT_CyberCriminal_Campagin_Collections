@@ -552,6 +552,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Aug 04 - [Sidewinder Targeted Attack Against Android](http://www.fireeye.com/resources/pdfs/fireeye-sidewinder-targeted-attack.pdf)
 * Jul 31 - [Energetic Bear/Crouching Yeti Appendix](http://25zbkz3k00wn2tp5092n6di7b5k.wpengine.netdna-cdn.com/files/2014/07/Kaspersky_Lab_crouching_yeti_appendixes_eng_final.pdf)
 * Jul 31 - [Energetic Bear/Crouching Yeti](https://kasperskycontenthub.com/securelist/files/2014/07/EB-YetiJuly2014-Public.pdf)
+* Jul 29 - [[Dell] Threat Group-3279 Targets the Video Game Industry](https://www.secureworks.com/research/threat-group-3279-targets-the-video-game-industry) | [Local](../../blob/master/2014/2014.07.29.Threat_Group-3279_Targets_the_Video_Game_Industry)
 * Jul 20 - [Sayad (Flying Kitten) Analysis & IOCs](http://vinsula.com/2014/07/20/sayad-flying-kitten-infostealer-malware/)
 * Jul 11 - [Pitty Tiger](https://bitbucket.org/cybertools/whitepapers/downloads/Pitty%20Tiger%20Final%20Report.pdf) | [Local](../../blob/master/2014/2014.07.11.Pitty_Tiger)
 * Jul 10 - [TR-25 Analysis - Turla / Pfinet / Snake/ Uroburos](http://www.circl.lu/pub/tr-25/)
