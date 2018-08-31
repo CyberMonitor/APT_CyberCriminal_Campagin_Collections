@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Aug 28 - [[CheckPoint] CeidPageLock: A Chinese RootKit](https://research.checkpoint.com/ceidpagelock-a-chinese-rootkit/) | [Local](../../blob/master/2018/2018.08.28.CeidPageLock)
 * Aug 23 - [[Kaspersky] Operation AppleJeus: Lazarus hits cryptocurrency exchange with fake installer and macOS malware](https://securelist.com/operation-applejeus/87553/) | [Local](../../blob/master/2018/2018.08.23.Operation_AppleJeus)
 * Aug 21 - [[ESET] TURLA OUTLOOK BACKDOOR](https://www.welivesecurity.com/wp-content/uploads/2018/08/Eset-Turla-Outlook-Backdoor.pdf) | [Local](../../blob/master/2018/2018.08.21.Operation_Red_Signature)
 * Aug 21 - [[TrendMicro] Supply Chain Attack Operation Red Signature Targets South Korean Organizations](https://blog.trendmicro.com/trendlabs-security-intelligence/supply-chain-attack-operation-red-signature-targets-south-korean-organizations) | [Local](../../blob/master/2018/2018.08.21.Operation_Red_Signature)
