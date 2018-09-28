@@ -1,0 +1,116 @@
+== LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group
+
+=== ReWriter_read.exe
+
+*ESET detection name*
+
+- Win32/SPIFlash.A
+
+*SHA-1*
+
+- `ea728abe26bac161e110970051e1561fd51db93b`
+
+=== ReWriter_binary.exe
+
+*ESET detection name*
+
+- Win32/SPIFlash.A
+
+*SHA-1*
+
+- `cc217342373967d1916cb20eca5ccb29caaf7c1b`
+
+=== SecDxe
+
+*ESET detection name*
+
+- EFI/LoJax.A
+
+*SHA-1*
+
+- `f2be778971ad9df2082a266bd04ab657bd287413`
+
+=== info_efi.exe
+
+*ESET detection name*
+
+- Win32/Agent.ZXZ
+
+*SHA-1*
+
+- `4b9e71615b37aea1eaeb5b1cfa0eee048118ff72`
+
+=== autoche.exe
+
+*ESET detection name*
+
+- Win32/LoJax.A
+
+*SHA-1*
+
+- `700d7e763f59e706b4f05c69911319690f85432e`
+
+=== Small agent EXE
+
+*ESET detection names*
+
+- Win32/Agent.ZQE
+- Win32/Agent.ZTU
+
+*SHA-1*
+
+- `1771e435ba25f9cdfa77168899490d87681f2029`
+- `ddaa06a4021baf980a08caea899f2904609410b9`
+- `10d571d66d3ab7b9ddf6a850cb9b8e38b07623c0`
+- `2529f6eda28d54490119d2123d22da56783c704f`
+- `e923ac79046ffa06f67d3f4c567e84a82dd7ff1b`
+- `8e138eecea8e9937a83bffe100d842d6381b6bb1`
+- `ef860dca7d7c928b68c4218007fb9069c6e654e9`
+- `e8f07caafb23eff83020406c21645d8ed0005ca6`
+- `09d2e2c26247a4a908952fee36b56b360561984f`
+- `f90ccf57e75923812c2c1da9f56166b36d1482be`
+
+*C&C server domain names*
+
+- `secao.org`
+- `ikmtrust.com`
+- `sysanalyticweb.com`
+- `lxwo.org`
+- `jflynci.com`
+- `remotepx.net`
+- `rdsnets.com`
+- `rpcnetconnect.com`
+- `webstp.com`
+- `elaxo.org`
+
+*C&C server IP addresses*
+
+- `185.77.129.106`
+- `185.144.82.239`
+- `93.113.131.103`
+- `185.86.149.54`
+- `185.86.151.104`
+- `103.41.177.43`
+- `185.86.148.184`
+- `185.94.191.65`
+- `86.106.131.54`
+
+=== Small agent DLL
+
+In this section, we list only the DLL for which we never obtained the corresponding EXE
+
+*ESET detection name*
+
+- Win32/Agent.ZQE
+
+*SHA-1*
+
+- `397d97e278110a48bd2cb11bb5632b99a9100dbd`
+
+*C&C server domain names*
+
+- `elaxo.org`
+
+*C&C server IP addresses*
+
+- `86.106.131.54`

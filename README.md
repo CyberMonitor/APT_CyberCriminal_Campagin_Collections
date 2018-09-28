@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Sep 27 - [[ESET] LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf) | [Local](../../blob/master/2018/2018.09.27.LoJax)
 * Sep 20 - [[360] (Non-English) (CN) PoisonVine](https://ti.360.net/uploads/2018/09/20/6f8ad451646c9eda1f75c5d31f39f668.pdf) | [Local](../../blob/master/2018/2018.09.20.Poison_Trumpet_Vine_Operation)
 * Sep 13 - [[Fireeye] APT10 Targeting Japanese Corporations Using Updated TTPs](https://www.fireeye.com/blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html) | [Local](../../blob/master/2018/2018.09.13.APT10_Targeting_Japanese)
 * Sep 10 - [[Kaspersky] LuckyMouse signs malicious NDISProxy driver with certificate of Chinese IT company](https://securelist.com/luckymouse-ndisproxy-driver/87914) | [Local](../../blob/master/2018/2018.09.07.Goblin_Panda_targets_Cambodia)
