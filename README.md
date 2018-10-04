@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Oct 03 - [[Fireeye] APT38: Details on New North Korean Regime-Backed Threat Group](https://content.fireeye.com/apt/rpt-apt38) | [Local](../../blob/master/2018/2018.10.03.APT38)
 * Sep 27 - [[ESET] LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf) | [Local](../../blob/master/2018/2018.09.27.LoJax)
 * Sep 20 - [[360] (Non-English) (CN) PoisonVine](https://ti.360.net/uploads/2018/09/20/6f8ad451646c9eda1f75c5d31f39f668.pdf) | [Local](../../blob/master/2018/2018.09.20.Poison_Trumpet_Vine_Operation)
 * Sep 13 - [[Fireeye] APT10 Targeting Japanese Corporations Using Updated TTPs](https://www.fireeye.com/blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html) | [Local](../../blob/master/2018/2018.09.13.APT10_Targeting_Japanese)
@@ -23,7 +24,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Sep 07 - [[CheckPoint] Domestic Kitten: An Iranian Surveillance Operation](https://research.checkpoint.com/domestic-kitten-an-iranian-surveillance-operation/) | [Local](../../blob/master/2018/2018.09.07.Domestic_Kitten)
 * Sep 07 - [[Medium] Goblin Panda targets Cambodia sharing capacities with another Chinese group hackers Temp Periscope](https://medium.com/@Sebdraven/goblin-panda-targets-cambodia-sharing-capacities-with-another-chinese-group-hackers-temp-periscope-7871382ffcc0) | [Local](../../blob/master/2018/2018.08.28.CeidPageLock)
 * Sep 04 - [[Palo Alto Network] OilRig Targets a Middle Eastern Government and Adds Evasion Techniques to OopsIE](https://researchcenter.paloaltonetworks.com/2018/09/unit42-oilrig-targets-middle-eastern-government-adds-evasion-techniques-oopsie/) | [Local](../../blob/master/2018/2018.09.04.OilRig_Targets_Middle_Eastern)
-* Aug 30 - [[Crowdstrike] Two Birds, One STONE PANDA](https://www.crowdstrike.com/blog/two-birds-one-stone-panda/) | [Local](../../blob/master/2018/2018.08.30.Stone_Panda)
+* Aug 30 - [[Crowdstrike] Two Birds, One STONE PANDA](https://www.crowdstrike.com/blog/two-birds-one-stone-panda/) | [Local](../../blob/master/2018/ 2018.08.30.Stone_Panda)
 * Aug 30 - [[Dark Matter] COMMSEC: The Trails of WINDSHIFT APT](https://gsec.hitb.org/materials/sg2018/D1%20COMMSEC%20-%20In%20the%20Trails%20of%20WINDSHIFT%20APT%20-%20Taha%20Karim.pdf) | [Local](../../blob/master/2018/2018.08.30.WINDSHIFT_APT)
 * Aug 28 - [[CheckPoint] CeidPageLock: A Chinese RootKit](https://research.checkpoint.com/ceidpagelock-a-chinese-rootkit/) | [Local](../../blob/master/2018/2018.08.28.CeidPageLock)
 * Aug 23 - [[Kaspersky] Operation AppleJeus: Lazarus hits cryptocurrency exchange with fake installer and macOS malware](https://securelist.com/operation-applejeus/87553/) | [Local](../../blob/master/2018/2018.08.23.Operation_AppleJeus)
