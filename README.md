@@ -17,6 +17,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2018
 * Oct 15 - [[Kaspersky] Octopus-infested seas of Central Asia](https://securelist.com/octopus-infested-seas-of-central-asia/88200/) | [Local](../../blob/master/2018/2018.10.15.Octopus_Central_Asia)
+* Oct 11 - [[Symantec] Gallmaker: New Attack Group Eschews Malware to Live off the Land](https://www.symantec.com/blogs/threat-intelligence/gallmaker-attack-group) | [Local](../../blob/master/2018/2018.10.11.Gallmaker)
+* Oct 10 - [[Kaspersky] MuddyWater expands operations](https://securelist.com/muddywater/88059/) | [Local](../../blob/master/2018/2018.10.10.MuddyWater_expands)
 * Oct 03 - [[Fireeye] APT38: Details on New North Korean Regime-Backed Threat Group](https://content.fireeye.com/apt/rpt-apt38) | [Local](../../blob/master/2018/2018.10.03.APT38)
 * Sep 27 - [[ESET] LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf) | [Local](../../blob/master/2018/2018.09.27.LoJax)
 * Sep 20 - [[360] (Non-English) (CN) PoisonVine](https://ti.360.net/uploads/2018/09/20/6f8ad451646c9eda1f75c5d31f39f668.pdf) | [Local](../../blob/master/2018/2018.09.20.Poison_Trumpet_Vine_Operation)
