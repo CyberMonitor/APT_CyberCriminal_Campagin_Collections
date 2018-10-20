@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 
 ## 2018
+* Oct 19 - [[Kaspersky] DarkPulsar](https://securelist.com/darkpulsar/88199/) | [Local](../../blob/master/2018/2018.10.19.DarkPulsar)
 * Oct 18 - [[CISCO] Tracking Tick Through Recent Campaigns Targeting East Asia](https://blog.talosintelligence.com/2018/10/tracking-tick-through-recent-campaigns.html) | [Local](../../blob/master/2018/2018.10.18.Datper_Bronze_Butler)
 * Oct 18 - [[McAfee] Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-oceansalt.pdf) | [Local](../../blob/master/2018/2018.10.18.Operation_Oceansalt)
 * Oct 17 - [[Yoroi] Cyber-Espionage Campaign Targeting the Naval Industry (“MartyMcFly”)](https://blog.yoroi.company/?p=1829) | [Local](../../blob/master/2018/2018.10.17.Targeting_the_Naval_Industry)
