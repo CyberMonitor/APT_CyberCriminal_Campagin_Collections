@@ -18,6 +18,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2018
 * Oct 18 - [[CISCO] Tracking Tick Through Recent Campaigns Targeting East Asia](https://blog.talosintelligence.com/2018/10/tracking-tick-through-recent-campaigns.html) | [Local](../../blob/master/2018/2018.10.18.Datper_Bronze_Butler)
 * Oct 18 - [[McAfee] Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-oceansalt.pdf) | [Local](../../blob/master/2018/2018.10.18.Operation_Oceansalt)
+* Oct 17 - [[Yoroi] Cyber-Espionage Campaign Targeting the Naval Industry (“MartyMcFly”)](https://blog.yoroi.company/?p=1829) | [Local](../../blob/master/2018/2018.10.17.Targeting_the_Naval_Industry)
 * Oct 15 - [[Kaspersky] Octopus-infested seas of Central Asia](https://securelist.com/octopus-infested-seas-of-central-asia/88200/) | [Local](../../blob/master/2018/2018.10.15.Octopus_Central_Asia)
 * Oct 11 - [[Symantec] Gallmaker: New Attack Group Eschews Malware to Live off the Land](https://www.symantec.com/blogs/threat-intelligence/gallmaker-attack-group) | [Local](../../blob/master/2018/2018.10.11.Gallmaker)
 * Oct 10 - [[Kaspersky] MuddyWater expands operations](https://securelist.com/muddywater/88059/) | [Local](../../blob/master/2018/2018.10.10.MuddyWater_expands)
