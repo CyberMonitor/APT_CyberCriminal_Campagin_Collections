@@ -18,6 +18,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT Map](https://aptmap.netlify.com/)
 
 ## 2018
+* Nov 13 - [[RecordedFuture] Chinese Threat Actor TEMP.Periscope Targets UK-Based Engineering Company Using Russian APT Techniques ](https://go.recordedfuture.com/hubfs/reports/cta-2018-1113.pdf) | [Local](../../blob/master/2018/2018.11.13.China.TEMP.Periscope.Using.Russian_APT)
+* Nov 08 - [[Symantec] FASTCash: How the Lazarus Group is Emptying Millions from ATMs](https://www.symantec.com/blogs/threat-intelligence/fastcash-lazarus-atm-malware) | [Local](../../blob/master/2018/2018.11.08.FASTCash)
 * Oct 19 - [[Kaspersky] DarkPulsar](https://securelist.com/darkpulsar/88199/) | [Local](../../blob/master/2018/2018.10.19.DarkPulsar)
 * Oct 18 - [[Medium] APT Sidewinder changes theirs TTPs to install their backdoor](https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739) | [Local](../../blob/master/2018/2018.10.18.APT_Sidewinder_changes)
 * Oct 18 - [[CISCO] Tracking Tick Through Recent Campaigns Targeting East Asia](https://blog.talosintelligence.com/2018/10/tracking-tick-through-recent-campaigns.html) | [Local](../../blob/master/2018/2018.10.18.Datper_Bronze_Butler)
