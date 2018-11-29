@@ -18,6 +18,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT Map](https://aptmap.netlify.com/)
 
 ## 2018
+* Nov 28 - [[Clearsky] MuddyWater Operations in Lebanon and Oman](https://www.clearskysec.com/wp-content/uploads/2018/11/MuddyWater-Operations-in-Lebanon-and-Oman.pdf) | [Local](../../blob/master/2018/2018.11.28.MuddyWater-Operations-in-Lebanon-and-Oman)
+* Nov 27 - [[CISCO] DNSpionage Campaign Targets Middle East](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html) | [Local](../../blob/master/2018/2018.11.27.dnspionage-campaign-targets-middle-east)
 * Nov 19 - [[Fireeye] Not So Cozy: An Uncomfortable Examination of a Suspected APT29 Phishing Campaign](https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html) | [Local](../../blob/master/2018/2018.11.19.APT29_Phishing)
 * Nov 13 - [[RecordedFuture] Chinese Threat Actor TEMP.Periscope Targets UK-Based Engineering Company Using Russian APT Techniques ](https://go.recordedfuture.com/hubfs/reports/cta-2018-1113.pdf) | [Local](../../blob/master/2018/2018.11.13.China.TEMP.Periscope.Using.Russian_APT)
 * Nov 08 - [[Symantec] FASTCash: How the Lazarus Group is Emptying Millions from ATMs](https://www.symantec.com/blogs/threat-intelligence/fastcash-lazarus-atm-malware) | [Local](../../blob/master/2018/2018.11.08.FASTCash)
