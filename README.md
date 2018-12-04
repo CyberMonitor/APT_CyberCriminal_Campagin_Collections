@@ -14,11 +14,12 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
 * 🍎 [Raw Threat Intelligence](https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc/edit)
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
-* 🦂 [APT Sample by 0xffff0800](http://0xffff0800.ddns.net/Library/)
+* 🦂 [APT Sample by 0xffff0800](http://0xffff0800.ddns.net/Library/) (https://iec56w4ibovnb4wc.onion.si/)
 * [APT Map](https://aptmap.netlify.com/)
 
 ## 2018
 * Nov 29 - [[360] Analysis Of Targeted Attack Against Pakistan By Exploiting InPage Vulnerability And Related APT Groups](https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups-english/) | [Local](../../blob/master/2018/2018.11.29.Attack_Pakistan_By_Exploiting_InPage)
+* Nov 28 - [[Microsoft] Windows Defender ATP device risk score exposes new cyberattack, drives Conditional access to protect networks](https://cloudblogs.microsoft.com/microsoftsecure/2018/11/28/windows-defender-atp-device-risk-score-exposes-new-cyberattack-drives-conditional-access-to-protect-networks/) | [Local](../../blob/master/2018/2018.11.28.Tropic_Trooper_microsoft)
 * Nov 28 - [[Clearsky] MuddyWater Operations in Lebanon and Oman](https://www.clearskysec.com/wp-content/uploads/2018/11/MuddyWater-Operations-in-Lebanon-and-Oman.pdf) | [Local](../../blob/master/2018/2018.11.28.MuddyWater-Operations-in-Lebanon-and-Oman)
 * Nov 27 - [[CISCO] DNSpionage Campaign Targets Middle East](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html) | [Local](../../blob/master/2018/2018.11.27.dnspionage-campaign-targets-middle-east)
 * Nov 20 - [[TrendMicro] Lazarus Continues Heists, Mounts Attacks on Financial Organizations in Latin America](https://blog.trendmicro.com/trendlabs-security-intelligence/lazarus-continues-heists-mounts-attacks-on-financial-organizations-in-latin-america/) | [Local](../../blob/master/2018/2018.11.20.lazarus-in-latin-america)
