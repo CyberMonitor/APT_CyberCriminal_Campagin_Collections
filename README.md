@@ -47,6 +47,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Aug 30 - [[Crowdstrike] Two Birds, One STONE PANDA](https://www.crowdstrike.com/blog/two-birds-one-stone-panda/) | [Local](../../blob/master/2018/2018.08.30.Stone_Panda)
 * Aug 30 - [[Arbor] Double the Infection, Double the Fun](https://asert.arbornetworks.com/double-the-infection-double-the-fun/) | [Local](../../blob/master/2018/2018.08.30.Cobalt_Group_Fun)
 * Aug 30 - [[Dark Matter] COMMSEC: The Trails of WINDSHIFT APT](https://gsec.hitb.org/materials/sg2018/D1%20COMMSEC%20-%20In%20the%20Trails%20of%20WINDSHIFT%20APT%20-%20Taha%20Karim.pdf) | [Local](../../blob/master/2018/2018.08.30.WINDSHIFT_APT)
+* Aug 29 - [[TrendMicro] The Urpage Connection to Bahamut, Confucius and Patchwork](https://blog.trendmicro.com/trendlabs-security-intelligence/the-urpage-connection-to-bahamut-confucius-and-patchwork/) | [Local](../../blob/master/2018/2018.08.29.Bahamut_Confucius_Patchwork)
 * Aug 28 - [[CheckPoint] CeidPageLock: A Chinese RootKit](https://research.checkpoint.com/ceidpagelock-a-chinese-rootkit/) | [Local](../../blob/master/2018/2018.08.28.CeidPageLock)
 * Aug 23 - [[Kaspersky] Operation AppleJeus: Lazarus hits cryptocurrency exchange with fake installer and macOS malware](https://securelist.com/operation-applejeus/87553/) | [Local](../../blob/master/2018/2018.08.23.Operation_AppleJeus)
 * Aug 21 - [[ESET] TURLA OUTLOOK BACKDOOR](https://www.welivesecurity.com/wp-content/uploads/2018/08/Eset-Turla-Outlook-Backdoor.pdf) | [Local](../../blob/master/2018/2018.08.21.Operation_Red_Signature)
