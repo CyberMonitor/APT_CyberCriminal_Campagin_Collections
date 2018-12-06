@@ -18,6 +18,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT Map](https://aptmap.netlify.com/)
 
 ## 2018
+* Nov 30 - [[TrendMicro] New PowerShell-based Backdoor Found in Turkey, Strikingly Similar to MuddyWater Tools](https://blog.trendmicro.com/trendlabs-security-intelligence/new-powershell-based-backdoor-found-in-turkey-strikingly-similar-to-muddywater-tools/) | [Local](../../blob/master/2018/2018.11.30.MuddyWater_Turkey)
 * Nov 29 - [[360] Analysis Of Targeted Attack Against Pakistan By Exploiting InPage Vulnerability And Related APT Groups](https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups-english/) | [Local](../../blob/master/2018/2018.11.29.Attack_Pakistan_By_Exploiting_InPage)
 * Nov 28 - [[Microsoft] Windows Defender ATP device risk score exposes new cyberattack, drives Conditional access to protect networks](https://cloudblogs.microsoft.com/microsoftsecure/2018/11/28/windows-defender-atp-device-risk-score-exposes-new-cyberattack-drives-conditional-access-to-protect-networks/) | [Local](../../blob/master/2018/2018.11.28.Tropic_Trooper_microsoft)
 * Nov 28 - [[Clearsky] MuddyWater Operations in Lebanon and Oman](https://www.clearskysec.com/wp-content/uploads/2018/11/MuddyWater-Operations-in-Lebanon-and-Oman.pdf) | [Local](../../blob/master/2018/2018.11.28.MuddyWater-Operations-in-Lebanon-and-Oman)
