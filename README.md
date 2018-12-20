@@ -18,6 +18,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT Map](https://aptmap.netlify.com/)
 
 ## 2018
+* Dec 18 - [[TrendMicro] URSNIF, EMOTET, DRIDEX and BitPaymer Gangs Linked by a Similar Loader](https://blog.trendmicro.com/trendlabs-security-intelligence/ursnif-emotet-dridex-and-bitpaymer-gangs-linked-by-a-similar-loader/) | [Local](../../blob/master/2018/2018.12.18.ursnif-emotet-dridex-and-bitpaymer-gangs)
 * Dec 13 - [[TrendMicro] Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers’ Leak](https://documents.trendmicro.com/assets/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | [Local](../../blob/master/2018/2018.12.13.Tildeb_Shadow_Brokers)
 * Nov ?? - [[Google] The Hunt for 3ve](https://services.google.com/fh/files/blogs/3ve_google_whiteops_whitepaper_final_nov_2018.pdf) | [Local](../../blob/master/2018/2018.11.The_Hunt_for_3ve)
 * Nov 30 - [[TrendMicro] New PowerShell-based Backdoor Found in Turkey, Strikingly Similar to MuddyWater Tools](https://blog.trendmicro.com/trendlabs-security-intelligence/new-powershell-based-backdoor-found-in-turkey-strikingly-similar-to-muddywater-tools/) | [Local](../../blob/master/2018/2018.11.30.MuddyWater_Turkey)
