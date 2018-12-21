@@ -685,7 +685,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Mar 13 - [You Only Click Twice: FinFisher’s Global Proliferation](https://citizenlab.org/wp-content/uploads/2013/07/15-2013-youonlyclicktwice.pdf)
 * Feb 27 - [Miniduke: Indicators v1](http://www.crysys.hu/miniduke/miniduke_indicators_public.pdf)
 * Feb 27 - [The MiniDuke Mystery: PDF 0-day Government Spy Assembler 0x29A Micro Backdoor](https://www.securelist.com/en/downloads/vlpdfs/themysteryofthepdf0-dayassemblermicrobackdoor.pdf)
-* Feb 26 - [Stuxnet 0.5: The Missing Link](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/stuxnet_0_5_the_missing_link.pdf)
+* Feb 26 - [[Symantec] Stuxnet 0.5: The Missing Link](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/stuxnet_0_5_the_missing_link.pdf) | [Local](../../blob/master/2013/2013.02.26.Stuxnet_0.5)
 * Feb 22 - [[Symantec] Comment Crew: Indicators of Compromise](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/comment_crew_indicators_of_compromise.pdf) | [Local](../../blob/master/2013/2013.02.22.Comment_Crew)
 * Feb 18 - [[Fireeye] Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf) | [Local](../../blob/master/2013/2013.02.18.APT1)
 * Feb 12 - [[AIT] Targeted cyber attacks: examples and challenges ahead](http://www.ait.ac.at/uploads/media/Presentation_Targeted-Attacks_EN.pdf) | [Local](../../blob/master/2013/2013.02.12.Targeted-Attacks)
