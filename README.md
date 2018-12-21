@@ -689,7 +689,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Feb 12 - [Targeted cyber attacks: examples and challenges ahead](http://www.ait.ac.at/uploads/media/Presentation_Targeted-Attacks_EN.pdf)
 * Jan 18 - [Operation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf)
 * Jan 14 - [Red October Diplomatic Cyber Attacks Investigation](http://securelist.com/analysis/publications/36740/red-october-diplomatic-cyber-attacks-investigation)
-* Jan 14 - [The Red October Campaign](https://securelist.com/blog/incidents/57647/the-red-october-campaign)
+* Jan 14 - [[Kaspersky] The Red October Campaign](https://securelist.com/blog/incidents/57647/the-red-october-campaign) | [Local](../../blob/master/2013/2013.01.14.Red_October_Campaign)
 
 ## 2012
 * Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://cyber-peace.org/wp-content/uploads/2014/01/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
