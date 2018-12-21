@@ -689,8 +689,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Feb 22 - [Comment Crew: Indicators of Compromise](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/comment_crew_indicators_of_compromise.pdf)
 * Feb 18 - [Mandiant APT1 Report](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf)
 * Feb 12 - [Targeted cyber attacks: examples and challenges ahead](http://www.ait.ac.at/uploads/media/Presentation_Targeted-Attacks_EN.pdf)
-* Jan 18 - [Operation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf)
-* Jan 14 - [Red October Diplomatic Cyber Attacks Investigation](http://securelist.com/analysis/publications/36740/red-october-diplomatic-cyber-attacks-investigation)
+* Jan 18 - [[McAfee] Operation Red October](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/24000/PD24250/en_US/McAfee_Labs_Threat_Advisory_Exploit_Operation_Red_Oct.pdf) | [Local](../../blob/master/2013/2013.01.18.Operation_Red_Oct)
 * Jan 14 - [[Kaspersky] The Red October Campaign](https://securelist.com/blog/incidents/57647/the-red-october-campaign) | [Local](../../blob/master/2013/2013.01.14.Red_October_Campaign)
 
 ## 2012
