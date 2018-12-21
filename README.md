@@ -669,7 +669,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Jun 04 - [The NetTraveller (aka 'Travnet')](http://www.securelist.com/en/downloads/vlpdfs/kaspersky-the-net-traveler-part1-final.pdf)
 * Jun 01 - [Crude Faux: An analysis of cyber conflict within the oil & gas industries](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2013-9.pdf)
 * Jun ?? - [The Chinese Malware Complexes: The Maudi Surveillance Operation](https://bluecoat.com/documents/download/2c832f0f-45d2-4145-bdb7-70fc78c22b0f&ei=ZGP-VMCbMsuxggSThYDgDg&usg=AFQjCNFjXSkn_AIiXge1X9oWZHzQOiNDJw&sig2=B6e2is0sCnGEbLPL9q0eZg&bvm=bv.87611401,d.eXY)
-* May 30 - [TR-14 - Analysis of a stage 3 Miniduke malware sample](http://www.circl.lu/pub/tr-14/)
+* May 30 - [[CIRCL] TR-14 - Analysis of a stage 3 Miniduke malware sample](http://www.circl.lu/pub/tr-14/) | [Local](../../blob/master/2013/2013.05.20.Miniduke.Analysis)
 * May 20 - [[Norman] OPERATION HANGOVER: Unveiling an Indian Cyberattack Infrastructure](http://www.thecre.com/fnews/wp-content/uploads/2013/05/Unveiling_an_Indian_Cyberattack_Infrastructure.pdf) | [Local](../../blob/master/2013/2013.05.20.Operation_Hangover)
 * Apr 21 - [[Bitdefender] MiniDuke - The Final Cut](http://labs.bitdefender.com/2013/04/miniduke-the-final-cut) | [Local](../../blob/master/2013/2013.04.21.MiniDuke)
 * Apr 13 - [[Kaspersky] "Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf) | [Local](../../blob/master/2013/2013.04.13.Winnti) 
