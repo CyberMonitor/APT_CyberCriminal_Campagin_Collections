@@ -19,6 +19,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2018
 * Dec 18 - [[Trend Micro] URSNIF, EMOTET, DRIDEX and BitPaymer Gangs Linked by a Similar Loader](https://blog.trendmicro.com/trendlabs-security-intelligence/ursnif-emotet-dridex-and-bitpaymer-gangs-linked-by-a-similar-loader/) | [Local](../../blob/master/2018/2018.12.18.ursnif-emotet-dridex-and-bitpaymer-gangs)
+* Dec 13 - [[Certfa] The Return of The Charming Kitten](https://blog.certfa.com/posts/the-return-of-the-charming-kitten/) | [Local](../../blob/master/2018/2018.12.13.Charming_Kitten_Return)
 * Dec 13 - [[Trend Micro] Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers’ Leak](https://documents.trendmicro.com/assets/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | [Local](../../blob/master/2018/2018.12.13.Tildeb_Shadow_Brokers)
 * Dec 12 - [[McAfee] ‘Operation Sharpshooter’ Targets Global Defense, Critical Infrastructure](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-sharpshooter.pdf) | [Local](../../blob/master/2018/2018.12.12.Operation_Sharpshooter)
 * Nov ?? - [[Google] The Hunt for 3ve](https://services.google.com/fh/files/blogs/3ve_google_whiteops_whitepaper_final_nov_2018.pdf) | [Local](../../blob/master/2018/2018.11.The_Hunt_for_3ve)
