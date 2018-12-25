@@ -64,6 +64,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Aug 01 - [[Medium] Malicious document targets Vietnamese officials](https://medium.com/@Sebdraven/malicious-document-targets-vietnamese-officials-acb3b9d8b80a) | [Local](../../blob/master/2018/2018.08.01.Vietnamese_officials_Targets)
 * Jul 31 - [[Palo Alto Network] Bisonal Malware Used in Attacks Against Russia and South Korea](https://researchcenter.paloaltonetworks.com/2018/07/unit42-bisonal-malware-used-attacks-russia-south-korea/) | [Local](../../blob/master/2018/2018.07.31.bisonal-malware-used-attacks-russia-south-korea)
 * Jul 31 - [[Medium] Malicious document targets Vietnamese officials](https://medium.com/@Sebdraven/malicious-document-targets-vietnamese-officials-acb3b9d8b80a) | [Local](../../blob/master/2018/2018.07.31.APT_SideWinder_Malicious_Doc)
+* Jul 23 - [[CSE] APT27: A long-term espionage campaign in Syria](http://csecybsec.com/download/zlab/20180723_CSE_APT27_Syria_v1.pdf) | [Local](../../blob/master/2018/2018.07.23_APT27_Syria)
 * Jul 16 - [[Trend Micro] New Andariel Reconnaissance Tactics Hint At Next Targets](https://blog.trendmicro.com/trendlabs-security-intelligence/new-andariel-reconnaissance-tactics-hint-at-next-targets/) | [Local](../../blob/master/2018/2018.07.16.new-andariel)
 * Jul 13 - [[CSE] Operation Roman Holiday – Hunting the Russian
 APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Roman%20Holiday-Report_v6_1.pdf) | [Local](../../blob/master/2018/2018.07.13.Operation_Roman_Holiday)
