@@ -743,22 +743,22 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Feb 10 - [Global Energy Cyberattacks: Night Dragon](http://www.mcafee.com/us/resources/white-papers/wp-global-energy-cyberattacks-night-dragon.pdf)
 
 ## 2010
-* Dec 09 - [The Stuxnet Computer Worm: Harbinger of an Emerging Warfare Capability ](http://www.fas.org/sgp/crs/natsec/R41524.pdf)
-* Sep 30 - [W32.Stuxnet Dossier](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf)
-* Sep 03 - [The "MSUpdater" Trojan And Ongoing Targeted Attacks](http://www.seculert.com/reports/MSUpdaterTrojanWhitepaper.pdf)
-* Apr 06 - [Shadows in the cloud: Investigating Cyber Espionage 2.0](http://www.nartv.org/mirror/shadows-in-the-cloud.pdf)
-* Mar 14 - [In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052) (OFFLINE)
-* Feb 24 - [How Can I Tell if I Was Infected By Aurora? (IOCs)](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE)
-* Feb 10 - [HB Gary Threat Report: Operation Aurora](http://hbgary.com/sites/default/files/publications/WhitePaper%20HBGary%20Threat%20Report,%20Operation%20Aurora.pdf)
-* Jan ?? - [Case Study: Operation Aurora - Triumfant](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf) (OFFLINE)
-* Jan 27 - [Operation Aurora Detect, Diagnose, Respond](http://albertsblog.stickypatch.org/files/3/5/1/4/7/282874-274153/Aurora_HBGARY_DRAFT.pdf) (OFFLINE)
-* Jan 20 - [McAfee Labs: Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)
-* Jan 13 - [The Command Structure of the Aurora Botnet - Damballa](https://www.damballa.com/downloads/r_pubs/Aurora_Botnet_Command_Structure.pdf)
-* Jan 12 - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora)
+* Dec 09 - [[CRS] The Stuxnet Computer Worm: Harbinger of an Emerging Warfare Capability ](http://www.fas.org/sgp/crs/natsec/R41524.pdf)  | [Local](../../blob/master/2010/2010.12.09.Stuxnet_Worm)
+* Sep 30 - [[Symantec] W32.Stuxnet Dossier](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf) | [Local](../../blob/master/2010/2010.09.30.W32.Stuxnet_Dossier)
+* Sep 03 - [[Seculert] The "MSUpdater" Trojan And Ongoing Targeted Attacks](http://www.seculert.com/reports/MSUpdaterTrojanWhitepaper.pdf) | [Local](../../blob/master/2010/2010.09.03.MSUpdater.Trojan)
+* Apr 06 - [[Shadowserver] Shadows in the cloud: Investigating Cyber Espionage 2.0](http://www.nartv.org/mirror/shadows-in-the-cloud.pdf) | [Local](../../blob/master/2010/2010.04.06.Shadows_in_the_cloud)
+* Mar 14 - [[CA] In-depth Analysis of Hydraq](http://www.totaldefense.com/Core/DownloadDoc.aspx?documentID=1052) | [Local](../../blob/master/2010/2010.03.14.Hydraq)
+* Feb 10 - [[HB Gary] Threat Report: Operation Aurora](http://hbgary.com/sites/default/files/publications/WhitePaper%20HBGary%20Threat%20Report,%20Operation%20Aurora.pdf) | [Local](../../blob/master/2010/2010.02.10.Threat_Report_Operation_Aurora)
+* Jan ?? - [[Triumfant] Case Study: Operation Aurora](http://www.triumfant.com/pdfs/Case_Study_Operation_Aurora_V11.pdf) | [Local](../../blob/master/2010/2010.01.Case_Study_Operation_Aurora)
+* Jan 27 - [[Alberts] Operation Aurora Detect, Diagnose, Respond](http://albertsblog.stickypatch.org/files/3/5/1/4/7/282874-274153/Aurora_HBGARY_DRAFT.pdf) | [Local](../../blob/master/2010/2010.01.27.Operation_Aurora_Detect_Diagnose_Respond)
+* Jan 26 - [[McAfee] How Can I Tell if I Was Infected By Aurora?  (IOCs)]()  | [Local](../../blob/master/2010/2010.01.26.Operation_Aurora_IoC)
+* Jan 20 - [[McAfee] Combating Aurora](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/67000/KB67957/en_US/Combating%20Threats%20-%20Operation%20Aurora.pdf)| [Local](../../blob/master/2010/2010.01.20.Combating_Aurora)
+* Jan 13 - [[Damballa] The Command Structure of the Aurora Botnet](https://www.damballa.com/downloads/r_pubs/Aurora_Botnet_Command_Structure.pdf) | [Local](../../blob/master/2010/2010.01.13.Aurora_Botnet)
+* Jan 12 - [Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora) | [Local](../../blob/master/2010/2010.01.12.Operation_Aurora)
 
 ## 2009
-* Mar 29 - [Tracking GhostNet](http://www.nartv.org/mirror/ghostnet.pdf)
-* Jan 18 - [Impact of Alleged Russian Cyber Attacks](https://www.baltdefcol.org/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf)
+* Mar 29 - [[TheSecDevGroup] Tracking GhostNet](http://www.nartv.org/mirror/ghostnet.pdf) | [Local](../../blob/master/2009/2009.03.29.GhostNet)
+* Jan 18 - [[Baltic] Impact of Alleged Russian Cyber Attacks](https://www.baltdefcol.org/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf) | [Local](../../blob/master/2009/2009.01.18.Russian_Cyber_Attacks)
 
 ## 2008
 * Nov 19 - [[Wired] Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/) | [Local](../../blob/master/2008/2008.11.19.UNDER_WORM_ASSAULT)
