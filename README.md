@@ -645,7 +645,8 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ## 2013
 * ??? ?? - [THE LITTLE MALWARE THAT COULD: Detecting and Defeating the China Chopper Web Shell](https://www.fireeye.com/content/dam/FireEye-www/global/en/current-threats/pdfs/rpt-china-chopper.pdf) | [Local](../../blob/master/2013/2013.China_Chopper_Web_Shell)
 * ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE) | [Local](../../blob/master//2013/2013.Deep.Panda)
-* Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf)  | [Local](../../blob/master//2013/2013.12.20.ETSO)
+* ??? ?? - [[Fireeye] OPERATION SAFFRON ROSE](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-operation-saffron-rose.pdf) | [Local](../../blob/master/2013/2013.OPERATION_SAFFRON_ROSE)
+* Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf) | [Local](../../blob/master//2013/2013.12.20.ETSO)
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/FireEye-operation-ke3chang.pdf)
 * Dec 02 - [njRAT, The Saga Continues](http://www.fidelissecurity.com/files/files/FTA%201010%20-%20njRAT%20The%20Saga%20Continues.pdf)
 * Nov 11 - [Supply Chain Analysis](http://www.fireeye.com/resources/pdfs/FireEye-malware-supply-chain.pdf)
@@ -723,9 +724,9 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Mar 26 - [Luckycat Redux](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf)
 * Mar 13 - [Reversing DarkComet RAT's crypto](http://www.arbornetworks.com/asert/wp-content/uploads/2012/07/Crypto-DarkComet-Report.pdf)
 * Mar 12 - [Crouching Tiger, Hidden Dragon, Stolen Data](http://www.contextis.com/services/research/white-papers/crouching-tiger-hidden-dragon-stolen-data/)
-* Feb 29 - [The Sin Digoo Affair](http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/)
-* Feb 03 - [Command and Control in the Fifth Domain](http://www.commandfive.com/papers/C5_APT_C2InTheFifthDomain.pdf)
-* Jan 03 - [The HeartBeat APT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the-heartbeat-apt-campaign.pdf)
+* Feb 29 - [[Dell] The Sin Digoo Affair](http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/)
+* Feb 03 - [[CommandFive] Command and Control in the Fifth Domain](http://www.commandfive.com/papers/C5_APT_C2InTheFifthDomain.pdf)
+* Jan 03 - [[Trend Micro] The HeartBeat APT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the-heartbeat-apt-campaign.pdf)
 
 ## 2011
 * Dec 08 - [[Norman] Palebot trojan harvests Palestinian online credentials](https://web.archive.org/web/20130308090454/http://blogs.norman.com/2011/malware-detection-team/palebot-trojan-harvests-palestinian-online-credentials) | [Local](../../blob/master/2011/2011.12.08.Palebot_Trojan)
