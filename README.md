@@ -16,6 +16,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
 * 🦂 [APT Sample by 0xffff0800](http://0xffff0800.ddns.net/Library/) (https://iec56w4ibovnb4wc.onion.si/)
 * [APT Map](https://aptmap.netlify.com/)
+* [sapphirex00 - Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting)
 
 ## 2019
 * Jan 17 - [[Palo Alto Network] Malware Used by “Rocke” Group Evolves to Evade Detection by Cloud Security Products](https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/) | [Local](../../blob/master/2019/2019.01.17.Rocke_Group)
