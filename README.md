@@ -19,6 +19,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [sapphirex00 - Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting)
 
 ## 2019
+* Jan 24 - [[Carbon Black] GandCrab and Ursnif Campaign](https://www.carbonblack.com/2019/01/24/carbon-black-tau-threatsight-analysis-gandcrab-and-ursnif-campaign/) | [Local](../../blob/master/2019/2019.01.24.GandCrab_and_Ursnif)
 * Jan 17 - [[Palo Alto Network] Malware Used by “Rocke” Group Evolves to Evade Detection by Cloud Security Products](https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/) | [Local](../../blob/master/2019/2019.01.17.Rocke_Group)
 * Jan 16 - [[360] Latest Target Attack of DarkHydruns Group Against Middle East](https://ti.360.net/blog/articles/latest-target-attack-of-darkhydruns-group-against-middle-east-en/) | [Local](../../blob/master/2019/2019.01.16.DarkHydruns)
 
