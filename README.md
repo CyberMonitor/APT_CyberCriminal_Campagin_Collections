@@ -22,6 +22,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [sapphirex00 - Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting)
 
 ## 2019
+* Jan 30 - [[NSHC] The Double Life of SectorA05 Nesting in Agora (Operation Kitty Phishing](https://threatrecon.nshc.net/2019/01/30/operation-kitty-phishing) | [Local](../../blob/master/2019/2019.01.30.Operation_Kitty_Phishing)
 * Jan 30 - [[Morphisec] NEW CAMPAIGN DELIVERS ORCUS RAT](http://blog.morphisec.com/new-campaign-delivering-orcus-rat) | [Local](../../blob/master/2019/2019.01.30.ORCUS_RAT)
 * Jan 24 - [[Carbon Black] GandCrab and Ursnif Campaign](https://www.carbonblack.com/2019/01/24/carbon-black-tau-threatsight-analysis-gandcrab-and-ursnif-campaign/) | [Local](../../blob/master/2019/2019.01.24.GandCrab_and_Ursnif)
 * Jan 17 - [[Palo Alto Network] Malware Used by “Rocke” Group Evolves to Evade Detection by Cloud Security Products](https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/) | [Local](../../blob/master/2019/2019.01.17.Rocke_Group)
