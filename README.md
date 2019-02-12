@@ -23,6 +23,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator)
 
 ## 2019
+* Feb 06 - [[Recorded Future] APT10 Targeted Norwegian MSP and US Companies in Sustained Campaign](https://www.recordedfuture.com/apt10-cyberespionage-campaign/) | [Local](../../blob/master/2019/2019.02.06.APT10_Sustained_Campaign)
 * Jan 30 - [[Kaspersky] Chafer used Remexi malware to spy on Iran-based foreign diplomatic entities](https://securelist.com/chafer-used-remexi-malware/89538/) | [Local](../../blob/master/2019/2019.01.30.Chafer_APT_Spy_Iran)
 * Jan 30 - [[NSHC] The Double Life of SectorA05 Nesting in Agora (Operation Kitty Phishing](https://threatrecon.nshc.net/2019/01/30/operation-kitty-phishing) | [Local](../../blob/master/2019/2019.01.30.Operation_Kitty_Phishing)
 * Jan 30 - [[Morphisec] NEW CAMPAIGN DELIVERS ORCUS RAT](http://blog.morphisec.com/new-campaign-delivering-orcus-rat) | [Local](../../blob/master/2019/2019.01.30.ORCUS_RAT)
