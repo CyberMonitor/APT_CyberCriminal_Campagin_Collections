@@ -20,6 +20,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * 🦂 [APT Sample by 0xffff0800](http://0xffff0800.ddns.net/Library/) (https://iec56w4ibovnb4wc.onion.si/)
 * [APT Map](https://aptmap.netlify.com/)
 * [sapphirex00 - Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting)
+* [APTSimulator](https://github.com/NextronSystems/APTSimulator)
 
 ## 2019
 * Jan 30 - [[NSHC] The Double Life of SectorA05 Nesting in Agora (Operation Kitty Phishing](https://threatrecon.nshc.net/2019/01/30/operation-kitty-phishing) | [Local](../../blob/master/2019/2019.01.30.Operation_Kitty_Phishing)
@@ -779,3 +780,11 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 
 ## 2006
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [Local](../../blob/master/2006/2006.Wicked_Rose)
+
+## Report
+* Jan 30 2019 - [[Dragos] Webinar Summary: Uncovering ICS Threat Activity Groups](https://dragos.com/blog/industry-news/webinar-summary-uncovering-ics-threat-activity-groups/) | [Local](../../blob/master/Report/2019.01.30.Uncovering_ICS_Threat_Activity_Groups)
+* Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [Local](../../blob/master/Report/2019.01.28.ENISA_Threat_Landscape_Report_2018)
+* Jan 09 2019 - [[360] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/paper/193553.html)  | [Local](../../blob/master/Report/2019.01.09.360_APT_Summary_report_2018_CN_Version)
+* Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [Local](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version)
+
+
