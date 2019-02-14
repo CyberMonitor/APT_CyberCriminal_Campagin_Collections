@@ -24,6 +24,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2019
 * Feb 06 - [[Recorded Future] APT10 Targeted Norwegian MSP and US Companies in Sustained Campaign](https://www.recordedfuture.com/apt10-cyberespionage-campaign/) | [Local](../../blob/master/2019/2019.02.06.APT10_Sustained_Campaign)
+* Feb 05 - [[Anomali Labs] Analyzing Digital Quartermasters in Asia – Do Chinese and Indian APTs Have a Shared Supply Chain?](https://www.anomali.com/blog/analyzing-digital-quartermasters-in-asia-do-chinese-and-indian-apts-have-a-shared-supply-chain) | [Local](../../blob/master/2019/2019.02.05.China_India_APT_shared)
 * Jan 30 - [[Kaspersky] Chafer used Remexi malware to spy on Iran-based foreign diplomatic entities](https://securelist.com/chafer-used-remexi-malware/89538/) | [Local](../../blob/master/2019/2019.01.30.Chafer_APT_Spy_Iran)
 * Jan 30 - [[NSHC] The Double Life of SectorA05 Nesting in Agora (Operation Kitty Phishing](https://threatrecon.nshc.net/2019/01/30/operation-kitty-phishing) | [Local](../../blob/master/2019/2019.01.30.Operation_Kitty_Phishing)
 * Jan 30 - [[Morphisec] NEW CAMPAIGN DELIVERS ORCUS RAT](http://blog.morphisec.com/new-campaign-delivering-orcus-rat) | [Local](../../blob/master/2019/2019.01.30.ORCUS_RAT)
@@ -663,10 +664,10 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf) | [Local](../../blob/master//2013/2013.12.20.ETSO)
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/FireEye-operation-ke3chang.pdf)
 * Dec 02 - [njRAT, The Saga Continues](http://www.fidelissecurity.com/files/files/FTA%201010%20-%20njRAT%20The%20Saga%20Continues.pdf)
-* Nov 11 - [Supply Chain Analysis](http://www.fireeye.com/resources/pdfs/FireEye-malware-supply-chain.pdf)
-* Nov 10 - [Operation Ephemeral Hydra: IE Zero-Day Linked to DeputyDog Uses Diskless Method](http://www.fireeye.com/blog/technical/cyber-exploits/2013/11/operation-ephemeral-hydra-ie-zero-day-linked-to-deputydog-uses-diskless-method.html)
-* Oct 24 - [Terminator RAT](https://www.fireeye.com/blog/threat-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf) | [Local](../../blob/master//2013/2013.10.24)
-* Sep 30 - [World War C: State of affairs in the APT world](https://www.fireeye.com/blog/threat-research/2013/09/new-FireEye-report-world-war-c.html)
+* Nov 11 - [[FireEye] Supply Chain Analysis](http://www.fireeye.com/resources/pdfs/FireEye-malware-supply-chain.pdf)
+* Nov 10 - [[FireEye] Operation Ephemeral Hydra: IE Zero-Day Linked to DeputyDog Uses Diskless Method](http://www.fireeye.com/blog/technical/cyber-exploits/2013/11/operation-ephemeral-hydra-ie-zero-day-linked-to-deputydog-uses-diskless-method.html)
+* Oct 24 - [[FireEye] Terminator RAT](https://www.fireeye.com/blog/threat-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf) | [Local](../../blob/master//2013/2013.10.24)
+* Sep 30 - [[FireEye] World War C: State of affairs in the APT world](https://www.fireeye.com/blog/threat-research/2013/09/new-FireEye-report-world-war-c.html)
 * Sep 25 - [The 'ICEFROG' APT: A Tale of cloak and three daggers](http://www.securelist.com/en/downloads/vlpdfs/icefog.pdf)
 * Sep 17 - [Hidden Lynx - Professional Hackers for Hire](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/hidden_lynx.pdf)
 * Sep 13 - [Operation DeputyDog: Zero-Day (CVE-2013-3893) Attack Against Japanese Targets](http://www.fireeye.com/blog/technical/cyber-exploits/2013/09/operation-deputydog-zero-day-cve-2013-3893-attack-against-japanese-targets.html)
