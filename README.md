@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2019
 * Mar 04 - [[FireEye] APT40: Examining a China-Nexus Espionage Actor](https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html) | [Local](../../blob/master/2019/2019.03.04.APT40)
 * Feb 27 - [[Dell] A Peek into BRONZE UNION’s Toolbox](https://www.secureworks.com/research/a-peek-into-bronze-unions-toolbox) | [Local](../../blob/master/2019/2019.02.27.BRONZE_UNION_Toolbox)
+* Feb 26 - [[Cybaze-Yoroi Z-LAB] The Arsenal Behind the Australian Parliament Hack](https://blog.yoroi.company/research/the-arsenal-behind-the-australian-parliament-hack/) | [Local](../../blob/master/2019/2019.02.26.Australian_Parliament_Hack)
 * Feb 18 - [[360] APT-C-36: Continuous Attacks Targeting Colombian Government Institutions and Corporations](https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/) | [Local](../../blob/master/2019/2019.02.18.APT-C-36.Colombian)
 * Feb 14 - [[360] Suspected Molerats' New Attack in the Middle East](https://ti.360.net/blog/articles/suspected-molerats-new-attack-in-the-middle-east-en/) | [Local](../../blob/master/2019/2019.02.14.Molerats_APT)
 * Feb 06 - [[Recorded Future] APT10 Targeted Norwegian MSP and US Companies in Sustained Campaign](https://www.recordedfuture.com/apt10-cyberespionage-campaign/) | [Local](../../blob/master/2019/2019.02.06.APT10_Sustained_Campaign)
@@ -797,7 +798,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Feb 02 2019 - [[threatinte] Threat Intel Reads – January 2019](https://threatintel.eu/2019/02/02/threat-intel-reads-january-2019/) | [Local](../../blob/master/Report/2019.02.02.Threat_Intel_Reads_January_2019)
 * Jan 30 2019 - [[Dragos] Webinar Summary: Uncovering ICS Threat Activity Groups](https://dragos.com/blog/industry-news/webinar-summary-uncovering-ics-threat-activity-groups/) | [Local](../../blob/master/Report/2019.01.30.Uncovering_ICS_Threat_Activity_Groups)
 * Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [Local](../../blob/master/Report/2019.01.28.ENISA_Threat_Landscape_Report_2018)
-* Jan 15 2019 - [[Hackmageddon]](https://www.hackmageddon.com/2019/01/15/2018-a-year-of-cyber-attacks/) | [Local](../../blob/master/Report/2019.01.15.2018-a-year-of-cyber-attacks)
+* Jan 15 2019 - [[Hackmageddon] 2018: A Year of Cyber Attacks](https://www.hackmageddon.com/2019/01/15/2018-a-year-of-cyber-attacks/) | [Local](../../blob/master/Report/2019.01.15.2018-a-year-of-cyber-attacks)
 * Jan 09 2019 - [[360] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/paper/193553.html) | [Local](../../blob/master/Report/2019.01.09.360_APT_Summary_report_2018_CN_Version)
 * Jan 07 2019 - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [Local](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition)
 * Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [Local](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version)
