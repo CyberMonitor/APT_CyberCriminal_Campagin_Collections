@@ -39,6 +39,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2018
 * Dec 28 - [[Medium] Goblin Panda changes the dropper and reuses the old infrastructure](https://medium.com/@Sebdraven/goblin-panda-changes-the-dropper-and-reused-the-old-infrastructure-a35915f3e37a) | [Local](../../blob/master/2018/2018.12.28.Goblin_Panda)
+* Dec 20 - [[Objective-See] Middle East Cyber-Espionage: analyzing WindShift's implant: OSX.WindTail](https://objective-see.com/blog/blog_0x3B.html)| [Local](../../blob/master/2018/2018.12.20.WindShift_Middle_East)
 * Dec 18 - [[Trend Micro] URSNIF, EMOTET, DRIDEX and BitPaymer Gangs Linked by a Similar Loader](https://blog.trendmicro.com/trendlabs-security-intelligence/ursnif-emotet-dridex-and-bitpaymer-gangs-linked-by-a-similar-loader/) | [Local](../../blob/master/2018/2018.12.18.ursnif-emotet-dridex-and-bitpaymer-gangs)
 * Dec 13 - [[Certfa] The Return of The Charming Kitten](https://blog.certfa.com/posts/the-return-of-the-charming-kitten/) | [Local](../../blob/master/2018/2018.12.13.Charming_Kitten_Return)
 * Dec 13 - [[Trend Micro] Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers’ Leak](https://documents.trendmicro.com/assets/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | [Local](../../blob/master/2018/2018.12.13.Tildeb_Shadow_Brokers)
@@ -792,6 +793,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [Local](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+* Mar 04 2019 - [[FireEye] M-Trends 2019](https://content.fireeye.com/m-trends/rpt-m-trends-2019) | [Local](../../blob/master/Report/2019.03.04.M-Trends_2019)
 * Feb 02 2019 - [[threatinte] Threat Intel Reads – January 2019](https://threatintel.eu/2019/02/02/threat-intel-reads-january-2019/) | [Local](../../blob/master/Report/2019.02.02.Threat_Intel_Reads_January_2019)
 * Jan 30 2019 - [[Dragos] Webinar Summary: Uncovering ICS Threat Activity Groups](https://dragos.com/blog/industry-news/webinar-summary-uncovering-ics-threat-activity-groups/) | [Local](../../blob/master/Report/2019.01.30.Uncovering_ICS_Threat_Activity_Groups)
 * Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [Local](../../blob/master/Report/2019.01.28.ENISA_Threat_Landscape_Report_2018)
