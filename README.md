@@ -23,6 +23,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator)
 
 ## 2019
+* Mar 06 - [[Symantec] Whitefly: Espionage Group has Singapore in Its Sights](https://www.symantec.com/blogs/threat-intelligence/whitefly-espionage-singapore) | [Local](../../blob/master/2019/2019.03.06.Whitefly)
 * Mar 04 - [[FireEye] APT40: Examining a China-Nexus Espionage Actor](https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html) | [Local](../../blob/master/2019/2019.03.04.APT40)
 * Feb 27 - [[Dell] A Peek into BRONZE UNION’s Toolbox](https://www.secureworks.com/research/a-peek-into-bronze-unions-toolbox) | [Local](../../blob/master/2019/2019.02.27.BRONZE_UNION_Toolbox)
 * Feb 26 - [[Cybaze-Yoroi Z-LAB] The Arsenal Behind the Australian Parliament Hack](https://blog.yoroi.company/research/the-arsenal-behind-the-australian-parliament-hack/) | [Local](../../blob/master/2019/2019.02.26.Australian_Parliament_Hack)
@@ -230,7 +231,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Aug 30 - [[ESET] Gazing at Gazer: Turla’s new second stage backdoor](https://www.welivesecurity.com/2017/08/30/eset-research-cyberespionage-gazer/) | [Local](../../blob/master/2017/2017.08.30.Gazing_at_Gazer) 
 * Aug 30 - [[Kaspersky] Introducing WhiteBear](https://securelist.com/introducing-whitebear/81638/) | [Local](../../blob/master/2017/2017.08.30.Introducing_WhiteBear)  
 * Aug 25 - [[Proofpoint] Operation RAT Cook: Chinese APT actors use fake Game of Thrones leaks as lures](https://www.proofpoint.com/us/threat-insight/post/operation-rat-cook-chinese-apt-actors-use-fake-game-thrones-leaks-lures) | [Local](../../blob/master/2017/2017.08.25.operation-rat-cook)  
-* Aug 18 - [[RSA] Russian Bank Offices Hit with Broad Phishing Wave](https://community.rsa.com/community/products/netwitness/blog/2017/08/18/russian-bank-offices-hit-with-broad-phishing-wave) | [Local](../../blob/master/2017/2017.08.18.Russian_Bank_Offices_Hit) 
+* Aug 18 - [[RSA] Russian Bank Offices Hit with Broad Phishing Wave](https://community.rsa.com/community/products/netwitness/blog/2017/08/18/russian-bank-offices-hit-with-broad-phishing-wave) | [Local](../../blob/master/2017/2017.08.18.Russian_Bank_Offices_Hit)
 * Aug 17 - [[Proofpoint] Turla APT actor refreshes KopiLuwak JavaScript backdoor for use in G20-themed attack](https://www.proofpoint.com/us/threat-insight/post/turla-apt-actor-refreshes-kopiluwak-javascript-backdoor-use-g20-themed-attack) | [Local](../../blob/master/2017/2017.08.17.turla-apt-actor-refreshes-kopiluwak-javascript-backdoor) 
 * Aug 15 - [[Palo Alto Networks] The Curious Case of Notepad and Chthonic: Exposing a Malicious Infrastructure](https://researchcenter.paloaltonetworks.com/2017/08/unit42-the-curious-case-of-notepad-and-chthonic-exposing-a-malicious-infrastructure/) | [Local](../../blob/master/2017/2017.08.15.Notepad_and_Chthonic) 
 * Aug 11 - [[FireEye] APT28 Targets Hospitality Sector, Presents Threat to Travelers](https://www.fireeye.com/blog/threat-research/2017/08/apt28-targets-hospitality-sector.html) | [Local](../../blob/master/2017/2017.08.11.apt28-targets-hospitality-sector)  
