@@ -23,6 +23,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator)
 
 ## 2019
+* Mar 06 - [[NTT] Targeted attack using Taidoor Analysis report](https://www.nttsecurity.com/docs/librariesprovider3/resources/taidoor%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E6%A8%99%E7%9A%84%E5%9E%8B%E6%94%BB%E6%92%83%E8%A7%A3%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88_v1) | [Local](../../blob/master/2019/2019.03.06_Taidoor_Analysis)
 * Mar 06 - [[Symantec] Whitefly: Espionage Group has Singapore in Its Sights](https://www.symantec.com/blogs/threat-intelligence/whitefly-espionage-singapore) | [Local](../../blob/master/2019/2019.03.06.Whitefly)
 * Mar 04 - [[FireEye] APT40: Examining a China-Nexus Espionage Actor](https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html) | [Local](../../blob/master/2019/2019.03.04.APT40)
 * Feb 27 - [[Dell] A Peek into BRONZE UNION’s Toolbox](https://www.secureworks.com/research/a-peek-into-bronze-unions-toolbox) | [Local](../../blob/master/2019/2019.02.27.BRONZE_UNION_Toolbox)
