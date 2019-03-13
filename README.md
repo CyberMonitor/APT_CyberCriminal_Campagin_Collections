@@ -24,6 +24,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [MITRE Att&CK: Group](https://attack.mitre.org/groups/)
 
 ## 2019
+* Mar 12 - [[Pala Alto Network] Operation Comando: How to Run a Cheap and Effective Credit Card Business](https://unit42.paloaltonetworks.com/operation-comando-or-how-to-run-a-cheap-and-effective-credit-card-business/) | [Local](../../blob/master/2019/2019.03.12.Operation_Comando)
 * Mar 11 - [[ESET] Gaming industry still in the scope of attackers in Asia](https://www.welivesecurity.com/2019/03/11/gaming-industry-scope-attackers-asia/) | [Local](../../blob/master/2019/2019.03.11.Gaming-Industry.Asia)
 * Mar 06 - [[Cybaze-Yoroi Z-LAB] Operation Pistacchietto](https://blog.yoroi.company/research/op-pistacchietto-an-italian-job/) | [Local](../../blob/master/2019/2019.03.06.Operation_Pistacchietto)
 * Mar 06 - [[NTT] Targeted attack using Taidoor Analysis report](https://www.nttsecurity.com/docs/librariesprovider3/resources/taidoor%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E6%A8%99%E7%9A%84%E5%9E%8B%E6%94%BB%E6%92%83%E8%A7%A3%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88_v1) | [Local](../../blob/master/2019/2019.03.06_Taidoor_Analysis)
@@ -46,6 +47,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2018
 * Dec 28 - [[Medium] Goblin Panda changes the dropper and reuses the old infrastructure](https://medium.com/@Sebdraven/goblin-panda-changes-the-dropper-and-reused-the-old-infrastructure-a35915f3e37a) | [Local](../../blob/master/2018/2018.12.28.Goblin_Panda)
+* Dec 27 - [[Cybaze-Yoroi ZLab] The Enigmatic “Roma225” Campaign](https://blog.yoroi.company/research/the-enigmatic-roma225-campaign/) | [Local](../../blob/master/2018/2018.12.27.Roma225_Campaign)
 * Dec 20 - [[Objective-See] Middle East Cyber-Espionage: analyzing WindShift's implant: OSX.WindTail](https://objective-see.com/blog/blog_0x3B.html)| [Local](../../blob/master/2018/2018.12.20.WindShift_Middle_East)
 * Dec 18 - [[Trend Micro] URSNIF, EMOTET, DRIDEX and BitPaymer Gangs Linked by a Similar Loader](https://blog.trendmicro.com/trendlabs-security-intelligence/ursnif-emotet-dridex-and-bitpaymer-gangs-linked-by-a-similar-loader/) | [Local](../../blob/master/2018/2018.12.18.ursnif-emotet-dridex-and-bitpaymer-gangs)
 * Dec 13 - [[Certfa] The Return of The Charming Kitten](https://blog.certfa.com/posts/the-return-of-the-charming-kitten/) | [Local](../../blob/master/2018/2018.12.13.Charming_Kitten_Return)
