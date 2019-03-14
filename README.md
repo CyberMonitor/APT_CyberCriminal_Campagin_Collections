@@ -24,8 +24,10 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [MITRE Att&CK: Group](https://attack.mitre.org/groups/)
 
 ## 2019
+* Mar 13 - [[CheckPoint] Operation Sheep: Pilfer-Analytics SDK in Action](https://research.checkpoint.com/operation-sheep-pilfer-analytics-sdk-in-action/) | [Local](../../blob/master/2019/2019.03.13.Operation_Sheep)
 * Mar 12 - [[Pala Alto Network] Operation Comando: How to Run a Cheap and Effective Credit Card Business](https://unit42.paloaltonetworks.com/operation-comando-or-how-to-run-a-cheap-and-effective-credit-card-business/) | [Local](../../blob/master/2019/2019.03.12.Operation_Comando)
 * Mar 11 - [[ESET] Gaming industry still in the scope of attackers in Asia](https://www.welivesecurity.com/2019/03/11/gaming-industry-scope-attackers-asia/) | [Local](../../blob/master/2019/2019.03.11.Gaming-Industry.Asia)
+* Mar 08 - [[Resecurity] Supply Chain – The Major Target of Cyberespionage Groups](https://resecurity.com/blog/supply-chain-the-major-target-of-cyberespionage-groups/) | [Local](../../blob/master/2019/2019.03.08.Supply_Chain_Groups)
 * Mar 07 - [[Trend Micro] New SLUB Backdoor Uses GitHub, Communicates via Slack](https://blog.trendmicro.com/trendlabs-security-intelligence/new-slub-backdoor-uses-github-communicates-via-slack/) | [Local](../../blob/master/2019/2019.03.07.SLUB_Backdoor)
 * Mar 06 - [[Cybaze-Yoroi Z-LAB] Operation Pistacchietto](https://blog.yoroi.company/research/op-pistacchietto-an-italian-job/) | [Local](../../blob/master/2019/2019.03.06.Operation_Pistacchietto)
 * Mar 06 - [[NTT] Targeted attack using Taidoor Analysis report](https://www.nttsecurity.com/docs/librariesprovider3/resources/taidoor%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E6%A8%99%E7%9A%84%E5%9E%8B%E6%94%BB%E6%92%83%E8%A7%A3%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88_v1) | [Local](../../blob/master/2019/2019.03.06_Taidoor_Analysis)
@@ -813,5 +815,6 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Jan 09 2019 - [[360] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/paper/193553.html) | [Local](../../blob/master/Report/2019.01.09.360_APT_Summary_report_2018_CN_Version)
 * Jan 07 2019 - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [Local](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition)
 * Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [Local](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version)
+
 
 
