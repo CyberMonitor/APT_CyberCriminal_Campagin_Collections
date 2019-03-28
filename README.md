@@ -24,6 +24,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [MITRE Att&CK: Group](https://attack.mitre.org/groups/)
 
 ## 2019
+* Mar 28 - [[ThreatRecon] Threat Actor Group using UAC Bypass Module to run BAT File](https://threatrecon.nshc.net/2019/03/28/threat-actor-group-using-uac-bypass-module-to-run-bat-file/)  | [Local](../../blob/master/2019/2019.03.28.UAC_Bypass_BAT_APT)
 * Mar 27 - [[Symantec] Elfin: Relentless Espionage Group Targets Multiple Organizations in Saudi Arabia and U.S.](https://www.symantec.com/blogs/threat-intelligence/elfin-apt33-espionage) | [Local](../../blob/master/2019/2019.03.27.Elfin)
 * Mar 25 - [[Kaspersky] Operation ShadowHammer](https://securelist.com/operation-shadowhammer/89992/) | [Local](../../blob/master/2019/2019.03.25.Operation_ShadowHammer)
 * Mar 22 - [[Netscout] LUCKY ELEPHANT CAMPAIGN MASQUERADING](https://www.netscout.com/blog/asert/lucky-elephant-campaign-masquerading) | [Local](../../blob/master/2019/2019.03.22.LUCKY_ELEPHANT)
