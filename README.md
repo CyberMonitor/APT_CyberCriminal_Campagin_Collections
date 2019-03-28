@@ -24,6 +24,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [MITRE Att&CK: Group](https://attack.mitre.org/groups/)
 
 ## 2019
+* Mar 27 - [[Symantec] Elfin: Relentless Espionage Group Targets Multiple Organizations in Saudi Arabia and U.S.](https://www.symantec.com/blogs/threat-intelligence/elfin-apt33-espionage) | [Local](../../blob/master/2019/2019.03.27.Elfin)
+* Mar 25 - [[Kaspersky] Operation ShadowHammer](https://securelist.com/operation-shadowhammer/89992/) | [Local](../../blob/master/2019/2019.03.25.Operation_ShadowHammer)
 * Mar 13 - [[CISCO] GlitchPOS: New PoS malware for sale](https://blog.talosintelligence.com/2019/03/glitchpos-new-pos-malware-for-sale.html) | [Local](../../blob/master/2019/2019.03.13.GlitchPOS_POS_Malware)
 * Mar 13 - [[FlashPoint] ‘DMSniff’ POS Malware Actively Leveraged to Target Small-, Medium-Sized Businesses](https://www.flashpoint-intel.com/blog/dmsniff-pos-malware-actively-leveraged-target-medium-sized-businesses/) | [Local](../../blob/master/2019/2019.03.13.DMSniff_POS_Malware)
 * Mar 13 - [[CheckPoint] Operation Sheep: Pilfer-Analytics SDK in Action](https://research.checkpoint.com/operation-sheep-pilfer-analytics-sdk-in-action/) | [Local](../../blob/master/2019/2019.03.13.Operation_Sheep)
