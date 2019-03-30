@@ -818,6 +818,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ## Report
 * Mar 04 2019 - [[FireEye] M-Trends 2019](https://content.fireeye.com/m-trends/rpt-m-trends-2019) | [Local](../../blob/master/Report/2019.03.04.M-Trends_2019)
 * Feb 02 2019 - [[threatinte] Threat Intel Reads – January 2019](https://threatintel.eu/2019/02/02/threat-intel-reads-january-2019/) | [Local](../../blob/master/Report/2019.02.02.Threat_Intel_Reads_January_2019)
+* Feb 2019 - [[SWISSCOM] Targeted Attacks: Cyber Security Report 2019](https://www.swisscom.ch/content/dam/swisscom/en/about/company/portrait/network/security/documents/security-report-2019.pdf) | [Local](../../blob/master/Report/2019.02.Targeted_Attacks)
 * Jan 30 2019 - [[Dragos] Webinar Summary: Uncovering ICS Threat Activity Groups](https://dragos.com/blog/industry-news/webinar-summary-uncovering-ics-threat-activity-groups/) | [Local](../../blob/master/Report/2019.01.30.Uncovering_ICS_Threat_Activity_Groups)
 * Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [Local](../../blob/master/Report/2019.01.28.ENISA_Threat_Landscape_Report_2018)
 * Jan 15 2019 - [[Hackmageddon] 2018: A Year of Cyber Attacks](https://www.hackmageddon.com/2019/01/15/2018-a-year-of-cyber-attacks/) | [Local](../../blob/master/Report/2019.01.15.2018-a-year-of-cyber-attacks)
