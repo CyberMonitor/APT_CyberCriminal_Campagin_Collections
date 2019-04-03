@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Apr 02 - [[Cylance] OceanLotus Steganography](https://threatvector.cylance.com/en_us/home/report-oceanlotus-apt-group-leveraging-steganography.html) | [Local](../../blob/master/2019/2019.04.02.OceanLotus_Steganography)
 * Mar 28 - [[Trend Micro] Desktop, Mobile Phishing Campaign Targets South Korean Websites, Steals Credentials Via Watering Hole](https://blog.trendmicro.com/trendlabs-security-intelligence/desktop-mobile-phishing-campaign-targets-south-korean-websites-steals-credentials-via-watering-hole/) | [Local](../../blob/master/2019/2019.03.28.Desktop_Mobile_Phishing_Campaign)
 * Mar 28 - [[C4ADS] Above Us Only Stars: Exposing GPS Spoofing in Russia and Syria](https://static1.squarespace.com/static/566ef8b4d8af107232d5358a/t/5c99488beb39314c45e782da/1553549492554/Above+Us+Only+Stars.pdf) | [Local](../../blob/master/2019/2019.03.28.Exposing_GPS_Spoofing_in_Russia_and_Syria)
 * Mar 28 - [[ThreatRecon] Threat Actor Group using UAC Bypass Module to run BAT File](https://threatrecon.nshc.net/2019/03/28/threat-actor-group-using-uac-bypass-module-to-run-bat-file/) | [Local](../../blob/master/2019/2019.03.28.UAC_Bypass_BAT_APT)
