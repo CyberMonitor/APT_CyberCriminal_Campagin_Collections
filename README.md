@@ -22,8 +22,16 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [sapphirex00 - Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting)
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator)
 * [MITRE Att&CK: Group](https://attack.mitre.org/groups/)
+* [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Apr 02 - [[Cylance] OceanLotus Steganography](https://threatvector.cylance.com/en_us/home/report-oceanlotus-apt-group-leveraging-steganography.html) | [Local](../../blob/master/2019/2019.04.02.OceanLotus_Steganography)
+* Mar 28 - [[Trend Micro] Desktop, Mobile Phishing Campaign Targets South Korean Websites, Steals Credentials Via Watering Hole](https://blog.trendmicro.com/trendlabs-security-intelligence/desktop-mobile-phishing-campaign-targets-south-korean-websites-steals-credentials-via-watering-hole/) | [Local](../../blob/master/2019/2019.03.28.Desktop_Mobile_Phishing_Campaign)
+* Mar 28 - [[C4ADS] Above Us Only Stars: Exposing GPS Spoofing in Russia and Syria](https://static1.squarespace.com/static/566ef8b4d8af107232d5358a/t/5c99488beb39314c45e782da/1553549492554/Above+Us+Only+Stars.pdf) | [Local](../../blob/master/2019/2019.03.28.Exposing_GPS_Spoofing_in_Russia_and_Syria)
+* Mar 28 - [[ThreatRecon] Threat Actor Group using UAC Bypass Module to run BAT File](https://threatrecon.nshc.net/2019/03/28/threat-actor-group-using-uac-bypass-module-to-run-bat-file/) | [Local](../../blob/master/2019/2019.03.28.UAC_Bypass_BAT_APT)
+* Mar 27 - [[Symantec] Elfin: Relentless Espionage Group Targets Multiple Organizations in Saudi Arabia and U.S.](https://www.symantec.com/blogs/threat-intelligence/elfin-apt33-espionage) | [Local](../../blob/master/2019/2019.03.27.Elfin)
+* Mar 25 - [[Kaspersky] Operation ShadowHammer](https://securelist.com/operation-shadowhammer/89992/) | [Local](../../blob/master/2019/2019.03.25.Operation_ShadowHammer)
+* Mar 22 - [[Netscout] LUCKY ELEPHANT CAMPAIGN MASQUERADING](https://www.netscout.com/blog/asert/lucky-elephant-campaign-masquerading) | [Local](../../blob/master/2019/2019.03.22.LUCKY_ELEPHANT)
 * Mar 13 - [[CISCO] GlitchPOS: New PoS malware for sale](https://blog.talosintelligence.com/2019/03/glitchpos-new-pos-malware-for-sale.html) | [Local](../../blob/master/2019/2019.03.13.GlitchPOS_POS_Malware)
 * Mar 13 - [[FlashPoint] ‘DMSniff’ POS Malware Actively Leveraged to Target Small-, Medium-Sized Businesses](https://www.flashpoint-intel.com/blog/dmsniff-pos-malware-actively-leveraged-target-medium-sized-businesses/) | [Local](../../blob/master/2019/2019.03.13.DMSniff_POS_Malware)
 * Mar 13 - [[CheckPoint] Operation Sheep: Pilfer-Analytics SDK in Action](https://research.checkpoint.com/operation-sheep-pilfer-analytics-sdk-in-action/) | [Local](../../blob/master/2019/2019.03.13.Operation_Sheep)
@@ -179,6 +187,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Feb 20 - [[Kaspersky] A Slice of 2017 Sofacy Activity](https://securelist.com/a-slice-of-2017-sofacy-activity/83930/) | [Local](../../blob/master/2018/2018.02.20.a-slice-of-2017-sofacy-activity)  
 * Feb 20 - [[FireEye] APT37 (Reaper): The Overlooked North Korean Actor](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) | [Local](../../blob/master/2018/2018.02.20.APT37)  
 * Feb 13 - [[Trend Micro] Deciphering Confucius’ Cyberespionage Operations](https://blog.trendmicro.com/trendlabs-security-intelligence/deciphering-confucius-cyberespionage-operations/) | [Local](../../blob/master/2018/2018.02.13.deciphering-confucius) 
+* Feb 13 - [[RSA] Lotus Blossom Continues ASEAN Targeting](https://community.rsa.com/community/products/netwitness/blog/2018/02/13/lotus-blossom-continues-asean-targeting) | [Local](../../blob/master/2018/2018.02.13.Lotus-Blossom-Continues) 
 * Feb 07 - [[CISCO] Targeted Attacks In The Middle East](http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html) | [Local](../../blob/master/2018/2018.02.07.targeted-attacks-in-middle-east_VBS_CAMPAIGN)  
 * Feb 02 - [[McAfee] Gold Dragon Widens Olympics Malware Attacks, Gains Permanent Presence on Victims’ Systems](https://securingtomorrow.mcafee.com/mcafee-labs/gold-dragon-widens-olympics-malware-attacks-gains-permanent-presence-on-victims-systems/) | [Local](../../blob/master/2018/2018.02.02.gold-dragon-widens-olympics-malware)  
 * Feb 01 - [[Bitdefender] Operation PZChao: a possible return of the Iron Tiger APT](https://labs.bitdefender.com/2018/02/operation-pzchao-a-possible-return-of-the-iron-tiger-apt/) | [Local](../../blob/master/2018/2018.02.01.operation-pzchao)  
@@ -812,6 +821,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ## Report
 * Mar 04 2019 - [[FireEye] M-Trends 2019](https://content.fireeye.com/m-trends/rpt-m-trends-2019) | [Local](../../blob/master/Report/2019.03.04.M-Trends_2019)
 * Feb 02 2019 - [[threatinte] Threat Intel Reads – January 2019](https://threatintel.eu/2019/02/02/threat-intel-reads-january-2019/) | [Local](../../blob/master/Report/2019.02.02.Threat_Intel_Reads_January_2019)
+* Feb 2019 - [[SWISSCOM] Targeted Attacks: Cyber Security Report 2019](https://www.swisscom.ch/content/dam/swisscom/en/about/company/portrait/network/security/documents/security-report-2019.pdf) | [Local](../../blob/master/Report/2019.02.Targeted_Attacks)
 * Jan 30 2019 - [[Dragos] Webinar Summary: Uncovering ICS Threat Activity Groups](https://dragos.com/blog/industry-news/webinar-summary-uncovering-ics-threat-activity-groups/) | [Local](../../blob/master/Report/2019.01.30.Uncovering_ICS_Threat_Activity_Groups)
 * Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [Local](../../blob/master/Report/2019.01.28.ENISA_Threat_Landscape_Report_2018)
 * Jan 15 2019 - [[Hackmageddon] 2018: A Year of Cyber Attacks](https://www.hackmageddon.com/2019/01/15/2018-a-year-of-cyber-attacks/) | [Local](../../blob/master/Report/2019.01.15.2018-a-year-of-cyber-attacks)
