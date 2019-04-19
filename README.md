@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Apr 17 - [[CISCO] DNS Hijacking Abuses Trust In Core Internet Service](https://blog.talosintelligence.com/2019/04/seaturtle.html) | [Local](../../blob/master/2019/2019.04.17.Operation_Sea_Turtle)
 * Apr 10 - [[Kaspersky] Project TajMahal – a sophisticated new APT framework](https://securelist.com/project-tajmahal/90240/) | [Local](../../blob/master/2019/2019.04.10.Project_TajMahal)
 * Apr 02 - [[Cylance] OceanLotus Steganography](https://threatvector.cylance.com/en_us/home/report-oceanlotus-apt-group-leveraging-steganography.html) | [Local](../../blob/master/2019/2019.04.02.OceanLotus_Steganography)
 * Mar 28 - [[Trend Micro] Desktop, Mobile Phishing Campaign Targets South Korean Websites, Steals Credentials Via Watering Hole](https://blog.trendmicro.com/trendlabs-security-intelligence/desktop-mobile-phishing-campaign-targets-south-korean-websites-steals-credentials-via-watering-hole/) | [Local](../../blob/master/2019/2019.03.28.Desktop_Mobile_Phishing_Campaign)
