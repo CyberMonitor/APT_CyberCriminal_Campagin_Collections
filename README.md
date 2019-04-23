@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Apr 19 - [[MalwareBytes] “Funky malware format” found in Ocean Lotus sample](https://blog.malwarebytes.com/threat-analysis/2019/04/funky-malware-format-found-in-ocean-lotus-sample/) | [Local](../../blob/master/2019/2019.04.19.Funky_malware_format)
 * Apr 17 - [[Palo Alto Networks] Aggah Campaign: Bit.ly, BlogSpot, and Pastebin Used for C2 in Large Scale Campaign](https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/) | [Local](../../blob/master/2019/2019.04.17.Aggah_Campaign)
 * Apr 17 - [[CISCO] DNS Hijacking Abuses Trust In Core Internet Service](https://blog.talosintelligence.com/2019/04/seaturtle.html) | [Local](../../blob/master/2019/2019.04.17.Operation_Sea_Turtle)
 * Apr 10 - [[CheckPoint] The Muddy Waters of APT Attacks](https://research.checkpoint.com/the-muddy-waters-of-apt-attacks/) | [Local](../../blob/master/2019/2019.04.10.Muddy_Waters)
@@ -87,6 +88,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Oct 18 - [[Medium] APT Sidewinder changes theirs TTPs to install their backdoor](https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739) | [Local](../../blob/master/2018/2018.10.18.APT_Sidewinder_changes)
 * Oct 18 - [[CISCO] Tracking Tick Through Recent Campaigns Targeting East Asia](https://blog.talosintelligence.com/2018/10/tracking-tick-through-recent-campaigns.html) | [Local](../../blob/master/2018/2018.10.18.Datper_Bronze_Butler)
 * Oct 18 - [[McAfee] Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-oceansalt.pdf) | [Local](../../blob/master/2018/2018.10.18.Operation_Oceansalt)
+* Oct 17 - [[Cylance] The SpyRATs of OceanLotus: Malware Analysis White Paper](https://www.cylance.com/content/dam/cylance-web/en-us/resources/knowledge-center/resource-library/reports/SpyRATsofOceanLotusMalwareWhitePaper.pdf) | [Local](../../blob/master/2018/2018.10.17.OceanLotus_SpyRATs)
 * Oct 17 - [[ESET] GreyEnergy: Updated arsenal of one of the most dangerous threat actors](https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/) | [Local](../../blob/master/2018/2018.10.17.GreyEnergy)
 * Oct 17 - [[Yoroi] Cyber-Espionage Campaign Targeting the Naval Industry (“MartyMcFly”)](https://blog.yoroi.company/?p=1829) | [Local](../../blob/master/2018/2018.10.17.Targeting_the_Naval_Industry)
 * Oct 15 - [[Kaspersky] Octopus-infested seas of Central Asia](https://securelist.com/octopus-infested-seas-of-central-asia/88200/) | [Local](../../blob/master/2018/2018.10.15.Octopus_Central_Asia)
