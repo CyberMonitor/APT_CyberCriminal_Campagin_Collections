@@ -25,6 +25,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* May 08 - [[QiAnXin] OceanLotus’ Attacks to Indochinese Peninsula: Evolution of Targets, Techniques and Procedure
+](https://ti.qianxin.com/blog/articles/oceanlotus-attacks-to-indochinese-peninsula-evolution-of-targets-techniques-and-procedure/) | [Local](../../blob/master/2019/2019.05.08.OceanLotus)
 * May 07 - [[Yoroi] ATMitch: New Evidence Spotted In The Wild](https://blog.yoroi.company/research/atmitch-new-evidence-spotted-in-the-wild/) | [Local](../../blob/master/2019/2019.05.07.ATMitch)
 * May 07 - [[ESET] Turla LightNeuron: An email too far](https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf)  | [Local](../../blob/master/2019/2019.05.07.Turla_LightNeuron)
 * May 07 - [[Symantec] Buckeye: Espionage Outfit Used Equation Group Tools Prior to Shadow Brokers Leak](https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit) | [Local](../../blob/master/2019/2019.05.07.Buckeye)
