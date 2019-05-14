@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* May 13 - [[Kapsersky] ScarCruft continues to evolve, introduces Bluetooth harvester](https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/) | [Local](../../blob/master/2019/2019.05.13.ScarCruft_Bluetooth)
 * May 09 - [[Clearsky] Iranian Nation-State APT Groups – “Black Box” Leak](https://www.clearskysec.com/wp-content/uploads/2019/05/Iranian-Nation-State-APT-Leak-Analysis-and-Overview.pdf) | [Local](../../blob/master/2019/2019.05.09.Iranian_APT_Leak)
 * May 08 - [[Kaspersky] FIN7.5: the infamous cybercrime rig “FIN7” continues its activities](https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/) | [Local](../../blob/master/2019/2019.05.08.Fin7.5)
 * May 08 - [[QiAnXin] OceanLotus’ Attacks to Indochinese Peninsula: Evolution of Targets, Techniques and Procedure
@@ -837,6 +838,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [Local](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+* Apr 30 2019 - [[Kaspersky] APT trends report Q1 2019](https://securelist.com/apt-trends-report-q1-2019/90643/)| [Local](../../blob/master/Report/2019.04.30.APT_Report_Q1_2019)
 * Mar 04 2019 - [[FireEye] M-Trends 2019](https://content.fireeye.com/m-trends/rpt-m-trends-2019) | [Local](../../blob/master/Report/2019.03.04.M-Trends_2019)
 * Feb 02 2019 - [[threatinte] Threat Intel Reads – January 2019](https://threatintel.eu/2019/02/02/threat-intel-reads-january-2019/) | [Local](../../blob/master/Report/2019.02.02.Threat_Intel_Reads_January_2019)
 * Feb 2019 - [[SWISSCOM] Targeted Attacks: Cyber Security Report 2019](https://www.swisscom.ch/content/dam/swisscom/en/about/company/portrait/network/security/documents/security-report-2019.pdf) | [Local](../../blob/master/Report/2019.02.Targeted_Attacks)
