@@ -25,6 +25,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* May 22 - [[ESET] A journey to Zebrocy land](https://www.welivesecurity.com/2019/05/22/journey-zebrocy-land/) | [Local](../../blob/master/2019/2019.05.22.Zebrocy_Land)
+* May 15 - [[Chronicle] Winnti: More than just Windows and Gates](https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a) | [Local](../../blob/master/2019/2019.05.15.Winnti_More)
 * May 13 - [[Kapsersky] ScarCruft continues to evolve, introduces Bluetooth harvester](https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/) | [Local](../../blob/master/2019/2019.05.13.ScarCruft_Bluetooth)
 * May 11 - [[Sebdraven] Chinese Actor APT target Ministry of Justice Vietnamese](https://medium.com/@Sebdraven/chineses-actor-apt-target-ministry-of-justice-vietnamese-14f13cc1c906) | [Local](../../blob/master/2019/2019.05.11.Chinese_APT_Vietnamese)
 * May 09 - [[Clearsky] Iranian Nation-State APT Groups – “Black Box” Leak](https://www.clearskysec.com/wp-content/uploads/2019/05/Iranian-Nation-State-APT-Leak-Analysis-and-Overview.pdf) | [Local](../../blob/master/2019/2019.05.09.Iranian_APT_Leak)
