@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2019
 * May 22 - [[ESET] A journey to Zebrocy land](https://www.welivesecurity.com/2019/05/22/journey-zebrocy-land/) | [Local](../../blob/master/2019/2019.05.22.Zebrocy_Land)
+* May 18 - [[ADLab] Operation_BlackLion](https://www.secrss.com/articles/10745) | [Local](../../blob/master/2019/2019.05.18.Operation_BlackLion)
 * May 15 - [[Chronicle] Winnti: More than just Windows and Gates](https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a) | [Local](../../blob/master/2019/2019.05.15.Winnti_More)
 * May 13 - [[Kapsersky] ScarCruft continues to evolve, introduces Bluetooth harvester](https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/) | [Local](../../blob/master/2019/2019.05.13.ScarCruft_Bluetooth)
 * May 11 - [[Sebdraven] Chinese Actor APT target Ministry of Justice Vietnamese](https://medium.com/@Sebdraven/chineses-actor-apt-target-ministry-of-justice-vietnamese-14f13cc1c906) | [Local](../../blob/master/2019/2019.05.11.Chinese_APT_Vietnamese)
@@ -259,6 +260,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Oct 30 - [[Kaspersky] Gaza Cybergang – updated activity in 2017](https://securelist.com/gaza-cybergang-updated-2017-activity/82765/) | [Local](../../blob/master/2017/2017.10.30.Gaza_Cybergang) 
 * Oct 27 - [[Bellingcat] Bahamut Revisited, More Cyber Espionage in the Middle East and South Asia](https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-cyber-espionage-middle-east-south-asia/) | [Local](../../blob/master/2017/2017.10.27.bahamut-revisited) 
 * Oct 24 - [[ClearSky] Iranian Threat Agent Greenbug Impersonates Israeli High-Tech and Cyber Security Companies](http://www.clearskysec.com/greenbug/) | [Local](../../blob/master/2017/2017.10.02.Aurora_Operation_CCleaner_II) 
+* Oct 19 - [[Bitdefender] Operation PZCHAO](https://download.bitdefender.com/resources/files/News/CaseStudies/study/185/Bitdefender-Business-2017-WhitePaper-PZCHAO-crea2452-en-EN-GenericUse.pdf) | [Local](../../blob/master/2017/2017.10.19.Operation_PZCHAO) 
 * Oct 16 - [[BAE Systems] Taiwan Heist: Lazarus Tools And Ransomware](https://baesystemsai.blogspot.kr/2017/10/taiwan-heist-lazarus-tools.html) | [Local](../../blob/master/2017/2017.10.16.Taiwan-Heist)  
 * Oct 16 - [[Kaspersky] BlackOasis APT and new targeted attacks leveraging zero-day exploit](https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/) | [Local](../../blob/master/2017/2017.10.16.BlackOasis_APT) 
 * OCt 16 - [[Proofpoint] Leviathan: Espionage actor spearphishes maritime and defense targets](https://www.proofpoint.com/us/threat-insight/post/leviathan-espionage-actor-spearphishes-maritime-and-defense-targets) | [Local](../../blob/master/2017/2017.10.16.Leviathan) 
