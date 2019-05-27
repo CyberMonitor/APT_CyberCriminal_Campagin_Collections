@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* May 27 - [[360] APT-C-38](http://blogs.360.cn/post/analysis-of-APT-C-38.html)  | [Local](../../blob/master/2019/2019.05.27.APT-C-38)
 * May 22 - [[ESET] A journey to Zebrocy land](https://www.welivesecurity.com/2019/05/22/journey-zebrocy-land/) | [Local](../../blob/master/2019/2019.05.22.Zebrocy_Land)
 * May 18 - [[ADLab] Operation_BlackLion](https://www.secrss.com/articles/10745) | [Local](../../blob/master/2019/2019.05.18.Operation_BlackLion)
 * May 15 - [[Chronicle] Winnti: More than just Windows and Gates](https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a) | [Local](../../blob/master/2019/2019.05.15.Winnti_More)
@@ -37,6 +38,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * May 07 - [[Yoroi] ATMitch: New Evidence Spotted In The Wild](https://blog.yoroi.company/research/atmitch-new-evidence-spotted-in-the-wild/) | [Local](../../blob/master/2019/2019.05.07.ATMitch)
 * May 07 - [[ESET] Turla LightNeuron: An email too far](https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf)  | [Local](../../blob/master/2019/2019.05.07.Turla_LightNeuron)
 * May 07 - [[Symantec] Buckeye: Espionage Outfit Used Equation Group Tools Prior to Shadow Brokers Leak](https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit) | [Local](../../blob/master/2019/2019.05.07.Buckeye)
+* May 03 - [[Kaspersky] Who’s who in the Zoo Cyberespionage operation targets Android users in the Middle East](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/05/24122414/ZooPark_for_public_final_edited.pdf) | [Local](../../blob/master/2019/2019.05.03.ZooPark)
+* Apr 30 - [[ThreatRecon] SectorB06 using Mongolian language in lure document](https://threatrecon.nshc.net/2019/04/30/sectorb06-using-mongolian-language-in-lure-document/) | [Local](../../blob/master/2019/2019.04.30.SectorB06_Mongolian)
 * Apr 23 - [[Kaspersky] Operation ShadowHammer: a high-profile supply chain attack](https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/) | [Local](../../blob/master/2019/2019.04.23.Operation_ShadowHammer)
 * Apr 22 - [[CheckPoint] FINTEAM: Trojanized TeamViewer Against Government Targets](https://research.checkpoint.com/finteam-trojanized-teamviewer-against-government-targets/) | [Local](../../blob/master/2019/2019.04.22.FINTEAM)
 * Apr 19 - [[MalwareBytes] “Funky malware format” found in Ocean Lotus sample](https://blog.malwarebytes.com/threat-analysis/2019/04/funky-malware-format-found-in-ocean-lotus-sample/) | [Local](../../blob/master/2019/2019.04.19.Funky_malware_format)
