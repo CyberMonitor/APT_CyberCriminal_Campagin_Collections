@@ -25,7 +25,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
-* May 27 - [[360] APT-C-38](http://blogs.360.cn/post/analysis-of-APT-C-38.html)  | [Local](../../blob/master/2019/2019.05.27.APT-C-38)
+* May 27 - [[360] APT-C-38](http://blogs.360.cn/post/analysis-of-APT-C-38.html) | [Local](../../blob/master/2019/2019.05.27.APT-C-38)
+* May 24 - [[ENSILO] UNCOVERING NEW ACTIVITY BY APT10](https://blog.ensilo.com/uncovering-new-activity-by-apt10) | [Local](../../blob/master/2019/2019.05.24_APT10_New_Activity)
 * May 22 - [[ESET] A journey to Zebrocy land](https://www.welivesecurity.com/2019/05/22/journey-zebrocy-land/) | [Local](../../blob/master/2019/2019.05.22.Zebrocy_Land)
 * May 18 - [[ADLab] Operation_BlackLion](https://www.secrss.com/articles/10745) | [Local](../../blob/master/2019/2019.05.18.Operation_BlackLion)
 * May 15 - [[Chronicle] Winnti: More than just Windows and Gates](https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a) | [Local](../../blob/master/2019/2019.05.15.Winnti_More)
