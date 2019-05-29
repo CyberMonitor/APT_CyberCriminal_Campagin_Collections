@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* May 28 - [[Palo Alto Network] Emissary Panda Attacks Middle East Government Sharepoint Servers](https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-government-sharepoint-servers/)  | [Local](../../blob/master/2019/2019.05.28.Emissary_Panda)
 * May 27 - [[360] APT-C-38](http://blogs.360.cn/post/analysis-of-APT-C-38.html) | [Local](../../blob/master/2019/2019.05.27.APT-C-38)
 * May 24 - [[ENSILO] UNCOVERING NEW ACTIVITY BY APT10](https://blog.ensilo.com/uncovering-new-activity-by-apt10) | [Local](../../blob/master/2019/2019.05.24_APT10_New_Activity)
 * May 22 - [[ESET] A journey to Zebrocy land](https://www.welivesecurity.com/2019/05/22/journey-zebrocy-land/) | [Local](../../blob/master/2019/2019.05.22.Zebrocy_Land)
@@ -44,7 +45,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Apr 23 - [[Kaspersky] Operation ShadowHammer: a high-profile supply chain attack](https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/) | [Local](../../blob/master/2019/2019.04.23.Operation_ShadowHammer)
 * Apr 22 - [[CheckPoint] FINTEAM: Trojanized TeamViewer Against Government Targets](https://research.checkpoint.com/finteam-trojanized-teamviewer-against-government-targets/) | [Local](../../blob/master/2019/2019.04.22.FINTEAM)
 * Apr 19 - [[MalwareBytes] “Funky malware format” found in Ocean Lotus sample](https://blog.malwarebytes.com/threat-analysis/2019/04/funky-malware-format-found-in-ocean-lotus-sample/) | [Local](../../blob/master/2019/2019.04.19.Funky_malware_format)
-* Apr 17 - [[Palo Alto Networks] Aggah Campaign: Bit.ly, BlogSpot, and Pastebin Used for C2 in Large Scale Campaign](https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/) | [Local](../../blob/master/2019/2019.04.17.Aggah_Campaign)
+* Apr 17 - [[Palo Alto Network] Aggah Campaign: Bit.ly, BlogSpot, and Pastebin Used for C2 in Large Scale Campaign](https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/) | [Local](../../blob/master/2019/2019.04.17.Aggah_Campaign)
 * Apr 17 - [[CISCO] DNS Hijacking Abuses Trust In Core Internet Service](https://blog.talosintelligence.com/2019/04/seaturtle.html) | [Local](../../blob/master/2019/2019.04.17.Operation_Sea_Turtle)
 * Apr 10 - [[CheckPoint] The Muddy Waters of APT Attacks](https://research.checkpoint.com/the-muddy-waters-of-apt-attacks/) | [Local](../../blob/master/2019/2019.04.10.Muddy_Waters)
 * Apr 10 - [[Kaspersky] Project TajMahal – a sophisticated new APT framework](https://securelist.com/project-tajmahal/90240/) | [Local](../../blob/master/2019/2019.04.10.Project_TajMahal)
