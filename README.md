@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* May 29 - [[Yoroi] TA505 is Expanding its Operations](https://blog.yoroi.company/research/ta505-is-expanding-its-operations/) | [Local](../../blob/master/2019/2019.05.29.TA505)
 * May 28 - [[Palo Alto Network] Emissary Panda Attacks Middle East Government Sharepoint Servers](https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-government-sharepoint-servers/)  | [Local](../../blob/master/2019/2019.05.28.Emissary_Panda)
 * May 27 - [[360] APT-C-38](http://blogs.360.cn/post/analysis-of-APT-C-38.html) | [Local](../../blob/master/2019/2019.05.27.APT-C-38)
 * May 24 - [[ENSILO] UNCOVERING NEW ACTIVITY BY APT10](https://blog.ensilo.com/uncovering-new-activity-by-apt10) | [Local](../../blob/master/2019/2019.05.24_APT10_New_Activity)
@@ -258,6 +259,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Nov 07 - [[Symantec] Sowbug: Cyber espionage group targets South American and Southeast Asian governments](https://www.symantec.com/connect/blogs/sowbug-cyber-espionage-group-targets-south-american-and-southeast-asian-governments) | [Local](../../blob/master/2017/2017.11.07.sowbug-cyber-espionage-group-targets)
 * Nov 06 - [[Trend Micro] ChessMaster’s New Strategy: Evolving Tools and Tactics](http://blog.trendmicro.com/trendlabs-security-intelligence/chessmasters-new-strategy-evolving-tools-tactics/) | [Local](../../blob/master/2017/2017.11.06.ChessMaster_New_Strategy)   
 * Nov 06 - [[Volexity] OceanLotus Blossoms: Mass Digital Surveillance and Attacks Targeting ASEAN, Asian Nations, the Media, Human Rights Groups, and Civil Society](https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/) | [Local](../../blob/master/2017/2017.11.06.oceanlotus-blossomsk)
+* Nov 02 - [[Palo Alto Networks] Recent InPage Exploits Lead to Multiple Malware Families](https://unit42.paloaltonetworks.com/unit42-recent-inpage-exploits-lead-multiple-malware-families/) | [Local](../../blob/master/2017/2017.11.02.InPage_Exploits)
 * Nov 02 - [[PwC] The KeyBoys are back in town](http://www.pwc.co.uk/issues/cyber-security-data-privacy/research/the-keyboys-are-back-in-town.html) | [Local](../../blob/master/2017/2017.11.02.KeyBoys_are_back)   
 * Nov 02 - [[Clearsky] LeetMX – a Yearlong Cyber-Attack Campaign Against Targets in Latin America](http://www.clearskysec.com/leetmx/) | [Local](../../blob/master/2017/2017.11.02.LeetMX)  
 * Nov 02 - [[RISKIQ] New Insights into Energetic Bear’s Watering Hole Attacks on Turkish Critical Infrastructure](https://www.riskiq.com/blog/labs/energetic-bear/) | [Local](../../blob/master/2017/2017.11.02.Energetic_Bear_on_Turkish_Critical_Infrastructure)  
@@ -371,6 +373,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Oct 05 - [[Kaspersky] Wave your false flags](https://securelist.com/files/2016/10/Bartholomew-GuerreroSaade-VB2016.pdf) | [Local](../../blob/master/2016/2016.10.05_Wave_Your_False_flag)
 * Oct 03 - [[Kaspersky] On the StrongPity Waterhole Attacks Targeting Italian and Belgian Encryption Users](https://securelist.com/blog/research/76147/on-the-strongpity-waterhole-attacks-targeting-italian-and-belgian-encryption-users/) | [Local](../../blob/master/2016/2016.10.03.StrongPity)
 * Sep 29 - [[NATO CCD COE] China and Cyber: Attitudes, Strategies, Organisation](https://ccdcoe.org/sites/default/files/multimedia/pdf/CS_organisation_CHINA_092016.pdf) | [Local](../../blob/master/2016/2016.09.29.China_and_Cyber_Attitudes_Strategies_Organisation)
+* Sep 28 - [[Palo Alto Networks] Confucius Says…Malware Families Get Further By Abusing Legitimate Websites](https://unit42.paloaltonetworks.com/unit42-confucius-says-malware-families-get-further-by-abusing-legitimate-websites/) | [Local](../../blob/master/2016/2016.09.28.Confucius_Says)
 * Sep 28 - [[ThreatConnect] Belling the BEAR: russia-hacks-bellingcat-mh17-investigation](https://www.threatconnect.com/blog/russia-hacks-bellingcat-mh17-investigation/) | [Local](../../blob/master/2016/2016.09.28.russia-hacks-bellingcat-mh17-investigation)
 * Sep 26 - [[Palo Alto Networks] Sofacy’s ‘Komplex’ OS X Trojan](http://researchcenter.paloaltonetworks.com/2016/09/unit42-sofacys-komplex-os-x-trojan/) | [Local](../../blob/master/2016/2016.09.26_Sofacy_Komplex_OSX_Trojan)
 * Sep 18 - [[Cyberkov] Hunting Libyan Scorpions](https://cyberkov.com/wp-content/uploads/2016/09/Hunting-Libyan-Scorpions-EN.pdf) | [Local](../../blob/master/2016/2016.09.18.Hunting-Libyan-Scorpions)
