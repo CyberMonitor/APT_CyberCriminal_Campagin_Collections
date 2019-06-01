@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* May 30 - [[CISCO] 10 years of virtual dynamite: A high-level retrospective of ATM malware](https://blog.talosintelligence.com/2019/05/10-years-of-virtual-dynamite.html) | [Local](../../blob/master/2019/2019.05.30.10_Years_ATM_Malware)
 * May 29 - [[ESET] A dive into Turla PowerShell usage](https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/) | [Local](../../blob/master/2019/2019.05.29.Turla_PowerShell)
 * May 29 - [[Yoroi] TA505 is Expanding its Operations](https://blog.yoroi.company/research/ta505-is-expanding-its-operations/) | [Local](../../blob/master/2019/2019.05.29.TA505)
 * May 28 - [[Palo Alto Network] Emissary Panda Attacks Middle East Government Sharepoint Servers](https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-government-sharepoint-servers/)  | [Local](../../blob/master/2019/2019.05.28.Emissary_Panda)
