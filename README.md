@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jun 04 - [[Bitdefender] An APT Blueprint: Gaining New Visibility into Financial Threats](https://www.bitdefender.com/files/News/CaseStudies/study/262/Bitdefender-WhitePaper-An-APT-Blueprint-Gaining-New-Visibility-into-Financial-Threats-interactive.pdf) | [Local](../../blob/master/2019/2019.06.04.APT_Blueprint)
 * May 30 - [[CISCO] 10 years of virtual dynamite: A high-level retrospective of ATM malware](https://blog.talosintelligence.com/2019/05/10-years-of-virtual-dynamite.html) | [Local](../../blob/master/2019/2019.05.30.10_Years_ATM_Malware)
 * May 29 - [[ESET] A dive into Turla PowerShell usage](https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/) | [Local](../../blob/master/2019/2019.05.29.Turla_PowerShell)
 * May 29 - [[Yoroi] TA505 is Expanding its Operations](https://blog.yoroi.company/research/ta505-is-expanding-its-operations/) | [Local](../../blob/master/2019/2019.05.29.TA505)
