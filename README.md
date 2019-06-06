@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jun 05 - [[Agari] Scattered Canary The Evolution and Inner Workings of a West African Cybercriminal Startup Turned BEC Enterprise](https://www.agari.com/cyber-intelligence-research/whitepapers/scattered-canary.pdf) | [Local](../../blob/master/2019/2019.06.05.Scattered_Canary)
 * Jun 04 - [[Bitdefender] An APT Blueprint: Gaining New Visibility into Financial Threats](https://www.bitdefender.com/files/News/CaseStudies/study/262/Bitdefender-WhitePaper-An-APT-Blueprint-Gaining-New-Visibility-into-Financial-Threats-interactive.pdf) | [Local](../../blob/master/2019/2019.06.04.APT_Blueprint)
 * Jun 03 - [[Kaspersky] Zebrocy’s Multilanguage Malware Salad](https://securelist.com/zebrocys-multilanguage-malware-salad/90680/) | [Local](../../blob/master/2019/2019.06.03.Zebrocy)
 * May 30 - [[CISCO] 10 years of virtual dynamite: A high-level retrospective of ATM malware](https://blog.talosintelligence.com/2019/05/10-years-of-virtual-dynamite.html) | [Local](../../blob/master/2019/2019.05.30.10_Years_ATM_Malware)
