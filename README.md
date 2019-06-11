@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jun 10 - [[Trend Micro] MuddyWater Resurfaces, Uses Multi-Stage Backdoor POWERSTATS V3 and New Post-Exploitation Tools](https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/) | [Local](../../blob/master/2019/2019.06.10.MuddyWater_Resurfaces)
 * Jun 05 - [[Agari] Scattered Canary The Evolution and Inner Workings of a West African Cybercriminal Startup Turned BEC Enterprise](https://www.agari.com/cyber-intelligence-research/whitepapers/scattered-canary.pdf) | [Local](../../blob/master/2019/2019.06.05.Scattered_Canary)
 * Jun 04 - [[Bitdefender] An APT Blueprint: Gaining New Visibility into Financial Threats](https://www.bitdefender.com/files/News/CaseStudies/study/262/Bitdefender-WhitePaper-An-APT-Blueprint-Gaining-New-Visibility-into-Financial-Threats-interactive.pdf) | [Local](../../blob/master/2019/2019.06.04.APT_Blueprint)
 * Jun 03 - [[Kaspersky] Zebrocy’s Multilanguage Malware Salad](https://securelist.com/zebrocys-multilanguage-malware-salad/90680/) | [Local](../../blob/master/2019/2019.06.03.Zebrocy)
