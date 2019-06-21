@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2019
 * Jun 21 - [[Symantec] Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments](https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments) | [Local](../../blob/master/2019/2019.06.21.Waterbug)
+* Jun 20 - [[Qianxin] New Approaches Utilized by OceanLotus to Target An Environmental Group in Vietnam](https://ti.qianxin.com/blog/articles/english-version-of-new-approaches-utilized-by-oceanLotus-to-target-vietnamese-environmentalist/) | [Local](../../blob/master/2019/2019.06.20.OceanLotus_New_Approaches)
 * Jun 12 - [[ThaiCERT] Threat Group Cards: A Threat Actor Encyclopedia](https://www.dropbox.com/s/ds0ra0c8odwsv3m/Threat%20Group%20Cards.pdf?dl) | [Local](../../blob/master/2019/2019.06.12.Threat_Group_Cards)
 * Jun 10 - [[Trend Micro] MuddyWater Resurfaces, Uses Multi-Stage Backdoor POWERSTATS V3 and New Post-Exploitation Tools](https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/) | [Local](../../blob/master/2019/2019.06.10.MuddyWater_Resurfaces)
 * Jun 05 - [[Agari] Scattered Canary The Evolution and Inner Workings of a West African Cybercriminal Startup Turned BEC Enterprise](https://www.agari.com/cyber-intelligence-research/whitepapers/scattered-canary.pdf) | [Local](../../blob/master/2019/2019.06.05.Scattered_Canary)
