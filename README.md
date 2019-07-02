@@ -25,6 +25,10 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jul 01 - [[Check Point] Operation Tripoli](https://research.checkpoint.com/operation-tripoli/) | [Local](../../blob/master/2019/2019.07.01.Operation_Tripoli)
+* Jul 01 - [[Cylance] Threat Spotlight: Ratsnif - New Network Vermin from OceanLotus](https://threatvector.cylance.com/en_us/home/threat-spotlight-ratsnif-new-network-vermin-from-oceanlotus.html) | [Local](../../blob/master/2019/2019.07.01.OceanLotus_Ratsnif)
+* Jun 26 - [[Recorded Future] Iranian Threat Actor Amasses Large Cyber Operations Infrastructure Network to Target Saudi Organizations](https://go.recordedfuture.com/hubfs/reports/cta-2019-0626.pdf) | [Local](../../blob/master/2019/2019.06.26.Iranian_to_Saudi)
+* Jun 25 - [[Qianxin] Analysis of MuddyC3, a New Weapon Used by MuddyWater](https://ti.qianxin.com/blog/articles/analysis-of-muddyc3-a-new-weapon-used-by-muddywater/) | [Local](../../blob/master/2019/2019.06.25.MuddyC3)
 * Jun 21 - [[Symantec] Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments](https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments) | [Local](../../blob/master/2019/2019.06.21.Waterbug)
 * Jun 20 - [[Qianxin] New Approaches Utilized by OceanLotus to Target An Environmental Group in Vietnam](https://ti.qianxin.com/blog/articles/english-version-of-new-approaches-utilized-by-oceanLotus-to-target-vietnamese-environmentalist/) | [Local](../../blob/master/2019/2019.06.20.OceanLotus_New_Approaches)
 * Jun 12 - [[ThaiCERT] Threat Group Cards: A Threat Actor Encyclopedia](https://www.dropbox.com/s/ds0ra0c8odwsv3m/Threat%20Group%20Cards.pdf?dl) | [Local](../../blob/master/2019/2019.06.12.Threat_Group_Cards)
