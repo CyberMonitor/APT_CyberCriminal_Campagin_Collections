@@ -25,7 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
-* Jul 03 - [[Anomali] Multiple Chinese Threat Groups Exploiting CVE-2018-0798 Equation Editor Vulnerability Since Late 2018](https://www.anomali.com/blog/multiple-chinese-threat-groups-exploiting-cve-2018-0798-equation-editor-vulnerability-since-late-2018)| [Local](../../blob/master/2019/2019.07.03.Chinese_APT_CVE-2018-0798)
+* Jul 03 - [[Anomali] Multiple Chinese Threat Groups Exploiting CVE-2018-0798 Equation Editor Vulnerability Since Late 2018](https://www.anomali.com/blog/multiple-chinese-threat-groups-exploiting-cve-2018-0798-equation-editor-vulnerability-since-late-2018) | [Local](../../blob/master/2019/2019.07.03.Chinese_APT_CVE-2018-0798)
 * Jul 01 - [[Check Point] Operation Tripoli](https://research.checkpoint.com/operation-tripoli/) | [Local](../../blob/master/2019/2019.07.01.Operation_Tripoli)
 * Jul 01 - [[Cylance] Threat Spotlight: Ratsnif - New Network Vermin from OceanLotus](https://threatvector.cylance.com/en_us/home/threat-spotlight-ratsnif-new-network-vermin-from-oceanlotus.html) | [Local](../../blob/master/2019/2019.07.01.OceanLotus_Ratsnif)
 * Jun 26 - [[Recorded Future] Iranian Threat Actor Amasses Large Cyber Operations Infrastructure Network to Target Saudi Organizations](https://go.recordedfuture.com/hubfs/reports/cta-2019-0626.pdf) | [Local](../../blob/master/2019/2019.06.26.Iranian_to_Saudi)
