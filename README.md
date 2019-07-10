@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jul 04 - [[Kaspersky] Twas the night before](https://securelist.com/twas-the-night-before/91599/) | [Local](../../blob/master/2019/2019.07.04.NewsBeef_APT)
 * Jul 03 - [[Anomali] Multiple Chinese Threat Groups Exploiting CVE-2018-0798 Equation Editor Vulnerability Since Late 2018](https://www.anomali.com/blog/multiple-chinese-threat-groups-exploiting-cve-2018-0798-equation-editor-vulnerability-since-late-2018) | [Local](../../blob/master/2019/2019.07.03.Chinese_APT_CVE-2018-0798)
 * Jul 01 - [[Check Point] Operation Tripoli](https://research.checkpoint.com/operation-tripoli/) | [Local](../../blob/master/2019/2019.07.01.Operation_Tripoli)
 * Jul 01 - [[Cylance] Threat Spotlight: Ratsnif - New Network Vermin from OceanLotus](https://threatvector.cylance.com/en_us/home/threat-spotlight-ratsnif-new-network-vermin-from-oceanlotus.html) | [Local](../../blob/master/2019/2019.07.01.OceanLotus_Ratsnif)
