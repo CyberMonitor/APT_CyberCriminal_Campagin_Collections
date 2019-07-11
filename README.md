@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jul 11 - [[ESET] Buhtrap group uses zero‑day in latest espionage campaigns](https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/) | [Local](../../blob/master/2019/2019.07.11.Buhtrap_Group)
 * Jul 09 - [[CISCO] Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques](https://blog.talosintelligence.com/2019/07/sea-turtle-keeps-on-swimming.html) | [Local](../../blob/master/2019/2019.07.09.SeaTurtle_swimming)
 * Jul 04 - [[Kaspersky] Twas the night before](https://securelist.com/twas-the-night-before/91599/) | [Local](../../blob/master/2019/2019.07.04.NewsBeef_APT)
 * Jul 03 - [[Anomali] Multiple Chinese Threat Groups Exploiting CVE-2018-0798 Equation Editor Vulnerability Since Late 2018](https://www.anomali.com/blog/multiple-chinese-threat-groups-exploiting-cve-2018-0798-equation-editor-vulnerability-since-late-2018) | [Local](../../blob/master/2019/2019.07.03.Chinese_APT_CVE-2018-0798)
