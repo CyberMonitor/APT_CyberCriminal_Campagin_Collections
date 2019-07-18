@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jul 17 - [[Intezer] EvilGnome: Rare Malware Spying on Linux Desktop Users](https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/) | [Local](../../blob/master/2019/2019.07.17.EvilGnome)
 * Jul 11 - [[ESET] Buhtrap group uses zero‑day in latest espionage campaigns](https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/) | [Local](../../blob/master/2019/2019.07.11.Buhtrap_Group)
 * Jul 09 - [[CISCO] Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques](https://blog.talosintelligence.com/2019/07/sea-turtle-keeps-on-swimming.html) | [Local](../../blob/master/2019/2019.07.09.SeaTurtle_swimming)
 * Jul 04 - [[Kaspersky] Twas the night before](https://securelist.com/twas-the-night-before/91599/) | [Local](../../blob/master/2019/2019.07.04.NewsBeef_APT)
