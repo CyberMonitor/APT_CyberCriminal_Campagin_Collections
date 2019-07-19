@@ -25,6 +25,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jul 18 - [[Trend Micro] Spam Campaign Targets Colombian Entities with Custom-made ‘Proyecto RAT,’ Uses Email Service YOPmail for C&C](https://blog.trendmicro.com/trendlabs-security-intelligence/spam-campaign-targets-colombian-entities-with-custom-proyecto-rat-email-service-yopmail-for-cc/) | [Local](../../blob/master/2019/2019.07.18.Proyecto_RAT_Colombian)
+* Jul 18 - [[ESET] OKRUM AND KETRICAN: AN OVERVIEW OF RECENT KE3CHANG GROUP ACTIVITY ](https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/) | [Local](../../blob/master/2019/2019.07.18.Okrum)
 * Jul 17 - [[Intezer] EvilGnome: Rare Malware Spying on Linux Desktop Users](https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/) | [Local](../../blob/master/2019/2019.07.17.EvilGnome)
 * Jul 11 - [[ESET] Buhtrap group uses zero‑day in latest espionage campaigns](https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/) | [Local](../../blob/master/2019/2019.07.11.Buhtrap_Group)
 * Jul 09 - [[CISCO] Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques](https://blog.talosintelligence.com/2019/07/sea-turtle-keeps-on-swimming.html) | [Local](../../blob/master/2019/2019.07.09.SeaTurtle_swimming)
