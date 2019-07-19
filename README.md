@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jul 18 - [[ESET] OKRUM AND KETRICAN: AN OVERVIEW OF RECENT KE3CHANG GROUP ACTIVITY ](https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/) | [Local](../../blob/master/2019/2019.07.18.Okrum)
 * Jul 17 - [[Intezer] EvilGnome: Rare Malware Spying on Linux Desktop Users](https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/) | [Local](../../blob/master/2019/2019.07.17.EvilGnome)
 * Jul 16 - [[Trend Micro] SLUB Gets Rid of GitHub, Intensifies Slack Use](https://blog.trendmicro.com/trendlabs-security-intelligence/slub-gets-rid-of-github-intensifies-slack-use/) | [Local](../../blob/master/2019/2019.07.16.SLUB)
+* Jul 15 - [[CISCO] SWEED: Exposing years of Agent Tesla campaigns](https://blog.talosintelligence.com/2019/07/sweed-agent-tesla.html) | [Local](../../blob/master/2019/2019.07.15.SWEED)
 * Jul 11 - [[ESET] Buhtrap group uses zero‑day in latest espionage campaigns](https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/) | [Local](../../blob/master/2019/2019.07.11.Buhtrap_Group)
 * Jul 09 - [[CISCO] Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques](https://blog.talosintelligence.com/2019/07/sea-turtle-keeps-on-swimming.html) | [Local](../../blob/master/2019/2019.07.09.SeaTurtle_swimming)
 * Jul 04 - [[Kaspersky] Twas the night before](https://securelist.com/twas-the-night-before/91599/) | [Local](../../blob/master/2019/2019.07.04.NewsBeef_APT)
