@@ -25,6 +25,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Jul 24 - [[ProofPoint] Chinese APT “Operation LagTime IT” Targets Government Information Technology Agencies in Eastern Asia](https://www.proofpoint.com/us/threat-insight/post/chinese-apt-operation-lagtime-it-targets-government-information-technology) | [Local](../../blob/master/2019/2019.07.24.Operation_LagTime_IT)
+* Jul 18 - [[FireEye] Hard Pass: Declining APT34’s Invite to Join Their Professional Network](https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html) | [Local](../../blob/master/2019/2019.07.18.APT34_Hard_Pass)
 * Jul 18 - [[Trend Micro] Spam Campaign Targets Colombian Entities with Custom-made ‘Proyecto RAT,’ Uses Email Service YOPmail for C&C](https://blog.trendmicro.com/trendlabs-security-intelligence/spam-campaign-targets-colombian-entities-with-custom-proyecto-rat-email-service-yopmail-for-cc/) | [Local](../../blob/master/2019/2019.07.18.Proyecto_RAT_Colombian)
 * Jul 18 - [[ESET] OKRUM AND KETRICAN: AN OVERVIEW OF RECENT KE3CHANG GROUP ACTIVITY ](https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/) | [Local](../../blob/master/2019/2019.07.18.Okrum)
 * Jul 17 - [[Intezer] EvilGnome: Rare Malware Spying on Linux Desktop Users](https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/) | [Local](../../blob/master/2019/2019.07.17.EvilGnome)
