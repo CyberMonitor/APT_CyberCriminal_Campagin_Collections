@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Aug 01 - [[Anity] Analysis of the Attack of Mobile Devices by OceanLotus](https://www.antiy.net/p/analysis-of-the-attack-of-mobile-devices-by-oceanlotus/) | [Local](../../blob/master/2019/2019.08.01.Mobile_OceanLotus)
 * Jul 24 - [[] Attacking the Heart of the German Industry](https://web.br.de/interaktiv/winnti/english/) | [Local](../../blob/master/2019/2019.07.24.Winnti_German)
 * Jul 24 - [[ProofPoint] Chinese APT “Operation LagTime IT” Targets Government Information Technology Agencies in Eastern Asia](https://www.proofpoint.com/us/threat-insight/post/chinese-apt-operation-lagtime-it-targets-government-information-technology) | [Local](../../blob/master/2019/2019.07.24.Operation_LagTime_IT)
 * Jul 18 - [[FireEye] Hard Pass: Declining APT34’s Invite to Join Their Professional Network](https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html) | [Local](../../blob/master/2019/2019.07.18.APT34_Hard_Pass)
