@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Aug 07 - [[FireEye] APT41: A Dual Espionage and Cyber Crime Operation](https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html) | [Local](../../blob/master/2019/2019.08.07.APT41)
 * Aug 05 - [[ESET] Sharpening the Machete](https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/) | [Local](../../blob/master/2019/2019.08.05.Sharpening_the_Machete)
 * Aug 01 - [[Anity] Analysis of the Attack of Mobile Devices by OceanLotus](https://www.antiy.net/p/analysis-of-the-attack-of-mobile-devices-by-oceanlotus/) | [Local](../../blob/master/2019/2019.08.01.Mobile_OceanLotus)
 * Jul 24 - [[] Attacking the Heart of the German Industry](https://web.br.de/interaktiv/winnti/english/) | [Local](../../blob/master/2019/2019.07.24.Winnti_German)
