@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
+* Aug 08 - [Anomali[] Suspected BITTER APT Continues Targeting Government of China and Chinese Organizations](https://www.anomali.com/blog/suspected-bitter-apt-continues-targeting-government-of-china-and-chinese-organizations) | [Local](../../blob/master/2019/2019.08.08.BITTER_APT)
 * Aug 07 - [[FireEye] APT41: A Dual Espionage and Cyber Crime Operation](https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html) | [Local](../../blob/master/2019/2019.08.07.APT41)
 * Aug 05 - [[ESET] Sharpening the Machete](https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/) | [Local](../../blob/master/2019/2019.08.05.Sharpening_the_Machete)
 * Aug 01 - [[Anity] Analysis of the Attack of Mobile Devices by OceanLotus](https://www.antiy.net/p/analysis-of-the-attack-of-mobile-devices-by-oceanlotus/) | [Local](../../blob/master/2019/2019.08.01.Mobile_OceanLotus)
@@ -884,7 +885,8 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [Local](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
-* Apr 30 2019 - [[Kaspersky] APT trends report Q1 2019](https://securelist.com/apt-trends-report-q1-2019/90643/)| [Local](../../blob/master/Report/2019.04.30.APT_Report_Q1_2019)
+* Aug 01 2019 - [[Kaspersky] APT trends report Q2 2019](https://securelist.com/apt-trends-report-q2-2019/91897/) | [Local](../../blob/master/Report/2019.08.01.APT_Report_Q2_2019)
+* Apr 30 2019 - [[Kaspersky] APT trends report Q1 2019](https://securelist.com/apt-trends-report-q1-2019/90643/) | [Local](../../blob/master/Report/2019.04.30.APT_Report_Q1_2019)
 * Mar 04 2019 - [[FireEye] M-Trends 2019](https://content.fireeye.com/m-trends/rpt-m-trends-2019) | [Local](../../blob/master/Report/2019.03.04.M-Trends_2019)
 * Feb 02 2019 - [[threatinte] Threat Intel Reads – January 2019](https://threatintel.eu/2019/02/02/threat-intel-reads-january-2019/) | [Local](../../blob/master/Report/2019.02.02.Threat_Intel_Reads_January_2019)
 * Feb 2019 - [[SWISSCOM] Targeted Attacks: Cyber Security Report 2019](https://www.swisscom.ch/content/dam/swisscom/en/about/company/portrait/network/security/documents/security-report-2019.pdf) | [Local](../../blob/master/Report/2019.02.Targeted_Attacks)
