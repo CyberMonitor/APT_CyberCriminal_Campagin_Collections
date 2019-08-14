@@ -895,7 +895,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Jan 15 2019 - [[Hackmageddon] 2018: A Year of Cyber Attacks](https://www.hackmageddon.com/2019/01/15/2018-a-year-of-cyber-attacks/) | [Local](../../blob/master/Report/2019.01.15.2018-a-year-of-cyber-attacks) <br>
 :small_orange_diamond: Jan 09 2019 - [[360] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/paper/193553.html) | [Local](../../blob/master/Report/2019.01.09.360_APT_Summary_report_2018_CN_Version) <br>
 :small_orange_diamond: Jan 07 2019 - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [Local](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition) <br>
-:small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | :floppy_disk: [Local](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version) <br>
+:small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:floppy_disk:](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version) <br>
 
 
 
