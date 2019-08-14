@@ -872,10 +872,13 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Jan 12 - [[Google] Operation Aurora](http://en.wikipedia.org/wiki/Operation_Aurora) | [:closed_book:](../../blob/master/2010/2010.01.12.Operation_Aurora)
 
 ## 2009
+* Oct 19 - [[Northrop Grumman] Capability of the People’s Republic of China to Conduct Cyber Warfare and Computer Network Exploitation ](https://nsarchive2.gwu.edu//NSAEBB/NSAEBB424/docs/Cyber-030.pdf) | [:closed_book:](../../blob/master/2009/2009.10.19.Capability_China_Cyber_Warfare)
 * Mar 29 - [[TheSecDevGroup] Tracking GhostNet](http://www.nartv.org/mirror/ghostnet.pdf) | [:closed_book:](../../blob/master/2009/2009.03.29.GhostNet)
 * Jan 18 - [[Baltic] Impact of Alleged Russian Cyber Attacks](https://www.baltdefcol.org/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf) | [:closed_book:](../../blob/master/2009/2009.01.18.Russian_Cyber_Attacks)
 
 ## 2008
+* ??? - [[Culture Mandala] HOW CHINA WILL USE CYBER WARFARE TO LEAPFROG IN MILITARY COMPETITIVENESS ](http://www.international-relations.com/CM8-1/Cyberwar.pdf) | [:closed_book:](../../blob/master/2008/2008.HOW_CHINA_WILL_USE_CYBER_WARFARE)
+* ??? - [[Military Review]](https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20081231_art009.pdf)| [:closed_book:](../../blob/master/2008/2008.CHINA_CHINA_CYBER_WARFARE)
 * Nov 19 - [[Wired] Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/) | [:closed_book:](../../blob/master/2008/2008.11.19.UNDER_WORM_ASSAULT)
 * Nov 04 - [[DTIC] China's Electronic Long-Range Reconnaissance](http://www.dtic.mil/dtic/tr/fulltext/u2/a492659.pdf) | [:closed_book:](../../blob/master/2008/2008.11.04.China_Electornic_Long_Range_Reconnaissance)
 * Oct 02 - [[Culture Mandala] How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf) | [:closed_book:](../../blob/master/2008/2008.10.02.China_Cyber_Warfare)
