@@ -10,19 +10,19 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## Reference Resources
 :small_blue_diamond: [kbandla](https://github.com/kbandla/APTnotes) 
-* [APTnotes](https://github.com/aptnotes/data)
-* [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
-* [Attack Wiki](https://attack.mitre.org/wiki/Groups)
-* [threat-INTel](https://github.com/fdiskyou/threat-INTel)
-* [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
-* 🍎 [Raw Threat Intelligence](https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc/edit)
-* [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
-* 🦂 [APT Sample by 0xffff0800](http://0xffff0800.ddns.net/Library/) (https://iec56w4ibovnb4wc.onion.si/)
-* [APT Map](https://aptmap.netlify.com/)
-* [sapphirex00 - Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting)
-* [APTSimulator](https://github.com/NextronSystems/APTSimulator)
-* [MITRE Att&CK: Group](https://attack.mitre.org/groups/)
-* [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
+:small_blue_diamond: [APTnotes](https://github.com/aptnotes/data)
+:small_blue_diamond: [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
+:small_blue_diamond: [Attack Wiki](https://attack.mitre.org/wiki/Groups)
+:small_blue_diamond: [threat-INTel](https://github.com/fdiskyou/threat-INTel)
+:small_blue_diamond: [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
+:small_blue_diamond: [Raw Threat Intelligence](https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc/edit)
+:small_blue_diamond: [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)
+:small_blue_diamond: [APT Sample by 0xffff0800](http://0xffff0800.ddns.net/Library/) (https://iec56w4ibovnb4wc.onion.si/)
+:small_blue_diamond: [APT Map](https://aptmap.netlify.com/)
+:small_blue_diamond: [sapphirex00 - Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting)
+:small_blue_diamond: [APTSimulator](https://github.com/NextronSystems/APTSimulator)
+:small_blue_diamond: [MITRE Att&CK: Group](https://attack.mitre.org/groups/)
+:small_blue_diamond: [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
 * Aug 08 - [[Anomali] Suspected BITTER APT Continues Targeting Government of China and Chinese Organizations](https://www.anomali.com/blog/suspected-bitter-apt-continues-targeting-government-of-china-and-chinese-organizations) | [:closed_book:](../../blob/master/2019/2019.08.08.BITTER_APT)
@@ -894,7 +894,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [:closed_book:](../../blob/master/Report/2019.01.28.ENISA_Threat_Landscape_Report_2018) <br>
 :small_orange_diamond: Jan 15 2019 - [[Hackmageddon] 2018: A Year of Cyber Attacks](https://www.hackmageddon.com/2019/01/15/2018-a-year-of-cyber-attacks/) | [:closed_book:](../../blob/master/Report/2019.01.15.2018-a-year-of-cyber-attacks) <br>
 :small_orange_diamond: Jan 09 2019 - [[360] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/paper/193553.html) | [:closed_book:](../../blob/master/Report/2019.01.09.360_APT_Summary_report_2018_CN_Version) <br>
-:small_orange_diamond: Jan 07 2019 - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [:closed_book:](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition) <br>
+:small_orange_diamond: [Jan 07 2019] - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [:closed_book:](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition) <br>
 :small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version) <br>
 
 
