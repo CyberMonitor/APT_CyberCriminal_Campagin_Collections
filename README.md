@@ -9,7 +9,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [Print Friendly & PDF](https://www.printfriendly.com/)
 
 ## Reference Resources
-* [kbandla](https://github.com/kbandla/APTnotes) 
+:small_blue_diamond: [kbandla](https://github.com/kbandla/APTnotes) 
 * [APTnotes](https://github.com/aptnotes/data)
 * [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 * [Attack Wiki](https://attack.mitre.org/wiki/Groups)
@@ -25,7 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)
 
 ## 2019
-* Aug 08 - [Anomali[] Suspected BITTER APT Continues Targeting Government of China and Chinese Organizations](https://www.anomali.com/blog/suspected-bitter-apt-continues-targeting-government-of-china-and-chinese-organizations) | [:closed_book:](../../blob/master/2019/2019.08.08.BITTER_APT)
+* Aug 08 - [[Anomali] Suspected BITTER APT Continues Targeting Government of China and Chinese Organizations](https://www.anomali.com/blog/suspected-bitter-apt-continues-targeting-government-of-china-and-chinese-organizations) | [:closed_book:](../../blob/master/2019/2019.08.08.BITTER_APT)
 * Aug 07 - [[FireEye] APT41: A Dual Espionage and Cyber Crime Operation](https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html) | [:closed_book:](../../blob/master/2019/2019.08.07.APT41)
 * Aug 05 - [[ESET] Sharpening the Machete](https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/) | [:closed_book:](../../blob/master/2019/2019.08.05.Sharpening_the_Machete)
 * Aug 01 - [[Anity] Analysis of the Attack of Mobile Devices by OceanLotus](https://www.antiy.net/p/analysis-of-the-attack-of-mobile-devices-by-oceanlotus/) | [:closed_book:](../../blob/master/2019/2019.08.01.Mobile_OceanLotus)
