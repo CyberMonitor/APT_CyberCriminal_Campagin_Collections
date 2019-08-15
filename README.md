@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT) <br>
 
 ## 2019
+* Aug 14 - [[ESET] In the Balkans, businesses are under fire from a double‑barreled weapon](https://www.welivesecurity.com/2019/08/14/balkans-businesses-double-barreled-weapon/) | [:closed_book:](../../blob/master/2019/2019.08.14.Balkans_Campaign)
 * Aug 08 - [[Anomali] Suspected BITTER APT Continues Targeting Government of China and Chinese Organizations](https://www.anomali.com/blog/suspected-bitter-apt-continues-targeting-government-of-china-and-chinese-organizations) | [:closed_book:](../../blob/master/2019/2019.08.08.BITTER_APT)
 * Aug 07 - [[FireEye] APT41: A Dual Espionage and Cyber Crime Operation](https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html) | [:closed_book:](../../blob/master/2019/2019.08.07.APT41)
 * Aug 05 - [[ESET] Sharpening the Machete](https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/) | [:closed_book:](../../blob/master/2019/2019.08.05.Sharpening_the_Machete)
