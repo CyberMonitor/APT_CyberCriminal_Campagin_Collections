@@ -25,6 +25,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT) <br>
 
 ## 2019
+* Aug 21 - [[Group-IB] Silence 2.0](https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf) | [:closed_book:](../../blob/master/2019/2019.08.21.Silence_2.0)
+* Aug 20 - [[StrangerealIntel] Malware analysis about unknown Chinese APT campaign](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/China/APT/Unknown/20-08-19/Malware%20analysis%2020-08-19.md) | [:closed_book:](../../blob/master/2019/2019.08.20.unknown_Chinese_APT)
 * Aug 14 - [[ESET] In the Balkans, businesses are under fire from a double‑barreled weapon](https://www.welivesecurity.com/2019/08/14/balkans-businesses-double-barreled-weapon/) | [:closed_book:](../../blob/master/2019/2019.08.14.Balkans_Campaign)
 * Aug 12 - [[Kaspersky] Recent Cloud Atlas activity](https://securelist.com/recent-cloud-atlas-activity/92016/)| [:closed_book:](../../blob/master/2019/2019.08.12.Cloud_Atlas_activity)
 * Aug 08 - [[Anomali] Suspected BITTER APT Continues Targeting Government of China and Chinese Organizations](https://www.anomali.com/blog/suspected-bitter-apt-continues-targeting-government-of-china-and-chinese-organizations) | [:closed_book:](../../blob/master/2019/2019.08.08.BITTER_APT)
