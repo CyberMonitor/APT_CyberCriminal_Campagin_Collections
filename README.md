@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2019
 * Aug 27 - [[CISCO] China Chopper still active 9 years later](https://blog.talosintelligence.com/2019/08/china-chopper-still-active-9-years-later.html) | [:closed_book:](../../blob/master/2019/2019.08.27.China_Chopper)
 * Aug 27 - [[Trend Micro] TA505 At It Again: Variety is the Spice of ServHelper and FlawedAmmyy](https://blog.trendmicro.com/trendlabs-security-intelligence/ta505-at-it-again-variety-is-the-spice-of-servhelper-and-flawedammyy/) | [:closed_book:](../../blob/master/2019/2019.08.27.TA505_Again)
+* Aug 26 - [[QianXin] APT-C-09 Reappeared as Conflict Intensified Between India and Pakistan](https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/) | [:closed_book:](../../blob/master/2019/2019.08.26.APT-C-09)
 * Aug 21 - [[Fortinet] The Gamaredon Group: A TTP Profile Analysis](https://www.fortinet.com/blog/threat-research/gamaredon-group-ttp-profile-analysis.html) | [:closed_book:](../../blob/master/2019/2019.08.21.Gamaredon_Group)
 * Aug 21 - [[Group-IB] Silence 2.0](https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf) | [:closed_book:](../../blob/master/2019/2019.08.21.Silence_2.0)
 * Aug 20 - [[StrangerealIntel] Malware analysis about unknown Chinese APT campaign](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/China/APT/Unknown/20-08-19/Malware%20analysis%2020-08-19.md) | [:closed_book:](../../blob/master/2019/2019.08.20.unknown_Chinese_APT)
