@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT) <br>
 
 ## 2019
+* Aug 29 - [[NSHC] SectorJ04 Group’s Increased Activity in 2019](https://threatrecon.nshc.net/2019/08/29/sectorj04-groups-increased-activity-in-2019/) | [:closed_book:](../../blob/master/2019/2019.08.29.SectorJ04_2019)
 * Aug 27 - [[Dell] LYCEUM Takes Center Stage in Middle East Campaign](https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign) | [:closed_book:](../../blob/master/2019/2019.08.27.LYCEUM_threat_group)
 * Aug 27 - [[CISCO] China Chopper still active 9 years later](https://blog.talosintelligence.com/2019/08/china-chopper-still-active-9-years-later.html) | [:closed_book:](../../blob/master/2019/2019.08.27.China_Chopper)
 * Aug 27 - [[Trend Micro] TA505 At It Again: Variety is the Spice of ServHelper and FlawedAmmyy](https://blog.trendmicro.com/trendlabs-security-intelligence/ta505-at-it-again-variety-is-the-spice-of-servhelper-and-flawedammyy/) | [:closed_book:](../../blob/master/2019/2019.08.27.TA505_Again)
