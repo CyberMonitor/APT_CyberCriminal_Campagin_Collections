@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT) <br>
 
 ## 2019
+* Aug 31 - [[CyberThreatIntel] Malware analysis on Bitter APT campaign](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/offshore%20APT%20organization/Bitter/27-08-19/Malware%20analysis%2031-08-19.md) | [:closed_book:](../../blob/master/2019/2019.08.31.Bitter_APT_Malware_analysis)
 * Aug 29 - [[IBM] More_eggs, Anyone? Threat Actor ITG08 Strikes Again](https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/) | [:closed_book:](../../blob/master/2019/2019.08.29.FIN6_ITG08)
 * Aug 29 - [[NSHC] SectorJ04 Group’s Increased Activity in 2019](https://threatrecon.nshc.net/2019/08/29/sectorj04-groups-increased-activity-in-2019/) | [:closed_book:](../../blob/master/2019/2019.08.29.SectorJ04_2019)
 * Aug 27 - [[Dell] LYCEUM Takes Center Stage in Middle East Campaign](https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign) | [:closed_book:](../../blob/master/2019/2019.08.27.LYCEUM_threat_group)
