@@ -25,6 +25,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT) <br>
 
 ## 2019
+* Sep 05 - [[CheckPoint] UPSynergy: Chinese-American Spy vs. Spy Story](https://research.checkpoint.com/upsynergy/) | [:closed_book:](../../blob/master/2019/2019.09.05.UPSynergy)
 * Aug 31 - [[CyberThreatIntel] Malware analysis on Bitter APT campaign](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/offshore%20APT%20organization/Bitter/27-08-19/Malware%20analysis%2031-08-19.md) | [:closed_book:](../../blob/master/2019/2019.08.31.Bitter_APT_Malware_analysis)
 * Aug 29 - [[Trend Micro] ‘Heatstroke’ Campaign Uses Multistage Phishing Attack to Steal PayPal and Credit Card Information](https://blog.trendmicro.com/trendlabs-security-intelligence/heatstroke-campaign-uses-multistage-phishing-attack-to-steal-paypal-and-credit-card-information/) | [:closed_book:](../../blob/master/2019/2019.08.29.SectorJ04_2019)
 * Aug 29 - [[IBM] More_eggs, Anyone? Threat Actor ITG08 Strikes Again](https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/) | [:closed_book:](../../blob/master/2019/2019.08.29.FIN6_ITG08)
