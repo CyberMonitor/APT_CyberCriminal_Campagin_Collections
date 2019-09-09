@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2019
 * Sep 05 - [[CheckPoint] UPSynergy: Chinese-American Spy vs. Spy Story](https://research.checkpoint.com/upsynergy/) | [:closed_book:](../../blob/master/2019/2019.09.05.UPSynergy)
+* Sep 04 - [[Trend Micro] Glupteba Campaign Hits Network Routers and Updates C&C Servers with Data from Bitcoin Transactions](https://blog.trendmicro.com/trendlabs-security-intelligence/glupteba-campaign-hits-network-routers-and-updates-cc-servers-with-data-from-bitcoin-transactions/) | [:closed_book:](../../blob/master/2019/2019.09.04.Glupteba_Campaign)
 * Aug 31 - [[CyberThreatIntel] Malware analysis on Bitter APT campaign](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/offshore%20APT%20organization/Bitter/27-08-19/Malware%20analysis%2031-08-19.md) | [:closed_book:](../../blob/master/2019/2019.08.31.Bitter_APT_Malware_analysis)
 * Aug 29 - [[Trend Micro] ‘Heatstroke’ Campaign Uses Multistage Phishing Attack to Steal PayPal and Credit Card Information](https://blog.trendmicro.com/trendlabs-security-intelligence/heatstroke-campaign-uses-multistage-phishing-attack-to-steal-paypal-and-credit-card-information/) | [:closed_book:](../../blob/master/2019/2019.08.29.Heatstroke_Campaign)
 * Aug 29 - [[IBM] More_eggs, Anyone? Threat Actor ITG08 Strikes Again](https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/) | [:closed_book:](../../blob/master/2019/2019.08.29.FIN6_ITG08)
