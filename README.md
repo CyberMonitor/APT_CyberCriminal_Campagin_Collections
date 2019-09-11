@@ -23,6 +23,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APTSimulator](https://github.com/NextronSystems/APTSimulator) <br>
 :small_blue_diamond: [MITRE Att&CK: Group](https://attack.mitre.org/groups/) <br>
 :small_blue_diamond: [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT) <br>
+:small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
 * Sep 09 - [[Symantec] Thrip: Ambitious Attacks Against High Level Targets Continue](https://www.symantec.com/blogs/threat-intelligence/thrip-apt-south-east-asia) | [:closed_book:](../../blob/master/2019/2019.09.09.Thrip)
@@ -32,6 +33,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Aug 29 - [[Trend Micro] ‘Heatstroke’ Campaign Uses Multistage Phishing Attack to Steal PayPal and Credit Card Information](https://blog.trendmicro.com/trendlabs-security-intelligence/heatstroke-campaign-uses-multistage-phishing-attack-to-steal-paypal-and-credit-card-information/) | [:closed_book:](../../blob/master/2019/2019.08.29.Heatstroke_Campaign)
 * Aug 29 - [[IBM] More_eggs, Anyone? Threat Actor ITG08 Strikes Again](https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/) | [:closed_book:](../../blob/master/2019/2019.08.29.FIN6_ITG08)
 * Aug 29 - [[NSHC] SectorJ04 Group’s Increased Activity in 2019](https://threatrecon.nshc.net/2019/08/29/sectorj04-groups-increased-activity-in-2019/) | [:closed_book:](../../blob/master/2019/2019.08.29.SectorJ04_2019)
+* Aug 27 - [[Strangerealintel] Malware analysis about sample of APT Patchwork](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Indian/APT/Patchwork/27-08-19/Malware%20analysis%2027-08-19.md) | [:closed_book:](../../blob/master/2019/2019.08.27.Patchwork_Malware_Analysis)
 * Aug 27 - [[Dell] LYCEUM Takes Center Stage in Middle East Campaign](https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign) | [:closed_book:](../../blob/master/2019/2019.08.27.LYCEUM_threat_group)
 * Aug 27 - [[CISCO] China Chopper still active 9 years later](https://blog.talosintelligence.com/2019/08/china-chopper-still-active-9-years-later.html) | [:closed_book:](../../blob/master/2019/2019.08.27.China_Chopper)
 * Aug 27 - [[Trend Micro] TA505 At It Again: Variety is the Spice of ServHelper and FlawedAmmyy](https://blog.trendmicro.com/trendlabs-security-intelligence/ta505-at-it-again-variety-is-the-spice-of-servhelper-and-flawedammyy/) | [:closed_book:](../../blob/master/2019/2019.08.27.TA505_Again)
