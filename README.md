@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Sep 11 - [[MeltX0R Security] RANCOR APT: Suspected targeted attacks against South East Asia](https://meltx0r.github.io/tech/2019/09/11/rancor-apt.html) | [:closed_book:](../../blob/master/2019/2019.09.11.RANCOR_APT)
 * Sep 09 - [[Symantec] Thrip: Ambitious Attacks Against High Level Targets Continue](https://www.symantec.com/blogs/threat-intelligence/thrip-apt-south-east-asia) | [:closed_book:](../../blob/master/2019/2019.09.09.Thrip)
 * Sep 06 - [[MeltX0R Security] BITTER APT: Not So Sweet](https://meltx0r.github.io/tech/2019/09/06/bitter-apt-not-so-sweet.html) | [:closed_book:](../../blob/master/2019/2019.09.06.BITTER_APT_Not_So_Sweet)
 * Sep 05 - [[CheckPoint] UPSynergy: Chinese-American Spy vs. Spy Story](https://research.checkpoint.com/upsynergy/) | [:closed_book:](../../blob/master/2019/2019.09.05.UPSynergy)
