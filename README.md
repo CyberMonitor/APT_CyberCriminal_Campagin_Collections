@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Sep 30 - [[Lastline] HELO Winnti: Attack or Scan?](https://www.lastline.com/labsblog/helo-winnti-attack-scan/) | [:closed_book:](../../blob/master/2019/2019.09.30_HELO_Winnti)
 * Sep 26 - [[GBHackers] Chinese APT Hackers Attack Windows Users via FakeNarrator Malware to Implant PcShare Backdoor](https://gbhackers.com/fakenarrator-malware/) | [:closed_book:](../../blob/master/2019/2019.09.26_China_APT_FakeNarrator_To_PcShare)
 * Sep 24 - [[CheckPoint] Mapping the connections inside Russia’s APT Ecosystem](https://research.checkpoint.com/russianaptecosystem/) | [:closed_book:](../../blob/master/2019/2019.09.24_Russia_APT_Ecosystem)
+* Sep 18 - [[Symantec] Tortoiseshell Group Targets IT Providers in Saudi Arabia in Probable Supply Chain Attacks](https://www.symantec.com/blogs/threat-intelligence/tortoiseshell-apt-supply-chain) | [:closed_book:](../../blob/master/2019/2019.09.18.Tortoiseshell-APT)
 * Sep 15 - [[Clearsky] The Kittens Are Back in Town Charming Kitten Campaign Against Academic
 Researchers](https://www.clearskysec.com/wp-content/uploads/2019/09/The-Kittens-Are-Back-in-Town-Charming-Kitten-2019.pdf) | [:closed_book:](../../blob/master/2019/2019.09.15_Kittens_back)
 * Sep 11 - [[MeltX0R Security] RANCOR APT: Suspected targeted attacks against South East Asia](https://meltx0r.github.io/tech/2019/09/11/rancor-apt.html) | [:closed_book:](../../blob/master/2019/2019.09.11.RANCOR_APT)
