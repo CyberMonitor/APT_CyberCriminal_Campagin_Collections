@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Oct 01 - [[Trend Micro] New Fileless Botnet Novter Distributed by KovCoreG Malvertising Campaign](https://blog.trendmicro.com/trendlabs-security-intelligence/new-fileless-botnet-novter-distributed-by-kovcoreg-malvertising-campaign/) | [:closed_book:](../../blob/master/2019/2019.10.01.kovcoreg-malvertising-campaign)
 * Sep 30 - [[Lastline] HELO Winnti: Attack or Scan?](https://www.lastline.com/labsblog/helo-winnti-attack-scan/) | [:closed_book:](../../blob/master/2019/2019.09.30_HELO_Winnti)
 * Sep 26 - [[GBHackers] Chinese APT Hackers Attack Windows Users via FakeNarrator Malware to Implant PcShare Backdoor](https://gbhackers.com/fakenarrator-malware/) | [:closed_book:](../../blob/master/2019/2019.09.26_China_APT_FakeNarrator_To_PcShare)
 * Sep 24 - [[CheckPoint] Mapping the connections inside Russia’s APT Ecosystem](https://research.checkpoint.com/russianaptecosystem/) | [:closed_book:](../../blob/master/2019/2019.09.24_Russia_APT_Ecosystem)
