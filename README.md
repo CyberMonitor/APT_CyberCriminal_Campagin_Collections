@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Oct 01 - [[Netskope] New Adwind Campaign targets US Petroleum Industry](https://www.netskope.com/blog/new-adwind-campaign-targets-us-petroleum-industry-2) | [:closed_book:](../../blob/master/2019/2019.10.01.Adwind_Campaign_US_Petroleum_Industry)
 * Oct 01 - [[Trend Micro] New Fileless Botnet Novter Distributed by KovCoreG Malvertising Campaign](https://blog.trendmicro.com/trendlabs-security-intelligence/new-fileless-botnet-novter-distributed-by-kovcoreg-malvertising-campaign/) | [:closed_book:](../../blob/master/2019/2019.10.01.kovcoreg-malvertising-campaign)
 * Sep 30 - [[Lastline] HELO Winnti: Attack or Scan?](https://www.lastline.com/labsblog/helo-winnti-attack-scan/) | [:closed_book:](../../blob/master/2019/2019.09.30_HELO_Winnti)
 * Sep 26 - [[GBHackers] Chinese APT Hackers Attack Windows Users via FakeNarrator Malware to Implant PcShare Backdoor](https://gbhackers.com/fakenarrator-malware/) | [:closed_book:](../../blob/master/2019/2019.09.26_China_APT_FakeNarrator_To_PcShare)
@@ -388,6 +389,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Apr 05 - [[Palo Alto Networks, Clearsky] Targeted Attacks in the Middle East Using KASPERAGENT and MICROPSIA](https://researchcenter.paloaltonetworks.com/2017/04/unit42-targeted-attacks-middle-east-using-kasperagent-micropsia/) | [:closed_book:](../../blob/master/2017/2017.04.05.KASPERAGENT_and_MICROPSIA)
 * Mar 15 - [[JPCERT] FHAPPI Campaign](http://blog.0day.jp/p/english-report-of-fhappi-freehosting.html) | [:closed_book:](../../blob/master/2017/2017.03.15.FHAPPI_Campaign)
 * Mar 14 - [[Clearsky] Operation Electric Powder – Who is targeting Israel Electric Company?](http://www.clearskysec.com/iec/) | [:closed_book:](../../blob/master/2017/2017.03.14.Operation_Electric_Powder)
+* Mar 08 - [[Netskope] Targeted Attack Campaigns with Multi-Variate Malware Observed in the Cloud](https://www.netskope.com/blog/targeted-attack-campaigns-multi-variate-malware-observed-cloud) | [:closed_book:](../../blob/master/2017/2017.03.08.Targeted_Attack_Campaigns)
 * Mar 06 - [[Kaspersky] From Shamoon to StoneDrill](https://securelist.com/blog/research/77725/from-shamoon-to-stonedrill/) | [:closed_book:](../../blob/master/2017/2017.03.06.from-shamoon-to-stonedrill)
 * Feb 28 - [[IBM] Dridex’s Cold War: Enter AtomBombing](https://securityintelligence.com/dridexs-cold-war-enter-atombombing/) | [:closed_book:](../../blob/master/2017/2017.02.28.dridexs-cold-war-enter-atombombing)
 * Feb 27 - [[Palo Alto Networks] The Gamaredon Group Toolset Evolution](http://researchcenter.paloaltonetworks.com/2017/02/unit-42-title-gamaredon-group-toolset-evolution/) | [:closed_book:](../../blob/master/2017/2017.02.27.gamaredon-group-toolset-evolution/)
