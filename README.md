@@ -26,6 +26,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Oct 04 - [[Avest] GEOST BOTNET. THE STORY OF THE DISCOVERY OF A NEW ANDROID BANKING TROJAN FROM AN OPSEC ERROR](http://public.avast.com/research/VB2019-Garcia-etal.pdf) | [:closed_book:](../../blob/master/2019/2019.10.04.GEOST_BOTNET)
+* Oct 03 - [[Palo Alto Networks] PKPLUG: Chinese Cyber Espionage Group Attacking Asia](https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/) | [:closed_book:](../../blob/master/2019/2019.10.03.PKPLUG)
 * Oct 01 - [[Netskope] New Adwind Campaign targets US Petroleum Industry](https://www.netskope.com/blog/new-adwind-campaign-targets-us-petroleum-industry-2) | [:closed_book:](../../blob/master/2019/2019.10.01.Adwind_Campaign_US_Petroleum_Industry)
 * Oct 01 - [[Trend Micro] New Fileless Botnet Novter Distributed by KovCoreG Malvertising Campaign](https://blog.trendmicro.com/trendlabs-security-intelligence/new-fileless-botnet-novter-distributed-by-kovcoreg-malvertising-campaign/) | [:closed_book:](../../blob/master/2019/2019.10.01.kovcoreg-malvertising-campaign)
 * Sep 30 - [[Lastline] HELO Winnti: Attack or Scan?](https://www.lastline.com/labsblog/helo-winnti-attack-scan/) | [:closed_book:](../../blob/master/2019/2019.09.30_HELO_Winnti)
