@@ -26,12 +26,14 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Oct 07 - [[Anomali] China-Based APT Mustang Panda Targets Minority Groups, Public and Private Sector Organizations](https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations) | [:closed_book:](../../blob/master/2019/2019.10.07.Panda_minority-groups)
 * Oct 04 - [[Avest] GEOST BOTNET. THE STORY OF THE DISCOVERY OF A NEW ANDROID BANKING TROJAN FROM AN OPSEC ERROR](http://public.avast.com/research/VB2019-Garcia-etal.pdf) | [:closed_book:](../../blob/master/2019/2019.10.04.GEOST_BOTNET)
 * Oct 03 - [[Palo Alto Networks] PKPLUG: Chinese Cyber Espionage Group Attacking Asia](https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/) | [:closed_book:](../../blob/master/2019/2019.10.03.PKPLUG)
 * Oct 01 - [[Netskope] New Adwind Campaign targets US Petroleum Industry](https://www.netskope.com/blog/new-adwind-campaign-targets-us-petroleum-industry-2) | [:closed_book:](../../blob/master/2019/2019.10.01.Adwind_Campaign_US_Petroleum_Industry)
 * Oct 01 - [[Trend Micro] New Fileless Botnet Novter Distributed by KovCoreG Malvertising Campaign](https://blog.trendmicro.com/trendlabs-security-intelligence/new-fileless-botnet-novter-distributed-by-kovcoreg-malvertising-campaign/) | [:closed_book:](../../blob/master/2019/2019.10.01.kovcoreg-malvertising-campaign)
 * Sep 30 - [[Lastline] HELO Winnti: Attack or Scan?](https://www.lastline.com/labsblog/helo-winnti-attack-scan/) | [:closed_book:](../../blob/master/2019/2019.09.30_HELO_Winnti)
 * Sep 26 - [[GBHackers] Chinese APT Hackers Attack Windows Users via FakeNarrator Malware to Implant PcShare Backdoor](https://gbhackers.com/fakenarrator-malware/) | [:closed_book:](../../blob/master/2019/2019.09.26_China_APT_FakeNarrator_To_PcShare)
+* Sep 24 - [[CISCO] How Tortoiseshell created a fake veteran hiring website to host malware](https://blog.talosintelligence.com/2019/09/tortoiseshell-fake-veterans.html) | [:closed_book:](../../blob/master/2019/2019.09.24_New_Tortoiseshell)
 * Sep 24 - [[CheckPoint] Mapping the connections inside Russia’s APT Ecosystem](https://research.checkpoint.com/russianaptecosystem/) | [:closed_book:](../../blob/master/2019/2019.09.24_Russia_APT_Ecosystem)
 * Sep 18 - [[Symantec] Tortoiseshell Group Targets IT Providers in Saudi Arabia in Probable Supply Chain Attacks](https://www.symantec.com/blogs/threat-intelligence/tortoiseshell-apt-supply-chain) | [:closed_book:](../../blob/master/2019/2019.09.18.Tortoiseshell-APT)
 * Sep 15 - [[Clearsky] The Kittens Are Back in Town Charming Kitten Campaign Against Academic
