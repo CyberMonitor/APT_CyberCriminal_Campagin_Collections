@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Oct 10 - [[ESET] Attor, a spy platform with curious GSM fingerprinting](https://www.welivesecurity.com/2019/10/10/eset-discovers-attor-spy-platform/) | [:closed_book:](../../blob/master/2019/2019.10.10.Attor_GSM_fingerprinting_spy_platform)
 * Oct 07 - [[CERT-FR] Supply chain attacks: threats targeting service providers and design offices](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2019-CTI-005.pdf) | [:closed_book:](../../blob/master/2019/2019.10.07.Supply_Chain_Attacks)
 * Oct 07 - [[Clearsky] The Kittens Are Back in Town 2 – Charming Kitten Campaign Keeps Going on, Using New Impersonation Methods](https://www.clearskysec.com/the-kittens-are-back-in-town-2/) | [:closed_book:](../../blob/master/2019/2019.10.07.Charming_Kitten_Back_in_Town_2)
 * Oct 07 - [[Anomali] China-Based APT Mustang Panda Targets Minority Groups, Public and Private Sector Organizations](https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations) | [:closed_book:](../../blob/master/2019/2019.10.07.Panda_minority-groups)
