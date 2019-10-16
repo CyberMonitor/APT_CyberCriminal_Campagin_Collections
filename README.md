@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Oct 14 - [[Exatrack] From tweet to rootkit](https://exatrack.com/public/winnti_EN.pdf) | [:closed_book:](../../blob/master/2019/2019.10.14.From_tweet_to_rootkit)
 * Oct 14 - [[Crowdstrike] HUGE FAN OF YOUR WORK: TURBINE PANDA ](https://www.crowdstrike.com/resources/wp-content/brochures/reports/huge-fan-of-your-work-intelligence-report.pdf) | [:closed_book:](../../blob/master/2019/2019.10.14.TURBINE_PANDA)
 * Oct 10 - [[Fireeye] Mahalo FIN7: Responding to the Criminal Operators’ New Tools and Techniques](https://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html) | [:closed_book:](../../blob/master/2019/2019.10.10.Fin7)
 * Oct 10 - [[ESET] CONNECTING THE DOTS Exposing the arsenal and methods of the Winnti Group](https://www.welivesecurity.com/wp-content/uploads/2019/10/ESET_Winnti.pdf) | [:closed_book:](../../blob/master/2019/2019.10.10.Winnti_Group)
