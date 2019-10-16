@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2019
 * Oct 14 - [[Crowdstrike] HUGE FAN OF YOUR WORK: TURBINE PANDA ](https://www.crowdstrike.com/resources/wp-content/brochures/reports/huge-fan-of-your-work-intelligence-report.pdf) | [:closed_book:](../../blob/master/2019/2019.10.14.TURBINE_PANDA)
 * Oct 10 - [[Fireeye] Mahalo FIN7: Responding to the Criminal Operators’ New Tools and Techniques](https://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html) | [:closed_book:](../../blob/master/2019/2019.10.10.Fin7)
+* Oct 10 - [[ESET] CONNECTING THE DOTS Exposing the arsenal and methods of the Winnti Group](https://www.welivesecurity.com/wp-content/uploads/2019/10/ESET_Winnti.pdf) | [:closed_book:](../../blob/master/2019/2019.10.10.Winnti_Group)
 * Oct 10 - [[ESET] Attor, a spy platform with curious GSM fingerprinting](https://www.welivesecurity.com/2019/10/10/eset-discovers-attor-spy-platform/) | [:closed_book:](../../blob/master/2019/2019.10.10.Attor_GSM_fingerprinting_spy_platform)
 * Oct 07 - [[CERT-FR] Supply chain attacks: threats targeting service providers and design offices](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2019-CTI-005.pdf) | [:closed_book:](../../blob/master/2019/2019.10.07.Supply_Chain_Attacks)
 * Oct 07 - [[Clearsky] The Kittens Are Back in Town 2 – Charming Kitten Campaign Keeps Going on, Using New Impersonation Methods](https://www.clearskysec.com/the-kittens-are-back-in-town-2/) | [:closed_book:](../../blob/master/2019/2019.10.07.Charming_Kitten_Back_in_Town_2)
