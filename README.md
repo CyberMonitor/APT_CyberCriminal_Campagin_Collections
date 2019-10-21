@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Oct 17 - [[ESET] Operation Ghost: The Dukes aren’t back – they never left](https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/) | [:closed_book:](../../blob/master/2019/2019.10.17.Operation_Ghost)
 * Oct 15 - [[Fireeye] LOWKEY: Hunting for the Missing Volume Serial ID](https://www.fireeye.com/blog/threat-research/2019/10/lowkey-hunting-for-the-missing-volume-serial-id.html) | [:closed_book:](../../blob/master/2019/2019.10.15.LOWKEY)
 * Oct 14 - [[Exatrack] From tweet to rootkit](https://exatrack.com/public/winnti_EN.pdf) | [:closed_book:](../../blob/master/2019/2019.10.14.From_tweet_to_rootkit)
 * Oct 14 - [[Crowdstrike] HUGE FAN OF YOUR WORK: TURBINE PANDA ](https://www.crowdstrike.com/resources/wp-content/brochures/reports/huge-fan-of-your-work-intelligence-report.pdf) | [:closed_book:](../../blob/master/2019/2019.10.14.TURBINE_PANDA)
