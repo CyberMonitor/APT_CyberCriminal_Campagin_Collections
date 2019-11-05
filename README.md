@@ -26,7 +26,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
-* Oct 31 - [[Fireeye] MESSAGETAP: Who’s Reading Your Text Messages?](https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html)| [:closed_book:](../../blob/master/2019/2019.10.31.MESSAGETAP)
+* Nov 04 - [[Tencent] Higaisa APT](https://s.tencent.com/research/report/836.html) | [:closed_book:](../../blob/master/2019/2019.11.04.Higaisa_APT)
+* Oct 31 - [[Fireeye] MESSAGETAP: Who’s Reading Your Text Messages?](https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html) | [:closed_book:](../../blob/master/2019/2019.10.31.MESSAGETAP)
 * Oct 21 - [[ESET] Winnti Group’s skip‑2.0: A Microsoft SQL Server backdoor](https://www.welivesecurity.com/2019/10/21/winnti-group-skip2-0-microsoft-sql-server-backdoor/) | [:closed_book:](../../blob/master/2019/2019.10.21.Winnti_skip_2.0)
 * Oct 17 - [[ESET] Operation Ghost: The Dukes aren’t back – they never left](https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/) | [:closed_book:](../../blob/master/2019/2019.10.17.Operation_Ghost)
 * Oct 15 - [[Fireeye] LOWKEY: Hunting for the Missing Volume Serial ID](https://www.fireeye.com/blog/threat-research/2019/10/lowkey-hunting-for-the-missing-volume-serial-id.html) | [:closed_book:](../../blob/master/2019/2019.10.15.LOWKEY)
