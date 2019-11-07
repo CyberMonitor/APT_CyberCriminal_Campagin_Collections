@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Nov 05 - [[Telsy] THE LAZARUS’ GAZE TO THE WORLD: WHAT IS BEHIND THE FIRST STONE ?](https://blog.telsy.com/the-lazarus-gaze-to-the-world-what-is-behind-the-first-stone/) | [:closed_book:](../../blob/master/2019/2019.11.05.LAZARUS_GAZE)
 * Nov 04 - [[Tencent] Higaisa APT](https://s.tencent.com/research/report/836.html) | [:closed_book:](../../blob/master/2019/2019.11.04.Higaisa_APT)
 * Oct 31 - [[Fireeye] MESSAGETAP: Who’s Reading Your Text Messages?](https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html) | [:closed_book:](../../blob/master/2019/2019.10.31.MESSAGETAP)
 * Oct 21 - [[ESET] Winnti Group’s skip‑2.0: A Microsoft SQL Server backdoor](https://www.welivesecurity.com/2019/10/21/winnti-group-skip2-0-microsoft-sql-server-backdoor/) | [:closed_book:](../../blob/master/2019/2019.10.21.Winnti_skip_2.0)
