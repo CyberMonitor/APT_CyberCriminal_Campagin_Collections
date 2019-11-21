@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Nov 20 - [[Trend Micro] Mac Backdoor Linked to Lazarus Targets Korean Users](https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/) | [:closed_book:](../../blob/master/2019/2019.11.20.Mac_Lazarus)
 * Nov 13 - [[Trend Micro] More than a Dozen Obfuscated APT33 Botnets Used for Extreme Narrow Targeting](https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/) | [:closed_book:](../../blob/master/2019/2019.11.13.APT33_Extreme＿Narrow_Targeting)
 * Nov 08 - [[Kapsersky] Titanium: the Platinum group strikes again](https://securelist.com/titanium-the-platinum-group-strikes-again/94961/) | [:closed_book:](../../blob/master/2019/2019.11.08_Titanium_Action_Platinum_group)
 * Nov 05 - [[Telsy] THE LAZARUS’ GAZE TO THE WORLD: WHAT IS BEHIND THE FIRST STONE ?](https://blog.telsy.com/the-lazarus-gaze-to-the-world-what-is-behind-the-first-stone/) | [:closed_book:](../../blob/master/2019/2019.11.05.LAZARUS_GAZE)
