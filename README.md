@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 
 ## 2019
+* Nov 26 - [[Microsoft] Insights from one year of tracking a polymorphic threat: Dexphot](https://www.microsoft.com/security/blog/2019/11/26/insights-from-one-year-of-tracking-a-polymorphic-threat/) | [:closed_book:](../../blob/master/2019/2019.11.26.Dexphot)
 * Nov 20 - [[360] Golden Eagle (APT-C-34)](http://blogs.360.cn/post/APT-C-34_Golden_Falcon.html) | [:closed_book:](../../blob/master/2019/2019.11.20.Golden_Eagle_APT-C-34)
 * Nov 20 - [[Trend Micro] Mac Backdoor Linked to Lazarus Targets Korean Users](https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/) | [:closed_book:](../../blob/master/2019/2019.11.20.Mac_Lazarus)
 * Nov 13 - [[Trend Micro] More than a Dozen Obfuscated APT33 Botnets Used for Extreme Narrow Targeting](https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/) | [:closed_book:](../../blob/master/2019/2019.11.13.APT33_Extreme＿Narrow_Targeting)
