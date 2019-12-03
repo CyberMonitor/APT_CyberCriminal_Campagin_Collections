@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2019
+* Dec 03 - [[NSHC] Threat Actor Targeting Hong Kong Pro-Democracy Figures](https://threatrecon.nshc.net/2019/12/03/threat-actor-targeting-hong-kong-activists/) | [:closed_book:](../../blob/master/2019/2019.12.03.Hong_Kong_Pro-Democracy)
 * Nov 28 - [[Kaspersky] RevengeHotels: cybercrime targeting hotel front desks worldwide](https://securelist.com/revengehotels/95229/) | [:closed_book:](../../blob/master/2019/2019.11.28.RevengeHotels)
 * Nov 26 - [[Microsoft] Insights from one year of tracking a polymorphic threat: Dexphot](https://www.microsoft.com/security/blog/2019/11/26/insights-from-one-year-of-tracking-a-polymorphic-threat/) | [:closed_book:](../../blob/master/2019/2019.11.26.Dexphot)
 * Nov 25 - [[Positive] Studying Donot Team](http://blog.ptsecurity.com/2019/11/studying-donot-team.html) | [:closed_book:](../../blob/master/2019/2019.11.25_Donot_Team)
