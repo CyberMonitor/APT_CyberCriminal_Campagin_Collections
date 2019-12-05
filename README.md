@@ -28,6 +28,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2019
+* Dec 04 - [[IBM] New Destructive Wiper “ZeroCleare” Targets Energy Sector in the Middle East](https://www.ibm.com/downloads/cas/OAJ4VZNJ) | [:closed_book:](../../blob/master/2019/2019.12.04.ZeroCleare)
+* Dec 04 - [[Trend Micro] Obfuscation Tools Found in the Capesand Exploit Kit Possibly Used in “KurdishCoder” Campaign](https://blog.trendmicro.com/trendlabs-security-intelligence/obfuscation-tools-found-in-the-capesand-exploit-kit-possibly-used-in-kurdishcoder-campaign/) | [:closed_book:](../../blob/master/2019/2019.12.04.KurdishCoder_Campaign)
 * Dec 03 - [[NSHC] Threat Actor Targeting Hong Kong Pro-Democracy Figures](https://threatrecon.nshc.net/2019/12/03/threat-actor-targeting-hong-kong-activists/) | [:closed_book:](../../blob/master/2019/2019.12.03.Hong_Kong_Pro-Democracy)
 * Nov 28 - [[Kaspersky] RevengeHotels: cybercrime targeting hotel front desks worldwide](https://securelist.com/revengehotels/95229/) | [:closed_book:](../../blob/master/2019/2019.11.28.RevengeHotels)
 * Nov 26 - [[Microsoft] Insights from one year of tracking a polymorphic threat: Dexphot](https://www.microsoft.com/security/blog/2019/11/26/insights-from-one-year-of-tracking-a-polymorphic-threat/) | [:closed_book:](../../blob/master/2019/2019.11.26.Dexphot)
@@ -55,6 +57,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Oct 01 - [[Netskope] New Adwind Campaign targets US Petroleum Industry](https://www.netskope.com/blog/new-adwind-campaign-targets-us-petroleum-industry-2) | [:closed_book:](../../blob/master/2019/2019.10.01.Adwind_Campaign_US_Petroleum_Industry)
 * Oct 01 - [[Trend Micro] New Fileless Botnet Novter Distributed by KovCoreG Malvertising Campaign](https://blog.trendmicro.com/trendlabs-security-intelligence/new-fileless-botnet-novter-distributed-by-kovcoreg-malvertising-campaign/) | [:closed_book:](../../blob/master/2019/2019.10.01.kovcoreg-malvertising-campaign)
 * Sep 30 - [[Lastline] HELO Winnti: Attack or Scan?](https://www.lastline.com/labsblog/helo-winnti-attack-scan/) | [:closed_book:](../../blob/master/2019/2019.09.30_HELO_Winnti)
+* Aug 29 - [[AhnLab] Tick Tock - Activities of the Tick Cyber Espionage Group in East Asia Over the Last 10 Years](https://gsec.hitb.org/materials/sg2019/D1%20COMMSEC%20-%20Tick%20Group%20-%20Activities%20Of%20The%20Tick%20Cyber%20Espionage%20Group%20In%20East%20Asia%20Over%20The%20Last%2010%20Years%20-%20Cha%20Minseok.pdf) | [:closed_book:](../../blob/master/2019/2019.08.29_Tick_Tock)
 * Sep 26 - [[GBHackers] Chinese APT Hackers Attack Windows Users via FakeNarrator Malware to Implant PcShare Backdoor](https://gbhackers.com/fakenarrator-malware/) | [:closed_book:](../../blob/master/2019/2019.09.26_China_APT_FakeNarrator_To_PcShare)
 * Sep 24 - [[Telsy] DeadlyKiss APT](https://blog.telsy.com/wp-content/uploads/2019/09/DeadlyKiss_TAAR.pdf) | [:closed_book:](../../blob/master/2019/2019.09.24.DeadlyKiss_APT)
 * Sep 24 - [[CISCO] How Tortoiseshell created a fake veteran hiring website to host malware](https://blog.talosintelligence.com/2019/09/tortoiseshell-fake-veterans.html) | [:closed_book:](../../blob/master/2019/2019.09.24_New_Tortoiseshell)
@@ -83,6 +86,7 @@ Researchers](https://www.clearskysec.com/wp-content/uploads/2019/09/The-Kittens-
 * Aug 12 - [[Kaspersky] Recent Cloud Atlas activity](https://securelist.com/recent-cloud-atlas-activity/92016/)| [:closed_book:](../../blob/master/2019/2019.08.12.Cloud_Atlas_activity)
 * Aug 08 - [[Anomali] Suspected BITTER APT Continues Targeting Government of China and Chinese Organizations](https://www.anomali.com/blog/suspected-bitter-apt-continues-targeting-government-of-china-and-chinese-organizations) | [:closed_book:](../../blob/master/2019/2019.08.08.BITTER_APT)
 * Aug 07 - [[FireEye] APT41: A Dual Espionage and Cyber Crime Operation](https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html) | [:closed_book:](../../blob/master/2019/2019.08.07.APT41)
+* Aug 05 - [[Trend Micro] Latest Trickbot Campaign Delivered via Highly Obfuscated JS File](https://blog.trendmicro.com/trendlabs-security-intelligence/latest-trickbot-campaign-delivered-via-highly-obfuscated-js-file/) | [:closed_book:](../../blob/master/2019/2019.08.05.Trickbot_Obfuscated_JS)
 * Aug 05 - [[ESET] Sharpening the Machete](https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/) | [:closed_book:](../../blob/master/2019/2019.08.05.Sharpening_the_Machete)
 * Aug 01 - [[Anity] Analysis of the Attack of Mobile Devices by OceanLotus](https://www.antiy.net/p/analysis-of-the-attack-of-mobile-devices-by-oceanlotus/) | [:closed_book:](../../blob/master/2019/2019.08.01.Mobile_OceanLotus)
 * Jul 24 - [[] Attacking the Heart of the German Industry](https://web.br.de/interaktiv/winnti/english/) | [:closed_book:](../../blob/master/2019/2019.07.24.Winnti_German)
@@ -953,6 +957,9 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+:small_orange_diamond: Q4 2019 - [[GROUP-IB] HI– TECH CRIME TRENDS 2019/2020](https://www.group-ib.com/resources/threat-research/2019-report.html) | [:closed_book:](../../blob/master/Report/Group-IB_Hi-Tech_Crime_Trends_2019-2020.pdf) <br>
+:small_orange_diamond: Q3 2019 - [[PTSecurity] Cybersecurity threatscape Q3 2019](https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2019-q3/) | [:closed_book:](../../blob/master/Report/2019.Q3.PTSecurity_report) <br>
+:small_orange_diamond: Q2 2019 - [[PTSecurity] Cybersecurity threatscape Q2 2019](https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2019-q2/) | [:closed_book:](../../blob/master/Report/2019.Q2.PTSecurity_report) <br>
 :small_orange_diamond: Q3 2019 - [[AhnLab] ASEC Report Q3 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.96_ENG.pdf) | [:closed_book:](../../blob/master/Report/2019.Q3.AhnLab_report) <br>
 :small_orange_diamond: Q2 2019 - [[AhnLab] ASEC Report Q2 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.95_ENG.pdf) | [:closed_book:](../../blob/master/Report/2019.Q2.AhnLab_report) <br>
 :small_orange_diamond: Q1 2019 - [[AhnLab] ASEC Report Q1 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.94_ENG.pdf) | [:closed_book:](../../blob/master/Report/2019.Q1.AhnLab_report) <br>
