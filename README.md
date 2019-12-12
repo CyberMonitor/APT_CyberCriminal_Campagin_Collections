@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2019
+* Dec 11 - [[Trend Micro] Waterbear is Back, Uses API Hooking to Evade Security Product Detection](https://blog.trendmicro.com/trendlabs-security-intelligence/waterbear-is-back-uses-api-hooking-to-evade-security-product-detection/) | [:closed_book:](../../blob/master/2019/2019.12.11.Waterbear_Back)
 * Dec 04 - [[IBM] New Destructive Wiper “ZeroCleare” Targets Energy Sector in the Middle East](https://www.ibm.com/downloads/cas/OAJ4VZNJ) | [:closed_book:](../../blob/master/2019/2019.12.04.ZeroCleare)
 * Dec 04 - [[Trend Micro] Obfuscation Tools Found in the Capesand Exploit Kit Possibly Used in “KurdishCoder” Campaign](https://blog.trendmicro.com/trendlabs-security-intelligence/obfuscation-tools-found-in-the-capesand-exploit-kit-possibly-used-in-kurdishcoder-campaign/) | [:closed_book:](../../blob/master/2019/2019.12.04.KurdishCoder_Campaign)
 * Dec 03 - [[NSHC] Threat Actor Targeting Hong Kong Pro-Democracy Figures](https://threatrecon.nshc.net/2019/12/03/threat-actor-targeting-hong-kong-activists/) | [:closed_book:](../../blob/master/2019/2019.12.03.Hong_Kong_Pro-Democracy)
