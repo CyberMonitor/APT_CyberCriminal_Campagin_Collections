@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2019
+* Dec 17 - [[PaloAlto] Rancor: Cyber Espionage Group Uses New Custom Malware to Attack Southeast Asia](https://unit42.paloaltonetworks.com/rancor-cyber-espionage-group-uses-new-custom-malware-to-attack-southeast-asia/) | [:closed_book:](../../blob/master/2019/2019.12.17.Rancor)
 * Dec 12 - [[Trend Micro] Drilling Deep: A Look at Cyberattacks on the Oil and Gas Industry](https://documents.trendmicro.com/assets/white_papers/wp-drilling-deep-a-look-at-cyberattacks-on-the-oil-and-gas-industry.pdf) | [:closed_book:](../../blob/master/2019/2019.12.12.Drilling_Deep)
 * Dec 12 - [[Microsoft] GALLIUM: Targeting global telecom](https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/) | [:closed_book:](../../blob/master/2019/2019.12.12.GALLIUM)
 * Dec 12 - [[Recorded Future] Operation Gamework: Infrastructure Overlaps Found Between BlueAlpha and Iranian APTs](https://go.recordedfuture.com/hubfs/reports/cta-2019-1212.pdf) | [:closed_book:](../../blob/master/2019/2019.12.12.Operation_Gamework)
