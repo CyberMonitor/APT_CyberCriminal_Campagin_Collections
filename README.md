@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2019
+* Dec 19 - [[FoxIT] Operation Wocao](https://resources.fox-it.com/rs/170-CAK-271/images/201912_Report_Operation_Wacao.pdf) | [:closed_book:](../../blob/master/2019/2019.12.19.Operation_Wocao)
 * Dec 17 - [[PaloAlto] Rancor: Cyber Espionage Group Uses New Custom Malware to Attack Southeast Asia](https://unit42.paloaltonetworks.com/rancor-cyber-espionage-group-uses-new-custom-malware-to-attack-southeast-asia/) | [:closed_book:](../../blob/master/2019/2019.12.17.Rancor)
 * Dec 12 - [[Trend Micro] Drilling Deep: A Look at Cyberattacks on the Oil and Gas Industry](https://documents.trendmicro.com/assets/white_papers/wp-drilling-deep-a-look-at-cyberattacks-on-the-oil-and-gas-industry.pdf) | [:closed_book:](../../blob/master/2019/2019.12.12.Drilling_Deep)
 * Dec 12 - [[Microsoft] GALLIUM: Targeting global telecom](https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/) | [:closed_book:](../../blob/master/2019/2019.12.12.GALLIUM)
