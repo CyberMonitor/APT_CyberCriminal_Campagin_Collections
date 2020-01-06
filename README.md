@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2019
 * Dec 29 [[Dell] BRONZE PRESIDENT Targets NGOs](https://www.secureworks.com/research/bronze-president-targets-ngos) | [:closed_book:](../../blob/master/2019/2019.12.29_BRONZE_PRESIDENT_NGO)
+* Dec 26 - [[Pedro Tavares] Targeting Portugal: A new trojan ‘Lampion’ has spread using template emails from the Portuguese Government Finance & Tax](https://seguranca-informatica.pt/targeting-portugal-a-new-trojan-lampion-has-spread-using-template-emails-from-the-portuguese-government-finance-tax/) | [:closed_book:](../../blob/master/2019/2019.12.26.Trojan-Lampion)
 * Dec 19 - [[FoxIT] Operation Wocao](https://resources.fox-it.com/rs/170-CAK-271/images/201912_Report_Operation_Wacao.pdf) | [:closed_book:](../../blob/master/2019/2019.12.19.Operation_Wocao)
 * Dec 17 - [[PaloAlto] Rancor: Cyber Espionage Group Uses New Custom Malware to Attack Southeast Asia](https://unit42.paloaltonetworks.com/rancor-cyber-espionage-group-uses-new-custom-malware-to-attack-southeast-asia/) | [:closed_book:](../../blob/master/2019/2019.12.17.Rancor)
 * Dec 12 - [[Trend Micro] Drilling Deep: A Look at Cyberattacks on the Oil and Gas Industry](https://documents.trendmicro.com/assets/white_papers/wp-drilling-deep-a-look-at-cyberattacks-on-the-oil-and-gas-industry.pdf) | [:closed_book:](../../blob/master/2019/2019.12.12.Drilling_Deep)
