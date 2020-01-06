@@ -26,6 +26,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
+## 2020
+* Jan 01 - [[WeiXin] Pakistan Sidewinder APT Attack](https://mp.weixin.qq.com/s/CZrdslzEs4iwlaTzJH7Ubg) | [:closed_book:](../../blob/master/2020/2020.01.01.SideWinder_APT)
+
 
 ## 2019
 * Dec 19 - [[FoxIT] Operation Wocao](https://resources.fox-it.com/rs/170-CAK-271/images/201912_Report_Operation_Wacao.pdf) | [:closed_book:](../../blob/master/2019/2019.12.19.Operation_Wocao)
