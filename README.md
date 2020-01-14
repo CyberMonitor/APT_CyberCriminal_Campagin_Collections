@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2020
 * Jan 13 - [[Lab52] APT27 ZxShell RootKit module updates](https://lab52.io/blog/apt27-rootkit-updates/) | [:closed_book:](../../blob/master/2020/2020.01.13.APT27_ZxShell_RootKit)
+* Jan 08 - [[Kaspersky] Operation AppleJeus Sequel](https://securelist.com/operation-applejeus-sequel/95596/) | [:closed_book:](../../blob/master/2020/2020.01.08_Operation_AppleJeus_Sequel)
 * Jan 06 - [[Trend Micro] First Active Attack Exploiting CVE-2019-2215 Found on Google Play, Linked to SideWinder APT Group](https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/) | [:closed_book:](../../blob/master/2020/2020.01.06.SideWinder_Google_Play)
 * Jan 01 - [[WeiXin] Pakistan Sidewinder APT Attack](https://mp.weixin.qq.com/s/CZrdslzEs4iwlaTzJH7Ubg) | [:closed_book:](../../blob/master/2020/2020.01.01.SideWinder_APT)
 
