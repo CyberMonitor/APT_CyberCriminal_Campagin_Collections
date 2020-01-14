@@ -27,7 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
-* Jan 13 - [[ShellsSystems] Reviving MuddyC3 Used by MuddyWater (IRAN) APT](https://shells.systems/reviving-leaked-muddyc3-used-by-muddywater-apt/) | [:closed_book:](../../blob/master/2020/2020.01.13.muddyc3)
+* Jan 13 - [[ShellsSystems] Reviving MuddyC3 Used by MuddyWater (IRAN) APT](https://shells.systems/reviving-leaked-muddyc3-used-by-muddywater-apt/) | [:closed_book:](../../blob/master/2020/2020.01.13.muddyc3.Revived)
 * Jan 13 - [[Lab52] APT27 ZxShell RootKit module updates](https://lab52.io/blog/apt27-rootkit-updates/) | [:closed_book:](../../blob/master/2020/2020.01.13.APT27_ZxShell_RootKit)
 * Jan 09 - [[Dragos] The State of Threats to Electric Entities in North America](https://dragos.com/wp-content/uploads/NA-EL-Threat-Perspective-2019.pdf) | [:closed_book:](../../blob/master/2020/2020.01.09.NA-EL-Threat-Perspective)
 * Jan 08 - [[Kaspersky] Operation AppleJeus Sequel](https://securelist.com/operation-applejeus-sequel/95596/) | [:closed_book:](../../blob/master/2020/2020.01.08_Operation_AppleJeus_Sequel)
