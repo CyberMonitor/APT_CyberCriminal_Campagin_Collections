@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Feb 10 - [[Trend Micro] Outlaw Updates Kit to Kill Older Miner Versions, Targets More Systems](https://blog.trendmicro.com/trendlabs-security-intelligence/outlaw-updates-kit-to-kill-older-miner-versions-targets-more-systems/) | [:closed_book:](../../blob/master/2020/2020.02.10_Outlaw_Updates)
 * Feb 03 - [[PaloAlto Networks] Actors Still Exploiting SharePoint Vulnerability to Attack Middle East Government Organizations](https://unit42.paloaltonetworks.com/actors-still-exploiting-sharepoint-vulnerability/) | [:closed_book:](../../blob/master/2020/2020.02.03.SharePoint_Vulnerability_Middle_East)
 * Jan 16 - [[CISCO] JhoneRAT: Cloud based python RAT targeting Middle Eastern countries](https://blog.talosintelligence.com/2020/01/jhonerat.html) | [:closed_book:](../../blob/master/2020/2020.01.16.JhoneRAT)
 * Jan 13 - [[ShellsSystems] Reviving MuddyC3 Used by MuddyWater (IRAN) APT](https://shells.systems/reviving-leaked-muddyc3-used-by-muddywater-apt/) | [:closed_book:](../../blob/master/2020/2020.01.13.muddyc3.Revived)
