@@ -27,7 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
-
+* Feb 17 - [[ClearSky] Fox Kitten Campaign](https://www.clearskysec.com/wp-content/uploads/2020/02/ClearSky-Fox-Kitten-Campaign-v1.pdf) | [:closed_book:](../../blob/master/2020/2020.02.17_Fox_Kitten_Campaign)
 * Feb 10 - [[Trend Micro] Outlaw Updates Kit to Kill Older Miner Versions, Targets More Systems](https://blog.trendmicro.com/trendlabs-security-intelligence/outlaw-updates-kit-to-kill-older-miner-versions-targets-more-systems/) | [:closed_book:](../../blob/master/2020/2020.02.10_Outlaw_Updates)
 * Feb 03 - [[PaloAlto Networks] Actors Still Exploiting SharePoint Vulnerability to Attack Middle East Government Organizations](https://unit42.paloaltonetworks.com/actors-still-exploiting-sharepoint-vulnerability/) | [:closed_book:](../../blob/master/2020/2020.02.03.SharePoint_Vulnerability_Middle_East)
 * Jan 31 - [[ESET] Winnti Group targeting universities in Hong Kong](https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/) | [:closed_book:](../../blob/master/2020/2020.01.31.Winnti_universities_in_HK)
