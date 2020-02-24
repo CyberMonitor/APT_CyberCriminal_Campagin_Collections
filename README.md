@@ -27,8 +27,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Feb 17 - [[Yoroi] Cyberwarfare: A deep dive into the latest Gamaredon Espionage Campaign](https://blog.yoroi.company/research/cyberwarfare-a-deep-dive-into-the-latest-gamaredon-espionage-campaign/) | [:closed_book:](../../blob/master/2020/2020.02.17.Cyberwarfare_Gamaredon_Campaign)
 * Feb 18 - [[Trend Micro] Operation DRBControl](https://documents.trendmicro.com/assets/white_papers/wp-uncovering-DRBcontrol.pdf) | [:closed_book:](../../blob/master/2020/2020.02.18_Operation_DRBControl)
-* Feb 17 - [[Talent-Jump] CLAMBLING - A New Backdoor Base On Dropbox (EN)](http://www.talent-jump.com/article/2020/02/17/CLAMBLING-A-New-Backdoor-Base-On-Dropbox-en/)  | [:closed_book:](../../blob/master/2020/2020.02.17_CLAMBLING_Dropbox_Backdoor)
+* Feb 17 - [[Talent-Jump] CLAMBLING - A New Backdoor Base On Dropbox (EN)](http://www.talent-jump.com/article/2020/02/17/CLAMBLING-A-New-Backdoor-Base-On-Dropbox-en/) | [:closed_book:](../../blob/master/2020/2020.02.17_CLAMBLING_Dropbox_Backdoor)
 * Feb 17 - [[ClearSky] Fox Kitten Campaign](https://www.clearskysec.com/wp-content/uploads/2020/02/ClearSky-Fox-Kitten-Campaign-v1.pdf) | [:closed_book:](../../blob/master/2020/2020.02.17_Fox_Kitten_Campaign)
 * Feb 13 - [[Cybereason] NEW CYBER ESPIONAGE CAMPAIGNS TARGETING PALESTINIANS - PART 2: THE DISCOVERY OF THE NEW, MYSTERIOUS PIEROGI BACKDOOR](https://www.cybereason.com/blog/new-cyber-espionage-campaigns-targeting-palestinians-part-2-the-discovery-of-the-new-mysterious-pierogi-backdoor?utm_content=116986912&utm_medium=social&utm_source=twitter&hss_channel=tw-835463838) | [:closed_book:](../../blob/master/2020/2020.02.13.PIEROGI_BACKDOOR_APT)
 * Feb 10 - [[Trend Micro] Outlaw Updates Kit to Kill Older Miner Versions, Targets More Systems](https://blog.trendmicro.com/trendlabs-security-intelligence/outlaw-updates-kit-to-kill-older-miner-versions-targets-more-systems/) | [:closed_book:](../../blob/master/2020/2020.02.10_Outlaw_Updates)
