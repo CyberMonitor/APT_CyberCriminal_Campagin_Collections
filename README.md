@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Feb 25 - [[Sophos] ‘Cloud Snooper’ Attack Bypasses Firewall Security Measures](https://news.sophos.com/en-us/2020/02/25/cloud-snooper-attack-bypasses-firewall-security-measures/) | [:closed_book:](../../blob/master/2020/2020.02.25_Cloud_Snooper)
 * Feb 18 - [[Trend Micro] Operation DRBControl](https://documents.trendmicro.com/assets/white_papers/wp-uncovering-DRBcontrol.pdf) | [:closed_book:](../../blob/master/2020/2020.02.18_Operation_DRBControl)
 * Feb 17 - [[Yoroi] Cyberwarfare: A deep dive into the latest Gamaredon Espionage Campaign](https://blog.yoroi.company/research/cyberwarfare-a-deep-dive-into-the-latest-gamaredon-espionage-campaign/) | [:closed_book:](../../blob/master/2020/2020.02.17.Cyberwarfare_Gamaredon_Campaign)
 * Feb 17 - [[Talent-Jump] CLAMBLING - A New Backdoor Base On Dropbox (EN)](http://www.talent-jump.com/article/2020/02/17/CLAMBLING-A-New-Backdoor-Base-On-Dropbox-en/) | [:closed_book:](../../blob/master/2020/2020.02.17_CLAMBLING_Dropbox_Backdoor)
