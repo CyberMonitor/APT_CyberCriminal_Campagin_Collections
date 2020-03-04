@@ -1003,6 +1003,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+:small_orange_diamond: 2020 - [[CrowdStrike] 2020 GLOBAL THREAT REPORT](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf) | [:closed_book:](../../blob/master/Report/2020.03.03_CrowdStrike_2020_GLOBAL_THREAT_REPORT) <br>
 :small_orange_diamond: 2019 - [[QianXin] APT threat report 2019 CN version](https://ti.qianxin.com/uploads/2020/02/13/cb78386a082f465f259b37dae5df4884.pdf) | [:closed_book:](../../blob/master/Report/2020.02.22_APT_threat_report_2019_CN_version) <br>
 :small_orange_diamond: Q4 2019 - [[GROUP-IB] HI– TECH CRIME TRENDS 2019/2020](https://www.group-ib.com/resources/threat-research/2019-report.html) | [:closed_book:](../../blob/master/Report/Group-IB_Hi-Tech_Crime_Trends_2019-2020.pdf) <br>
 :small_orange_diamond: Q3 2019 - [[PTSecurity] Cybersecurity threatscape Q3 2019](https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2019-q3/) | [:closed_book:](../../blob/master/Report/2019.Q3.PTSecurity_report) <br>
