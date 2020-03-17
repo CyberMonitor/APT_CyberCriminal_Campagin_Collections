@@ -27,7 +27,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
-* Mar 12 - [[Checkpoint] Vicious Panda: The COVID Campaign](https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign/)| [:closed_book:](../../blob/master/2020/2020.03.12_Vicious_Panda)
+* Mar 15 - [[MalwareBytes] APT36 jumps on the coronavirus bandwagon, delivers Crimson RAT](https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/) | [:closed_book:](../../blob/master/2020/2020.03.15_APT36_Crimson_RAT)
+* Mar 12 - [[Checkpoint] Vicious Panda: The COVID Campaign](https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign/) | [:closed_book:](../../blob/master/2020/2020.03.12_Vicious_Panda)
 * Mar 12 - [[SecPulse] Two-tailed scorpion APT-C-23](https://www.secpulse.com/archives/125292.html) | [:closed_book:](../../blob/master/2020/2020.03.12_Two-tailed_scorpion)
 * Mar 12 - [[ESET] Tracking Turla: New backdoor delivered via Armenian watering holes](https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes) | [:closed_book:](../../blob/master/2020/2020.03.12_Tracking_Turla)
 * Mar 11 - [[Trend Micro] Operation Overtrap Targets Japanese Online Banking Users Via Bottle Exploit Kit and Brand-New Cinobi Banking Trojan](https://blog.trendmicro.com/trendlabs-security-intelligence/operation-overtrap-targets-japanese-online-banking-users-via-bottle-exploit-kit-and-brand-new-cinobi-banking-trojan/) | [:closed_book:](../../blob/master/2020/2020.03.11.Operation_Overtrap)
