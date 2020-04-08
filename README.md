@@ -27,7 +27,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
-* Apr 07 - [[BlackBerry] Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android](https://blogs.blackberry.com/en/2020/04/decade-of-the-rats)| [:closed_book:](../../blob/master/2020/2020.04.07_Decade_of_the_RATs)
+* Apr 07 - [[Zscaler] New Ursnif Campaign: A Shift from PowerShell to Mshta](https://www.zscaler.com/blogs/research/new-ursnif-campaign-shift-powershell-mshta) | [:closed_book:](../../blob/master/2020/2020.04.07_New_Ursnif_Campaign)
+* Apr 07 - [[BlackBerry] Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android](https://blogs.blackberry.com/en/2020/04/decade-of-the-rats) | [:closed_book:](../../blob/master/2020/2020.04.07_Decade_of_the_RATs)
 * Mar 30 - [[Alyac] The 'Spy Cloud' Operation: Geumseong121 group carries out the APT attack disguising the evidence of North Korean defection](https://blog.alyac.co.kr/attachment/cfile8.uf@9977CF405E81A09B1C4CE2.pdf) | [:closed_book:](../../blob/master/2020/2020.03.30_Spy_Cloud_Operation)
 * Mar 26 - [[Kaspersky] iOS exploit chain deploys LightSpy feature-rich malware](https://securelist.com/ios-exploit-chain-deploys-lightspy-malware/96407/) | [:closed_book:](../../blob/master/2020/2020.03.26_LightSpy_TwoSail_Junk_APT)
 * Mar 25 - [[FireEye] This Is Not a Test: APT41 Initiates Global Intrusion Campaign Using Multiple Exploits](https://www.fireeye.com/blog/threat-research/2020/03/apt41-initiates-global-intrusion-campaign-using-multiple-exploits.html) | [:closed_book:](../../blob/master/2020/2020.03.25_APT41-initiates-global-intrusion-campaign)
