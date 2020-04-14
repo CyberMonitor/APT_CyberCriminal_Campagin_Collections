@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Apr 07 - [[MalwareBytes] APTs and COVID-19: How advanced persistent threats use the coronavirus as a lure](https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf) | [:closed_book:](../../blob/master/2020/2020.04.07_APTs_COVID-19)
 * Apr 07 - [[Zscaler] New Ursnif Campaign: A Shift from PowerShell to Mshta](https://www.zscaler.com/blogs/research/new-ursnif-campaign-shift-powershell-mshta) | [:closed_book:](../../blob/master/2020/2020.04.07_New_Ursnif_Campaign)
 * Apr 07 - [[BlackBerry] Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android](https://blogs.blackberry.com/en/2020/04/decade-of-the-rats) | [:closed_book:](../../blob/master/2020/2020.04.07_Decade_of_the_RATs)
 * Mar 30 - [[Alyac] The 'Spy Cloud' Operation: Geumseong121 group carries out the APT attack disguising the evidence of North Korean defection](https://blog.alyac.co.kr/attachment/cfile8.uf@9977CF405E81A09B1C4CE2.pdf) | [:closed_book:](../../blob/master/2020/2020.03.30_Spy_Cloud_Operation)
