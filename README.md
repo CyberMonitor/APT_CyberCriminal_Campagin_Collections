@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Apr 20 - [[QuoIntelligence] WINNTI GROUP: Insights From the Past](https://quointelligence.eu/2020/04/winnti-group-insights-from-the-past/) | [:closed_book:](../../blob/master/2020/2020.04.20_Winnti_from_the_past)
 * Apr 16 - [[Trend Micro] Exposing Modular Adware: How DealPly, IsErIk, and ManageX Persist in Systems](https://blog.trendmicro.com/trendlabs-security-intelligence/exposing-modular-adware-how-dealply-iserik-and-managex-persist-in-systems/) | [:closed_book:](../../blob/master/2020/2020.04.16_Exposing_Modular_Adware)
 * Apr 16 - [[White Ops] Giving Fraudsters the Cold Shoulder: Inside the Largest Connected TV Bot Attack](https://www.whiteops.com/blog/giving-fraudsters-the-cold-shoulder-inside-the-largest-connected-tv-bot-attack) | [:closed_book:](../../blob/master/2020/2020.04.16_ICEBUCKET_TV_Bot_Attack)
 * Apr 16 - [[CyCraft] Taiwan High-Tech Ecosystem Targeted by Foreign APT Group](https://cycraft.com/download/%5BTLP-Green%5D20200415%20Chimera_V4.1.pdf) | [:closed_book:](../../blob/master/2020/2020.04.16_Taiwan_High-Tech_APT)
