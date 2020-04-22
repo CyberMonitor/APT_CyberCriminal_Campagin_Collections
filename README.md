@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Apr 21 - [[Volexity] Evil Eye Threat Actor Resurfaces with iOS Exploit and Updated Implant](https://www.volexity.com/blog/2020/04/21/evil-eye-threat-actor-resurfaces-with-ios-exploit-and-updated-implant/) | [:closed_book:](../../blob/master/2020/2020.04.21.evil-eye-threat-actor)
 * Apr 20 - [[QuoIntelligence] WINNTI GROUP: Insights From the Past](https://quointelligence.eu/2020/04/winnti-group-insights-from-the-past/) | [:closed_book:](../../blob/master/2020/2020.04.20_Winnti_from_the_past)
 * Apr 16 - [[Trend Micro] Exposing Modular Adware: How DealPly, IsErIk, and ManageX Persist in Systems](https://blog.trendmicro.com/trendlabs-security-intelligence/exposing-modular-adware-how-dealply-iserik-and-managex-persist-in-systems/) | [:closed_book:](../../blob/master/2020/2020.04.16_Exposing_Modular_Adware)
 * Apr 16 - [[White Ops] Giving Fraudsters the Cold Shoulder: Inside the Largest Connected TV Bot Attack](https://www.whiteops.com/blog/giving-fraudsters-the-cold-shoulder-inside-the-largest-connected-tv-bot-attack) | [:closed_book:](../../blob/master/2020/2020.04.16_ICEBUCKET_TV_Bot_Attack)
