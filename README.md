@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2020
 * May 05 - [[CheckPoint] Nazar: Spirits of the Past](https://research.checkpoint.com/2020/nazar-spirits-of-the-past/) | [:closed_book:](../../blob/master/2020/2020.05.05.Nazar_APT)
 * Apr 29 - [[Recorded Future] Chinese Influence Operations Evolve in Campaigns Targeting Taiwanese Elections, Hong Kong Protests](https://go.recordedfuture.com/hubfs/reports/cta-2020-0429.pdf) | [:closed_book:](../../blob/master/2020/2020.04.29.Chinese_Influence_Operations_Taiwanese_Elections_Hong_Kong_Protests)
+* Apr 24 - [[LAC JP] PoshC2](https://www.lac.co.jp/lacwatch/people/20200424_002177.html) | [:closed_book:](../../blob/master/2020/2020.04.24_PoshC2_APT)
 * Apr 21 - [[Volexity] Evil Eye Threat Actor Resurfaces with iOS Exploit and Updated Implant](https://www.volexity.com/blog/2020/04/21/evil-eye-threat-actor-resurfaces-with-ios-exploit-and-updated-implant/) | [:closed_book:](../../blob/master/2020/2020.04.21.evil-eye-threat-actor)
 * Apr 20 - [[QuoIntelligence] WINNTI GROUP: Insights From the Past](https://quointelligence.eu/2020/04/winnti-group-insights-from-the-past/) | [:closed_book:](../../blob/master/2020/2020.04.20_Winnti_from_the_past)
 * Apr 17 - [[Trend Micro] Gamaredon APT Group Use Covid-19 Lure in Campaigns](https://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-use-covid-19-lure-in-campaigns) | [:closed_book:](../../blob/master/2020/2020.04.17_Gamaredon_APT_Covid-19)
