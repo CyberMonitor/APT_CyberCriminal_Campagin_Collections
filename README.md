@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* May 11 - [[Zscaler] Targeted Attacks on Indian Government and Financial Institutions Using the JsOutProx RAT](https://www.zscaler.com/blogs/research/targeted-attacks-indian-government-and-financial-institutions-using-jsoutprox-rat) | [:closed_book:](../../blob/master/2020/2020.05.11.JsOutProx_RAT_Targeted_Attacks)
 * May 07 - [[CheckPoint] Naikon APT: Cyber Espionage Reloaded](https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/) | [:closed_book:](../../blob/master/2020/2020.05.07_Naikon_APT_Reloaded)
 * May 05 - [[CheckPoint] Nazar: Spirits of the Past](https://research.checkpoint.com/2020/nazar-spirits-of-the-past/) | [:closed_book:](../../blob/master/2020/2020.05.05.Nazar_APT)
 * Apr 29 - [[Recorded Future] Chinese Influence Operations Evolve in Campaigns Targeting Taiwanese Elections, Hong Kong Protests](https://go.recordedfuture.com/hubfs/reports/cta-2020-0429.pdf) | [:closed_book:](../../blob/master/2020/2020.04.29.Chinese_Influence_Operations_Taiwanese_Elections_Hong_Kong_Protests)
