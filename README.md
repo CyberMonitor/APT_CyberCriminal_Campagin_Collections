@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* May 14 - [[Telekom] LOLSnif – Tracking Another Ursnif-Based Targeted Campaign](https://www.telekom.com/en/blog/group/article/lolsnif-tracking-another-ursnif-based-targeted-campaign-600062) | [:closed_book:](../../blob/master/2020/2020.05.14.LOLSnif)
 * May 14 - [[Sophos] RATicate: an attacker’s waves of information-stealing malware](https://news.sophos.com/en-us/2020/05/14/raticate/) | [:closed_book:](../../blob/master/2020/2020.05.14.RATicate)
 * May 14 - [[360] Vendetta-new threat actor from Europe](https://blog.360totalsecurity.com/en/vendetta-new-threat-actor-from-europe/) | [:closed_book:](../../blob/master/2020/2020.05.14.Vendetta_APT)
 * May 14 - [[ESET] Mikroceen: Spying backdoor leveraged in high‑profile networks in Central Asia](https://www.welivesecurity.com/2020/05/14/mikroceen-spying-backdoor-high-profile-networks-central-asia/) | [:closed_book:](../../blob/master/2020/2020.05.14.Mikroceen)
@@ -35,6 +36,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * May 13 - [[ESET] Ramsay: A cyber‑espionage toolkit tailored for air‑gapped networks](https://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/) | [:closed_book:](../../blob/master/2020/2020.05.13.Ramsay)
 * May 12 - [[Trend Micro] Tropic Trooper’s Back: USBferry Attack Targets Air-gapped Environments](https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-troopers-back-usbferry-attack-targets-air-gapped-environments/?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0520_tropic-trooper) | [:closed_book:](../../blob/master/2020/2020.05.12.Tropic_Trooper_Back)
 * May 11 - [[Zscaler] Targeted Attacks on Indian Government and Financial Institutions Using the JsOutProx RAT](https://www.zscaler.com/blogs/research/targeted-attacks-indian-government-and-financial-institutions-using-jsoutprox-rat) | [:closed_book:](../../blob/master/2020/2020.05.11.JsOutProx_RAT_Targeted_Attacks)
+* May 11 - [[Palo Alto] Updated BackConfig Malware Targeting Government and Military Organizations in South Asia](https://unit42.paloaltonetworks.com/updated-backconfig-malware-targeting-government-and-military-organizations/) | [:closed_book:](../../blob/master/2020/2020.05.11_BackConfig_South_Asia)
 * May 07 - [[CheckPoint] Naikon APT: Cyber Espionage Reloaded](https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/) | [:closed_book:](../../blob/master/2020/2020.05.07_Naikon_APT_Reloaded)
 * May 05 - [[CheckPoint] Nazar: Spirits of the Past](https://research.checkpoint.com/2020/nazar-spirits-of-the-past/) | [:closed_book:](../../blob/master/2020/2020.05.05.Nazar_APT)
 * Apr 29 - [[Recorded Future] Chinese Influence Operations Evolve in Campaigns Targeting Taiwanese Elections, Hong Kong Protests](https://go.recordedfuture.com/hubfs/reports/cta-2020-0429.pdf) | [:closed_book:](../../blob/master/2020/2020.04.29.Chinese_Influence_Operations_Taiwanese_Elections_Hong_Kong_Protests)
