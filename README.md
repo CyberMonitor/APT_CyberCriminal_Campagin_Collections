@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* May 14 - [[360] Vendetta-new threat actor from Europe](https://blog.360totalsecurity.com/en/vendetta-new-threat-actor-from-europe/) | [:closed_book:](../../blob/master/2020/2020.05.14.Vendetta_APT)
 * May 14 - [[ESET] Mikroceen: Spying backdoor leveraged in high‑profile networks in Central Asia](https://www.welivesecurity.com/2020/05/14/mikroceen-spying-backdoor-high-profile-networks-central-asia/) | [:closed_book:](../../blob/master/2020/2020.05.14.Mikroceen)
 * May 14 - [[Avast] APT Group Planted Backdoors Targeting High Profile Networks in Central Asia](https://decoded.avast.io/luigicamastra/apt-group-planted-backdoors-targeting-high-profile-networks-in-central-asia/?utm_source=rss&utm_medium=rss&utm_campaign=apt-group-planted-backdoors-targeting-high-profile-networks-in-central-asia) | [:closed_book:](../../blob/master/2020/2020.05.14.Central_Asia_APT)
 * May 14 - [[Kaspersky] COMpfun authors spoof visa application with HTTP status-based Trojan](https://securelist.com/compfun-http-status-based-trojan/96874/) | [:closed_book:](../../blob/master/2020/2020.05.14.COMpfun)
