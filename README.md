@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* May 21 - [[Bitdefender] Iranian Chafer APT Targeted Air Transportation and Government in Kuwait and Saudi Arabia](https://www.bitdefender.com/files/News/CaseStudies/study/332/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf) | [:closed_book:](../../blob/master/2020/2020.05.21.Iranian_Chafer_APT)
 * May 21 - [[ESET] No “Game over” for the Winnti Group](https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/) | [:closed_book:](../../blob/master/2020/2020.05.21.No_Game_Over_Winnti)
 * May 19 - [[Symantec] Sophisticated Espionage Group Turns Attention to Telecom Providers in South Asia](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/greenbug-espionage-telco-south-asia) | [:closed_book:](../../blob/master/2020/2020.05.19.Greenbug_South_Asia)
 * May 14 - [[Telekom] LOLSnif – Tracking Another Ursnif-Based Targeted Campaign](https://www.telekom.com/en/blog/group/article/lolsnif-tracking-another-ursnif-based-targeted-campaign-600062) | [:closed_book:](../../blob/master/2020/2020.05.14.LOLSnif)
