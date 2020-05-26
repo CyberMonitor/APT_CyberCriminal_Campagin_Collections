@@ -31,6 +31,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * May 21 - [[Bitdefender] Iranian Chafer APT Targeted Air Transportation and Government in Kuwait and Saudi Arabia](https://www.bitdefender.com/files/News/CaseStudies/study/332/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf) | [:closed_book:](../../blob/master/2020/2020.05.21.Iranian_Chafer_APT)
 * May 21 - [[ESET] No “Game over” for the Winnti Group](https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/) | [:closed_book:](../../blob/master/2020/2020.05.21.No_Game_Over_Winnti)
 * May 19 - [[Symantec] Sophisticated Espionage Group Turns Attention to Telecom Providers in South Asia](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/greenbug-espionage-telco-south-asia) | [:closed_book:](../../blob/master/2020/2020.05.19.Greenbug_South_Asia)
+* May 18 - [[360] APT-C-23 middle East](https://blogs.360.cn/post/APT-C-23_target_at_Middle_East.html) | [:closed_book:](../../blob/master/2020/2020.05.18_APT-C-23)
 * May 14 - [[Telekom] LOLSnif – Tracking Another Ursnif-Based Targeted Campaign](https://www.telekom.com/en/blog/group/article/lolsnif-tracking-another-ursnif-based-targeted-campaign-600062) | [:closed_book:](../../blob/master/2020/2020.05.14.LOLSnif)
 * May 14 - [[Sophos] RATicate: an attacker’s waves of information-stealing malware](https://news.sophos.com/en-us/2020/05/14/raticate/) | [:closed_book:](../../blob/master/2020/2020.05.14.RATicate)
 * May 14 - [[360] Vendetta-new threat actor from Europe](https://blog.360totalsecurity.com/en/vendetta-new-threat-actor-from-europe/) | [:closed_book:](../../blob/master/2020/2020.05.14.Vendetta_APT)
@@ -1057,6 +1058,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+:small_orange_diamond: 01 May 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
 :small_orange_diamond: 2020 - [[ESET] 2020 Q1 Threat Report](https://www.welivesecurity.com/wp-content/uploads/2020/04/ESET_Threat_Report_Q12020.pdf) | [:closed_book:](../../blob/master/Report/2020.Q1_ESET) <br>
 :small_orange_diamond: 2020 - [[CrowdStrike] 2020 GLOBAL THREAT REPORT](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf) | [:closed_book:](../../blob/master/Report/2020.03.03_CrowdStrike_2020_GLOBAL_THREAT_REPORT) <br>
 :small_orange_diamond: 2019 - [[QianXin] APT threat report 2019 CN version](https://ti.qianxin.com/uploads/2020/02/13/cb78386a082f465f259b37dae5df4884.pdf) | [:closed_book:](../../blob/master/Report/2020.02.22_APT_threat_report_2019_CN_version) <br>
