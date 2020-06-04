@@ -27,8 +27,11 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jun 03 - [[Kaspersky] Cycldek: Bridging the (air) gap](https://securelist.com/cycldek-bridging-the-air-gap/97157/) | [:closed_book:](../../blob/master/2020/2020.06.03.Cycldek)
+* May 29 - [[IronNet] Russian Cyber Attack Campaigns and Actors](https://ironnet.com/blog/russian-cyber-attack-campaigns-and-actors/) | [:closed_book:](../../blob/master/2020/2020.05.29_russian-cyber-attack-campaigns-and-actors)
+* May 28 - [[Kaspersky] The zero-day exploits of Operation WizardOpium](https://securelist.com/the-zero-day-exploits-of-operation-wizardopium/97086/) | [:closed_book:](../../blob/master/2020/2020.05.28_Operation_WizardOpium)
 * May 26 - [[ESET] From Agent.BTZ to ComRAT v4: A ten‑year journey](https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/) | [:closed_book:](../../blob/master/2020/2020.05.26_From_Agent.BTZ_to_ComRAT)
-* May 21 -[[Intezer] The Evolution of APT15’s Codebase 2020](https://www.intezer.com/blog/research/the-evolution-of-apt15s-codebase-2020/) | [:closed_book:](../../blob/master/2020/2020.05.21.APT15_Codebase_2020)
+* May 21 - [[Intezer] The Evolution of APT15’s Codebase 2020](https://www.intezer.com/blog/research/the-evolution-of-apt15s-codebase-2020/) | [:closed_book:](../../blob/master/2020/2020.05.21.APT15_Codebase_2020)
 * May 21 - [[Bitdefender] Iranian Chafer APT Targeted Air Transportation and Government in Kuwait and Saudi Arabia](https://www.bitdefender.com/files/News/CaseStudies/study/332/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf) | [:closed_book:](../../blob/master/2020/2020.05.21.Iranian_Chafer_APT)
 * May 21 - [[ESET] No “Game over” for the Winnti Group](https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/) | [:closed_book:](../../blob/master/2020/2020.05.21.No_Game_Over_Winnti)
 * May 19 - [[Symantec] Sophisticated Espionage Group Turns Attention to Telecom Providers in South Asia](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/greenbug-espionage-telco-south-asia) | [:closed_book:](../../blob/master/2020/2020.05.19.Greenbug_South_Asia)
