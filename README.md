@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jun 03 - [[Malwarebyte] New LNK attack tied to Higaisa APT discovered](https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/) | [:closed_book:](../../blob/master/2020/2020.06.03.Higaisa_APT)
 * Jun 03 - [[Kaspersky] Cycldek: Bridging the (air) gap](https://securelist.com/cycldek-bridging-the-air-gap/97157/) | [:closed_book:](../../blob/master/2020/2020.06.03.Cycldek)
 * May 29 - [[IronNet] Russian Cyber Attack Campaigns and Actors](https://ironnet.com/blog/russian-cyber-attack-campaigns-and-actors/) | [:closed_book:](../../blob/master/2020/2020.05.29_russian-cyber-attack-campaigns-and-actors)
 * May 28 - [[Kaspersky] The zero-day exploits of Operation WizardOpium](https://securelist.com/the-zero-day-exploits-of-operation-wizardopium/97086/) | [:closed_book:](../../blob/master/2020/2020.05.28_Operation_WizardOpium)
