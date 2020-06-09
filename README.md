@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jun 08 - [[proofpoint] TA410: The Group Behind LookBack Attacks Against U.S. Utilities Sector Returns with New Malware](https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new) | [:closed_book:](../../blob/master/2020/2020.06.08.TA410)
 * Jun 03 - [[Malwarebyte] New LNK attack tied to Higaisa APT discovered](https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/) | [:closed_book:](../../blob/master/2020/2020.06.03.Higaisa_APT)
 * Jun 03 - [[Kaspersky] Cycldek: Bridging the (air) gap](https://securelist.com/cycldek-bridging-the-air-gap/97157/) | [:closed_book:](../../blob/master/2020/2020.06.03.Cycldek)
 * May 29 - [[IronNet] Russian Cyber Attack Campaigns and Actors](https://ironnet.com/blog/russian-cyber-attack-campaigns-and-actors/) | [:closed_book:](../../blob/master/2020/2020.05.29_russian-cyber-attack-campaigns-and-actors)
@@ -277,7 +278,7 @@ Researchers](https://www.clearskysec.com/wp-content/uploads/2019/09/The-Kittens-
 * Jan 30 - [[Kaspersky] Chafer used Remexi malware to spy on Iran-based foreign diplomatic entities](https://securelist.com/chafer-used-remexi-malware/89538/) | [:closed_book:](../../blob/master/2019/2019.01.30.Chafer_APT_Spy_Iran)
 * Jan 30 - [[NSHC] The Double Life of SectorA05 Nesting in Agora (Operation Kitty Phishing](https://threatrecon.nshc.net/2019/01/30/operation-kitty-phishing) | [:closed_book:](../../blob/master/2019/2019.01.30.Operation_Kitty_Phishing)
 * Jan 30 - [[Morphisec] NEW CAMPAIGN DELIVERS ORCUS RAT](http://blog.morphisec.com/new-campaign-delivering-orcus-rat) | [:closed_book:](../../blob/master/2019/2019.01.30.ORCUS_RAT)
-* Jan 25 - [[LAB52]WIRTE Group attacking the Middle East](https://www.securityartwork.es/2019/01/25/wirte-group-attacking-the-middle-east/) | [:closed_book:](../../blob/master/2019/2019.01.18.WIRTE_Group_attacking_the_Middle_East)
+* Jan 25 - [[LAB52] WIRTE Group attacking the Middle East](https://www.securityartwork.es/2019/01/25/wirte-group-attacking-the-middle-east/) | [:closed_book:](../../blob/master/2019/2019.01.18.WIRTE_Group_attacking_the_Middle_East)
 * Jan 24 - [[Carbon Black] GandCrab and Ursnif Campaign](https://www.carbonblack.com/2019/01/24/carbon-black-tau-threatsight-analysis-gandcrab-and-ursnif-campaign/) | [:closed_book:](../../blob/master/2019/2019.01.24.GandCrab_and_Ursnif)
 * Jan 18 - [[Palo Alto Networks] DarkHydrus delivers new Trojan that can use Google Drive for C2 communications](https://unit42.paloaltonetworks.com/darkhydrus-delivers-new-trojan-that-can-use-google-drive-for-c2-communications/) | [:closed_book:](../../blob/master/2019/2019.01.18.DarkHydrus)
 * Jan 17 - [[Palo Alto Networks] Malware Used by “Rocke” Group Evolves to Evade Detection by Cloud Security Products](https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/) | [:closed_book:](../../blob/master/2019/2019.01.17.Rocke_Group)

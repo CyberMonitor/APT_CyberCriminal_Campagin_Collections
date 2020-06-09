@@ -1,0 +1,255 @@
+Indicators of Compromise (IOCs)
+
+IOC
+
+IOC Type
+
+Description
+
+faa80e0692ba120e38924ccd46f6be3c25b8edf7cddaa8960fe9ea632dc4a045
+
+SHA256
+
+PE Attachment - our infrastructure offer annÃ¢Â€Â®cod.exe
+
+b7960d1f40b727bbea18a0e5c62bafcb54c9ec73be3e69e787b7ddafd2aae364
+
+SHA256
+
+PE Attachment - powersafe courses annÃ¢Â€Â®cod.exe
+
+26eb8a1f0bdde626601d039ea0f2c92a7921152371bafe5e811c6a1831f071ce
+
+SHA256
+
+FlowCloud MS Word Macro Attachment - personal invitation.doc
+
+cd8f877c9a1c31179b633fd74bd5050e4d48eda29244230348c6f84878d0c33c
+
+SHA256
+
+Dropped Files - Cert.pem
+
+e4ad5d3213425c58778d8a0244df4cd99c748f58852d8ac71b46326efd5b3220
+
+SHA256
+
+Dropped Files - pense1.txt
+
+589229e2bd93100049909edf9825dce24ff963a0c465d969027db34e2eb878b4
+
+SHA256
+
+Dropped Files - Temptcm.tmp
+
+1334c742f2aec7e8412d76ba228b99935a49dc96a1e8e1f3446d9f61247ae47e
+
+SHA256
+
+Dropped Files - EhStorAuthn.exe
+
+de30929ef958211f9315e27a7aa45ef061726a76990ddc6b9d9f189b9fbdd45a
+
+SHA256
+
+Dropped Files - dlcore.dll
+
+0b013ccd9e10d7589994629aed18ffe2388cbd745b5b28ab39c07835295a1ca9
+
+SHA256
+
+Dropped Files - rebare.dat
+
+479954b9e7d5c5f7086a2a1ff1dba99de2eab2e1b1bc75ad8f3b211088eb4ee9
+
+SHA256
+
+Dropped Files - rescure.dat
+
+d5191327a984fab990bfb0e811688e65e9aaa751c3d93fa92487e8a95cb2eea8
+
+SHA256
+
+Dropped Files - responsor.dat
+
+0701cc7eb1af616294e90cbb35c99fa2b29d2aada9fcbdcdaf578b3fcf9b56c7
+
+SHA256
+
+Dropped Files - EhStorAuthn_shadow.exe
+
+27f5df1d35744cf283702fce384ce8cfb2f240bae5d725335ca1b90d6128bd40
+
+SHA256
+
+Dropped Files - rescure64.dat
+
+13e761f459c87c921dfb985cbc6489060eb86b4200c4dd99692d6936de8df5ba
+
+SHA256
+
+Dropped Files - rescure86.dat
+
+2481fd08abac0bfefe8d8b1fa3beb70f8f9424a1601aa08e195c0c14e1547c27
+
+SHA256
+
+Dropped Files - hha.dll
+
+188.131.233[.]27
+
+IP
+
+C&C IP
+
+118.25.97[.]43
+
+IP
+
+Sender IP
+
+34.80.27[.]200
+
+IP
+
+Sender IP
+
+134.209.99[.]169
+
+IP
+
+Staging IP
+
+101.99.74[.]234
+
+IP
+
+Staging IP
+
+Asce[.]email
+
+Domain
+
+Phishing Domain
+
+powersafetrainings[.]org
+
+Domain
+
+Phishing Domain
+
+mails.daveengineer[.]com
+
+Domain
+
+Phishing Domain
+
+powersafetraining[.]net
+
+Domain
+
+Related Infrastructure
+
+mails.energysemi[.]com
+
+Domain
+
+Related Infrastructure
+
+www.mails.energysemi[.]com
+
+Domain
+
+Related Infrastructure
+
+www.powersafetraining[.]net
+
+Domain
+
+Related Infrastructure
+
+www.powersafetrainings[.]org
+
+Domain
+
+Related Infrastructure
+
+ffca.caibi379[.]com
+
+Domain
+
+Macro Domain
+
+http://ffca.caibi379[.]com/rwjh/qtinfo.txt
+
+URL
+
+FlowCloud Macro Delivery URL Inactive
+
+https://www.dropbox[.]com:443/s/ddgifm4ityqwx60/Cert.pem?dl=1
+
+URL
+
+FlowCloud Macro Delivery URL
+
+HKEY_LOCAL_MACHINE\SYSTEM\Setup\PrintResponsor\2
+
+Registry Key
+
+FlowCloud Registry Key
+
+HKEY_LOCAL_MACHINE\SYSTEM\Setup\PrintResponsor\3
+
+Registry Key
+
+FlowCloud Registry Key
+
+HKEY_LOCAL_MACHINE\SYSTEM\Setup\PrintResponsor\4
+
+Registry Key
+
+FlowCloud Registry Key
+
+HKEY_LOCAL_MACHINE\HARDWARE\{2DB80286-1784-48b5-A751-B6ED1F490303}
+
+Registry Key
+
+FlowCloud Registry Key
+
+HKEY_LOCAL_MACHINE\HARDWARE\{804423C2-F490-4ac3-BFA5-13DEDE63A71A}
+
+Registry Key
+
+FlowCloud Registry Key
+
+HKEY_LOCAL_MACHINE\HARDWARE\{A5124AF5-DF23-49bf-B0ED-A18ED3DEA027}
+
+Registry Key
+
+FlowCloud Registry Key
+
+G:\FlowCloud\trunk\Dev\src\fcClient\Release\QQSetupEx_func.pdb
+
+File Path
+
+FlowCloud PDB Path
+
+g:\FlowCloud\trunk\Dev\src\fcClient\Release\fcClientDll.pdb
+
+File Path
+
+FlowCloud PDB Path
+
+F:\FlowCloud\trunk\Dev\src\fcClient\kmspy\Driver\Release\Driver.pdb
+
+File Path
+
+FlowCloud PDB Path
+
+F:\FlowCloud\trunk\Dev\src\fcClient\kmspy\Driver\x64\Release\Driver.pdb
+
+File Path
+
+FlowCloud PDB Path
+
+ 
