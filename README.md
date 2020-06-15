@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jun 11 - [[Trend Micro] New Android Spyware ActionSpy Revealed via Phishing Attacks from Earth Empusa](https://blog.trendmicro.com/trendlabs-security-intelligence/new-android-spyware-actionspy-revealed-via-phishing-attacks-from-earth-empusa/) | [:closed_book:](../../blob/master/2020/2020.06.11.Earth_Empusa)
 * Jun 08 - [[proofpoint] TA410: The Group Behind LookBack Attacks Against U.S. Utilities Sector Returns with New Malware](https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new) | [:closed_book:](../../blob/master/2020/2020.06.08.TA410)
 * Jun 03 - [[Malwarebyte] New LNK attack tied to Higaisa APT discovered](https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/) | [:closed_book:](../../blob/master/2020/2020.06.03.Higaisa_APT)
 * Jun 03 - [[Kaspersky] Cycldek: Bridging the (air) gap](https://securelist.com/cycldek-bridging-the-air-gap/97157/) | [:closed_book:](../../blob/master/2020/2020.06.03.Cycldek)
