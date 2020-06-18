@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jun 17 - [[Malwarebytes] Multi-stage APT attack drops Cobalt Strike using Malleable C2 feature](https://blog.malwarebytes.com/threat-analysis/2020/06/multi-stage-apt-attack-drops-cobalt-strike-using-malleable-c2-feature/) | [:closed_book:](../../blob/master/2020/2020.06.17.malleable-c2-feature_APT)
 * Jun 15 - [[Amnesty] India: Human Rights Defenders Targeted by a Coordinated Spyware Operation](https://www.amnesty.org/en/latest/research/2020/06/india-human-rights-defenders-targeted-by-a-coordinated-spyware-operation/) | [:closed_book:](../../blob/master/2020/2020.06.15.india-human-rights-defenders-targeted)
 * Jun 11 - [[Trend Micro] New Android Spyware ActionSpy Revealed via Phishing Attacks from Earth Empusa](https://blog.trendmicro.com/trendlabs-security-intelligence/new-android-spyware-actionspy-revealed-via-phishing-attacks-from-earth-empusa/) | [:closed_book:](../../blob/master/2020/2020.06.11.Earth_Empusa)
 * Jun 08 - [[proofpoint] TA410: The Group Behind LookBack Attacks Against U.S. Utilities Sector Returns with New Malware](https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new) | [:closed_book:](../../blob/master/2020/2020.06.08.TA410)
