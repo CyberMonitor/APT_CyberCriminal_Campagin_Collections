@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jun 17 - [[ESET] Operation In(ter)ception: Aerospace and military companies in the crosshairs of cyberspies](https://www.welivesecurity.com/2020/06/17/operation-interception-aerospace-military-companies-cyberspies/) | [:closed_book:](../../blob/master/2020/2020.06.17.Operation_Interception)
 * Jun 17 - [[Palo Alto] AcidBox: Rare Malware Repurposing Turla Group Exploit Targeted Russian Organizations](https://unit42.paloaltonetworks.com/acidbox-rare-malware/) | [:closed_book:](../../blob/master/2020/2020.06.17.AcidBox)
 * Jun 17 - [[Malwarebytes] Multi-stage APT attack drops Cobalt Strike using Malleable C2 feature](https://blog.malwarebytes.com/threat-analysis/2020/06/multi-stage-apt-attack-drops-cobalt-strike-using-malleable-c2-feature/) | [:closed_book:](../../blob/master/2020/2020.06.17.malleable-c2-feature_APT)
 * Jun 15 - [[Amnesty] India: Human Rights Defenders Targeted by a Coordinated Spyware Operation](https://www.amnesty.org/en/latest/research/2020/06/india-human-rights-defenders-targeted-by-a-coordinated-spyware-operation/) | [:closed_book:](../../blob/master/2020/2020.06.15.india-human-rights-defenders-targeted)
