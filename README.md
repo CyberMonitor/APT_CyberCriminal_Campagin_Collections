@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jun 18 - [[ESET] Digging up InvisiMole’s hidden arsenal](https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/) | [:closed_book:](../../blob/master/2020/2020.06.18.InvisiMole_hidden_arsenal)
 * Jun 17 - [[ESET] Operation In(ter)ception: Aerospace and military companies in the crosshairs of cyberspies](https://www.welivesecurity.com/2020/06/17/operation-interception-aerospace-military-companies-cyberspies/) | [:closed_book:](../../blob/master/2020/2020.06.17.Operation_Interception)
 * Jun 17 - [[Palo Alto] AcidBox: Rare Malware Repurposing Turla Group Exploit Targeted Russian Organizations](https://unit42.paloaltonetworks.com/acidbox-rare-malware/) | [:closed_book:](../../blob/master/2020/2020.06.17.AcidBox)
 * Jun 17 - [[Malwarebytes] Multi-stage APT attack drops Cobalt Strike using Malleable C2 feature](https://blog.malwarebytes.com/threat-analysis/2020/06/multi-stage-apt-attack-drops-cobalt-strike-using-malleable-c2-feature/) | [:closed_book:](../../blob/master/2020/2020.06.17.malleable-c2-feature_APT)
