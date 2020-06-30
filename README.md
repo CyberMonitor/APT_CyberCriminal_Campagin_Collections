@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jun 30 - [[Bitdefender] StrongPity APT – Revealing Trojanized Tools, Working Hours and Infrastructure](https://labs.bitdefender.com/2020/06/strongpity-apt-revealing-trojanized-tools-working-hours-and-infrastructure/) | [:closed_book:](../../blob/master/2020/2020.06.30_StrongPity_APT)
 * Jun 29 - [[CISCO] PROMETHIUM extends global reach with StrongPity3 APT](https://blog.talosintelligence.com/2020/06/promethium-extends-with-strongpity3.html) | [:closed_book:](../../blob/master/2020/2020.06.29.PROMETHIUM_StrongPity3_APT)
 * Jun 26 - [[Symantec] WastedLocker: Symantec Identifies Wave of Attacks Against U.S. Organizations](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/wastedlocker-ransomware-us) | [:closed_book:](../../blob/master/2020/2020.06.26_WastedLocker_Attack)
 * Jun 25 - [[Elastic] A close look at the advanced techniques used in a Malaysian-focused APT campaign](https://www.elastic.co/blog/advanced-techniques-used-in-malaysian-focused-apt-campaign) | [:closed_book:](../../blob/master/2020/2020.06.25.Malaysian-focused-APT_campaign)
