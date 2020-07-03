@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jul 01 - [[Lookout] Mobile APT Surveillance Campaigns Targeting Uyghurs](https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf) | [:closed_book:](../../blob/master/2020/2020.07.01.Mobile_APT_Uyghurs)
 * Jun 30 - [[Bitdefender] StrongPity APT – Revealing Trojanized Tools, Working Hours and Infrastructure](https://labs.bitdefender.com/2020/06/strongpity-apt-revealing-trojanized-tools-working-hours-and-infrastructure/) | [:closed_book:](../../blob/master/2020/2020.06.30_StrongPity_APT)
 * Jun 29 - [[CISCO] PROMETHIUM extends global reach with StrongPity3 APT](https://blog.talosintelligence.com/2020/06/promethium-extends-with-strongpity3.html) | [:closed_book:](../../blob/master/2020/2020.06.29.PROMETHIUM_StrongPity3_APT)
 * Jun 26 - [[Symantec] WastedLocker: Symantec Identifies Wave of Attacks Against U.S. Organizations](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/wastedlocker-ransomware-us) | [:closed_book:](../../blob/master/2020/2020.06.26_WastedLocker_Attack)
@@ -126,6 +127,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Dec 19 - [[FoxIT] Operation Wocao](https://resources.fox-it.com/rs/170-CAK-271/images/201912_Report_Operation_Wacao.pdf) | [:closed_book:](../../blob/master/2019/2019.12.19.Operation_Wocao)
 * Dec 17 - [[PaloAlto] Rancor: Cyber Espionage Group Uses New Custom Malware to Attack Southeast Asia](https://unit42.paloaltonetworks.com/rancor-cyber-espionage-group-uses-new-custom-malware-to-attack-southeast-asia/) | [:closed_book:](../../blob/master/2019/2019.12.17.Rancor)
 * Dec 17 - [[360] Dacls, the Dual platform RAT](https://blog.netlab.360.com/dacls-the-dual-platform-rat-en/) | [:closed_book:](../../blob/master/2019/2019.12.17.Dacls_RAT)
+* Dec 16 - [[Sophos] MyKings: The Slow But Steady Growth of a Relentless Botnet](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-uncut-mykings-report.pdf) | [:closed_book:](../../blob/master/2019/2019.12.16.MyKings)
 * Dec 12 - [[Trend Micro] Drilling Deep: A Look at Cyberattacks on the Oil and Gas Industry](https://documents.trendmicro.com/assets/white_papers/wp-drilling-deep-a-look-at-cyberattacks-on-the-oil-and-gas-industry.pdf) | [:closed_book:](../../blob/master/2019/2019.12.12.Drilling_Deep)
 * Dec 12 - [[Microsoft] GALLIUM: Targeting global telecom](https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/) | [:closed_book:](../../blob/master/2019/2019.12.12.GALLIUM)
 * Dec 12 - [[Recorded Future] Operation Gamework: Infrastructure Overlaps Found Between BlueAlpha and Iranian APTs](https://go.recordedfuture.com/hubfs/reports/cta-2019-1212.pdf) | [:closed_book:](../../blob/master/2019/2019.12.12.Operation_Gamework)
