@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jul 09 - [[ESET] More evil: A deep look at Evilnum and its toolset](https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/) | [:closed_book:](../../blob/master/2020/2020.07.09_Evilnum_Toolset)
 * Jul 06 - [[Sansec] North Korean hackers are skimming US and European shoppers](https://sansec.io/research/north-korea-magecart) | [:closed_book:](../../blob/master/2020/2020.07.06_North_Korean_Magecart)
 * Jul 01 - [[Lookout] Mobile APT Surveillance Campaigns Targeting Uyghurs](https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf) | [:closed_book:](../../blob/master/2020/2020.07.01.Mobile_APT_Uyghurs)
 * Jun 30 - [[Bitdefender] StrongPity APT – Revealing Trojanized Tools, Working Hours and Infrastructure](https://labs.bitdefender.com/2020/06/strongpity-apt-revealing-trojanized-tools-working-hours-and-infrastructure/) | [:closed_book:](../../blob/master/2020/2020.06.30_StrongPity_APT)
