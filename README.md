@@ -67,6 +67,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * May 11 - [[Palo Alto] Updated BackConfig Malware Targeting Government and Military Organizations in South Asia](https://unit42.paloaltonetworks.com/updated-backconfig-malware-targeting-government-and-military-organizations/) | [:closed_book:](../../blob/master/2020/2020.05.11_BackConfig_South_Asia)
 * May 07 - [[RedCanary] Introducing Blue Mockingbird](https://redcanary.com/blog/blue-mockingbird-cryptominer/) | [:closed_book:](../../blob/master/2020/2020.05.07_Blue_Mockingbird)
 * May 07 - [[CheckPoint] Naikon APT: Cyber Espionage Reloaded](https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/) | [:closed_book:](../../blob/master/2020/2020.05.07_Naikon_APT_Reloaded)
+* May 06 - [[Prevailion] Phantom in the Command Shell
+](https://blog.prevailion.com/2020/05/phantom-in-command-shell5.html) | [:closed_book:](../../blob/master/2020/2020.05.06_Phantom_EVILNUM)
 * May 06 - [[CyberStruggle] Leery Turtle Threat Report](https://cyberstruggle.org/delta/LeeryTurtleThreatReport_05_20.pdf) | [:closed_book:](../../blob/master/2020/2020.05.06_Leery_Turtle)
 * May 05 - [[CheckPoint] Nazar: Spirits of the Past](https://research.checkpoint.com/2020/nazar-spirits-of-the-past/) | [:closed_book:](../../blob/master/2020/2020.05.05.Nazar_APT)
 * Apr 29 - [[Recorded Future] Chinese Influence Operations Evolve in Campaigns Targeting Taiwanese Elections, Hong Kong Protests](https://go.recordedfuture.com/hubfs/reports/cta-2020-0429.pdf) | [:closed_book:](../../blob/master/2020/2020.04.29.Chinese_Influence_Operations_Taiwanese_Elections_Hong_Kong_Protests)
