@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jul 12 - [[WeiXin] SideWinder 2020 H1](https://mp.weixin.qq.com/s/5mBqxf_v6G006EnjECoTHw) | [:closed_book:](../../blob/master/2020/2020.07.12_SideWinder_2020_H1)
 * Jul 09 - [[AGARI] Cosmic Lynx: The Rise of Russian BEC](https://www.agari.com/cyber-intelligence-research/whitepapers/acid-agari-cosmic-lynx.pdf) | [:closed_book:](../../blob/master/2020/2020.07.09_Cosmic_Lynx)
 * Jul 09 - [[ESET] More evil: A deep look at Evilnum and its toolset](https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/) | [:closed_book:](../../blob/master/2020/2020.07.09_Evilnum_Toolset)
 * Jul 08 - [[Seqrite] Operation ‘Honey Trap’: APT36 Targets Defense Organizations in India](https://www.seqrite.com/blog/operation-honey-trap-apt36-targets-defense-organizations-in-india/) | [:closed_book:](../../blob/master/2020/2020.07.08_Operation_Honey_Trap)
