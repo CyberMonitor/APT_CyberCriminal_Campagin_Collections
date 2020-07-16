@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jul 15 - [[F-Secure] THE FAKE CISCO: Hunting for backdoors in Counterfeit Cisco devices](https://labs.f-secure.com/assets/BlogFiles/2020-07-the-fake-cisco.pdf) | [:closed_book:](../../blob/master/2020/2020.07.15_the_Fake_CISCO)
 * Jul 14 - [[ESET] Welcome Chat as a secure messaging app? Nothing could be further from the truth](https://www.welivesecurity.com/2020/07/14/welcome-chat-secure-messaging-app-nothing-further-truth/) | [:closed_book:](../../blob/master/2020/2020.07.14_Molerats_Middle_East_APT)
 * Jul 12 - [[WeiXin] SideWinder 2020 H1](https://mp.weixin.qq.com/s/5mBqxf_v6G006EnjECoTHw) | [:closed_book:](../../blob/master/2020/2020.07.12_SideWinder_2020_H1)
 * Jul 09 - [[AGARI] Cosmic Lynx: The Rise of Russian BEC](https://www.agari.com/cyber-intelligence-research/whitepapers/acid-agari-cosmic-lynx.pdf) | [:closed_book:](../../blob/master/2020/2020.07.09_Cosmic_Lynx)
