@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jul 22 - [[Palo Alto Network] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/) | [:closed_book:](../../blob/master/2020/2020.07.OilRig_Middle_Eastern_Telecommunication)
 * Jul 22 - [[Kaspersky] MATA: Multi-platform targeted malware framework](https://securelist.com/mata-multi-platform-targeted-malware-framework/97746/) | [:closed_book:](../../blob/master/2020/2020.07.22_MATA_APT)
 * Jul 15 - [[F-Secure] THE FAKE CISCO: Hunting for backdoors in Counterfeit Cisco devices](https://labs.f-secure.com/assets/BlogFiles/2020-07-the-fake-cisco.pdf) | [:closed_book:](../../blob/master/2020/2020.07.15_the_Fake_CISCO)
 * Jul 14 - [[ESET] Welcome Chat as a secure messaging app? Nothing could be further from the truth](https://www.welivesecurity.com/2020/07/14/welcome-chat-secure-messaging-app-nothing-further-truth/) | [:closed_book:](../../blob/master/2020/2020.07.14_Molerats_Middle_East_APT)
