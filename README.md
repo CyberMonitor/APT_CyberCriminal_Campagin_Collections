@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Jul 29 - [[McAfee] Operation North Star:  A Job Offer That’s Too Good to be True?](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/) | [:closed_book:](../../blob/master/2020/2020.07.29.Operation_North_Star)
 * Jul 22 - [[Palo Alto Network] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/) | [:closed_book:](../../blob/master/2020/2020.07.22.OilRig_Middle_Eastern_Telecommunication)
 * Jul 22 - [[Kaspersky] MATA: Multi-platform targeted malware framework](https://securelist.com/mata-multi-platform-targeted-malware-framework/97746/) | [:closed_book:](../../blob/master/2020/2020.07.22_MATA_APT)
 * Jul 15 - [[F-Secure] THE FAKE CISCO: Hunting for backdoors in Counterfeit Cisco devices](https://labs.f-secure.com/assets/BlogFiles/2020-07-the-fake-cisco.pdf) | [:closed_book:](../../blob/master/2020/2020.07.15_the_Fake_CISCO)
