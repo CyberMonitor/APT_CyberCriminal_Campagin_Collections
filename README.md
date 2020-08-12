@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Aug 10 - [[Seqrite] Gorgon APT targeting MSME sector in India](https://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/) | [:closed_book:](../../blob/master/2020/2020.08.10.Gorgon_APT)
 * Jul 29 - [[McAfee] Operation North Star:  A Job Offer That’s Too Good to be True?](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/) | [:closed_book:](../../blob/master/2020/2020.07.29.Operation_North_Star)
 * Jul 22 - [[Palo Alto Network] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/) | [:closed_book:](../../blob/master/2020/2020.07.22.OilRig_Middle_Eastern_Telecommunication)
 * Jul 22 - [[Kaspersky] MATA: Multi-platform targeted malware framework](https://securelist.com/mata-multi-platform-targeted-malware-framework/97746/) | [:closed_book:](../../blob/master/2020/2020.07.22_MATA_APT)
@@ -91,6 +92,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Apr 16 - [[White Ops] Giving Fraudsters the Cold Shoulder: Inside the Largest Connected TV Bot Attack](https://www.whiteops.com/blog/giving-fraudsters-the-cold-shoulder-inside-the-largest-connected-tv-bot-attack) | [:closed_book:](../../blob/master/2020/2020.04.16_ICEBUCKET_TV_Bot_Attack)
 * Apr 16 - [[CyCraft] Taiwan High-Tech Ecosystem Targeted by Foreign APT Group](https://cycraft.com/download/%5BTLP-Green%5D20200415%20Chimera_V4.1.pdf) | [:closed_book:](../../blob/master/2020/2020.04.16_Taiwan_High-Tech_APT)
 * Apr 15 - [[Lookout] Nation-state Mobile Malware Targets Syrians with COVID-19 Lures](https://blog.lookout.com/nation-state-mobile-malware-targets-syrians-with-covid-19-lures) | [:closed_book:](../../blob/master/2020/2020.04.15_COVID-19_Lures_Syrians)
+* Apr 15 - [[Cycraft] Craft for Resilience: APT Group Chimera](https://cycraft.com/download/%5BTLP-White%5D20200415%20Chimera_V4.1.pdf) | [:closed_book:](../../blob/master/2020/2020.04.15_Chimera_APT)
 * Apr 07 - [[MalwareBytes] APTs and COVID-19: How advanced persistent threats use the coronavirus as a lure](https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf) | [:closed_book:](../../blob/master/2020/2020.04.07_APTs_COVID-19)
 * Apr 07 - [[Zscaler] New Ursnif Campaign: A Shift from PowerShell to Mshta](https://www.zscaler.com/blogs/research/new-ursnif-campaign-shift-powershell-mshta) | [:closed_book:](../../blob/master/2020/2020.04.07_New_Ursnif_Campaign)
 * Apr 07 - [[BlackBerry] Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android](https://blogs.blackberry.com/en/2020/04/decade-of-the-rats) | [:closed_book:](../../blob/master/2020/2020.04.07_Decade_of_the_RATs)
@@ -1102,6 +1104,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ## Report
 :small_orange_diamond: 01 May 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
 :small_orange_diamond: 2020 - [[ESET] 2020 Q1 Threat Report](https://www.welivesecurity.com/wp-content/uploads/2020/04/ESET_Threat_Report_Q12020.pdf) | [:closed_book:](../../blob/master/Report/2020.Q1_ESET) <br>
+:small_orange_diamond: 2020 - [[ESET] 2020 Q2 Threat Report](https://www.welivesecurity.com/2020/07/29/eset-threat-report-q22020/) | [:closed_book:](../../blob/master/Report/2020.Q2_ESET) <br>
 :small_orange_diamond: 2020 - [[CrowdStrike] 2020 GLOBAL THREAT REPORT](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf) | [:closed_book:](../../blob/master/Report/2020.03.03_CrowdStrike_2020_GLOBAL_THREAT_REPORT) <br>
 :small_orange_diamond: 2019 - [[QianXin] APT threat report 2019 CN version](https://ti.qianxin.com/uploads/2020/02/13/cb78386a082f465f259b37dae5df4884.pdf) | [:closed_book:](../../blob/master/Report/2020.02.22_APT_threat_report_2019_CN_version) <br>
 :small_orange_diamond: 2020 - [[QianXin] APT threat report 2020 1H CN version](https://ti.qianxin.com/uploads/2020/06/29/e4663b4f11f01e5ec8a1a5d91a71dc72.pdf) | [:closed_book:](../../blob/master/Report/2020.06.29_APT_threat_report_2020_1H_CN_version) <br>
