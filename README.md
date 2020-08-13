@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Aug 13 - [[ClearSky] Operation ‘Dream Job’ Widespread North Korean Espionage Campaign](https://www.clearskysec.com/operation-dream-job/) | [:closed_book:](../../blob/master/2020/2020.08.13.Operation_Dream_Job)
 * Aug 10 - [[Seqrite] Gorgon APT targeting MSME sector in India](https://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/) | [:closed_book:](../../blob/master/2020/2020.08.10.Gorgon_APT)
 * Jul 29 - [[McAfee] Operation North Star:  A Job Offer That’s Too Good to be True?](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/) | [:closed_book:](../../blob/master/2020/2020.07.29.Operation_North_Star)
 * Jul 22 - [[Palo Alto Network] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/) | [:closed_book:](../../blob/master/2020/2020.07.22.OilRig_Middle_Eastern_Telecommunication)
