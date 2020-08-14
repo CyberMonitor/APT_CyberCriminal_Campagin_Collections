@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2020
 * Aug 13 - [[Kaspersky] CactusPete APT group’s updated Bisonal backdoor](https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/) | [:closed_book:](../../blob/master/2020/2020.08.13.CactusPete_APT)
 * Aug 13 - [[ClearSky] Operation ‘Dream Job’ Widespread North Korean Espionage Campaign](https://www.clearskysec.com/operation-dream-job/) | [:closed_book:](../../blob/master/2020/2020.08.13.Operation_Dream_Job)
+* Aug 12 - [[Kaspersky] Internet Explorer and Windows zero-day exploits used in Operation PowerFall](https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/) | [:closed_book:](../../blob/master/2020/2020.08.12.Operation_PowerFall)
 * Aug 10 - [[Seqrite] Gorgon APT targeting MSME sector in India](https://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/) | [:closed_book:](../../blob/master/2020/2020.08.10.Gorgon_APT)
 * Jul 29 - [[McAfee] Operation North Star:  A Job Offer That’s Too Good to be True?](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/) | [:closed_book:](../../blob/master/2020/2020.07.29.Operation_North_Star)
 * Jul 22 - [[Palo Alto Network] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/) | [:closed_book:](../../blob/master/2020/2020.07.22.OilRig_Middle_Eastern_Telecommunication)
@@ -1104,6 +1105,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+:small_orange_diamond: 13 Aug 2020 - [[NSA, FBI] Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | [:closed_book:](../../blob/master/Report/2020_NSA_FBI_Drovorub_Malware) <br>
 :small_orange_diamond: 01 May 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
 :small_orange_diamond: 2020 - [[ESET] 2020 Q1 Threat Report](https://www.welivesecurity.com/wp-content/uploads/2020/04/ESET_Threat_Report_Q12020.pdf) | [:closed_book:](../../blob/master/Report/2020.Q1_ESET) <br>
 :small_orange_diamond: 2020 - [[ESET] 2020 Q2 Threat Report](https://www.welivesecurity.com/2020/07/29/eset-threat-report-q22020/) | [:closed_book:](../../blob/master/Report/2020.Q2_ESET) <br>
