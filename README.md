@@ -27,6 +27,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Sep 01 - [[proofpoint] Chinese APT TA413 Resumes Targeting of Tibet Following COVID-19 Themed Economic Espionage Campaign Delivering Sepulcher Malware Targeting Europe](https://www.proofpoint.com/us/blog/threat-insight/chinese-apt-ta413-resumes-targeting-tibet-following-covid-19-themed-economic) | [:closed_book:](../../blob/master/2020/2020.09.01.Chinese_APT_TA413)
+* Aug 27 - [[ClearSky] The Kittens Are Back in Town 3](https://www.clearskysec.com/the-kittens-are-back-in-town-3/) | [:closed_book:](../../blob/master/2020/2020.08.27.Kittens_Are_Back)
+* Aug 20 - [[CertFR] DEVELOPMENT OF THE ACTIVITY OF THE TA505 CYBERCRIMINAL GROUP](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-009.pdf) | [:closed_book:](../../blob/master/2020/2020.08.20_DEVELOPMENT_TA505)
 * Aug 20 - [[Bitdefender] More Evidence of APT Hackers-for-Hire Used for Industrial Espionage](https://labs.bitdefender.com/2020/08/apt-hackers-for-hire-used-for-industrial-espionage/) | [:closed_book:](../../blob/master/2020/2020.08.20_APT_Hackers_for_Hire)
 * Aug 13 - [[Kaspersky] CactusPete APT group’s updated Bisonal backdoor](https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/) | [:closed_book:](../../blob/master/2020/2020.08.13.CactusPete_APT)
 * Aug 13 - [[ClearSky] Operation ‘Dream Job’ Widespread North Korean Espionage Campaign](https://www.clearskysec.com/operation-dream-job/) | [:closed_book:](../../blob/master/2020/2020.08.13.Operation_Dream_Job)
@@ -1135,6 +1138,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Jan 09 2019 - [[360] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/paper/193553.html) | [:closed_book:](../../blob/master/Report/2019.01.09.360_APT_Summary_report_2018_CN_Version) <br>
 :small_orange_diamond: Jan 07 2019 - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [:closed_book:](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition) <br>
 :small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version) <br>
+:small_orange_diamond: Sep 07 2020 - [[SWIFT & BAE] Follow the Money](https://www.swift.com/sites/default/files/files/swift_bae_report_Follow-The%20Money.pdf)  | [:closed_book:](../../blob/master/Report/2020.09.07_Follow_the_Money) <br>
 
 
 
