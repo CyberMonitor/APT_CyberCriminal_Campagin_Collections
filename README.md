@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Sep 03 - [[Cybereason] NO REST FOR THE WICKED: EVILNUM UNLEASHES PYVIL RAT](https://www.cybereason.com/blog/no-rest-for-the-wicked-evilnum-unleashes-pyvil-rat) | [:closed_book:](../../blob/master/2020/2020.09.03.Evilnum_Pyvil)
 * Sep 01 - [[proofpoint] Chinese APT TA413 Resumes Targeting of Tibet Following COVID-19 Themed Economic Espionage Campaign Delivering Sepulcher Malware Targeting Europe](https://www.proofpoint.com/us/blog/threat-insight/chinese-apt-ta413-resumes-targeting-tibet-following-covid-19-themed-economic) | [:closed_book:](../../blob/master/2020/2020.09.01.Chinese_APT_TA413)
 * Aug 27 - [[ClearSky] The Kittens Are Back in Town 3](https://www.clearskysec.com/the-kittens-are-back-in-town-3/) | [:closed_book:](../../blob/master/2020/2020.08.27.Kittens_Are_Back)
 * Aug 20 - [[CertFR] DEVELOPMENT OF THE ACTIVITY OF THE TA505 CYBERCRIMINAL GROUP](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-009.pdf) | [:closed_book:](../../blob/master/2020/2020.08.20_DEVELOPMENT_TA505)
