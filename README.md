@@ -27,11 +27,13 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Sep 23 - [[SEQRITE] Operation SideCopy](https://www.seqrite.com/blog/operation-sidecopy/) | [:closed_book:](../../blob/master/2020/2020.09.23.Operation_SideCopy)
 * Sep 17 - [[Qianxin] Operation Tibbar](https://ti.qianxin.com/uploads/2020/09/17/69da886eecc7087e9dac2d3ea4c66ba8.pdf) | [:closed_book:](../../blob/master/2020/2020.09.17.Operation_Tibbar)
 * Sep 08 - [[Microsoft] TeamTNT activity targets Weave Scope deployments](https://techcommunity.microsoft.com/t5/azure-security-center/teamtnt-activity-targets-weave-scope-deployments/ba-p/1645968) | [:closed_book:](../../blob/master/2020/2020.09.08.TeamTNT_Weave-Scope)
 * Sep 03 - [[Cybereason] NO REST FOR THE WICKED: EVILNUM UNLEASHES PYVIL RAT](https://www.cybereason.com/blog/no-rest-for-the-wicked-evilnum-unleashes-pyvil-rat) | [:closed_book:](../../blob/master/2020/2020.09.03.Evilnum_Pyvil)
 * Sep 01 - [[proofpoint] Chinese APT TA413 Resumes Targeting of Tibet Following COVID-19 Themed Economic Espionage Campaign Delivering Sepulcher Malware Targeting Europe](https://www.proofpoint.com/us/blog/threat-insight/chinese-apt-ta413-resumes-targeting-tibet-following-covid-19-themed-economic) | [:closed_book:](../../blob/master/2020/2020.09.01.Chinese_APT_TA413)
 * Aug 27 - [[ClearSky] The Kittens Are Back in Town 3](https://www.clearskysec.com/the-kittens-are-back-in-town-3/) | [:closed_book:](../../blob/master/2020/2020.08.27.Kittens_Are_Back)
+* Aug 28 - [[Kaspersky] Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) | [:closed_book:](../../blob/master/2020/2020.08.28_Transparent_Tribe)
 * Aug 20 - [[CertFR] DEVELOPMENT OF THE ACTIVITY OF THE TA505 CYBERCRIMINAL GROUP](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-009.pdf) | [:closed_book:](../../blob/master/2020/2020.08.20_DEVELOPMENT_TA505)
 * Aug 20 - [[Bitdefender] More Evidence of APT Hackers-for-Hire Used for Industrial Espionage](https://labs.bitdefender.com/2020/08/apt-hackers-for-hire-used-for-industrial-espionage/) | [:closed_book:](../../blob/master/2020/2020.08.20_APT_Hackers_for_Hire)
 * Aug 13 - [[Kaspersky] CactusPete APT group’s updated Bisonal backdoor](https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/) | [:closed_book:](../../blob/master/2020/2020.08.13.CactusPete_APT)
@@ -47,6 +49,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jul 12 - [[WeiXin] SideWinder 2020 H1](https://mp.weixin.qq.com/s/5mBqxf_v6G006EnjECoTHw) | [:closed_book:](../../blob/master/2020/2020.07.12_SideWinder_2020_H1)
 * Jul 09 - [[AGARI] Cosmic Lynx: The Rise of Russian BEC](https://www.agari.com/cyber-intelligence-research/whitepapers/acid-agari-cosmic-lynx.pdf) | [:closed_book:](../../blob/master/2020/2020.07.09_Cosmic_Lynx)
 * Jul 09 - [[ESET] More evil: A deep look at Evilnum and its toolset](https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/) | [:closed_book:](../../blob/master/2020/2020.07.09_Evilnum_Toolset)
+* Jul 08 - [[Sedbraven] Copy cat of APT Sidewinder ?](https://medium.com/@Sebdraven/copy-cat-of-apt-sidewinder-1893059ca68d) | [:closed_book:](../../blob/master/2020/2020.07.08.Copy_Cat_of_Sidewinder)
 * Jul 08 - [[proofpoint] TA410: The Group Behind LookBack Attacks Against U.S. Utilities Sector Returns with New Malware](https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new) | [:closed_book:](../../blob/master/2020/2020.07.08.TA410)
 * Jul 08 - [[Seqrite] Operation ‘Honey Trap’: APT36 Targets Defense Organizations in India](https://www.seqrite.com/blog/operation-honey-trap-apt36-targets-defense-organizations-in-india/) | [:closed_book:](../../blob/master/2020/2020.07.08_Operation_Honey_Trap)
 * Jul 06 - [[Sansec] North Korean hackers are skimming US and European shoppers](https://sansec.io/research/north-korea-magecart) | [:closed_book:](../../blob/master/2020/2020.07.06_North_Korean_Magecart)
