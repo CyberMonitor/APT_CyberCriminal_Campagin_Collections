@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2020
 * Sep 23 - [[Seqrite] Operation SideCopy](https://www.seqrite.com/blog/operation-sidecopy/) | [:closed_book:](../../blob/master/2020/2020.09.23.Operation_SideCopy)
+* Sep 22 - [[Quointelligence] APT28 Delivers Zebrocy Malware Campaign using NATO Theme as Lure](https://quointelligence.eu/2020/09/apt28-zebrocy-malware-campaign-nato-theme/) | [:closed_book:](../../blob/master/2020/2020.09.22.APT28_Zebrocy_Malware_Campaign)
 * Sep 17 - [[Qianxin] Operation Tibbar](https://ti.qianxin.com/uploads/2020/09/17/69da886eecc7087e9dac2d3ea4c66ba8.pdf) | [:closed_book:](../../blob/master/2020/2020.09.17.Operation_Tibbar)
 * Sep 08 - [[Microsoft] TeamTNT activity targets Weave Scope deployments](https://techcommunity.microsoft.com/t5/azure-security-center/teamtnt-activity-targets-weave-scope-deployments/ba-p/1645968) | [:closed_book:](../../blob/master/2020/2020.09.08.TeamTNT_Weave-Scope)
 * Sep 03 - [[Cybereason] NO REST FOR THE WICKED: EVILNUM UNLEASHES PYVIL RAT](https://www.cybereason.com/blog/no-rest-for-the-wicked-evilnum-unleashes-pyvil-rat) | [:closed_book:](../../blob/master/2020/2020.09.03.Evilnum_Pyvil)
