@@ -27,6 +27,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Oct 05 - [[Kaspersky] MosaicRegressor: Lurking in the Shadows of UEFI](https://securelist.com/mosaicregressor/98849/) | [:closed_book:](../../blob/master/2020/2020.10.05.MosaicRegressor_Lurking_in_the_Shadows_of_UEFI/2020.10.05_-_MosaicRegressor_Lurking_in_the_Shadows_of_UEFI_Securelist_2020.pdf)
+* Sep 29 - [[PTSecurity] ShadowPad: new activity from the Winnti group](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/shadowpad-new-activity-from-the-winnti-group/) | [:closed_book:](../../blob/master/2020/2020.09.29_ShadowPad_-_new_activity_from_the_Winnti_group)
 * Sep 25 - [[Amnesty] German-made FinSpy spyware found in Egypt, and Mac and Linux versions revealed](https://www.amnesty.org/en/latest/research/2020/09/german-made-finspy-spyware-found-in-egypt-and-mac-and-linux-versions-revealed/) | [:closed_book:](../../blob/master/2020/2020.09.25.Finspy_in_Egypt)
 * Sep 25 - [[360] APT-C-43 steals Venezuelan military secrets to provide intelligence support for the reactionaries — HpReact campaign](https://blog.360totalsecurity.com/en/apt-c-43-steals-venezuelan-military-secrets-to-provide-intelligence-support-for-the-reactionaries-hpreact-campaign/) | [:closed_book:](../../blob/master/2020/2020.09.25.APT-C-43_HpReact_campaign)
 * Sep 24 - [[Microsoft] detecting empires in the cloud](https://www.microsoft.com/security/blog/2020/09/24/gadolinium-detecting-empires-cloud/) | [:closed_book:](../../blob/master/2020/2020.09.24.Empires_in_the_Cloud)
