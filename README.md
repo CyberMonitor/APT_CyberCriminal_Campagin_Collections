@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Oct 07 - [[BlackBerry] BlackBerry Uncovers Massive Hack-For-Hire Group Targeting Governments, Businesses, Human Rights Groups and Influential Individuals](https://www.blackberry.com/us/en/company/newsroom/press-releases/2020/blackberry-uncovers-massive-hack-for-hire-group-targeting-governments-businesses-human-rights-groups-and-influential-individuals) | [:closed_book:](../../blob/master/2020/2020.10.07.Massive_Hack-For-Hire_Group)
 * Oct 06 - [[Malwarebytes] Release the Kraken: Fileless APT attack abuses Windows Error Reporting service](https://blog.malwarebytes.com/malwarebytes-news/2020/10/kraken-attack-abuses-wer-service/) | [:closed_book:](../../blob/master/2020/2020.10.06.Kraken_Fileless_APT)
 * Oct 05 - [[Kaspersky] MosaicRegressor: Lurking in the Shadows of UEFI](https://securelist.com/mosaicregressor/98849/) | [:closed_book:](../../blob/master/2020/2020.10.05.MosaicRegressor_Lurking_in_the_Shadows_of_UEFI/2020.10.05_-_MosaicRegressor_Lurking_in_the_Shadows_of_UEFI_Securelist_2020.pdf)
 * Sep 29 - [[PTSecurity] ShadowPad: new activity from the Winnti group](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/shadowpad-new-activity-from-the-winnti-group/) | [:closed_book:](../../blob/master/2020/2020.09.29_ShadowPad_-_new_activity_from_the_Winnti_group)
