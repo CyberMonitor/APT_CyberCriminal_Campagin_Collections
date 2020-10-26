@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Oct 22 - [[WeiXin] Bitter CHM](https://mp.weixin.qq.com/s/9O4nZV-LNHuBy2ihg2XeIw) | [:closed_book:](../../blob/master/2020/2020.10.22.Bitter_CHM_APT)
 * Oct 19 - [[TrendMicro] Operation Earth Kitsune: Tracking SLUB’s Current Operations](https://www.trendmicro.com/vinfo/hk-en/security/news/cyber-attacks/operation-earth-kitsune-tracking-slub-s-current-operations) | [:closed_book:](../../blob/master/2020/2020.10.19_-_Operation_Earth_Kitsune_-_Tracking_SLUBs_current_operations/2020.10.19_-_Operation_Earth_Kitsune_-_Tracking_SLUBs_current_operations.pdf)
 * Oct 15 - [[ClearSky] Operation Quicksand – MuddyWater’s Offensive Attack Against Israeli Organizations](https://www.clearskysec.com/operation-quicksand/) | [:closed_book:](../../blob/master/2020/2020.10.15_Operation_Quicksand_MuddyWater’s_Offensive_Attack_Against_Israeli/2020.10.15_Operation_Quicksand_MuddyWater’s_Offensive_Attack_Against_Israeli.pdf)
 * Oct 13 - [[WeiXin] Operation Rubia cordifolia](https://mp.weixin.qq.com/s/omacDXAdio88a_f0Xwu-kg) | [:closed_book:](../../blob/master/2020/2020.10.13.Operation_Rubia_cordifolia)
