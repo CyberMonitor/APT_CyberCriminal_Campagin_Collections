@@ -27,6 +27,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 
 ## 2020
+* Nov 10 - [[Record Future] New APT32 Malware Campaign Targets Cambodian Government](https://www.recordedfuture.com/apt32-malware-campaign/) | [:closed_book:](../../blob/master/2020/2020.11.10.APT32_Cambodian)
 * Nov 04 - [[Sophos] A new APT uses DLL side-loads to “KilllSomeOne”](https://news.sophos.com/en-us/2020/11/04/a-new-apt-uses-dll-side-loads-to-killlsomeone/) | [:closed_book:](../../blob/master/2020/2020.11.04.KilllSomeOne_DLL_APT)
 * Nov 01 - [[Cyberstanc] A look into APT36's (Transparent Tribe) tradecraft](https://cyberstanc.com/blog/a-look-into-apt36-transparent-tribe/) | [:closed_book:](../../blob/master/2020/2020.11.01.Transparent_Tribe_APT)
 * Oct 27 - [[US-CERT] North Korean Advanced Persistent Threat
