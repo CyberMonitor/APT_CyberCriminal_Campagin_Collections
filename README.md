@@ -1177,6 +1177,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Jan 07 2019 - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [:closed_book:](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition) <br>
 :small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version) <br>
 :small_orange_diamond: Sep 07 2020 - [[SWIFT & BAE] Follow the Money](https://www.swift.com/sites/default/files/files/swift_bae_report_Follow-The%20Money.pdf)  | [:closed_book:](../../blob/master/Report/2020.09.07_Follow_the_Money) <br>
+:small_orange_diamond: Nov 18 2020 - [[Sophos] SOPHOS 2021 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophos-2021-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/2020.11.18_SOPHOS_2021) <br>
 
 
 
