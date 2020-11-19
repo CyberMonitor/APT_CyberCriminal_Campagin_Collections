@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2020
 * Nov 17 - [[Symantec] Japan-Linked Organizations Targeted in Long-Running and Sophisticated Attack Campaign](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage) | [:closed_book:](../../blob/master/2020/2020.11.17.Cicada_Japan)
+* Nov 16 - [[FoxIT] TA505: A Brief History Of Their Time](https://blog.fox-it.com/2020/11/16/ta505-a-brief-history-of-their-time/) | [:closed_book:](../../blob/master/2020/2020.11.16.TA505_History)
 * Nov 16 - [[Bitdefender] A Detailed Timeline of a Chinese APT Espionage Attack Targeting South Eastern Asian Government Institutions](https://www.bitdefender.com/files/News/CaseStudies/study/379/Bitdefender-Whitepaper-Chinese-APT.pdf) | [:closed_book:](../../blob/master/2020/2020.11.16.Chinese_APT_South_Eastern_Asian)
 * Nov 12 - [[CISCO] CRAT wants to plunder your endpoints](https://blog.talosintelligence.com/2020/11/crat-and-plugins.html) | [:closed_book:](../../blob/master/2020/2020.11.12.CRAT_Lazarus)
 * Nov 12 - [[BlackBerry] The CostaRicto Campaign: Cyber-Espionage Outsourced](https://blogs.blackberry.com/en/2020/11/the-costaricto-campaign-cyber-espionage-outsourced) | [:closed_book:](../../blob/master/2020/2020.11.12.CostaRicto_Campaign)
