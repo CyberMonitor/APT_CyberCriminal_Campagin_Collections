@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Nov 19 - [[Cybereason] Cybereason vs. MedusaLocker Ransomware](https://www.cybereason.com/blog/medusalocker-ransomware) | [:closed_book:](../../blob/master/2020/2020.11.19.MedusaLocker_Ransomware)
 * Nov 17 - [[Cybereason] CHAES: Novel Malware Targeting Latin American E-Commerce](https://www.cybereason.com/hubfs/dam/collateral/reports/11-2020-Chaes-e-commerce-malware-research.pdf) | [:closed_book:](../../blob/master/2020/2020.11.17.CHAES)
 * Nov 17 - [[Symantec] Japan-Linked Organizations Targeted in Long-Running and Sophisticated Attack Campaign](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage) | [:closed_book:](../../blob/master/2020/2020.11.17.Cicada_Japan)
 * Nov 16 - [[FoxIT] TA505: A Brief History Of Their Time](https://blog.fox-it.com/2020/11/16/ta505-a-brief-history-of-their-time/) | [:closed_book:](../../blob/master/2020/2020.11.16.TA505_History)
