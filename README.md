@@ -1156,7 +1156,9 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
-:small_orange_diamond: 18 Nov 2020 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
+:small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
+:small_orange_diamond: 2020 11 04 - [[WEF] Partnership against
+Cybercrime](http://www3.weforum.org/docs/WEF_Partnership_against_Cybercrime_report_2020.pdf) | [:closed_book:](../../blob/master/Report/2020.11.04_-_WorldEconomicForum_-_Partnership_against_Cybercrime/) <br>
 :small_orange_diamond: 13 Aug 2020 - [[NSA, FBI] Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | [:closed_book:](../../blob/master/Report/2020_NSA_FBI_Drovorub_Malware) <br>
 :small_orange_diamond: 01 May 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
 :small_orange_diamond: 2020 - [[ESET] 2020 Q1 Threat Report](https://www.welivesecurity.com/wp-content/uploads/2020/04/ESET_Threat_Report_Q12020.pdf) | [:closed_book:](../../blob/master/Report/2020.Q1_ESET) <br>
