@@ -29,7 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
-* Nov 23 - [[S2W Lab] Analysis of Clop Ransomware suspiciously related to the Recent Incident](https://www.notion.so/S2W-LAB-Analysis-of-Clop-Ransomware-suspiciously-related-to-the-Recent-Incident-English-088056baf01242409a6e9f844f0c5f2e) | [:closed_book:](../../blob/master/2020/2020.11.23.Clop_Campaign)
+* Nov 19 - [[Cybereason] Cybereason vs. MedusaLocker Ransomware](https://www.cybereason.com/blog/medusalocker-ransomware) | [:closed_book:](../../blob/master/2020/2020.11.19.MedusaLocker_Ransomware)
 * Nov 17 - [[Cybereason] CHAES: Novel Malware Targeting Latin American E-Commerce](https://www.cybereason.com/hubfs/dam/collateral/reports/11-2020-Chaes-e-commerce-malware-research.pdf) | [:closed_book:](../../blob/master/2020/2020.11.17.CHAES)
 * Nov 17 - [[Symantec] Japan-Linked Organizations Targeted in Long-Running and Sophisticated Attack Campaign](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage) | [:closed_book:](../../blob/master/2020/2020.11.17.Cicada_Japan)
 * Nov 16 - [[FoxIT] TA505: A Brief History Of Their Time](https://blog.fox-it.com/2020/11/16/ta505-a-brief-history-of-their-time/) | [:closed_book:](../../blob/master/2020/2020.11.16.TA505_History)
@@ -1158,6 +1158,9 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+:small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
+:small_orange_diamond: 2020 11 04 - [[WEF] Partnership against
+Cybercrime](http://www3.weforum.org/docs/WEF_Partnership_against_Cybercrime_report_2020.pdf) | [:closed_book:](../../blob/master/Report/2020.11.04_-_WorldEconomicForum_-_Partnership_against_Cybercrime/) <br>
 :small_orange_diamond: 13 Aug 2020 - [[NSA, FBI] Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | [:closed_book:](../../blob/master/Report/2020_NSA_FBI_Drovorub_Malware) <br>
 :small_orange_diamond: 01 May 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
 :small_orange_diamond: 2020 - [[ESET] 2020 Q1 Threat Report](https://www.welivesecurity.com/wp-content/uploads/2020/04/ESET_Threat_Report_Q12020.pdf) | [:closed_book:](../../blob/master/Report/2020.Q1_ESET) <br>
