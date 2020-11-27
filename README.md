@@ -43,6 +43,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Nov 01 - [[Cyberstanc] A look into APT36's (Transparent Tribe) tradecraft](https://cyberstanc.com/blog/a-look-into-apt36-transparent-tribe/) | [:closed_book:](../../blob/master/2020/2020.11.01.Transparent_Tribe_APT)
 * Oct 27 - [[US-CERT] North Korean Advanced Persistent Threat
 Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WHITE_AA20-301A_North_Korean_APT_Focus_Kimsuky.pdf) | [:closed_book:](../../blob/master/2020/2020.10.27_AA20-301A.North_Korean_APT)
+* Oct 26 - [[DrWeb] Study of the ShadowPad APT backdoor and its relation to PlugX](https://news.drweb.com/show/?i=14048&lng=en) | [:closed_book:](../../blob/master/2020/2020.10.26.ShadowPad_APT_backdoor_PlugX)
 * Oct 23 - [[360] APT-C-44 NAFox](https://blogs.360.cn/post/APT-C-44.html) | [:closed_book:](../../blob/master/2020/2020.10.23.APT-C-44_NAFox)
 * Oct 22 - [[WeiXin] Bitter CHM](https://mp.weixin.qq.com/s/9O4nZV-LNHuBy2ihg2XeIw) | [:closed_book:](../../blob/master/2020/2020.10.22.Bitter_CHM_APT)
 * Oct 19 - [[TrendMicro] Operation Earth Kitsune: Tracking SLUB’s Current Operations](https://www.trendmicro.com/vinfo/hk-en/security/news/cyber-attacks/operation-earth-kitsune-tracking-slub-s-current-operations) | [:closed_book:](../../blob/master/2020/2020.10.19_-_Operation_Earth_Kitsune_-_Tracking_SLUBs_current_operations/2020.10.19_-_Operation_Earth_Kitsune_-_Tracking_SLUBs_current_operations.pdf)
