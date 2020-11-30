@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Nov 26 - [[CheckPoint] Bandook: Signed & Delivered](https://research.checkpoint.com/2020/bandook-signed-delivered/) | [:closed_book:](../../blob/master/2020/2020.11.26.Bandook)
 * Nov 23 - [[S2W Lab] Analysis of Clop Ransomware suspiciously related to the Recent Incident](https://www.notion.so/S2W-LAB-Analysis-of-Clop-Ransomware-suspiciously-related-to-the-Recent-Incident-English-088056baf01242409a6e9f844f0c5f2e) | [:closed_book:](../../blob/master/2020/2020.11.23.Clop_Campaign)
 * Nov 19 - [[Cybereason] Cybereason vs. MedusaLocker Ransomware](https://www.cybereason.com/blog/medusalocker-ransomware) | [:closed_book:](../../blob/master/2020/2020.11.19.MedusaLocker_Ransomware)
 * Nov 17 - [[Cybereason] CHAES: Novel Malware Targeting Latin American E-Commerce](https://www.cybereason.com/hubfs/dam/collateral/reports/11-2020-Chaes-e-commerce-malware-research.pdf) | [:closed_book:](../../blob/master/2020/2020.11.17.CHAES)
