@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Nov 30 - [[Microsoft] Threat actor leverages coin miner techniques to stay under the radar – here’s how to spot them](https://www.microsoft.com/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/) | [:closed_book:](../../blob/master/2020/2020.11.30.BISMUTH_CoinMiner)
 * Nov 27 - [[PTSecurity] Investigation with a twist: an accidental APT attack and averted data destruction](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/incident-response-polar-ransomware-apt27/) | [:closed_book:](../../blob/master/2020/2020.11.27.Twist_APT27)
 * Nov 26 - [[CheckPoint] Bandook: Signed & Delivered](https://research.checkpoint.com/2020/bandook-signed-delivered/) | [:closed_book:](../../blob/master/2020/2020.11.26.Bandook)
 * Nov 23 - [[S2W Lab] Analysis of Clop Ransomware suspiciously related to the Recent Incident](https://www.notion.so/S2W-LAB-Analysis-of-Clop-Ransomware-suspiciously-related-to-the-Recent-Incident-English-088056baf01242409a6e9f844f0c5f2e) | [:closed_book:](../../blob/master/2020/2020.11.23.Clop_Campaign)
