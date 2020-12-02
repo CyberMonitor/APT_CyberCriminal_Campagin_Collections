@@ -67,6 +67,7 @@ Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WH
 * Sep 23 - [[Seqrite] Operation SideCopy](https://www.seqrite.com/blog/operation-sidecopy/) | [:closed_book:](../../blob/master/2020/2020.09.23.Operation_SideCopy)
 * Sep 22 - [[Quointelligence] APT28 Delivers Zebrocy Malware Campaign using NATO Theme as Lure](https://quointelligence.eu/2020/09/apt28-zebrocy-malware-campaign-nato-theme/) | [:closed_book:](../../blob/master/2020/2020.09.22.APT28_Zebrocy_Malware_Campaign)
 * Sep 17 - [[Qianxin] Operation Tibbar](https://ti.qianxin.com/uploads/2020/09/17/69da886eecc7087e9dac2d3ea4c66ba8.pdf) | [:closed_book:](../../blob/master/2020/2020.09.17.Operation_Tibbar)
+* Sep 16 - [[Intel471] Partners in crime: North Koreans and elite Russian-speaking cybercriminals](https://public.intel471.com/blog/partners-in-crime-north-koreans-and-elite-russian-speaking-cybercriminals/) | [:closed_book:](../../blob/master/2020/2020.09.16.Partners_in_crime)
 * Sep 08 - [[Microsoft] TeamTNT activity targets Weave Scope deployments](https://techcommunity.microsoft.com/t5/azure-security-center/teamtnt-activity-targets-weave-scope-deployments/ba-p/1645968) | [:closed_book:](../../blob/master/2020/2020.09.08.TeamTNT_Weave-Scope)
 * Sep 03 - [[Cybereason] NO REST FOR THE WICKED: EVILNUM UNLEASHES PYVIL RAT](https://www.cybereason.com/blog/no-rest-for-the-wicked-evilnum-unleashes-pyvil-rat) | [:closed_book:](../../blob/master/2020/2020.09.03.Evilnum_Pyvil)
 * Sep 01 - [[proofpoint] Chinese APT TA413 Resumes Targeting of Tibet Following COVID-19 Themed Economic Espionage Campaign Delivering Sepulcher Malware Targeting Europe](https://www.proofpoint.com/us/blog/threat-insight/chinese-apt-ta413-resumes-targeting-tibet-following-covid-19-themed-economic) | [:closed_book:](../../blob/master/2020/2020.09.01.Chinese_APT_TA413)
@@ -1183,6 +1184,8 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Q3 2019 - [[AhnLab] ASEC Report Q3 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.96_ENG.pdf) | [:closed_book:](../../blob/master/Report/AhnLab/ASEC_REPORT_vol.96_ENG.pdf) <br>
 :small_orange_diamond: Q2 2019 - [[AhnLab] ASEC Report Q2 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.95_ENG.pdf) | [:closed_book:](../../blob/master/Report/AhnLab/ASEC_REPORT_vol.95_ENG.pdf) <br>
 :small_orange_diamond: Q1 2019 - [[AhnLab] ASEC Report Q1 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.94_ENG.pdf) | [:closed_book:](../../blob/master/Report/AhnLab/ASEC_REPORT_vol.94_ENG.pdf) <br>
+
+
 
 ### Other
 :small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
