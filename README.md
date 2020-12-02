@@ -1217,22 +1217,17 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ### Sophos
 :small_orange_diamond: Nov 18 2020 - [[Sophos] SOPHOS 2021 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophos-2021-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/Sophos/sophos-2021-threat-report.pdf) <br>
 :small_orange_diamond: Dec 02 2019 - [[Sophos] SOPHOS 2020 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-uncut-2020-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/Sophos/sophoslabs-uncut-2020-threat-report.pdf) <br>
-
 ### Other
-:small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
-:small_orange_diamond: 2020 11 04 - [[WEF] Partnership against
+:small_orange_diamond: Nov 18 2020 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
+:small_orange_diamond: Nov 04 2020 - [[WEF] Partnership against
 Cybercrime](http://www3.weforum.org/docs/WEF_Partnership_against_Cybercrime_report_2020.pdf) | [:closed_book:](../../blob/master/Report/2020.11.04_-_WorldEconomicForum_-_Partnership_against_Cybercrime/) <br>
-:small_orange_diamond: 01 May 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
-
-
+:small_orange_diamond: May 01 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
 :small_orange_diamond: Feb 02 2019 - [[threatinte] Threat Intel Reads – January 2019](https://threatintel.eu/2019/02/02/threat-intel-reads-january-2019/) | [:closed_book:](../../blob/master/Report/2019.02.02.Threat_Intel_Reads_January_2019) <br>
 :small_orange_diamond: Feb 2019 - [[SWISSCOM] Targeted Attacks: Cyber Security Report 2019](https://www.swisscom.ch/content/dam/swisscom/en/about/company/portrait/network/security/documents/security-report-2019.pdf) | [:closed_book:](../../blob/master/Report/2019.02.Targeted_Attacks) <br>
 :small_orange_diamond: Jan 30 2019 - [[Dragos] Webinar Summary: Uncovering ICS Threat Activity Groups](https://dragos.com/blog/industry-news/webinar-summary-uncovering-ics-threat-activity-groups/) | [:closed_book:](../../blob/master/Report/2019.01.30.Uncovering_ICS_Threat_Activity_Groups) <br>
-
 :small_orange_diamond: Jan 15 2019 - [[Hackmageddon] 2018: A Year of Cyber Attacks](https://www.hackmageddon.com/2019/01/15/2018-a-year-of-cyber-attacks/) | [:closed_book:](../../blob/master/Report/2019.01.15.2018-a-year-of-cyber-attacks) <br>
 :small_orange_diamond: Jan 09 2019 - [[360] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/paper/193553.html) | [:closed_book:](../../blob/master/Report/2019.01.09.360_APT_Summary_report_2018_CN_Version) <br>
 :small_orange_diamond: Jan 07 2019 - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [:closed_book:](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition) <br>
-
 :small_orange_diamond: Sep 07 2020 - [[SWIFT & BAE] Follow the Money](https://www.swift.com/sites/default/files/files/swift_bae_report_Follow-The%20Money.pdf)  | [:closed_book:](../../blob/master/Report/2020.09.07_Follow_the_Money) <br>
 
 
