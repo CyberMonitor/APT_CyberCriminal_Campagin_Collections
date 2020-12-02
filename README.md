@@ -66,6 +66,7 @@ Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WH
 * Sep 24 - [[Microsoft] detecting empires in the cloud](https://www.microsoft.com/security/blog/2020/09/24/gadolinium-detecting-empires-cloud/) | [:closed_book:](../../blob/master/2020/2020.09.24.Empires_in_the_Cloud)
 * Sep 23 - [[Seqrite] Operation SideCopy](https://www.seqrite.com/blog/operation-sidecopy/) | [:closed_book:](../../blob/master/2020/2020.09.23.Operation_SideCopy)
 * Sep 22 - [[Quointelligence] APT28 Delivers Zebrocy Malware Campaign using NATO Theme as Lure](https://quointelligence.eu/2020/09/apt28-zebrocy-malware-campaign-nato-theme/) | [:closed_book:](../../blob/master/2020/2020.09.22.APT28_Zebrocy_Malware_Campaign)
+* Sep 21 - [[CISCO] The art and science of detecting Cobalt Strike](https://blog.talosintelligence.com/2020/09/coverage-strikes-back-cobalt-strike-paper.html) | [:closed_book:](../../blob/master/2020/2020.09.21.coverage-strikes-back-cobalt-strike-paper)
 * Sep 17 - [[Qianxin] Operation Tibbar](https://ti.qianxin.com/uploads/2020/09/17/69da886eecc7087e9dac2d3ea4c66ba8.pdf) | [:closed_book:](../../blob/master/2020/2020.09.17.Operation_Tibbar)
 * Sep 16 - [[Intel471] Partners in crime: North Koreans and elite Russian-speaking cybercriminals](https://public.intel471.com/blog/partners-in-crime-north-koreans-and-elite-russian-speaking-cybercriminals/) | [:closed_book:](../../blob/master/2020/2020.09.16.Partners_in_crime)
 * Sep 08 - [[Microsoft] TeamTNT activity targets Weave Scope deployments](https://techcommunity.microsoft.com/t5/azure-security-center/teamtnt-activity-targets-weave-scope-deployments/ba-p/1645968) | [:closed_book:](../../blob/master/2020/2020.09.08.TeamTNT_Weave-Scope)
@@ -1207,6 +1208,8 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ### Tencent
 :small_orange_diamond: Mar 05 2020 - [[Tencent] [CN] 2019 APT Summary Report](http://pc1.gtimg.com/softmgr/files/apt_report_2019.pdf)  | [:closed_book:](../../blob/master/Report/Tencent/apt_report_2019.CN_Version.pdf) <br>
 :small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/Tencent/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version.pdf) <br>
+### Verizon
+:small_orange_diamond: Nov 16 2020 - [[Verizon] [CN] Cyber-Espionage Report 2020-2021](https://www.infopoint-security.de/media/2020-2021-cyber-espionage-report.pdf)  | [:closed_book:](../../blob/master/Report/Verizon/2020-2021-cyber-espionage-report.pdf) <br>
 
 ### Other
 :small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
