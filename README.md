@@ -1213,7 +1213,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Mar 05 2020 - [[Tencent] [CN] 2019 APT Summary Report](http://pc1.gtimg.com/softmgr/files/apt_report_2019.pdf)  | [:closed_book:](../../blob/master/Report/Tencent/apt_report_2019.CN_Version.pdf) <br>
 :small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/Tencent/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version.pdf) <br>
 ### Verizon
-:small_orange_diamond: Nov 16 2020 - [[Verizon] [CN] Cyber-Espionage Report 2020-2021](https://www.infopoint-security.de/media/2020-2021-cyber-espionage-report.pdf)  | [:closed_book:](../../blob/master/Report/Verizon/2020-2021-cyber-espionage-report.pdf) <br>
+:small_orange_diamond: Nov 16 2020 - [[Verizon] Cyber-Espionage Report 2020-2021](https://www.infopoint-security.de/media/2020-2021-cyber-espionage-report.pdf)  | [:closed_book:](../../blob/master/Report/Verizon/2020-2021-cyber-espionage-report.pdf) <br>
 ### Sophos
 :small_orange_diamond: Nov 18 2020 - [[Sophos] SOPHOS 2021 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophos-2021-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/Sophos/sophos-2021-threat-report.pdf) <br>
 :small_orange_diamond: Dec 02 2019 - [[Sophos] SOPHOS 2020 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-uncut-2020-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/Sophos/sophoslabs-uncut-2020-threat-report.pdf) <br>
