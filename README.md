@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Dec 01 - [CISA] Advanced Persistent Threat Actors Targeting U.S. Think Tanks](https://us-cert.cisa.gov/ncas/alerts/aa20-336a) | [:closed_book:](../../blob/master/2020/2020.12.01.APT_US_Think_Tanks)
 * Nov 30 - [[Microsoft] Threat actor leverages coin miner techniques to stay under the radar – here’s how to spot them](https://www.microsoft.com/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/) | [:closed_book:](../../blob/master/2020/2020.11.30.BISMUTH_CoinMiner)
 * Nov 27 - [[PTSecurity] Investigation with a twist: an accidental APT attack and averted data destruction](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/incident-response-polar-ransomware-apt27/) | [:closed_book:](../../blob/master/2020/2020.11.27.Twist_APT27)
 * Nov 26 - [[CheckPoint] Bandook: Signed & Delivered](https://research.checkpoint.com/2020/bandook-signed-delivered/) | [:closed_book:](../../blob/master/2020/2020.11.26.Bandook)
@@ -82,10 +83,12 @@ Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WH
 * Aug 13 - [[ClearSky] Operation ‘Dream Job’ Widespread North Korean Espionage Campaign](https://www.clearskysec.com/operation-dream-job/) | [:closed_book:](../../blob/master/2020/2020.08.13.Operation_Dream_Job)
 * Aug 12 - [[Kaspersky] Internet Explorer and Windows zero-day exploits used in Operation PowerFall](https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/) | [:closed_book:](../../blob/master/2020/2020.08.12.Operation_PowerFall)
 * Aug 10 - [[Seqrite] Gorgon APT targeting MSME sector in India](https://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/) | [:closed_book:](../../blob/master/2020/2020.08.10.Gorgon_APT)
+* Aug 03 - [[CISA] MAR-10292089-1.v2 – Chinese Remote Access Trojan: TAIDOOR](https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a) | [:closed_book:](../../blob/master/2020/2020.08.03.TAIDOOR)
 * Jul 29 - [[McAfee] Operation North Star:  A Job Offer That’s Too Good to be True?](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/) | [:closed_book:](../../blob/master/2020/2020.07.29.Operation_North_Star)
 * Jul 28 - [[Group-IB] JOLLY ROGER’S PATRONS](https://www.group-ib.com/resources/threat-research/black-jack.html) | [:closed_book:](../../blob/master/2020/2020.07.28.black-jack)
 * Jul 22 - [[Palo Alto Network] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/) | [:closed_book:](../../blob/master/2020/2020.07.22.OilRig_Middle_Eastern_Telecommunication)
 * Jul 22 - [[Kaspersky] MATA: Multi-platform targeted malware framework](https://securelist.com/mata-multi-platform-targeted-malware-framework/97746/) | [:closed_book:](../../blob/master/2020/2020.07.22_MATA_APT)
+* Jul 16 - [[NCSC] Advisory: APT29 targets COVID-19 vaccine development](https://www.ncsc.gov.uk/news/advisory-apt29-targets-covid-19-vaccine-development) | [:closed_book:](../../blob/master/2020/2020.07.16.apt29-targets-covid-19-vaccine-development)
 * Jul 15 - [[F-Secure] THE FAKE CISCO: Hunting for backdoors in Counterfeit Cisco devices](https://labs.f-secure.com/assets/BlogFiles/2020-07-the-fake-cisco.pdf) | [:closed_book:](../../blob/master/2020/2020.07.15_the_Fake_CISCO)
 * Jul 14 - [[Tesly] TURLA / VENOMOUS BEAR UPDATES ITS ARSENAL: “NEWPASS” APPEARS ON THE APT THREAT SCENE](https://www.telsy.com/turla-venomous-bear-updates-its-arsenal-newpass-appears-on-the-apt-threat-scene/) | [:closed_book:](../../blob/master/2020/2020.07.14_Turla_VENOMOUS_BEAR)
 * Jul 14 - [[ESET] Welcome Chat as a secure messaging app? Nothing could be further from the truth](https://www.welivesecurity.com/2020/07/14/welcome-chat-secure-messaging-app-nothing-further-truth/) | [:closed_book:](../../blob/master/2020/2020.07.14_Molerats_Middle_East_APT)
@@ -1210,6 +1213,8 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/Tencent/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version.pdf) <br>
 ### Verizon
 :small_orange_diamond: Nov 16 2020 - [[Verizon] [CN] Cyber-Espionage Report 2020-2021](https://www.infopoint-security.de/media/2020-2021-cyber-espionage-report.pdf)  | [:closed_book:](../../blob/master/Report/Verizon/2020-2021-cyber-espionage-report.pdf) <br>
+### CISA
+
 
 ### Other
 :small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
