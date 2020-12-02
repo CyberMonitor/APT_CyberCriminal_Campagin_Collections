@@ -81,6 +81,7 @@ Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WH
 * Aug 18 - [[F-Secure] LAZARUS GROUP CAMPAIGN TARGETING THE CRYPTOCURRENCY VERTICAL](https://labs.f-secure.com/assets/BlogFiles/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf) | [:closed_book:](../../blob/master/2020/2020.08.18.LAZARUS_GROUP)
 * Aug 13 - [[Kaspersky] CactusPete APT group’s updated Bisonal backdoor](https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/) | [:closed_book:](../../blob/master/2020/2020.08.13.CactusPete_APT)
 * Aug 13 - [[ClearSky] Operation ‘Dream Job’ Widespread North Korean Espionage Campaign](https://www.clearskysec.com/operation-dream-job/) | [:closed_book:](../../blob/master/2020/2020.08.13.Operation_Dream_Job)
+* Aug 13 - [[CISA] Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | [:closed_book:](../../blob/master/2020/2020.08.13.Russian_GRU_85th_GTsSS)
 * Aug 12 - [[Kaspersky] Internet Explorer and Windows zero-day exploits used in Operation PowerFall](https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/) | [:closed_book:](../../blob/master/2020/2020.08.12.Operation_PowerFall)
 * Aug 10 - [[Seqrite] Gorgon APT targeting MSME sector in India](https://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/) | [:closed_book:](../../blob/master/2020/2020.08.10.Gorgon_APT)
 * Aug 03 - [[CISA] MAR-10292089-1.v2 – Chinese Remote Access Trojan: TAIDOOR](https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a) | [:closed_book:](../../blob/master/2020/2020.08.03.TAIDOOR)
@@ -1213,14 +1214,12 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/Tencent/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version.pdf) <br>
 ### Verizon
 :small_orange_diamond: Nov 16 2020 - [[Verizon] [CN] Cyber-Espionage Report 2020-2021](https://www.infopoint-security.de/media/2020-2021-cyber-espionage-report.pdf)  | [:closed_book:](../../blob/master/Report/Verizon/2020-2021-cyber-espionage-report.pdf) <br>
-### CISA
 
 
 ### Other
 :small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
 :small_orange_diamond: 2020 11 04 - [[WEF] Partnership against
 Cybercrime](http://www3.weforum.org/docs/WEF_Partnership_against_Cybercrime_report_2020.pdf) | [:closed_book:](../../blob/master/Report/2020.11.04_-_WorldEconomicForum_-_Partnership_against_Cybercrime/) <br>
-:small_orange_diamond: 13 Aug 2020 - [[NSA, FBI] Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | [:closed_book:](../../blob/master/Report/2020_NSA_FBI_Drovorub_Malware) <br>
 :small_orange_diamond: 01 May 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
 
 
