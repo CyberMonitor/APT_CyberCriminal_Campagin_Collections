@@ -1185,10 +1185,28 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Q3 2019 - [[AhnLab] ASEC Report Q3 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.96_ENG.pdf) | [:closed_book:](../../blob/master/Report/AhnLab/ASEC_REPORT_vol.96_ENG.pdf) <br>
 :small_orange_diamond: Q2 2019 - [[AhnLab] ASEC Report Q2 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.95_ENG.pdf) | [:closed_book:](../../blob/master/Report/AhnLab/ASEC_REPORT_vol.95_ENG.pdf) <br>
 :small_orange_diamond: Q1 2019 - [[AhnLab] ASEC Report Q1 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.94_ENG.pdf) | [:closed_book:](../../blob/master/Report/AhnLab/ASEC_REPORT_vol.94_ENG.pdf) <br>
-
 ### Group-IB
 :small_orange_diamond: Nov 24 2020 - [[Group-IB] Hi-Tech Crime Trends 2020-2021](https://www.group-ib.com/resources/threat-research/2020-report.html) | [:closed_book:](../../blob/master/Report/Group-IB/Group-IB_Hi-Tech_Crime_Trends_2019-2020_en.pdf) <br>
 :small_orange_diamond: Nov 29 2019 - [[Group-IB] Hi-Tech Crime Trends 2019-2020](https://www.group-ib.com/resources/threat-research/2019-report.html) | [:closed_book:](../../blob/master/Report/Group-IB/Group-IB_Hi-Tech_Crime_Trends_2020-2021_en.pdf) <br>
+### PTSecurity
+:small_orange_diamond: Q2 2020 - [[PTSecurity] Cybersecurity threatscape Q2 2020](https://www.ptsecurity.com/upload/corporate/ww-en/analytics/cybersecurity-threatscape-2020-q2-eng.pdf) | [:closed_book:](../../blob/master/Report/PTSecurity/cybersecurity-threatscape-2020-q2-eng.pdf) <br>
+:small_orange_diamond: Q1 2020 - [[PTSecurity] Cybersecurity threatscape Q1 2020](https://www.ptsecurity.com/upload/corporate/ww-en/analytics/cybersecurity-threatscape-2020-q1-eng.pdf) | [:closed_book:](../../blob/master/Report/PTSecurity/cybersecurity-threatscape-2020-q1-eng.pdf) <br>
+:small_orange_diamond: Q4 2019 - [[PTSecurity] Cybersecurity threatscape Q3 2019](https://www.ptsecurity.com/upload/corporate/ww-en/analytics/cybersecurity-threatscape-2019-q4-eng.pdf) | [:closed_book:](../../blob/master/Report/PTSecurity/cybersecurity-threatscape-2019-q4-eng.pdf) <br>
+:small_orange_diamond: Q3 2019 - [[PTSecurity] Cybersecurity threatscape Q3 2019](https://www.ptsecurity.com/upload/corporate/ww-en/analytics/cybersecurity-threatscape-2019-q3-eng.pdf) | [:closed_book:](../../blob/master/Report/PTSecurity/cybersecurity-threatscape-2019-q3-eng.pdf) <br>
+:small_orange_diamond: Q2 2019 - [[PTSecurity] Cybersecurity threatscape Q2 2019](https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Cybersecurity-threatscape-2019-Q2-eng.pdf) | [:closed_book:](../../blob/master/Report/PTSecurity/Cybersecurity-threatscape-2019-Q2-eng.pdf) <br>
+:small_orange_diamond: Q1 2019 - [[PTSecurity] Cybersecurity threatscape Q1 2019](https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Cybersecurity-threatscape-2019-Q1-eng.pdf) | [:closed_book:](../../blob/master/Report/PTSecurity/Cybersecurity-threatscape-2019-Q1-eng.pdf) <br>
+### ENISA
+:small_orange_diamond: Oct 20 2020 - [[ENISA] ENISA Threat Landscape 2020 - Main Incidents](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2020-main-incidents) | [:closed_book:](../../blob/master/Report/ENISA/ETL2020_Incidents_A4.pdf) <br>
+:small_orange_diamond: Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [:closed_book:](../../blob/master/Report/ENISA/ENISA_Threat_Landscape_2018.pdf) <br>
+### CrowdStrike
+:small_orange_diamond: Mar 03 2020 - [[CrowdStrike] 2020 GLOBAL THREAT REPORT](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf) | [:closed_book:](../../blob/master/Report/CrowdStrike/Report2020CrowdStrikeGlobalThreatReport.pdf) <br>
+:small_orange_diamond: Feb 19 2019 - [[CrowdStrike] 2019 GLOBAL THREAT REPORT](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2019GlobalThreatReport.pdf?lb_email=&utm_source=Marketo&utm_medium=Web&utm_campaign=Threat_Report_2019) | [:closed_book:](../../blob/master/Report/CrowdStrike/Report2019GlobalThreatReport.pdf) <br>
+### QianXin
+:small_orange_diamond: Jun 29 2020 - [[QianXin] APT threat report 2020 1H CN version](https://ti.qianxin.com/uploads/2020/06/29/e4663b4f11f01e5ec8a1a5d91a71dc72.pdf) | [:closed_book:](../../blob/master/Report/QianXin/2020.06.29_APT_threat_report_2020_1H_CN_version.pdf) <br>
+:small_orange_diamond: Feb 02 2019 - [[QianXin] APT threat report 2019 CN version](https://ti.qianxin.com/uploads/2020/02/13/cb78386a082f465f259b37dae5df4884.pdf) | [:closed_book:](../../blob/master/Report/QianXin/2020.02.22_APT_threat_report_2019_CN_version.pdf) <br>
+### Tencent
+:small_orange_diamond: Mar 05 2020 - [[Tencent] [CN] 2019 APT Summary Report](http://pc1.gtimg.com/softmgr/files/apt_report_2019.pdf)  | [:closed_book:](../../blob/master/Report/Tencent/apt_report_2019.CN_Version.pdf) <br>
+:small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/Tencent/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version.pdf) <br>
 
 ### Other
 :small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
@@ -1196,21 +1214,16 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 Cybercrime](http://www3.weforum.org/docs/WEF_Partnership_against_Cybercrime_report_2020.pdf) | [:closed_book:](../../blob/master/Report/2020.11.04_-_WorldEconomicForum_-_Partnership_against_Cybercrime/) <br>
 :small_orange_diamond: 13 Aug 2020 - [[NSA, FBI] Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | [:closed_book:](../../blob/master/Report/2020_NSA_FBI_Drovorub_Malware) <br>
 :small_orange_diamond: 01 May 2020 - [[Macnia Networks, TeamT5] 2019 H2 APT Report](https://www.macnica.net/file/mpressioncss_ta_report_2019_4.pdf) | [:closed_book:](../../blob/master/Report/2019.H2_macnica_TeamT5) <br>
-:small_orange_diamond: 2020 - [[CrowdStrike] 2020 GLOBAL THREAT REPORT](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf) | [:closed_book:](../../blob/master/Report/2020.03.03_CrowdStrike_2020_GLOBAL_THREAT_REPORT) <br>
-:small_orange_diamond: 2019 - [[QianXin] APT threat report 2019 CN version](https://ti.qianxin.com/uploads/2020/02/13/cb78386a082f465f259b37dae5df4884.pdf) | [:closed_book:](../../blob/master/Report/2020.02.22_APT_threat_report_2019_CN_version) <br>
-:small_orange_diamond: 2020 - [[QianXin] APT threat report 2020 1H CN version](https://ti.qianxin.com/uploads/2020/06/29/e4663b4f11f01e5ec8a1a5d91a71dc72.pdf) | [:closed_book:](../../blob/master/Report/2020.06.29_APT_threat_report_2020_1H_CN_version) <br>
-:small_orange_diamond: Q4 2019 - [[GROUP-IB] HI– TECH CRIME TRENDS 2019/2020](https://www.group-ib.com/resources/threat-research/2019-report.html) | [:closed_book:](../../blob/master/Report/Group-IB_Hi-Tech_Crime_Trends_2019-2020.pdf) <br>
-:small_orange_diamond: Q3 2019 - [[PTSecurity] Cybersecurity threatscape Q3 2019](https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2019-q3/) | [:closed_book:](../../blob/master/Report/2019.Q3.PTSecurity_report) <br>
-:small_orange_diamond: Q2 2019 - [[PTSecurity] Cybersecurity threatscape Q2 2019](https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2019-q2/) | [:closed_book:](../../blob/master/Report/2019.Q2.PTSecurity_report) <br>
+
 
 :small_orange_diamond: Feb 02 2019 - [[threatinte] Threat Intel Reads – January 2019](https://threatintel.eu/2019/02/02/threat-intel-reads-january-2019/) | [:closed_book:](../../blob/master/Report/2019.02.02.Threat_Intel_Reads_January_2019) <br>
 :small_orange_diamond: Feb 2019 - [[SWISSCOM] Targeted Attacks: Cyber Security Report 2019](https://www.swisscom.ch/content/dam/swisscom/en/about/company/portrait/network/security/documents/security-report-2019.pdf) | [:closed_book:](../../blob/master/Report/2019.02.Targeted_Attacks) <br>
 :small_orange_diamond: Jan 30 2019 - [[Dragos] Webinar Summary: Uncovering ICS Threat Activity Groups](https://dragos.com/blog/industry-news/webinar-summary-uncovering-ics-threat-activity-groups/) | [:closed_book:](../../blob/master/Report/2019.01.30.Uncovering_ICS_Threat_Activity_Groups) <br>
-:small_orange_diamond: Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [:closed_book:](../../blob/master/Report/2019.01.28.ENISA_Threat_Landscape_Report_2018) <br>
+
 :small_orange_diamond: Jan 15 2019 - [[Hackmageddon] 2018: A Year of Cyber Attacks](https://www.hackmageddon.com/2019/01/15/2018-a-year-of-cyber-attacks/) | [:closed_book:](../../blob/master/Report/2019.01.15.2018-a-year-of-cyber-attacks) <br>
 :small_orange_diamond: Jan 09 2019 - [[360] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/paper/193553.html) | [:closed_book:](../../blob/master/Report/2019.01.09.360_APT_Summary_report_2018_CN_Version) <br>
 :small_orange_diamond: Jan 07 2019 - [[Medium] APT_chronicles_december_2018_edition](https://medium.com/@z3roTrust/the-apt-chronicles-december-2018-edition-e3e5125ffcd2) | [:closed_book:](../../blob/master/Report/2019.01.07.APT_chronicles_december_2018_edition) <br>
-:small_orange_diamond: Jan 03 2019 - [[Tencent] [CN] 2018 APT Summary Report](https://www.freebuf.com/articles/network/193420.html)  | [:closed_book:](../../blob/master/Report/2019.01.03.Tencent_APT_Summary_report_2018_CN_Version) <br>
+
 :small_orange_diamond: Sep 07 2020 - [[SWIFT & BAE] Follow the Money](https://www.swift.com/sites/default/files/files/swift_bae_report_Follow-The%20Money.pdf)  | [:closed_book:](../../blob/master/Report/2020.09.07_Follow_the_Money) <br>
 :small_orange_diamond: Nov 18 2020 - [[Sophos] SOPHOS 2021 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophos-2021-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/2020.11.18_SOPHOS_2021) <br>
 
