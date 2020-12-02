@@ -82,6 +82,7 @@ Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WH
 * Aug 12 - [[Kaspersky] Internet Explorer and Windows zero-day exploits used in Operation PowerFall](https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/) | [:closed_book:](../../blob/master/2020/2020.08.12.Operation_PowerFall)
 * Aug 10 - [[Seqrite] Gorgon APT targeting MSME sector in India](https://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/) | [:closed_book:](../../blob/master/2020/2020.08.10.Gorgon_APT)
 * Jul 29 - [[McAfee] Operation North Star:  A Job Offer That’s Too Good to be True?](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/) | [:closed_book:](../../blob/master/2020/2020.07.29.Operation_North_Star)
+* Jul 28 - [[Group-IB] JOLLY ROGER’S PATRONS](https://www.group-ib.com/resources/threat-research/black-jack.html) | [:closed_book:](../../blob/master/2020/2020.07.28.black-jack)
 * Jul 22 - [[Palo Alto Network] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/) | [:closed_book:](../../blob/master/2020/2020.07.22.OilRig_Middle_Eastern_Telecommunication)
 * Jul 22 - [[Kaspersky] MATA: Multi-platform targeted malware framework](https://securelist.com/mata-multi-platform-targeted-malware-framework/97746/) | [:closed_book:](../../blob/master/2020/2020.07.22_MATA_APT)
 * Jul 15 - [[F-Secure] THE FAKE CISCO: Hunting for backdoors in Counterfeit Cisco devices](https://labs.f-secure.com/assets/BlogFiles/2020-07-the-fake-cisco.pdf) | [:closed_book:](../../blob/master/2020/2020.07.15_the_Fake_CISCO)
@@ -1185,7 +1186,9 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Q2 2019 - [[AhnLab] ASEC Report Q2 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.95_ENG.pdf) | [:closed_book:](../../blob/master/Report/AhnLab/ASEC_REPORT_vol.95_ENG.pdf) <br>
 :small_orange_diamond: Q1 2019 - [[AhnLab] ASEC Report Q1 2019](https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.94_ENG.pdf) | [:closed_book:](../../blob/master/Report/AhnLab/ASEC_REPORT_vol.94_ENG.pdf) <br>
 
-
+### Group-IB
+:small_orange_diamond: Nov 24 2020 - [[Group-IB] Hi-Tech Crime Trends 2020-2021](https://www.group-ib.com/resources/threat-research/2020-report.html) | [:closed_book:](../../blob/master/Report/Group-IB/Group-IB_Hi-Tech_Crime_Trends_2019-2020_en.pdf) <br>
+:small_orange_diamond: Nov 29 2019 - [[Group-IB] Hi-Tech Crime Trends 2019-2020](https://www.group-ib.com/resources/threat-research/2019-report.html) | [:closed_book:](../../blob/master/Report/Group-IB/Group-IB_Hi-Tech_Crime_Trends_2020-2021_en.pdf) <br>
 
 ### Other
 :small_orange_diamond: 2020 11 18 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
