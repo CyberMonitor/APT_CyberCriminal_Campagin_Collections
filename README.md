@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Dec 07 - [[Group-IB] The footprints of Raccoon: a story about operators of JS-sniffer FakeSecurity distributing Raccoon stealer](https://www.group-ib.com/blog/fakesecurity_raccoon) | [:closed_book:](../../blob/master/2020/2020.12.07.FakeSecurity)
 * Dec 02 - [[ESET] Turla Crutch: Keeping the “back door” open](https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/) | [:closed_book:](../../blob/master/2020/2020.12.02.Turla_Crutch)
 * Dec 01 - [CISA] Advanced Persistent Threat Actors Targeting U.S. Think Tanks](https://us-cert.cisa.gov/ncas/alerts/aa20-336a) | [:closed_book:](../../blob/master/2020/2020.12.01.APT_US_Think_Tanks)
 * Nov 30 - [[Microsoft] Threat actor leverages coin miner techniques to stay under the radar – here’s how to spot them](https://www.microsoft.com/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/) | [:closed_book:](../../blob/master/2020/2020.11.30.BISMUTH_CoinMiner)
@@ -228,6 +229,7 @@ Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WH
 * Nov 20 - [[Trend Micro] Mac Backdoor Linked to Lazarus Targets Korean Users](https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/) | [:closed_book:](../../blob/master/2019/2019.11.20.Mac_Lazarus)
 * Nov 13 - [[Trend Micro] More than a Dozen Obfuscated APT33 Botnets Used for Extreme Narrow Targeting](https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/) | [:closed_book:](../../blob/master/2019/2019.11.13.APT33_Extreme＿Narrow_Targeting)
 * Nov 12 - [[Marco Ramilli] TA-505 Cybercrime on System Integrator Companies](https://marcoramilli.com/2019/11/12/ta-505-cybercrime-on-system-integrator-companies/) | [:closed_book:](../../blob/master/2019/2019.11.12_TA-505_On_SI)
+* Nov 08 - [[Group-IB] Massive malicious campaign by FakeSecurity JS-sniffer](https://www.group-ib.com/blog/fakesecurity) | [:closed_book:](../../blob/master/2019/2019.11.08_FakeSecurity_JS-sniffer)
 * Nov 08 - [[Kapsersky] Titanium: the Platinum group strikes again](https://securelist.com/titanium-the-platinum-group-strikes-again/94961/) | [:closed_book:](../../blob/master/2019/2019.11.08_Titanium_Action_Platinum_group)
 * Nov 05 - [[Telsy] THE LAZARUS’ GAZE TO THE WORLD: WHAT IS BEHIND THE FIRST STONE ?](https://blog.telsy.com/the-lazarus-gaze-to-the-world-what-is-behind-the-first-stone/) | [:closed_book:](../../blob/master/2019/2019.11.05.LAZARUS_GAZE)
 * Nov 04 - [[Tencent] Higaisa APT](https://s.tencent.com/research/report/836.html) | [:closed_book:](../../blob/master/2019/2019.11.04.Higaisa_APT)
