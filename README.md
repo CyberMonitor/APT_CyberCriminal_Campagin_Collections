@@ -31,7 +31,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2020
 * Dec 07 - [[Group-IB] The footprints of Raccoon: a story about operators of JS-sniffer FakeSecurity distributing Raccoon stealer](https://www.group-ib.com/blog/fakesecurity_raccoon) | [:closed_book:](../../blob/master/2020/2020.12.07.FakeSecurity)
 * Dec 02 - [[ESET] Turla Crutch: Keeping the “back door” open](https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/) | [:closed_book:](../../blob/master/2020/2020.12.02.Turla_Crutch)
-* Dec 01 - [CISA] Advanced Persistent Threat Actors Targeting U.S. Think Tanks](https://us-cert.cisa.gov/ncas/alerts/aa20-336a) | [:closed_book:](../../blob/master/2020/2020.12.01.APT_US_Think_Tanks)
+* Dec 01 - [[CISA] Advanced Persistent Threat Actors Targeting U.S. Think Tanks](https://us-cert.cisa.gov/ncas/alerts/aa20-336a) | [:closed_book:](../../blob/master/2020/2020.12.01.APT_US_Think_Tanks)
 * Nov 30 - [[Microsoft] Threat actor leverages coin miner techniques to stay under the radar – here’s how to spot them](https://www.microsoft.com/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/) | [:closed_book:](../../blob/master/2020/2020.11.30.BISMUTH_CoinMiner)
 * Nov 27 - [[PTSecurity] Investigation with a twist: an accidental APT attack and averted data destruction](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/incident-response-polar-ransomware-apt27/) | [:closed_book:](../../blob/master/2020/2020.11.27.Twist_APT27)
 * Nov 26 - [[CheckPoint] Bandook: Signed & Delivered](https://research.checkpoint.com/2020/bandook-signed-delivered/) | [:closed_book:](../../blob/master/2020/2020.11.26.Bandook)
