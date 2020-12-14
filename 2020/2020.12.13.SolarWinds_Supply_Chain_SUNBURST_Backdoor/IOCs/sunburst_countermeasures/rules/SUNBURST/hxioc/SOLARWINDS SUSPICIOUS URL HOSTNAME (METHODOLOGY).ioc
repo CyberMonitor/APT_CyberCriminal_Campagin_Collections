@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2020 by FireEye, Inc.
+     You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+     https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+-->
+<OpenIOC xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="c90bc888-17b0-4a76-95a7-4196c38aae6c" last-modified="2020-12-13T19:23:17Z" published-date="0001-01-01T00:00:00" xmlns="http://openioc.org/schemas/OpenIOC_1.1">
+  <metadata>
+    <short_description>SUNBURST SUSPICIOUS URL HOSTNAME (METHODOLOGY)</short_description>
+    <description>This rule identifies URL requests mimicking SolarWinds network traffic, to non-SolarWinds domains. This rule will only match on instances where communication does not occur over SSL/TLS. These requests may be evidence of the SUNBURST backdoor. SUNBURST is a backdoor that has the ability to spawn and kill processes, write and delete files, set and create registry keys, gather system information, and disable a set of forensic analysis tools and services. This is associated to MITRE ATT&amp;CK (r) Tactic: Initial Access and Technique: T1195.002</description>
+    <authored_by>FireEye</authored_by>
+    <authored_date>2020-12-12T01:54:32Z</authored_date>
+    <links>
+      <link href="https://attack.mitre.org/techniques/T1195/002/" rel="link">MITRE</link>
+    </links>
+  </metadata>
+  <criteria>
+    <Indicator operator="OR" id="33565068-0b74-4690-8032-19f295dbc2a6">
+      <Indicator operator="AND" id="28533f37-0b3a-42af-8e0b-c7352933e94c">
+        <IndicatorItem id="946dce86-3c5a-4dab-ba0c-7eb56cc18c93" condition="ends-with" preserve-case="false" negate="true">
+          <Context document="urlMonitorEvent" search="urlMonitorEvent/hostname" type="event" />
+          <Content type="string">solarwinds.com</Content>
+        </IndicatorItem>
+        <Indicator operator="OR" id="509e4f60-2537-4d8b-94aa-185034bc7dd3">
+          <IndicatorItem id="2b203e30-7f50-4ea4-a42f-73007a015e6a" condition="contains" preserve-case="false" negate="false">
+            <Context document="urlMonitorEvent" search="urlMonitorEvent/httpHeader" type="event" />
+            <Content type="string">/swip/Events</Content>
+          </IndicatorItem>
+          <IndicatorItem id="9b6601ec-c451-4969-9ed2-a1197c6ebe66" condition="contains" preserve-case="false" negate="false">
+            <Context document="urlMonitorEvent" search="urlMonitorEvent/httpHeader" type="event" />
+            <Content type="string">/swip/SystemDescription</Content>
+          </IndicatorItem>
+          <IndicatorItem id="b77d6ef9-1d61-4893-8f82-5211fb50e472" condition="contains" preserve-case="false" negate="false">
+            <Context document="urlMonitorEvent" search="urlMonitorEvent/httpHeader" type="event" />
+            <Content type="string">/swip/Upload.ashx</Content>
+          </IndicatorItem>
+          <IndicatorItem id="b07e683e-17c8-4883-be34-639bad15938f" condition="contains" preserve-case="false" negate="false">
+            <Context document="urlMonitorEvent" search="urlMonitorEvent/httpHeader" type="event" />
+            <Content type="string">/swip/upd</Content>
+          </IndicatorItem>
+        </Indicator>
+      </Indicator>
+    </Indicator>
+  </criteria>
+  <parameters />
+</OpenIOC>

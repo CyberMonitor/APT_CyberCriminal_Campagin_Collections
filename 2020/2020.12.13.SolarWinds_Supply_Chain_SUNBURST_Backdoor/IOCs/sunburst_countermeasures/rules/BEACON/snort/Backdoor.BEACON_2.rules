@@ -1,0 +1,4 @@
+# Copyright 2020 by FireEye, Inc.
+# You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+# https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+alert tcp $HOME_NET any -> any 443 (msg:"Backdoor.BEACON"; content:"|16 03 03|"; depth:3; content:"zupertech.com"; sid:77600863; rev:1;)

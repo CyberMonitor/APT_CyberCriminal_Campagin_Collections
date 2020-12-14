@@ -1,0 +1,17 @@
+Associated Malware,DNS Record Type ,FQDN,IP,Target,First Seen,Last Seen
+SUNBURST,CNAME ,6a57jk2ba1d9keg15cbg.appsync-api.eu-west-1.avsvmcloud[.]com ,,freescanonline[.]com ,2020-06-13 09:20:41 ,2020-06-13 09:20:41 
+SUNBURST,CNAME ,7sbvaemscs0mc925tb99.appsync-api.us-west-2.avsvmcloud[.]com ,,deftsecurity[.]com ,2020-06-11 22:37:33 ,2020-06-11 22:37:33 
+SUNBURST,CNAME ,gq1h856599gqh538acqn.appsync-api.us-west-2.avsvmcloud[.]com ,,freescanonline[.]com ,2020-06-13 08:48:40 ,2020-06-13 08:48:41 
+SUNBURST,CNAME ,ihvpgv9psvq02ffo77et.appsync-api.us-east-2.avsvmcloud[.]com ,,thedoccloud[.]com ,2020-06-20 02:54:06 ,2020-06-20 02:54:06 
+SUNBURST,CNAME ,k5kcubuassl3alrf7gm3.appsync-api.eu-west-1.avsvmcloud[.]com ,,thedoccloud[.]com ,2020-07-22 17:15:57 ,2020-07-22 17:15:58 
+SUNBURST,CNAME ,mhdosoksaccf9sni9icp.appsync-api.eu-west-1.avsvmcloud[.]com ,,thedoccloud[.]com ,2020-07-23 18:43:00 ,2020-07-23 18:43:00 
+SUNBURST,A ,deftsecurity[.]com ,13.59.205.66 ,,2020-02-14 03:47:49 ,2020-12-13 19:28:44 
+SUNBURST,A ,freescanonline[.]com ,54.193.127.66 ,,2020-02-11 11:00:04 ,2020-12-13 19:25:56 
+SUNBURST,A ,thedoccloud[.]com ,54.215.192.52 ,,2020-02-09 20:03:38 ,2020-12-10 03:24:23 
+SUNBURST,A ,websitetheme[.]com ,34.203.203.23 ,,2020-02-04 16:27:45 ,2020-06-25 23:58:55 
+SUNBURST,A ,highdatabase[.]com ,139.99.115.204 ,,2019-12-28 00:07:06 ,2020-12-06 03:51:20 
+BEACON,A ,incomeupdate[.]com,5.252.177.25,,10/4/19 17:57,10/1/20 18:45
+,A,databasegalore[.]com,5.252.177.21,,3/12/20 10:49,12/13/20 21:23
+,A,panhardware[.]com,204.188.205.176,,3/11/20 15:32,12/13/20 21:23
+,A,zupertech[.]com,51.89.125.18,,5/14/20 3:09,12/13/20 21:31
+,A,zupertech[.]com,167.114.213.199,,8/18/16 13:06,11/12/17 16:23

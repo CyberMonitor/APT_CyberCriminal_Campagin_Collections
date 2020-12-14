@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2020 by FireEye, Inc.
+     You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+     https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+-->
+<OpenIOC xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2bac7506-80cc-4740-bbcc-2bbe1e4a43dd" last-modified="2020-12-13T19:53:27Z" published-date="0001-01-01T00:00:00" xmlns="http://openioc.org/schemas/OpenIOC_1.1">
+  <metadata>
+    <short_description>SUNBURST SUSPICIOUS CHILD PROCESSES (METHODOLOGY)</short_description>
+    <description>This rule identifies suspicious child processes of SolarWinds.Orion.Core.BusinessLayer.dll that may be evidence of the SUNBURST backdoor. The behavior of SolarWinds.Orion.Core.BusinessLayer.dll is dependent on per-enterprise configuration, so additional tuning may be required to exclude legitimate activity in a given environment. SUNBURST is a backdoor that has the ability to spawn and kill processes, write and delete files, set and create registry keys, gather system information, and disable a set of forensic analysis tools and services. This is associated to MITRE ATT&amp;CK (r) Tactic: Initial Access and Technique: T1195.002</description>
+    <authored_by>FireEye</authored_by>
+    <authored_date>2020-12-12T01:42:55Z</authored_date>
+    <links>
+      <link href="https://attack.mitre.org/techniques/T1195/002/" rel="link">MITRE</link>
+    </links>
+  </metadata>
+  <criteria>
+    <Indicator operator="OR" id="f8145695-7b14-4fc1-a77d-9d1260dd677e">
+      <Indicator operator="AND" id="dc96ab8b-0d7b-45a6-9ff2-45d1db09e6f2">
+        <IndicatorItem id="70e0822c-00b3-466f-9e9e-fc20f9b5afb8" condition="is" preserve-case="false" negate="false">
+          <Context document="processEvent" search="processEvent/parentProcess" type="event" />
+          <Content type="string">solarwinds.businesslayerhost.exe</Content>
+        </IndicatorItem>
+        <IndicatorItem id="31f1de7f-27f8-491a-8ab1-70f1f80f2553" condition="is" preserve-case="false" negate="false">
+          <Context document="processEvent" search="processEvent/eventType" type="event" />
+          <Content type="string">start</Content>
+        </IndicatorItem>
+        <IndicatorItem id="35c4033b-199f-4476-b2f7-b53aa391daf3" condition="ends-with" preserve-case="false" negate="true">
+          <Context document="processEvent" search="processEvent/processPath" type="event" />
+          <Content type="string">\SolarWinds\Orion\APM\APMServiceControl.exe</Content>
+        </IndicatorItem>
+        <IndicatorItem id="c5571421-cbda-402f-b792-79f31dae87c8" condition="ends-with" preserve-case="false" negate="true">
+          <Context document="processEvent" search="processEvent/processPath" type="event" />
+          <Content type="string">\SolarWinds\Orion\ExportToPDFCmd.Exe</Content>
+        </IndicatorItem>
+        <IndicatorItem id="030272f5-7485-4a89-bf24-3792633c342c" condition="ends-with" preserve-case="false" negate="true">
+          <Context document="processEvent" search="processEvent/processPath" type="event" />
+          <Content type="string">\SolarWinds.Credentials\SolarWinds.Credentials.Orion.WebApi.exe</Content>
+        </IndicatorItem>
+        <IndicatorItem id="588f1499-66f1-4a1e-acd3-c905a8a5f921" condition="ends-with" preserve-case="false" negate="true">
+          <Context document="processEvent" search="processEvent/processPath" type="event" />
+          <Content type="string">\SolarWinds\Orion\Topology\SolarWinds.Orion.Topology.Calculator.exe</Content>
+        </IndicatorItem>
+        <IndicatorItem id="260d72ac-f2d5-48d1-a75f-ef8f70a3db1c" condition="ends-with" preserve-case="false" negate="true">
+          <Context document="processEvent" search="processEvent/processPath" type="event" />
+          <Content type="string">\SolarWinds\Orion\Database-Maint.exe</Content>
+        </IndicatorItem>
+        <IndicatorItem id="e0b75c50-b2f3-450e-85e3-982acef5cab0" condition="ends-with" preserve-case="false" negate="true">
+          <Context document="processEvent" search="processEvent/processPath" type="event" />
+          <Content type="string">\SolarWinds.Orion.ApiPoller.Service\SolarWinds.Orion.ApiPoller.Service.exe</Content>
+        </IndicatorItem>
+        <IndicatorItem id="1bf853d6-552f-4f89-90e9-50b7ffc408c0" condition="ends-with" preserve-case="false" negate="true">
+          <Context document="processEvent" search="processEvent/processPath" type="event" />
+          <Content type="string">\Windows\SysWOW64\WerFault.exe</Content>
+        </IndicatorItem>
+      </Indicator>
+    </Indicator>
+  </criteria>
+  <parameters />
+</OpenIOC>

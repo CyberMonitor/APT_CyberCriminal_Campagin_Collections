@@ -1,0 +1,4 @@
+# Copyright 2020 by FireEye, Inc.
+# You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+# https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+alert tcp any any -> $HOME_NET any (msg:"Backdoor.BEACON"; content:"HTTP/1."; depth:7; content:"Server: nginx/1.14.0 (Ubuntu)"; distance:0; content:"Connection: close"; distance:0; content:"Cache-Control: max-age=300, must-revalidate"; distance:0; content:"X-Content-Type-Options: nosniff"; distance:0; content:"X-AspNetMvc-Version: 3.0"; distance:0; content:"X-AspNet-Version: 4.0.30319"; distance:0; content:"X-Powered-By: ASP.NET"; distance:0; content:"Content-Length: "; content:"|0d 0a|"; distance:6; within:4; sid:77600856; rev:1;)

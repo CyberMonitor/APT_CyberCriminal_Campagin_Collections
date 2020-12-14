@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2020 by FireEye, Inc.
+     You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+     https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+-->
+<OpenIOC xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="281d5077-b45a-43a8-8869-7924a3c2c1a0" last-modified="2020-12-13T21:34:13Z" published-date="0001-01-01T00:00:00" xmlns="http://openioc.org/schemas/OpenIOC_1.1">
+  <metadata>
+    <short_description>SUNBURST COMPROMISE INDICATORS</short_description>
+    <description>This rule identifies indicators which FireEye associates with the SUNBURST backdoor. SUNBURST is a backdoor that has the ability to spawn and kill processes, write and delete files, set and create registry keys, gather system information, and disable a set of forensic analysis tools and services. This is associated to MITRE ATT&amp;CK (r) Tactic: Initial Access and Technique: T1195.002</description>
+    <authored_by>FireEye</authored_by>
+    <authored_date>2020-12-12T01:00:34Z</authored_date>
+    <links>
+      <link href="https://attack.mitre.org/techniques/T1195/002/" rel="link">MITRE</link>
+    </links>
+  </metadata>
+  <criteria>
+    <Indicator operator="OR" id="46bf5cf1-c9df-41cd-bd29-68936cc75421">
+      <IndicatorItem id="123f4632-ad70-4672-ab56-fdcc49c68e74" condition="is" preserve-case="false" negate="false">
+        <Context document="fileWriteEvent" search="fileWriteEvent/md5" type="event" />
+        <Content type="md5">b91ce2fa41029f6955bff20079468448</Content>
+      </IndicatorItem>
+      <IndicatorItem id="3c6f60a1-e2ce-45ed-936a-79b09a43d25f" condition="contains" preserve-case="false" negate="false">
+        <Context document="dnsLookupEvent" search="dnsLookupEvent/hostname" type="event" />
+        <Content type="string">freescanonline.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="2a86b61a-1ae6-416f-b7fb-2b87c005547f" condition="contains" preserve-case="false" negate="false">
+        <Context document="dnsLookupEvent" search="dnsLookupEvent/hostname" type="event" />
+        <Content type="string">thedoccloud.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="29845534-0a9c-4917-8459-ca7578385823" condition="contains" preserve-case="false" negate="false">
+        <Context document="dnsLookupEvent" search="dnsLookupEvent/hostname" type="event" />
+        <Content type="string">deftsecurity.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="b72939a1-7f99-45bf-85c4-cba0725b9020" condition="contains" preserve-case="false" negate="false">
+        <Context document="urlMonitorEvent" search="urlMonitorEvent/hostname" type="event" />
+        <Content type="string">deftsecurity.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="69eb9481-85ee-4bf2-96d6-394fe1a364cf" condition="contains" preserve-case="false" negate="false">
+        <Context document="urlMonitorEvent" search="urlMonitorEvent/hostname" type="event" />
+        <Content type="string">thedoccloud.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="3360b703-e021-4172-a238-184565df29b9" condition="contains" preserve-case="false" negate="false">
+        <Context document="urlMonitorEvent" search="urlMonitorEvent/hostname" type="event" />
+        <Content type="string">freescanonline.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="6001b4b6-7efc-4db5-a386-0fbd8602ad14" condition="contains" preserve-case="false" negate="false">
+        <Context document="dnsLookupEvent" search="dnsLookupEvent/hostname" type="event" />
+        <Content type="string">avsvmcloud.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="9660adca-f41c-440f-bd3e-72750f9d8e30" condition="contains" preserve-case="false" negate="false">
+        <Context document="urlMonitorEvent" search="urlMonitorEvent/hostname" type="event" />
+        <Content type="string">avsvmcloud.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="7416cdc1-641b-41e5-aa1c-4661a09a98c6" condition="is" preserve-case="false" negate="false">
+        <Context document="fileWriteEvent" search="fileWriteEvent/md5" type="event" />
+        <Content type="md5">02af7cec58b9a5da1c542b5a32151ba1</Content>
+      </IndicatorItem>
+      <IndicatorItem id="b9a81581-94ae-427f-a350-b41b971207cf" condition="is" preserve-case="false" negate="false">
+        <Context document="fileWriteEvent" search="fileWriteEvent/md5" type="event" />
+        <Content type="md5">2c4a910a1299cdae2a4e55988a2f102e</Content>
+      </IndicatorItem>
+      <IndicatorItem id="79f5957b-2abf-4bab-a778-1bfba7de214d" condition="is" preserve-case="false" negate="false">
+        <Context document="fileWriteEvent" search="fileWriteEvent/md5" type="event" />
+        <Content type="md5">846e27a652a5e1bfbd0ddd38a16dc865</Content>
+      </IndicatorItem>
+      <IndicatorItem id="5010ef2c-3d91-477a-94b3-513be90c0cf2" condition="is" preserve-case="false" negate="false">
+        <Context document="fileWriteEvent" search="fileWriteEvent/md5" type="event" />
+        <Content type="md5">4f2eb62fa529c0283b28d05ddd311fae</Content>
+      </IndicatorItem>
+      <IndicatorItem id="d1357eea-3de2-4481-b962-640a187e2521" condition="contains" preserve-case="false" negate="false">
+        <Context document="urlMonitorEvent" search="urlMonitorEvent/hostname" type="event" />
+        <Content type="string">databasegalore.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="45c00aa0-c79b-41ac-a899-aec584b62b0a" condition="contains" preserve-case="false" negate="false">
+        <Context document="urlMonitorEvent" search="urlMonitorEvent/hostname" type="event" />
+        <Content type="string">panhardware.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="84f90f69-8c5b-4533-a6e4-bf94ab1bd1b6" condition="contains" preserve-case="false" negate="false">
+        <Context document="dnsLookupEvent" search="dnsLookupEvent/hostname" type="event" />
+        <Content type="string">panhardware.com</Content>
+      </IndicatorItem>
+      <IndicatorItem id="7f1a5177-2f4d-4aff-a93f-d20416cebb71" condition="contains" preserve-case="false" negate="false">
+        <Context document="dnsLookupEvent" search="dnsLookupEvent/hostname" type="event" />
+        <Content type="string">databasegalore.com</Content>
+      </IndicatorItem>
+    </Indicator>
+  </criteria>
+  <parameters />
+</OpenIOC>

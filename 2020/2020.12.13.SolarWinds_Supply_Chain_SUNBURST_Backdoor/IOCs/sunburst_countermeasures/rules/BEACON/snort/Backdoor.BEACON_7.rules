@@ -1,0 +1,4 @@
+# Copyright 2020 by FireEye, Inc.
+# You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+# https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+alert tcp any any -> $HOME_NET any (msg:"Backdoor.BEACON"; flow:from_server; content:"<title>Woman-Five-How-To-Why-Your-Celebrating-Learn-Brand</title>"; sid:77600857; rev:1;)

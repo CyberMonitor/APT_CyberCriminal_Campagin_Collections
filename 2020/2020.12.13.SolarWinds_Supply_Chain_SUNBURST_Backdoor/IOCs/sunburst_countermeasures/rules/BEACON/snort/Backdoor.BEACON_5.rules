@@ -1,0 +1,4 @@
+# Copyright 2020 by FireEye, Inc.
+# You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+# https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+alert tcp $HOME_NET any -> any any (msg:"Backdoor.BEACON"; content:"POST"; depth:4; content:"|0d 0a 0d 0a|name=\""; content:"\"\;filename=\""; content:"\"|0a|Content-Type:"; sid:77600837; rev:1;)

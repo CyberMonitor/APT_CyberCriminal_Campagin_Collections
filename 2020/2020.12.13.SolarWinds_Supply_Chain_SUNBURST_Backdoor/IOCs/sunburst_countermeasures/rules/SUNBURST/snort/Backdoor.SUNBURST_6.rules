@@ -1,0 +1,4 @@
+# Copyright 2020 by FireEye, Inc.
+# You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+# https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+alert tcp any any <> any 443 (msg:"Backdoor.SUNBURST"; content:"|16 03|"; depth:2; content:"avsvmcloud.com"; distance:0; sid:77600845; rev:1;)

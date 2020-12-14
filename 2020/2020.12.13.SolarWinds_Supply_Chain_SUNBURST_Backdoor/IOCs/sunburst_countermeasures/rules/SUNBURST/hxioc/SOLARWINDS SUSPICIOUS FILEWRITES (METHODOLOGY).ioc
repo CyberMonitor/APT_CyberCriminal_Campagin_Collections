@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2020 by FireEye, Inc.
+     You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+     https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+-->
+<OpenIOC xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="c6286e1b-10bd-4046-8aff-0dbcc5b1e974" last-modified="2020-12-13T19:52:47Z" published-date="0001-01-01T00:00:00" xmlns="http://openioc.org/schemas/OpenIOC_1.1">
+  <metadata>
+    <short_description>SUNBURST SUSPICIOUS FILEWRITES (METHODOLOGY)</short_description>
+    <description>This rule identifies writes of specific file types associated with activity related to the SUNBURST backdoored version of the SolarWinds.Orion.Core.BusinessLayer.dll process. This rule may generate false positives depending on the configuration of SolarWinds in a given environment, and may require tuning to exclude legitimate activity. SUNBURST is a backdoor that has the ability to spawn and kill processes, write and delete files, set and create registry keys, gather system information, and disable a set of forensic analysis tools and services. This is associated to MITRE ATT&amp;CK (r) Tactic: Initial Access and Technique: T1195.002</description>
+    <authored_by>FireEye</authored_by>
+    <authored_date>2020-12-12T01:51:30Z</authored_date>
+    <links>
+      <link href="https://attack.mitre.org/techniques/T1195/002/" rel="link">MITRE</link>
+    </links>
+  </metadata>
+  <criteria>
+    <Indicator operator="OR" id="7100a8ff-27da-46ff-b026-07c42c2fb119">
+      <Indicator operator="AND" id="548b0893-3cc5-483f-b2e3-b5bd93401894">
+        <IndicatorItem id="1e1c6c83-c635-4e30-9394-5a61935388c2" condition="is" preserve-case="false" negate="false">
+          <Context document="fileWriteEvent" search="fileWriteEvent/process" type="event" />
+          <Content type="string">solarwinds.businesslayerhost.exe</Content>
+        </IndicatorItem>
+        <Indicator operator="OR" id="31fe78c9-e0d7-496a-9b65-b8264e0725ee">
+          <IndicatorItem id="71c84163-abbf-4da5-99c3-79e465ae4c3a" condition="is" preserve-case="false" negate="false">
+            <Context document="fileWriteEvent" search="fileWriteEvent/fileExtension" type="event" />
+            <Content type="string">exe</Content>
+          </IndicatorItem>
+          <IndicatorItem id="36376524-c6c0-4062-ae48-340138d1984a" condition="is" preserve-case="false" negate="false">
+            <Context document="fileWriteEvent" search="fileWriteEvent/fileExtension" type="event" />
+            <Content type="string">dll</Content>
+          </IndicatorItem>
+          <IndicatorItem id="9d97da61-123d-4561-9610-b8143c7fa2b1" condition="is" preserve-case="false" negate="false">
+            <Context document="fileWriteEvent" search="fileWriteEvent/fileExtension" type="event" />
+            <Content type="string">ps1</Content>
+          </IndicatorItem>
+          <IndicatorItem id="2ad66922-a9a0-418a-a8e8-5a54b1f1dba1" condition="starts-with" preserve-case="true" negate="false">
+            <Context document="fileWriteEvent" search="fileWriteEvent/textAtLowestOffset" type="event" />
+            <Content type="string">MZ</Content>
+          </IndicatorItem>
+          <IndicatorItem id="def85433-ca32-464f-950c-bfabf4e523c8" condition="is" preserve-case="false" negate="false">
+            <Context document="fileWriteEvent" search="fileWriteEvent/fileExtension" type="event" />
+            <Content type="string">jpg</Content>
+          </IndicatorItem>
+          <IndicatorItem id="717188d6-0ce4-4b9b-b6a4-7163ee538690" condition="is" preserve-case="false" negate="false">
+            <Context document="fileWriteEvent" search="fileWriteEvent/fileExtension" type="event" />
+            <Content type="string">png</Content>
+          </IndicatorItem>
+        </Indicator>
+      </Indicator>
+    </Indicator>
+  </criteria>
+  <parameters />
+</OpenIOC>

@@ -1,0 +1,4 @@
+# Copyright 2020 by FireEye, Inc.
+# You may not use this file except in compliance with the license. The license should have been received with this file. You may obtain a copy of the license at:
+# https://github.com/fireeye/sunburst_countermeasures/blob/main/LICENSE.txt
+alert tcp $HOME_NET any -> any any (msg:"Backdoor.SUNBURST"; content:"T "; offset:2; depth:3; content:"swip/Upload.ashx HTTP/1"; within:100; content:"Host: "; content:!".solarwinds.com"; within:100; sid:77600843; rev:1;)
