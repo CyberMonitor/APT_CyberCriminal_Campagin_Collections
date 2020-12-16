@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Dec 15 - [[hvs consulting] Greetings from Lazarus Anatomy of a cyber espionage campaign](https://www.hvs-consulting.de/media/downloads/ThreatReport-Lazarus.pdf) | [:closed_book:](../../blob/master/2020/2020.12.15.Lazarus_Campaign)
 * Dec 13 - [[Fireeye] Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html) | [:closed_book:](../../blob/master/2020/2020.12.13.SolarWinds_Supply_Chain_SUNBURST_Backdoor)
 * Dec 07 - [[Group-IB] The footprints of Raccoon: a story about operators of JS-sniffer FakeSecurity distributing Raccoon stealer](https://www.group-ib.com/blog/fakesecurity_raccoon) | [:closed_book:](../../blob/master/2020/2020.12.07.FakeSecurity)
 * Dec 02 - [[ESET] Turla Crutch: Keeping the “back door” open](https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/) | [:closed_book:](../../blob/master/2020/2020.12.02.Turla_Crutch)
