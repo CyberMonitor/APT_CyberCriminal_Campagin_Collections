@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Dec 16 - [[Team Cymru] Mapping out AridViper Infrastructure Using Augury’s Malware Module](https://team-cymru.com/blog/2020/12/16/mapping-out-aridviper-infrastructure-using-augurys-malware-addon/) | [:closed_book:](../../blob/master/2020/2020.12.16.AridViper_Augury)
 * Dec 15 - [[hvs consulting] Greetings from Lazarus Anatomy of a cyber espionage campaign](https://www.hvs-consulting.de/media/downloads/ThreatReport-Lazarus.pdf) | [:closed_book:](../../blob/master/2020/2020.12.15.Lazarus_Campaign)
 * Dec 13 - [[Fireeye] Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html) | [:closed_book:](../../blob/master/2020/2020.12.13.SolarWinds_Supply_Chain_SUNBURST_Backdoor)
 * Dec 09 - [[Trend Micro] SideWinder Uses South Asian Issues for Spear Phishing, Mobile Attacks](https://www.trendmicro.com/en_us/research/20/l/sidewinder-leverages-south-asian-territorial-issues-for-spear-ph.html) | [:closed_book:](../../blob/master/2020/2020.12.09.SideWinder)
