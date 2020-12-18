@@ -29,6 +29,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Dec 17 - [[ClearSky] Pay2Kitten](https://www.clearskysec.com/wp-content/uploads/2020/12/Pay2Kitten.pdf) | [:closed_book:](../../blob/master/2020/2020.12.17.Pay2Kitten)
+* Dec 17 - [[ESET] Operation SignSight: Supply‑chain attack against a certification authority in Southeast Asia](https://www.welivesecurity.com/2020/12/17/operation-signsight-supply-chain-attack-southeast-asia/) | [:closed_book:](../../blob/master/2020/2020.12.17.Operation_SignSight)
 * Dec 16 - [[Team Cymru] Mapping out AridViper Infrastructure Using Augury’s Malware Module](https://team-cymru.com/blog/2020/12/16/mapping-out-aridviper-infrastructure-using-augurys-malware-addon/) | [:closed_book:](../../blob/master/2020/2020.12.16.AridViper_Augury)
 * Dec 15 - [[hvs consulting] Greetings from Lazarus Anatomy of a cyber espionage campaign](https://www.hvs-consulting.de/media/downloads/ThreatReport-Lazarus.pdf) | [:closed_book:](../../blob/master/2020/2020.12.15.Lazarus_Campaign)
 * Dec 13 - [[Fireeye] Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html) | [:closed_book:](../../blob/master/2020/2020.12.13.SolarWinds_Supply_Chain_SUNBURST_Backdoor)
