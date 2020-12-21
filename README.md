@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Dec 19 - [[VinCSS] Analyzing new malware of China Panda hacker group used to attack supply chain against Vietnam Government Certification Authority](https://blog.vincss.net/2020/12/re018-1-analyzing-new-malware-of-china-panda-hacker-group-used-to-attack-supply-chain-against-vietnam-government-certification-authority.html?m=1) | [:closed_book:](../../blob/master/2020/2020.12.19.Panda_Vietnam)
 * Dec 17 - [[ClearSky] Pay2Kitten](https://www.clearskysec.com/wp-content/uploads/2020/12/Pay2Kitten.pdf) | [:closed_book:](../../blob/master/2020/2020.12.17.Pay2Kitten)
 * Dec 17 - [[ESET] Operation SignSight: Supply‑chain attack against a certification authority in Southeast Asia](https://www.welivesecurity.com/2020/12/17/operation-signsight-supply-chain-attack-southeast-asia/) | [:closed_book:](../../blob/master/2020/2020.12.17.Operation_SignSight)
 * Dec 16 - [[Team Cymru] Mapping out AridViper Infrastructure Using Augury’s Malware Module](https://team-cymru.com/blog/2020/12/16/mapping-out-aridviper-infrastructure-using-augurys-malware-addon/) | [:closed_book:](../../blob/master/2020/2020.12.16.AridViper_Augury)
