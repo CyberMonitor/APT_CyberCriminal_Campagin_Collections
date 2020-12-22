@@ -1172,10 +1172,10 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Jan 18 - [[Baltic] Impact of Alleged Russian Cyber Attacks](https://www.baltdefcol.org/files/files/documents/Research/BSDR2009/1_%20Ashmore%20-%20Impact%20of%20Alleged%20Russian%20Cyber%20Attacks%20.pdf) | [:closed_book:](../../blob/master/2009/2009.01.18.Russian_Cyber_Attacks)
 
 ## 2008
-* ??? - [[Culture Mandala] HOW CHINA WILL USE CYBER WARFARE TO LEAPFROG IN MILITARY COMPETITIVENESS ](http://www.international-relations.com/CM8-1/Cyberwar.pdf) | [:closed_book:](../../blob/master/2008/2008.HOW_CHINA_WILL_USE_CYBER_WARFARE)
-* ??? - [[Military Review]](https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20081231_art009.pdf)| [:closed_book:](../../blob/master/2008/2008.CHINA_CHINA_CYBER_WARFARE)
+* Nov XX - [[Military Review] CHINA_CHINA_CYBER_WARFARE](https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20081231_art009.pdf)| [:closed_book:](../../blob/master/2008/2008.CHINA_CHINA_CYBER_WARFARE)
 * Nov 19 - [[Wired] Agent.BTZ](http://www.wired.com/dangerroom/2008/11/army-bans-usb-d/) | [:closed_book:](../../blob/master/2008/2008.11.19.UNDER_WORM_ASSAULT)
 * Nov 04 - [[DTIC] China's Electronic Long-Range Reconnaissance](http://www.dtic.mil/dtic/tr/fulltext/u2/a492659.pdf) | [:closed_book:](../../blob/master/2008/2008.11.04.China_Electornic_Long_Range_Reconnaissance)
+* Oct XX - [[Culture Mandala] HOW CHINA WILL USE CYBER WARFARE TO LEAPFROG IN MILITARY COMPETITIVENESS ](http://www.international-relations.com/CM8-1/Cyberwar.pdf) | [:closed_book:](../../blob/master/2008/2008.HOW_CHINA_WILL_USE_CYBER_WARFARE)
 * Oct 02 - [[Culture Mandala] How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf) | [:closed_book:](../../blob/master/2008/2008.10.02.China_Cyber_Warfare)
 * Aug 10 - [[Georgia] Russian Invasion of Georgia Russian Cyberwar on Georgia](http://georgiaupdate.gov.ge/doc/10006922/CYBERWAR-%20fd_2_.pdf) | [:closed_book:](../../blob/master/2008/2008.08.10.Russian_Cyberwar_on_Georgia)
 
