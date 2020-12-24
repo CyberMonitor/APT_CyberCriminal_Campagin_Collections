@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2020
+* Dec 23 - [[Kaspersky] Lazarus covets COVID-19-related intelligence](https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/) | [:closed_book:](../../blob/master/2020/2020.12.23.Lazarus_COVID-19)
 * Dec 22 - [[Truesec] Collaboration between FIN7 and the RYUK group, a Truesec Investigation](https://blog.truesec.com/2020/12/22/collaboration-between-fin7-and-the-ryuk-group-a-truesec-investigation/) | [:closed_book:](../../blob/master/2020/2020.12.22.FIN7_RYUK)
 * Dec 19 - [[VinCSS] Analyzing new malware of China Panda hacker group used to attack supply chain against Vietnam Government Certification Authority](https://blog.vincss.net/2020/12/re018-1-analyzing-new-malware-of-china-panda-hacker-group-used-to-attack-supply-chain-against-vietnam-government-certification-authority.html?m=1) | [:closed_book:](../../blob/master/2020/2020.12.19.Panda_Vietnam)
 * Dec 17 - [[ClearSky] Pay2Kitten](https://www.clearskysec.com/wp-content/uploads/2020/12/Pay2Kitten.pdf) | [:closed_book:](../../blob/master/2020/2020.12.17.Pay2Kitten)
