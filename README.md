@@ -27,8 +27,11 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
+## 2021
+* Jan 04 - [[CheckPoint] Stopping Serial Killer: Catching the Next Strike: Dridex](https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/amp/?__twitter_impression=true) | [:closed_book:](../../blob/master/2021/2021.01.04.Dridex_Next_Strike)
 
 ## 2020
+* Dec 29 - [[Uptycs] Revenge RAT targeting users in South America](https://www.uptycs.com/blog/revenge-rat-targeting-users-in-south-america) | [:closed_book:](../../blob/master/2020/2020.12.29.Revenge_RAT)
 * Dec 23 - [[Kaspersky] Lazarus covets COVID-19-related intelligence](https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/) | [:closed_book:](../../blob/master/2020/2020.12.23.Lazarus_COVID-19)
 * Dec 22 - [[Truesec] Collaboration between FIN7 and the RYUK group, a Truesec Investigation](https://blog.truesec.com/2020/12/22/collaboration-between-fin7-and-the-ryuk-group-a-truesec-investigation/) | [:closed_book:](../../blob/master/2020/2020.12.22.FIN7_RYUK)
 * Dec 19 - [[VinCSS] Analyzing new malware of China Panda hacker group used to attack supply chain against Vietnam Government Certification Authority](https://blog.vincss.net/2020/12/re018-1-analyzing-new-malware-of-china-panda-hacker-group-used-to-attack-supply-chain-against-vietnam-government-certification-authority.html?m=1) | [:closed_book:](../../blob/master/2020/2020.12.19.Panda_Vietnam)
