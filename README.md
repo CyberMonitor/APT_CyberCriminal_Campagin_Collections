@@ -28,7 +28,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
-* Jan 04 - [[CheckPoint] Stopping Serial Killer: Catching the Next Strike: Dridex](https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/amp/?__twitter_impression=true) | [:closed_book:](../../blob/master/2021/2021.01.04.Dridex_Next_Strike)
+* Jan 04 - [[CheckPoint] Stopping Serial Killer: Catching the Next Strike: Dridex](https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/amp/) | [:closed_book:](../../blob/master/2021/2021.01.04.Dridex_Next_Strike)
+* Jan 04 - [[Medium] Ransomware to Turns Ransomware](https://shared-public-reports.s3-eu-west-1.amazonaws.com/APT27+turns+to+ransomware.pdf) | [:closed_book:](../../blob/master/2021/2021.01.04.APT27_Ransomware)
 
 ## 2020
 * Dec 29 - [[Uptycs] Revenge RAT targeting users in South America](https://www.uptycs.com/blog/revenge-rat-targeting-users-in-south-america) | [:closed_book:](../../blob/master/2020/2020.12.29.Revenge_RAT)
