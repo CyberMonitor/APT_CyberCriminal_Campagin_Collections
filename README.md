@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jan 07 - [[Prodaft] Brunhilda DaaS Malware Analysis Report](https://t.co/mzp7NRDIm1?amp=1) | [:closed_book:](../../blob/master/2021/2021.01.07.Brunhilda_DaaS_Malware)
 * Jan 06 - [[Malwarebytes] Retrohunting APT37: North Korean APT used VBA self decode technique to inject RokRat](https://blog.malwarebytes.com/threat-analysis/2021/01/retrohunting-apt37-north-korean-apt-used-vba-self-decode-technique-to-inject-rokrat/) | [:closed_book:](../../blob/master/2021/2021.01.06.APT37_North_Korean_APT_RokRat)
 * Jan 04 - [[CheckPoint] Stopping Serial Killer: Catching the Next Strike: Dridex](https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/amp/) | [:closed_book:](../../blob/master/2021/2021.01.04.Dridex_Next_Strike)
 * Jan 04 - [[Medium] APT27 Turns to Ransomware](https://shared-public-reports.s3-eu-west-1.amazonaws.com/APT27+turns+to+ransomware.pdf) | [:closed_book:](../../blob/master/2021/2021.01.04.APT27_Ransomware)
