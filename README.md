@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jan 11 - [[Palo Alto Networks] xHunt Campaign: New BumbleBee Webshell and SSH Tunnels Used for Lateral Movement](https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/) | [:closed_book:](../../blob/master/2021/2021.01.11.xHunt_Campaign)
 * Jan 11 - [[CrowdStrike] SUNSPOT: An Implant in the Build Process](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/) | [:closed_book:](../../blob/master/2021/2021.01.11.SUNSPOT)
 * Jan 11 - [[Kaspersky] Sunburst backdoor – code overlaps with Kazuar](https://securelist.com/sunburst-backdoor-kazuar/99981/) | [:closed_book:](../../blob/master/2021/2021.01.11.Sunburst_Kazuar)
 * Jan 07 - [[Prodaft] Brunhilda DaaS Malware Analysis Report](https://t.co/mzp7NRDIm1?amp=1) | [:closed_book:](../../blob/master/2021/2021.01.07.Brunhilda_DaaS_Malware)
