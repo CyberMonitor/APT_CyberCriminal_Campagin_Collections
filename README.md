@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jan 11 - [[Kaspersky] Sunburst backdoor – code overlaps with Kazuar](https://securelist.com/sunburst-backdoor-kazuar/99981/) | [:closed_book:](../../blob/master/2021/2021.01.11.Sunburst_Kazuar)
 * Jan 07 - [[Prodaft] Brunhilda DaaS Malware Analysis Report](https://t.co/mzp7NRDIm1?amp=1) | [:closed_book:](../../blob/master/2021/2021.01.07.Brunhilda_DaaS_Malware)
 * Jan 06 - [[CISCO] A Deep Dive into Lokibot Infection Chain](https://blog.talosintelligence.com/2021/01/a-deep-dive-into-lokibot-infection-chain.html) | [:closed_book:](../../blob/master/2021/2021.01.06.Lokibot_Infection_Chain)
 * Jan 06 - [[Malwarebytes] Retrohunting APT37: North Korean APT used VBA self decode technique to inject RokRat](https://blog.malwarebytes.com/threat-analysis/2021/01/retrohunting-apt37-north-korean-apt-used-vba-self-decode-technique-to-inject-rokrat/) | [:closed_book:](../../blob/master/2021/2021.01.06.APT37_North_Korean_APT_RokRat)
