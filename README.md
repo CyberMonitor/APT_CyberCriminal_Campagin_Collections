@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jan 12 - [[NCCgroup] Abusing cloud services to fly under the radar](https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/) | [:closed_book:](../../blob/master/2021/2021.01.12.Abusing_cloud_services_Chimera)
 * Jan 11 - [[Palo Alto Networks] xHunt Campaign: New BumbleBee Webshell and SSH Tunnels Used for Lateral Movement](https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/) | [:closed_book:](../../blob/master/2021/2021.01.11.xHunt_Campaign)
 * Jan 11 - [[CrowdStrike] SUNSPOT: An Implant in the Build Process](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/) | [:closed_book:](../../blob/master/2021/2021.01.11.SUNSPOT)
 * Jan 11 - [[Kaspersky] Sunburst backdoor – code overlaps with Kazuar](https://securelist.com/sunburst-backdoor-kazuar/99981/) | [:closed_book:](../../blob/master/2021/2021.01.11.Sunburst_Kazuar)
@@ -1204,6 +1205,8 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+### NSA
+:small_orange_diamond: Jan 08 2021 - [[NSA] 2020 Cybersecurity Year in Review report](https://media.defense.gov/2021/Jan/08/2002561651/-1/-1/0/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF) | [:closed_book:](../../blob/master/Report/NSA/NSA_CYBERSECURITY_2020_YEAR_IN_REVIEW.PDF)<br>
 ### Objective-See
 :small_orange_diamond: Jan 04 2021 - [[Objective-See] The Mac Malware of 2020](https://objective-see.com/downloads/MacMalware_2020.pdf/) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2020.pdf)<br>
 ### ESET
