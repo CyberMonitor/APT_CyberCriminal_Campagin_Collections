@@ -39,6 +39,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jan 04 - [[Nao-Sec] Royal Road! Re:Dive](https://nao-sec.org/2021/01/royal-road-redive.html) | [:closed_book:](../../blob/master/2021/2021.01.04.Royal_Road_ReDive)
 
 ## 2020
+* Dec 30 - [[Recorded Future] SolarWinds Attribution: Are We Getting Ahead of Ourselves?](https://go.recordedfuture.com/hubfs/reports/pov-2020-1230.pdf) | [:closed_book:](../../blob/master/2020/2020.12.30.SolarWinds_Attribution)
 * Dec 29 - [[Uptycs] Revenge RAT targeting users in South America](https://www.uptycs.com/blog/revenge-rat-targeting-users-in-south-america) | [:closed_book:](../../blob/master/2020/2020.12.29.Revenge_RAT)
 * Dec 23 - [[Kaspersky] Lazarus covets COVID-19-related intelligence](https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/) | [:closed_book:](../../blob/master/2020/2020.12.23.Lazarus_COVID-19)
 * Dec 22 - [[Truesec] Collaboration between FIN7 and the RYUK group, a Truesec Investigation](https://blog.truesec.com/2020/12/22/collaboration-between-fin7-and-the-ryuk-group-a-truesec-investigation/) | [:closed_book:](../../blob/master/2020/2020.12.22.FIN7_RYUK)
