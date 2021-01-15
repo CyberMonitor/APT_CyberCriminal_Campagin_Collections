@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2021
 * Jan 14 - [[Positive] Higaisa or Winnti? APT41 backdoors, old and new](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/higaisa-or-winnti-apt-41-backdoors-old-and-new/) | [:closed_book:](../../blob/master/2021/2021.01.14.Higaisa_or_Winnti_APT41)
+* Jab 12 - [[ESET] Operation Spalax: Targeted malware attacks in Colombia](https://www.welivesecurity.com/2021/01/12/operation-spalax-targeted-malware-attacks-colombia/) | [:closed_book:](../../blob/master/2021/2021.01.12.Operation_Spalax)
 * Jan 12 - [[Yoroi] Opening “STEELCORGI”: A Sophisticated APT Swiss Army Knife](https://yoroi.company/research/opening-steelcorgi-a-sophisticated-apt-swiss-army-knife/) | [:closed_book:](../../blob/master/2021/2021.01.12.STEELCORGI)
 * Jan 12 - [[NCCgroup] Abusing cloud services to fly under the radar](https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/) | [:closed_book:](../../blob/master/2021/2021.01.12.Abusing_cloud_services_Chimera)
 * Jan 11 - [[Palo Alto Networks] xHunt Campaign: New BumbleBee Webshell and SSH Tunnels Used for Lateral Movement](https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/) | [:closed_book:](../../blob/master/2021/2021.01.11.xHunt_Campaign)
