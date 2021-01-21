@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jan 20 - [[Cybie] A Deep Dive Into Patchwork APT Group](https://cybleinc.com/2021/01/20/a-deep-dive-into-patchwork-apt-group/) | [:closed_book:](../../blob/master/2021/2021.01.20.Deep_Dive_Patchwork)
 * Jan 14 - [[Positive] Higaisa or Winnti? APT41 backdoors, old and new](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/higaisa-or-winnti-apt-41-backdoors-old-and-new/) | [:closed_book:](../../blob/master/2021/2021.01.14.Higaisa_or_Winnti_APT41)
 * Jab 12 - [[ESET] Operation Spalax: Targeted malware attacks in Colombia](https://www.welivesecurity.com/2021/01/12/operation-spalax-targeted-malware-attacks-colombia/) | [:closed_book:](../../blob/master/2021/2021.01.12.Operation_Spalax)
 * Jan 12 - [[Yoroi] Opening “STEELCORGI”: A Sophisticated APT Swiss Army Knife](https://yoroi.company/research/opening-steelcorgi-a-sophisticated-apt-swiss-army-knife/) | [:closed_book:](../../blob/master/2021/2021.01.12.STEELCORGI)
