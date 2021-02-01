@@ -1135,7 +1135,6 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * Jan 02 - [[FireEye] SUPPLY CHAIN ANALYSIS: From Quartermaster to SunshopFireEye](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-malware-supply-chain.pdf) | [:closed_book:](../../blob/master/2013/2013.01.02.SUPPLY_CHAIN_ANALYSIS)
 
 ## 2012
-* Nov ?? - [[KrebsonSecurity] "Wicked Rose" and the NCPH Hacking Group](https://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2012/2012.11.00_Wicked_Rose)
 * Nov 13 - [[FireEye] Poison Ivy Malware Analysis](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf) | [:closed_book:](../../blob/master/2012/2012.11.13.Poison_Ivy)
 * Nov 03 - [[CyberPeace] Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://cyber-peace.org/wp-content/uploads/2014/01/Cyberattack_against_Israeli_and_Palestinian_targets.pdf) | [:closed_book:](../../blob/master/2012/2012.11.03.Israeli_and_Palestinian_Attack)
 * Nov 01 - [[Fidelis] RECOVERING FROM SHAMOON](http://www.fidelissecurity.com/sites/default/files/FTA%201007%20-%20Shamoon.pdf) | [:closed_book:](../../blob/master/2012/2012.11.01.RECOVERING_FROM_SHAMOON)
