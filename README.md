@@ -46,6 +46,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jan 05 - [[QuoIntelligence] ReconHellcat Uses NIST Theme as Lure To Deliver New BlackSoul Malware](https://quointelligence.eu/2021/01/reconhellcat-uses-nist-theme-as-lure-to-deliver-new-blacksoul-malware/) | [:closed_book:](../../blob/master/2021/2021.01.05.ReconHellcat_APT_BlackSoul_Malware)
 * Jan 05 - [[Trend Micro] Earth Wendigo Injects JavaScript Backdoor to Service Worker for Mailbox Exfiltration](https://www.trendmicro.com/en_us/research/21/a/earth-wendigo-injects-javascript-backdoor-to-service-worker-for-.html) | [:closed_book:](../../blob/master/2021/2021.01.05.Earth_Wendigo_Mailbox_Exfiltration)
 * Jan 04 - [[CheckPoint] Stopping Serial Killer: Catching the Next Strike: Dridex](https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/amp/) | [:closed_book:](../../blob/master/2021/2021.01.04.Dridex_Next_Strike)
+* Jan 04 - [[Morphisec] The Evolution of the FIN7 JssLoader](https://www.morphisec.com/hubfs/eBooks_and_Whitepapers/FIN7%20JSSLOADER%20FINAL%20WEB.pdf) | [:closed_book:](../../blob/master/2021/2021.01.04.Carbanak_evolution_of_FIN7_JssLoader)
 * Jan 04 - [[Medium] APT27 Turns to Ransomware](https://shared-public-reports.s3-eu-west-1.amazonaws.com/APT27+turns+to+ransomware.pdf) | [:closed_book:](../../blob/master/2021/2021.01.04.APT27_Ransomware)
 * Jan 04 - [[Nao-Sec] Royal Road! Re:Dive](https://nao-sec.org/2021/01/royal-road-redive.html) | [:closed_book:](../../blob/master/2021/2021.01.04.Royal_Road_ReDive)
 
