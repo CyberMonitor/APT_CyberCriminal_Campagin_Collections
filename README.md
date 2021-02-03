@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Feb 02 - [[ESET] Kobalos – A complex Linux threat to high performance computing infrastructure](https://www.welivesecurity.com/2021/02/02/kobalos-complex-linux-threat-high-performance-computing-infrastructure/) | [:closed_book:](../../blob/master/2021/2021.02.02.Kobalos)
 * Feb 01 - [[ESET] Operation NightScout: Supply‑chain attack targets online gaming in Asia](https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-attack-online-gaming-asia/) | [:closed_book:](../../blob/master/2021/2021.02.01.Operation_NightScout)
 * Jan 31 - [[JPCERT] A41APT case ~ Analysis of the Stealth APT Campaign Threatening Japan](http://jsac.jpcert.or.jp/archive/2021/pdf/JSAC2021_202_niwa-yanagishita_en.pdf) | [:closed_book:](../../blob/master/2021/2021.01.31.A41APT)
 * Jan 28 - [[ClearSky] “Lebanese Cedar” APT: Global Lebanese Espionage Campaign Leveraging Web Servers](https://www.clearskysec.com/wp-content/uploads/2021/01/Lebanese-Cedar-APT.pdf) | [:closed_book:](../../blob/master/2021/2021.01.28.Lebanese_Cedar_APT)
