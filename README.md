@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2021
 * Feb 09 - [[Palo Alto Networks] BendyBear: Novel Chinese Shellcode Linked With Cyber Espionage Group BlackTech](https://unit42.paloaltonetworks.com/bendybear-shellcode-blacktech/) | [:closed_book:](../../blob/master/2021/2021.02.09.BendyBear)
+* Feb 08 - [[CheckPoint] Domestic Kitten – An Inside Look at the Iranian Surveillance Operations](https://research.checkpoint.com/2021/domestic-kitten-an-inside-look-at-the-iranian-surveillance-operations/) | [:closed_book:](../../blob/master/2021/2021.02.08.Domestic_Kitten)
 * Feb 03 - [[Palo Alto Networks] Hildegard: New TeamTNT Malware Targeting Kubernetes](https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/) | [:closed_book:](../../blob/master/2021/2021.02.03.Hildegard)
 * Feb 02 - [[ESET] Kobalos – A complex Linux threat to high performance computing infrastructure](https://www.welivesecurity.com/2021/02/02/kobalos-complex-linux-threat-high-performance-computing-infrastructure/) | [:closed_book:](../../blob/master/2021/2021.02.02.Kobalos)
 * Feb 01 - [[ESET] Operation NightScout: Supply‑chain attack targets online gaming in Asia](https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-attack-online-gaming-asia/) | [:closed_book:](../../blob/master/2021/2021.02.01.Operation_NightScout)
