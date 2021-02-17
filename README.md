@@ -167,6 +167,7 @@ Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WH
 * Jun 08 - [[CheckPoint] GuLoader? No, CloudEyE](https://research.checkpoint.com/2020/guloader-cloudeye/) | [:closed_book:](../../blob/master/2020/2020.06.08.GuLoader_CloudEyE)
 * Jun 03 - [[Malwarebyte] New LNK attack tied to Higaisa APT discovered](https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/) | [:closed_book:](../../blob/master/2020/2020.06.03.Higaisa_APT)
 * Jun 03 - [[Kaspersky] Cycldek: Bridging the (air) gap](https://securelist.com/cycldek-bridging-the-air-gap/97157/) | [:closed_book:](../../blob/master/2020/2020.06.03.Cycldek)
+* Jun 01 - [[Lifars] Cryptocurrency Miners – XMRig Based CoinMiner by Blue Mockingbird Group](https://lifars.com/knowledge-center/xmrig-based-coinminer-bluemockingbird-group/) | [:closed_book:](../../blob/master/2020/2020.06.01.Blue_Mockingbird_Group)
 * May 29 - [[IronNet] Russian Cyber Attack Campaigns and Actors](https://ironnet.com/blog/russian-cyber-attack-campaigns-and-actors/) | [:closed_book:](../../blob/master/2020/2020.05.29_russian-cyber-attack-campaigns-and-actors)
 * May 28 - [[Kaspersky] The zero-day exploits of Operation WizardOpium](https://securelist.com/the-zero-day-exploits-of-operation-wizardopium/97086/) | [:closed_book:](../../blob/master/2020/2020.05.28_Operation_WizardOpium)
 * May 26 - [[ESET] From Agent.BTZ to ComRAT v4: A ten‑year journey](https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/) | [:closed_book:](../../blob/master/2020/2020.05.26_From_Agent.BTZ_to_ComRAT)
