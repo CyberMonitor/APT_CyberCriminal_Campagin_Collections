@@ -1259,6 +1259,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Oct 20 2020 - [[ENISA] ENISA Threat Landscape 2020 - Main Incidents](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2020-main-incidents) | [:closed_book:](../../blob/master/Report/ENISA/ETL2020_Incidents_A4.pdf) <br>
 :small_orange_diamond: Jan 28 2019 - [[ENISA] ENISA Threat Landscape Report 2018](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018) | [:closed_book:](../../blob/master/Report/ENISA/ENISA_Threat_Landscape_2018.pdf) <br>
 ### CrowdStrike
+:small_orange_diamond: Feb 24 2021 - [[CrowdStrike] 2021 GLOBAL THREAT REPORT](https://www.crowdstrike.com/resources/reports/global-threat-report/) | [:closed_book:](../../blob/master/Report/CrowdStrike/The_CrowdStrike_2021_Global_Threat_Report.pdf) <br>
 :small_orange_diamond: Mar 03 2020 - [[CrowdStrike] 2020 GLOBAL THREAT REPORT](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf) | [:closed_book:](../../blob/master/Report/CrowdStrike/Report2020CrowdStrikeGlobalThreatReport.pdf) <br>
 :small_orange_diamond: Feb 19 2019 - [[CrowdStrike] 2019 GLOBAL THREAT REPORT](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2019GlobalThreatReport.pdf?lb_email=&utm_source=Marketo&utm_medium=Web&utm_campaign=Threat_Report_2019) | [:closed_book:](../../blob/master/Report/CrowdStrike/Report2019GlobalThreatReport.pdf) <br>
 ### QianXin
