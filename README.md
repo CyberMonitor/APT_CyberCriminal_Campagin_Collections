@@ -28,6 +28,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Feb 25 - [[Kaspersky] Lazarus targets defense industry with ThreatNeedle](https://securelist.com/lazarus-threatneedle/100803/) | [:closed_book:](../../blob/master/2021/2021.02.25.Lazarus_ThreatNeedle)
+* Feb 25 - [[TeamT5] APT10: Tracking down the stealth activity of the A41APT campaign](https://media.kasperskydaily.com/wp-content/uploads/sites/86/2021/02/25140359/greatidea_A41_v1.0.pdf) | [:closed_book:](../../blob/master/2021/2021.02.25.A41APT)
 * Feb 22 - [[CheckPoint] The Story of Jian – How APT31 Stole and Used an Unknown Equation Group 0-Day](https://research.checkpoint.com/2021/the-story-of-jian/) | [:closed_book:](../../blob/master/2021/2021.02.22.APT31_Equation_Group)
 * Feb 17 - [[Cybleinc] Confucius APT Android Spyware Targets Pakistani and Other South Asian Regions](https://cybleinc.com/2021/02/17/confucius-apt-android-spyware-targets-pakistani-and-other-south-asian-regions/) | [:closed_book:](../../blob/master/2021/2021.02.17.Confucius_Pakistani_South_Asian)
 * Feb 10 - [[Lookout] Lookout Discovers Novel Confucius APT Android Spyware Linked to India-Pakistan Conflict](https://blog.lookout.com/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict) | [:closed_book:](../../blob/master/2021/2021.02.10.Confucius_India-Pakistan)
