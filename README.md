@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Feb 28 - [[Recorded Future] China-linked Group RedEcho Targets the Indian Power Sector Amid Heightened Border Tensions](https://www.recordedfuture.com/redecho-targeting-indian-power-sector/) | [:closed_book:](../../blob/master/2021/2021.02.28.RedEcho_APT)
 * Feb 25 - [[Proofpoint] TA413 Leverages New FriarFox Browser Extension to Target the Gmail Accounts of Global Tibetan Organizations](https://www.proofpoint.com/us/blog/threat-insight/ta413-leverages-new-friarfox-browser-extension-target-gmail-accounts-global) | [:closed_book:](../../blob/master/2021/2021.02.25.TA413_FriarFox)
 * Feb 25 - [[Kaspersky] Lazarus targets defense industry with ThreatNeedle](https://securelist.com/lazarus-threatneedle/100803/) | [:closed_book:](../../blob/master/2021/2021.02.25.Lazarus_ThreatNeedle)
 * Feb 25 - [[TeamT5] APT10: Tracking down the stealth activity of the A41APT campaign](https://media.kasperskydaily.com/wp-content/uploads/sites/86/2021/02/25140359/greatidea_A41_v1.0.pdf) | [:closed_book:](../../blob/master/2021/2021.02.25.A41APT)
