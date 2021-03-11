@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Mar 10 - [[Intezer] New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor](https://www.intezer.com/blog/malware-analysis/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/) | [:closed_book:](../../blob/master/2021/2021.03.10.RedXOR)
 * Mar 02 - [[Volexity] Operation Exchange Marauder: Active Exploitation of Multiple Zero-Day Microsoft Exchange Vulnerabilities](https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/) | [:closed_book:](../../blob/master/2021/2021.03.02.Operation_Exchange_Marauder)
 * Mar 02 - [[Microsoft] HAFNIUM targeting Exchange Servers with 0-day exploits](https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/) | [:closed_book:](../../blob/master/2021/2021.03.02.HAFNIUM_APT)
 * Feb 28 - [[Recorded Future] China-linked Group RedEcho Targets the Indian Power Sector Amid Heightened Border Tensions](https://www.recordedfuture.com/redecho-targeting-indian-power-sector/) | [:closed_book:](../../blob/master/2021/2021.02.28.RedEcho_APT)
