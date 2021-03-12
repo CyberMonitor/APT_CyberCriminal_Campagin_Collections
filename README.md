@@ -28,6 +28,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Mar XX - [[CSET] Academics, AI, and APTs](https://cset.georgetown.edu/wp-content/uploads/CSET-Academics-AI-and-APTs.pdf)| [:closed_book:](../../blob/master/2021/2021.03.XX.Academics_AI_APTs)
+* Mar 10 - [[Bitdefender] FIN8 Returns with Improved BADHATCH Toolkit](https://www.bitdefender.com/files/News/CaseStudies/study/394/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | [:closed_book:](../../blob/master/2021/2021.03.10.FIN8_BADHATCH_Toolkit)
 * Mar 10 - [[Intezer] New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor](https://www.intezer.com/blog/malware-analysis/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/) | [:closed_book:](../../blob/master/2021/2021.03.10.RedXOR)
 * Mar 02 - [[Volexity] Operation Exchange Marauder: Active Exploitation of Multiple Zero-Day Microsoft Exchange Vulnerabilities](https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/) | [:closed_book:](../../blob/master/2021/2021.03.02.Operation_Exchange_Marauder)
 * Mar 02 - [[Microsoft] HAFNIUM targeting Exchange Servers with 0-day exploits](https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/) | [:closed_book:](../../blob/master/2021/2021.03.02.HAFNIUM_APT)
