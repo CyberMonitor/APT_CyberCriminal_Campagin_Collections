@@ -1232,6 +1232,10 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 * [[Krebs on Security] "Wicked Rose" and the NCPH Hacking Group](http://krebsonsecurity.com/wp-content/uploads/2012/11/WickedRose_andNCPH.pdf) | [:closed_book:](../../blob/master/2006/2006.Wicked_Rose)
 
 ## Report
+
+### Red Canary 
+:small_orange_diamond: 2021 - [[Red_Canary] 2021 Threat Detection Report](https://redcanary.com/threat-detection-report/) | [:closed_book:](../../blob/master/Report/Red_Canary/2021-Threat-Detection-Report)<br>
+
 ### NSA
 :small_orange_diamond: Jan 08 2021 - [[NSA] 2020 Cybersecurity Year in Review report](https://media.defense.gov/2021/Jan/08/2002561651/-1/-1/0/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF) | [:closed_book:](../../blob/master/Report/NSA/NSA_CYBERSECURITY_2020_YEAR_IN_REVIEW.PDF)<br>
 ### Objective-See
