@@ -28,7 +28,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
-* Mar XX - [[CSET] Academics, AI, and APTs](https://cset.georgetown.edu/wp-content/uploads/CSET-Academics-AI-and-APTs.pdf)| [:closed_book:](../../blob/master/2021/2021.03.XX.Academics_AI_APTs)
+* Apr 07 - [[CISCO] Sowing Discord: Reaping the benefits of collaboration app abuse](https://blog.talosintelligence.com/2021/04/collab-app-abuse.html) | [:closed_book:](../../blob/master/2021/2021.04.07.Sowing_Discord)
+* Mar XX - [[CSET] Academics, AI, and APTs](https://cset.georgetown.edu/wp-content/uploads/CSET-Academics-AI-and-APTs.pdf) | [:closed_book:](../../blob/master/2021/2021.03.XX.Academics_AI_APTs)
 * Mar 30 - [[Kaspersky] APT10: sophisticated multi-layered loader Ecipekac discovered in A41APT campaign](https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/) | [:closed_book:](../../blob/master/2021/2021.03.30.APT10)
 * Mar 30 - [[proofpoint] BadBlood: TA453 Targets US and Israeli Medical Research Personnel in Credential Phishing Campaigns](https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential) | [:closed_book:](../../blob/master/2021/2021.03.30.BadBlood_TA453)
 * Mar 10 - [[Bitdefender] FIN8 Returns with Improved BADHATCH Toolkit](https://www.bitdefender.com/files/News/CaseStudies/study/394/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | [:closed_book:](../../blob/master/2021/2021.03.10.FIN8_BADHATCH_Toolkit)
