@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Apr 19 - [[MalwareBytes] Lazarus APT conceals malicious code within BMP image to drop its RAT](https://blog.malwarebytes.com/malwarebytes-news/2021/04/lazarus-apt-conceals-malicious-code-within-bmp-file-to-drop-its-rat/) | [:closed_book:](../../blob/master/2021/2021.04.19.Lazarus_APT_conceals_malicious_code_within_BMP_image_to_drop_its_RAT)
 * Apr 13 - [[Kaspersky] Zero-day vulnerability in Desktop Window Manager (CVE-2021-28310) used in the wild](https://securelist.com/zero-day-vulnerability-in-desktop-window-manager-cve-2021-28310-used-in-the-wild/101898/) | [:closed_book:](../../blob/master/2021/2021.04.13.CVE-2021-28310_APT)
 * Apr 09 - [[TrendMicro] Iron Tiger APT Updates Toolkit With Evolved SysUpdate Malware](https://www.trendmicro.com/en_us/research/21/d/iron-tiger-apt-updates-toolkit-with-evolved-sysupdate-malware-va.html) | [:closed_book:](../../blob/master/2021/2021.04.09.Iron_Tiger_SysUpdate)
 * Apr 08 - [[CheckPoint] Iran’s APT34 Returns with an Updated Arsenal](https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/) | [:closed_book:](../../blob/master/2021/2021.04.08.APT34_Returns)
