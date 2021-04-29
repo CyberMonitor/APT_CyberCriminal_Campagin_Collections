@@ -28,7 +28,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Apr 28 - [[Fireeye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity](https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html) | [:closed_book:](../../blob/master/2021/2021.04.28.Ghostwriter_UNC1151)
 * Apr 27 - [[Positive] Lazarus Group Recruitment: Threat Hunters vs Head Hunters](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-recruitment/) | [:closed_book:](../../blob/master/2021/2021.04.27.Lazarus_Group_Recruitment)
+* Apr 23 - [[Bitdefender] NAIKON – Traces from a Military Cyber-Espionage Operation](https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf) | [:closed_book:](../../blob/master/2021/2021.04.23.NAIKON)
 * Apr 23 - [[Darktrace] APT35 ‘Charming Kitten' discovered in a pre-infected environment](https://www.darktrace.com/en/blog/apt-35-charming-kitten-discovered-in-a-pre-infected-environment/) | [:closed_book:](../../blob/master/2021/2021.04.23.Charming_Kitten)
 * Apr 20 - [[FireEye] Check Your Pulse: Suspected APT Actors Leverage Authentication Bypass Techniques and Pulse Secure Zero-Day](https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html) | [:closed_book:](../../blob/master/2021/2021.04.20.APT_Pulse_Secure_Zero-Day)
 * Apr 19 - [[SentinelOne] A Deep Dive into Zebrocy’s Dropper Docs](https://labs.sentinelone.com/a-deep-dive-into-zebrocys-dropper-docs/) | [:closed_book:](../../blob/master/2021/2021.04.19.A_Deep_Dive_into_Zebrocys_Dropper_Docs)
