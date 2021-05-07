@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* May 06 - [[Kaspersky] Operation TunnelSnake](https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/) | [:closed_book:](../../blob/master/2021/2021.05.06.Operation_TunnelSnake)
 * Apr 28 - [[Fireeye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity](https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html) | [:closed_book:](../../blob/master/2021/2021.04.28.Ghostwriter_UNC1151)
 * Apr 27 - [[Positive] Lazarus Group Recruitment: Threat Hunters vs Head Hunters](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-recruitment/) | [:closed_book:](../../blob/master/2021/2021.04.27.Lazarus_Group_Recruitment)
 * Apr 23 - [[Bitdefender] NAIKON – Traces from a Military Cyber-Espionage Operation](https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf) | [:closed_book:](../../blob/master/2021/2021.04.23.NAIKON)
