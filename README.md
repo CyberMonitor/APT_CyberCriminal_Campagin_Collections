@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* May 07 - [[NCSC] Further TTPs associated with SVR cyber actors](https://www.ncsc.gov.uk/files/Advisory%20Further%20TTPs%20associated%20with%20SVR%20cyber%20actors.pdf) | [:closed_book:](../../blob/master/2021/2021.05.07.SVR_TTPs)
 * May 06 - [[Kaspersky] Operation TunnelSnake](https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/) | [:closed_book:](../../blob/master/2021/2021.05.06.Operation_TunnelSnake)
 * Apr 28 - [[Fireeye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity](https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html) | [:closed_book:](../../blob/master/2021/2021.04.28.Ghostwriter_UNC1151)
 * Apr 27 - [[Positive] Lazarus Group Recruitment: Threat Hunters vs Head Hunters](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-recruitment/) | [:closed_book:](../../blob/master/2021/2021.04.27.Lazarus_Group_Recruitment)
