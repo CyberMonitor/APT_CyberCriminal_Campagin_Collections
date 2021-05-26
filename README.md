@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* May 25 - [[SentinelOne] FROM WIPER TO RANSOMWARE: THE EVOLUTION OF AGRIUS](https://assets.sentinelone.com/sentinellabs/evol-agrius) | [:closed_book:](../../blob/master/2021/2021.05.25.AGRIUSAuthor)
 * May 13 - [[CISCO] Transparent Tribe APT expands its Windows malware arsenal](https://blog.talosintelligence.com/2021/05/transparent-tribe-infra-and-targeting.html)  | [:closed_book:](../../blob/master/2021/2021.05.13.Transparent_Tribe_APT)
 * May 07 - [[NCSC] Further TTPs associated with SVR cyber actors](https://www.ncsc.gov.uk/files/Advisory%20Further%20TTPs%20associated%20with%20SVR%20cyber%20actors.pdf) | [:closed_book:](../../blob/master/2021/2021.05.07.SVR_TTPs)
 * May 06 - [[Kaspersky] Operation TunnelSnake](https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/) | [:closed_book:](../../blob/master/2021/2021.05.06.Operation_TunnelSnake)
