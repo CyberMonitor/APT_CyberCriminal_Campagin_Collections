@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jun 08 - [[Kaspersky] PuzzleMaker attacks with Chrome zero-day exploit chain](https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/) | [:closed_book:](../../blob/master/2021/2021.06.08.PuzzleMaker_APT)
 * Jun 03 - [[CheckPoint] SharpPanda: Chinese APT Group Targets Southeast Asian Government With Previously Unknown Backdoor](https://research.checkpoint.com/2021/chinese-apt-group-targets-southeast-asian-government-with-previously-unknown-backdoor/) | [:closed_book:](../../blob/master/2021/2021.06.03.SharpPanda_APT)
 * May 28 - [[Microsoft] Breaking down NOBELIUM’s latest early-stage toolset](https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/) | [:closed_book:](../../blob/master/2021/2021.05.28.NOBELIUM_toolset)
 * May 27 - [[Microsoft] New sophisticated email-based attack from NOBELIUM](https://www.microsoft.com/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/) | [:closed_book:](../../blob/master/2021/2021.05.27.NOBELIUM_New)
