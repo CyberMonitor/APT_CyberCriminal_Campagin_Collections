@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jun 24 - [[Securifera] Operation Eagle Eye](https://www.securifera.com/blog/2021/06/24/operation-eagle-eye/) | [:closed_book:](../../blob/master/2021/2021.06.24.Operation_Eagle_Eye)
 * Jun 16 - [[Kaspersky] Ferocious Kitten: 6 years of covert surveillance in Iran](https://securelist.com/ferocious-kitten-6-years-of-covert-surveillance-in-iran/102806/) | [:closed_book:](../../blob/master/2021/2021.06.16.Ferocious_Kitten)
 * Jun 10 - [[Group-IB] Big airline heist](https://blog.group-ib.com/colunmtk_apt41) | [:closed_book:](../../blob/master/2021/2021.06.10.Big_airline_heist)
 * Jun 08 - [[Kaspersky] PuzzleMaker attacks with Chrome zero-day exploit chain](https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/) | [:closed_book:](../../blob/master/2021/2021.06.08.PuzzleMaker_APT)
