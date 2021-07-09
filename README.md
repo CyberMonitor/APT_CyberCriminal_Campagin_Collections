@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jul 05 - [[Trend Micro] Tracking Cobalt Strike: A Trend Micro Vision One Investigation](https://www.trendmicro.com/en_us/research/21/g/tracking_cobalt_strike_a_vision_one_investigation.html) | [:closed_book:](../../blob/master/2021/2021.07.05.cobalt_strike_tracking)
 * Jul 01 - [[CheckPoint] IndigoZebra APT continues to attack Central Asia with evolving tools](https://research.checkpoint.com/2021/indigozebra-apt-continues-to-attack-central-asia-with-evolving-tools/) | [:closed_book:](../../blob/master/2021/2021.07.01.IndigoZebra_APT)
 * Jun 24 - [[Securifera] Operation Eagle Eye](https://www.securifera.com/blog/2021/06/24/operation-eagle-eye/) | [:closed_book:](../../blob/master/2021/2021.06.24.Operation_Eagle_Eye)
 * Jun 16 - [[Recorded Future] Threat Activity Group RedFoxtrot Linked to China’s PLA Unit 69010; Targets Bordering Asian Countries](https://www.recordedfuture.com/redfoxtrot-china-pla-targets-bordering-asian-countries/) | [:closed_book:](../../blob/master/2021/2021.06.16.RedFoxtrot_APT_PLA_69010)
