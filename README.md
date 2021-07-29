@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Jul 28 - [[Proofpoint] I Knew You Were Trouble: TA456 Targets Defense Contractor with Alluring Social Media Persona](https://www.proofpoint.com/us/blog/threat-insight/i-knew-you-were-trouble-ta456-targets-defense-contractor-alluring-social-media) | [:closed_book:](../../blob/master/2021/2021.07.28.TA456)
 * Jul 19 - [[US-CERT] Tactics, Techniques, and Procedures of Indicted APT40 Actors Associated with China’s MSS Hainan State Security Department](https://us-cert.cisa.gov/sites/default/files/publications/CSA_TTPs-of-Indicted-APT40-Actors-Associated-with-China-MSS-Hainan-State-Security-Department.pdf) | [:closed_book:](../../blob/master/2021/2021.07.19.APT40_TTP)
 * Jul 06 - [[AT&T] Lazarus campaign TTPs and evolution](https://cybersecurity.att.com/blogs/labs-research/lazarus-campaign-ttps-and-evolution) | [:closed_book:](../../blob/master/2021/2021.07.06.Lazarus_TTPs_evolution)
 * Jul 05 - [[Trend Micro] Tracking Cobalt Strike: A Trend Micro Vision One Investigation](https://www.trendmicro.com/en_us/research/21/g/tracking_cobalt_strike_a_vision_one_investigation.html) | [:closed_book:](../../blob/master/2021/2021.07.05.cobalt_strike_tracking)
