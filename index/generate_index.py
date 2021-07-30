@@ -5,6 +5,7 @@ import argparse
 import logging
 import hashlib
 import PyPDF2
+import ntpath
 
 from PyPDF2.utils import PdfReadError
 from urllib.parse import quote
@@ -32,10 +33,11 @@ def index_report(path: str):
 
     # Get the published date from the path name if possible
     published_raw = DATE_REGEX.match(os.path.basename(os.path.dirname(path)))
+    pypdf = PyPDF2.PdfFileReader(open(path, "rb"), strict=False)
 
     if published_raw == None or (".00" in published_raw.group(0)):
         logging.debug(f"no published date for report: {path}")
-        pypdf = PyPDF2.PdfFileReader(open(path, "rb"), strict=False)
+
         if pypdf.isEncrypted:
             pypdf.decrypt("")
         try:
@@ -50,7 +52,9 @@ def index_report(path: str):
         logging.debug(published_raw)
         published = datetime.strptime(published_raw.group(0), "%Y.%m.%d").date()
 
-    processed_reports_list.append((published, checksum, down_path))
+    title = ntpath.basename(path).replace(".pdf", "").replace(".PDF", "")
+
+    processed_reports_list.append((published, checksum, title, down_path))
 
 
 def process_reports(path: str):
@@ -78,7 +82,7 @@ def process_reports(path: str):
 
     with open("index.csv", "w", newline="") as csvfile:
         sorted_reports = sorted(processed_reports_list, key=lambda x: x[0])
-        fieldnames = ["Published", "SHA-1", "Download URL"]
+        fieldnames = ["Published", "SHA-1", "Filename", "Download URL"]
         indexwriter = csv.writer(csvfile, dialect="excel")
         indexwriter.writerow(fieldnames)
         indexwriter.writerows(sorted_reports)
