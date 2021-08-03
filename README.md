@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Aug 02 - [[Sygnia] TG1021: “Praying Mantis” DISSECTING AN ADVANCED MEMORY-RESIDENT ATTACK](https://f.hubspotusercontent30.net/hubfs/8776530/TG1021%20-%20Praying%20Mantis%20Threat%20Actor.pdf) | [:closed_book:](../../blob/master/2021/2021.08.02.TG1021_Praying_Mantis)
 * Jul 28 - [[Proofpoint] I Knew You Were Trouble: TA456 Targets Defense Contractor with Alluring Social Media Persona](https://www.proofpoint.com/us/blog/threat-insight/i-knew-you-were-trouble-ta456-targets-defense-contractor-alluring-social-media) | [:closed_book:](../../blob/master/2021/2021.07.28.TA456)
 * Jul 27 - [[Palo Alto Networks] THOR: Previously Unseen PlugX Variant Deployed During Microsoft Exchange Server Attacks by PKPLUG Group](https://unit42.paloaltonetworks.com/thor-plugx-variant/) | [:closed_book:](../../blob/master/2021/2021.07.27.THOR_PKPLUG_Group)
 * Jul 19 - [[US-CERT] Tactics, Techniques, and Procedures of Indicted APT40 Actors Associated with China’s MSS Hainan State Security Department](https://us-cert.cisa.gov/sites/default/files/publications/CSA_TTPs-of-Indicted-APT40-Actors-Associated-with-China-MSS-Hainan-State-Security-Department.pdf) | [:closed_book:](../../blob/master/2021/2021.07.19.APT40_TTP)
