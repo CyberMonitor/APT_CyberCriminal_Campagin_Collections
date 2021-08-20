@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2021
 * Aug 19 - [[Sentinel] ShadowPad | A Masterpiece of Privately Sold Malware in Chinese Espionage](https://labs.sentinelone.com/shadowpad-a-masterpiece-of-privately-sold-malware-in-chinese-espionage/) | [:closed_book:](../../blob/master/2021/2021.08.19.ShadowPad)
+* Aug 17 - [[Volexity] North Korean APT InkySquid Infects Victims Using Browser Exploits](https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/) | [:closed_book:](../../blob/master/2021/2021.08.17.NK_APT_InkySquid)
 * Aug 14 - [[Checkpoint] Indra — Hackers Behind Recent Attacks on Iran](https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/) | [:closed_book:](../../blob/master/2021/2021.08.14.Indra_Iran)
 * Aug 12 - [[imp0rtp3] Uncovering Tetris – a Full Surveillance Kit Running in your Browser](https://imp0rtp3.wordpress.com/2021/08/12/tetris/) | [:closed_book:](../../blob/master/2021/2021.08.12.Full-Surveillance-Kit-China)
 * Aug 10 - [[Fireeye] UNC215: Spotlight on a Chinese Espionage Campaign in Israel](https://www.fireeye.com/blog/threat-research/2021/08/unc215-chinese-espionage-campaign-in-israel.html) | [:closed_book:](../../blob/master/2021/2021.08.10.UNC215_Chinese_Israel)
