@@ -1,0 +1,8 @@
+value,type,notes
+636478154616-bt8kmnrg1l6oml3ipv7ifc6bck0in18h.apps.googleusercontent.com,hostname,"Custom google web app used by BLUELIGHT"
+5bc52f6c1c0d0131cee30b4f192ce738ad70bcb56e84180f464a5125d1a784b2,sha256,"Ruby loader for ROKRAT"
+d5eac0331db07d4d431e81db4c0c89301e3f760a,sha1,"Ruby loader for ROKRAT"
+6117403d7668593be80a0ef1ad72ba5b,md5,"Ruby loader for ROKRAT"
+80269413be6ad51b8b19631b2f5559c9572842e789bbce031babe6e879d2e120,sha256,"Python loader for BLUELIGHT"
+2e1a3d8a2cec62fa7399bd86d2e4781f3d9c1e29,sha1,"Python loader for BLUELIGHT"
+5369c39a6c365d955e81f96d80fecb88,md5,"Python loader for BLUELIGHT"
