@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Aug 25 - [[Bitdefender] FIN8 Threat Actor Spotted Once Again with New "Sardonic" Backdoor](https://www.bitdefender.com/blog/labs/fin8-threat-actor-spotted-once-again-with-new-sardonic-backdoor/) | [:closed_book:](../../blob/master/2021/2021.08.25.FIN8_Sardonic_Backdoor)
 * Aug 19 - [[Sentinel] ShadowPad | A Masterpiece of Privately Sold Malware in Chinese Espionage](https://labs.sentinelone.com/shadowpad-a-masterpiece-of-privately-sold-malware-in-chinese-espionage/) | [:closed_book:](../../blob/master/2021/2021.08.19.ShadowPad)
 * Aug 17 - [[ClearSky] New Iranian Espionaje Campaign by "SiameseKitten" - Lyceum](https://www.clearskysec.com/siamesekitten/) | [:closed_book:](../../blob/master/2021/2021.08.17_new_iranian_campaign_by_Siamesekitten)
 * Aug 17 - [[Volexity] North Korean APT InkySquid Infects Victims Using Browser Exploits](https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/) | [:closed_book:](../../blob/master/2021/2021.08.17.NK_APT_InkySquid)
