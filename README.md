@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Sep 27 - [[Microsoft] FoggyWeb: Targeted NOBELIUM malware leads to persistent backdoor](https://www.microsoft.com/security/blog/2021/09/27/foggyweb-targeted-nobelium-malware-leads-to-persistent-backdoor/) | [:closed_book:](../../blob/master/2021/2021.09.27.FoggyWeb)
 * Sep 23 - [[ESET] FamousSparrow: A suspicious hotel guest](https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/) | [:closed_book:](../../blob/master/2021/2021.09.23.FamousSparrow)
 * Sep 14 - [[McAfee] Operation ‘Harvest’: A Deep Dive into a Long-term Campaign](https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/operation-harvest-a-deep-dive-into-a-long-term-campaign/) | [:closed_book:](../../blob/master/2021/2021.09.14.Operation_Harvest)
 * Sep 13 - [[Trend Micro] APT-C-36 Updates Its Spam Campaign Against South American Entities With Commodity RATs](https://www.trendmicro.com/en_us/research/21/i/apt-c-36-updates-its-long-term-spam-campaign-against-south-ameri.html) | [:closed_book:](../../blob/master/2021/2021.09.13.APT-C-36_South_American)
