@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Oct 04 - [[JP-CERT] Malware Gh0stTimes Used by BlackTech](https://blogs.jpcert.or.jp/en/2021/10/gh0sttimes.html) | [:closed_book:](../../blob/master/2021/2021.10.04.Gh0stTimes_BlackTech)
 * Sep 30 - [[Kaspersky] GhostEmperor: From ProxyLogon to kernel mode](https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/) | [:closed_book:](../../blob/master/2021/2021.09.30.GhostEmperor)
 * Sep 27 - [[Microsoft] FoggyWeb: Targeted NOBELIUM malware leads to persistent backdoor](https://www.microsoft.com/security/blog/2021/09/27/foggyweb-targeted-nobelium-malware-leads-to-persistent-backdoor/) | [:closed_book:](../../blob/master/2021/2021.09.27.FoggyWeb)
 * Sep 23 - [[ESET] FamousSparrow: A suspicious hotel guest](https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/) | [:closed_book:](../../blob/master/2021/2021.09.23.FamousSparrow)
@@ -36,6 +37,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Sep 09 - [[Recorded Future] Dark Covenant: Connections Between the Russian State and Criminal Actors](https://www.recordedfuture.com/russian-state-connections-criminal-actors/) | [:closed_book:](../../blob/master/2021/2021.09.09.Dark_Covenant)
 * Sep 08 - [[Fireeye] Pro-PRC Influence Campaign Expands to Dozens of Social Media Platforms, Websites, and Forums in at Least Seven Languages, Attempted to Physically Mobilize Protesters in the U.S.](https://www.fireeye.com/blog/threat-research/2021/09/pro-prc-influence-campaign-social-media-websites-forums.html) | [:closed_book:](../../blob/master/2021/2021.09.08.Pro-PRC_Campaign)
 * Aug 25 - [[Bitdefender] FIN8 Threat Actor Spotted Once Again with New "Sardonic" Backdoor](https://www.bitdefender.com/blog/labs/fin8-threat-actor-spotted-once-again-with-new-sardonic-backdoor/) | [:closed_book:](../../blob/master/2021/2021.08.25.FIN8_Sardonic_Backdoor)
+* Aug 24 - [[Trend Micro] Earth Baku Returns](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/earth-baku-returns) | [:closed_book:](../../blob/master/2021/2021.08.24.Earth_Baku_Returns)
 * Aug 19 - [[Sentinel] ShadowPad | A Masterpiece of Privately Sold Malware in Chinese Espionage](https://labs.sentinelone.com/shadowpad-a-masterpiece-of-privately-sold-malware-in-chinese-espionage/) | [:closed_book:](../../blob/master/2021/2021.08.19.ShadowPad)
 * Aug 17 - [[ClearSky] New Iranian Espionaje Campaign by "SiameseKitten" - Lyceum](https://www.clearskysec.com/siamesekitten/) | [:closed_book:](../../blob/master/2021/2021.08.17_new_iranian_campaign_by_Siamesekitten)
 * Aug 17 - [[Volexity] North Korean APT InkySquid Infects Victims Using Browser Exploits](https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/) | [:closed_book:](../../blob/master/2021/2021.08.17.NK_APT_InkySquid)
