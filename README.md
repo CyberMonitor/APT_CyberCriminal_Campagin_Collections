@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Oct 12 - [[Kaspersky] MysterySnail attacks with Windows zero-day](https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/) | [:closed_book:](../../blob/master/2021/2021.10.12.MysterySnail)
 * Oct 06 - [[Cybereason] Operation GhostShell: Novel RAT Targets Global Aerospace and Telecoms Firms](https://www.cybereason.com/blog/operation-ghostshell-novel-rat-targets-global-aerospace-and-telecoms-firms) | [:closed_book:](../../blob/master/2021/2021.10.06.Operation_GhostShell)
 * Oct 04 - [[JP-CERT] Malware Gh0stTimes Used by BlackTech](https://blogs.jpcert.or.jp/en/2021/10/gh0sttimes.html) | [:closed_book:](../../blob/master/2021/2021.10.04.Gh0stTimes_BlackTech)
 * Sep 30 - [[Kaspersky] GhostEmperor: From ProxyLogon to kernel mode](https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/) | [:closed_book:](../../blob/master/2021/2021.09.30.GhostEmperor)
