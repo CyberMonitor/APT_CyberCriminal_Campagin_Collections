@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Oct 19 - [[Trend Micro] PurpleFox Adds New Backdoor That Uses WebSockets](https://www.trendmicro.com/en_us/research/21/j/purplefox-adds-new-backdoor-that-uses-websockets.html) | [:closed_book:](../../blob/master/2021/2021.10.19.PurpleFox)
 * Oct 18 - [[Symantec] Harvester: Nation-state-backed group uses new toolset to target victims in South Asia](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/harvester-new-apt-attacks-asia) | [:closed_book:](../../blob/master/2021/2021.10.18.Harvester_South_Asia)
 * Oct 12 - [[Kaspersky] MysterySnail attacks with Windows zero-day](https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/) | [:closed_book:](../../blob/master/2021/2021.10.12.MysterySnail)
 * Oct 06 - [[Cybereason] Operation GhostShell: Novel RAT Targets Global Aerospace and Telecoms Firms](https://www.cybereason.com/blog/operation-ghostshell-novel-rat-targets-global-aerospace-and-telecoms-firms) | [:closed_book:](../../blob/master/2021/2021.10.06.Operation_GhostShell)
