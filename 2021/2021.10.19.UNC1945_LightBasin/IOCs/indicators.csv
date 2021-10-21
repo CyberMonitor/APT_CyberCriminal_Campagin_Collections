@@ -1,0 +1,24 @@
+Indicator,SHA256 Hashes,Description
+/usr/local/sbin/iptables, 97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb, Trojanized iptables binary that replaced legitimate version
+/usr/bin/pingg,e9c0f00c34dcd28fc3cc53c9496bff863b81b06723145e106ab7016c66581f72 4668561d60daeb7a4a50a9c3e210a4343f92cadbf2d52caab5684440da6bf562,PingPong Implant
+/usr/lib/om_proc,3a259ad7e5c19a782f7736b5ac50aac4ba4d03b921ffc6a3ff6a48d720f02012 65143ccb5a955a22d6004033d073ecb49eba9227237a46929495246e36eff8e1,Microsocks Proxy
+/usr/lib/frpc,05537c1c4e29db76a24320fb7cb80b189860389cdb16a9dbeb0c8d30d9b37006 16294086be1cc853f75e864a405f31e2da621cb9d6a59f2a71a2fca4e268b6c2,Fast Reverse Proxy
+/usr/lib/frpc.ini,N/A,Fast Reverse Proxy Configuration
+/usr/lib/cord.lib /usr/lib/libcord.so /usr/bin/libcord.so,6d3759b3621f3e4791ebcd28e6ea60ce7e64468df24cf6fddf8efb544ab5aec0 c5ddd616e127df91418aeaa595ac7cd266ffc99b2683332e0f112043796ede1d 9973edfef797db84cd17300b53a7a35d1207d166af9752b3f35c72b4df9a98bc 4480b58979cc913c27673b2f681335deb1627e9ba95073a941f4cd6d6bcd6181 ad9fef1b86b57a504cfa1cfbda2e2ac509750035bff54e1ca06f7ff311d94689,CordScan – Telecommunications Scanning Utility
+/home/REDACTED/cordscan_raw_arm,cdf230a7e05c725a98ce95ad8f3e2155082d5a6b1e839c2b2653c3754f06c2e7,CordScan – Telecommunications Scanning Utility (ARM Architecture)
+/usr/lib/javacee,917495c2fd919d4d4baa2f8a3791bcfd58d605ee457a81feb52bc65eb706fd62,SIGTRANslator
+/usr/lib/sgsnemu /usr/bin/sgsnemu /usr/lib/sgsnemu_bak,bf5806cebc5d1a042f87abadf686fb623613ed33591df1a944b5e7879fb189c8 78c579319734a81c0e6d08f1b9ac59366229f1256a0b0d5661763f6931c3b63c b06f52e2179ec9334f8a3fe915d263180e538f7a2a5cb6ad8d60f045789123b6,SGSN Emulator
+/usr/lib/tshd,a388e2ac588be6ab73d7e7bbb61d83a5e3a1f80bf6a326f42b6b5095a2f35df3,TinyShell
+/home/REDACTED/win7_exp/proxychains.conf /usr/lib/win7_exp/proxychains.conf,N/A,ProxyChains Configuration
+/var/tmp/.font-unix,N/A,SLAPSTICK Credential Output File
+/usr/local/sbin/iptables,97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb,Trojanized Iptables
+/usr/sbin/iptablesDir/ /sbin/iptablesDir/,N/A,Threat Actor-created directories containing legitimate copies of iptables utilities following installation of trojanized version
+45.76.215.0/24,N/A,Vultr IP range used by LightBasin
+167.179.91.0/24,N/A,Vultr IP range used by LightBasin
+45.32.116.0/24,N/A,Vultr IP range used by LightBasin
+207.148.24.0/24,N/A,Vultr IP range used by LightBasin
+172.104.79.0/24,N/A,Linode IP range used by LightBasin
+45.33.77.0/24,N/A,Linode IP range used by LightBasin
+139.162.156.0/24,N/A,Linode IP range used by LightBasin
+172.104.236.0/24,N/A,Linode IP range used by LightBasin
+172.104.129.0/24,N/A,Linode IP range used by LightBasin
