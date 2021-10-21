@@ -1,1 +1,132 @@
-[{"Indicator": "/usr/local/sbin/iptables", "SHA256 Hashes": " 97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb", "Description": " Trojanized iptables binary that replaced legitimate version"}, {"Indicator": "/usr/bin/pingg", "SHA256 Hashes": "e9c0f00c34dcd28fc3cc53c9496bff863b81b06723145e106ab7016c66581f72 4668561d60daeb7a4a50a9c3e210a4343f92cadbf2d52caab5684440da6bf562", "Description": "PingPong Implant"}, {"Indicator": "/usr/lib/om_proc", "SHA256 Hashes": "3a259ad7e5c19a782f7736b5ac50aac4ba4d03b921ffc6a3ff6a48d720f02012 65143ccb5a955a22d6004033d073ecb49eba9227237a46929495246e36eff8e1", "Description": "Microsocks Proxy"}, {"Indicator": "/usr/lib/frpc", "SHA256 Hashes": "05537c1c4e29db76a24320fb7cb80b189860389cdb16a9dbeb0c8d30d9b37006 16294086be1cc853f75e864a405f31e2da621cb9d6a59f2a71a2fca4e268b6c2", "Description": "Fast Reverse Proxy"}, {"Indicator": "/usr/lib/frpc.ini", "SHA256 Hashes": null, "Description": "Fast Reverse Proxy Configuration"}, {"Indicator": "/usr/lib/cord.lib /usr/lib/libcord.so /usr/bin/libcord.so", "SHA256 Hashes": "6d3759b3621f3e4791ebcd28e6ea60ce7e64468df24cf6fddf8efb544ab5aec0 c5ddd616e127df91418aeaa595ac7cd266ffc99b2683332e0f112043796ede1d 9973edfef797db84cd17300b53a7a35d1207d166af9752b3f35c72b4df9a98bc 4480b58979cc913c27673b2f681335deb1627e9ba95073a941f4cd6d6bcd6181 ad9fef1b86b57a504cfa1cfbda2e2ac509750035bff54e1ca06f7ff311d94689", "Description": "CordScan – Telecommunications Scanning Utility"}, {"Indicator": "/home/REDACTED/cordscan_raw_arm", "SHA256 Hashes": "cdf230a7e05c725a98ce95ad8f3e2155082d5a6b1e839c2b2653c3754f06c2e7", "Description": "CordScan – Telecommunications Scanning Utility (ARM Architecture)"}, {"Indicator": "/usr/lib/javacee", "SHA256 Hashes": "917495c2fd919d4d4baa2f8a3791bcfd58d605ee457a81feb52bc65eb706fd62", "Description": "SIGTRANslator"}, {"Indicator": "/usr/lib/sgsnemu /usr/bin/sgsnemu /usr/lib/sgsnemu_bak", "SHA256 Hashes": "bf5806cebc5d1a042f87abadf686fb623613ed33591df1a944b5e7879fb189c8 78c579319734a81c0e6d08f1b9ac59366229f1256a0b0d5661763f6931c3b63c b06f52e2179ec9334f8a3fe915d263180e538f7a2a5cb6ad8d60f045789123b6", "Description": "SGSN Emulator"}, {"Indicator": "/usr/lib/tshd", "SHA256 Hashes": "a388e2ac588be6ab73d7e7bbb61d83a5e3a1f80bf6a326f42b6b5095a2f35df3", "Description": "TinyShell"}, {"Indicator": "/home/REDACTED/win7_exp/proxychains.conf /usr/lib/win7_exp/proxychains.conf", "SHA256 Hashes": null, "Description": "ProxyChains Configuration"}, {"Indicator": "/var/tmp/.font-unix", "SHA256 Hashes": null, "Description": "SLAPSTICK Credential Output File"}, {"Indicator": "/usr/local/sbin/iptables", "SHA256 Hashes": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb", "Description": "Trojanized Iptables"}, {"Indicator": "/usr/sbin/iptablesDir/ /sbin/iptablesDir/", "SHA256 Hashes": null, "Description": "Threat Actor-created directories containing legitimate copies of iptables utilities following installation of trojanized version"}, {"Indicator": "45.76.215.0/24", "SHA256 Hashes": null, "Description": "Vultr IP range used by LightBasin"}, {"Indicator": "167.179.91.0/24", "SHA256 Hashes": null, "Description": "Vultr IP range used by LightBasin"}, {"Indicator": "45.32.116.0/24", "SHA256 Hashes": null, "Description": "Vultr IP range used by LightBasin"}, {"Indicator": "207.148.24.0/24", "SHA256 Hashes": null, "Description": "Vultr IP range used by LightBasin"}, {"Indicator": "172.104.79.0/24", "SHA256 Hashes": null, "Description": "Linode IP range used by LightBasin"}, {"Indicator": "45.33.77.0/24", "SHA256 Hashes": null, "Description": "Linode IP range used by LightBasin"}, {"Indicator": "139.162.156.0/24", "SHA256 Hashes": null, "Description": "Linode IP range used by LightBasin"}, {"Indicator": "172.104.236.0/24", "SHA256 Hashes": null, "Description": "Linode IP range used by LightBasin"}, {"Indicator": "172.104.129.0/24", "SHA256 Hashes": null, "Description": "Linode IP range used by LightBasin"}]
+[
+    {
+        "/usr/local/sbin/iptables": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "/usr/bin/pingg": [
+            "e9c0f00c34dcd28fc3cc53c9496bff863b81b06723145e106ab7016c66581f72",
+            "4668561d60daeb7a4a50a9c3e210a4343f92cadbf2d52caab5684440da6bf562"
+        ]
+    },
+    {
+        "/usr/lib/om_proc": [
+            "3a259ad7e5c19a782f7736b5ac50aac4ba4d03b921ffc6a3ff6a48d720f02012",
+            "65143ccb5a955a22d6004033d073ecb49eba9227237a46929495246e36eff8e1"
+        ]
+    },
+    {
+        "/usr/lib/frpc": [
+            "05537c1c4e29db76a24320fb7cb80b189860389cdb16a9dbeb0c8d30d9b37006",
+            "16294086be1cc853f75e864a405f31e2da621cb9d6a59f2a71a2fca4e268b6c2"
+        ]
+    },
+    {
+        "/usr/lib/frpc.ini": [
+            "05537c1c4e29db76a24320fb7cb80b189860389cdb16a9dbeb0c8d30d9b37006",
+            "16294086be1cc853f75e864a405f31e2da621cb9d6a59f2a71a2fca4e268b6c2"
+        ]
+    },
+    {
+        "/usr/lib/cord.lib": [
+            "6d3759b3621f3e4791ebcd28e6ea60ce7e64468df24cf6fddf8efb544ab5aec0",
+            "c5ddd616e127df91418aeaa595ac7cd266ffc99b2683332e0f112043796ede1d",
+            "9973edfef797db84cd17300b53a7a35d1207d166af9752b3f35c72b4df9a98bc",
+            "4480b58979cc913c27673b2f681335deb1627e9ba95073a941f4cd6d6bcd6181",
+            "ad9fef1b86b57a504cfa1cfbda2e2ac509750035bff54e1ca06f7ff311d94689"
+        ]
+    },
+    {
+        "/usr/lib/libcord.so": [
+            "6d3759b3621f3e4791ebcd28e6ea60ce7e64468df24cf6fddf8efb544ab5aec0",
+            "c5ddd616e127df91418aeaa595ac7cd266ffc99b2683332e0f112043796ede1d",
+            "9973edfef797db84cd17300b53a7a35d1207d166af9752b3f35c72b4df9a98bc",
+            "4480b58979cc913c27673b2f681335deb1627e9ba95073a941f4cd6d6bcd6181",
+            "ad9fef1b86b57a504cfa1cfbda2e2ac509750035bff54e1ca06f7ff311d94689"
+        ]
+    },
+    {
+        "/usr/bin/libcord.so": [
+            "6d3759b3621f3e4791ebcd28e6ea60ce7e64468df24cf6fddf8efb544ab5aec0",
+            "c5ddd616e127df91418aeaa595ac7cd266ffc99b2683332e0f112043796ede1d",
+            "9973edfef797db84cd17300b53a7a35d1207d166af9752b3f35c72b4df9a98bc",
+            "4480b58979cc913c27673b2f681335deb1627e9ba95073a941f4cd6d6bcd6181",
+            "ad9fef1b86b57a504cfa1cfbda2e2ac509750035bff54e1ca06f7ff311d94689"
+        ]
+    },
+    {
+        "/home/REDACTED/cordscan_raw_arm": "cdf230a7e05c725a98ce95ad8f3e2155082d5a6b1e839c2b2653c3754f06c2e7"
+    },
+    {
+        "/usr/lib/javacee": "917495c2fd919d4d4baa2f8a3791bcfd58d605ee457a81feb52bc65eb706fd62"
+    },
+    {
+        "/usr/lib/sgsnemu": [
+            "bf5806cebc5d1a042f87abadf686fb623613ed33591df1a944b5e7879fb189c8",
+            "78c579319734a81c0e6d08f1b9ac59366229f1256a0b0d5661763f6931c3b63c",
+            "b06f52e2179ec9334f8a3fe915d263180e538f7a2a5cb6ad8d60f045789123b6"
+        ]
+    },
+    {
+        "/usr/bin/sgsnemu": [
+            "bf5806cebc5d1a042f87abadf686fb623613ed33591df1a944b5e7879fb189c8",
+            "78c579319734a81c0e6d08f1b9ac59366229f1256a0b0d5661763f6931c3b63c",
+            "b06f52e2179ec9334f8a3fe915d263180e538f7a2a5cb6ad8d60f045789123b6"
+        ]
+    },
+    {
+        "/usr/lib/sgsnemu_bak": [
+            "bf5806cebc5d1a042f87abadf686fb623613ed33591df1a944b5e7879fb189c8",
+            "78c579319734a81c0e6d08f1b9ac59366229f1256a0b0d5661763f6931c3b63c",
+            "b06f52e2179ec9334f8a3fe915d263180e538f7a2a5cb6ad8d60f045789123b6"
+        ]
+    },
+    {
+        "/usr/lib/tshd": "a388e2ac588be6ab73d7e7bbb61d83a5e3a1f80bf6a326f42b6b5095a2f35df3"
+    },
+    {
+        "/home/REDACTED/win7_exp/proxychains.conf": "a388e2ac588be6ab73d7e7bbb61d83a5e3a1f80bf6a326f42b6b5095a2f35df3"
+    },
+    {
+        "/usr/lib/win7_exp/proxychains.conf": "a388e2ac588be6ab73d7e7bbb61d83a5e3a1f80bf6a326f42b6b5095a2f35df3"
+    },
+    {
+        "/var/tmp/.font-unix": "a388e2ac588be6ab73d7e7bbb61d83a5e3a1f80bf6a326f42b6b5095a2f35df3"
+    },
+    {
+        "/usr/local/sbin/iptables": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "/usr/sbin/iptablesDir/": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "/sbin/iptablesDir/": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "45.76.215.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "167.179.91.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "45.32.116.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "207.148.24.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "172.104.79.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "45.33.77.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "139.162.156.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "172.104.236.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    },
+    {
+        "172.104.129.0/24": "97d4c9b5750d614face73d11ba8532e53594332af53f4c07c1543195225b76eb"
+    }
+]
+
