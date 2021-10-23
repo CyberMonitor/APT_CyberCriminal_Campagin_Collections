@@ -1363,6 +1363,10 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ### Sophos
 :small_orange_diamond: Nov 18 2020 - [[Sophos] SOPHOS 2021 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophos-2021-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/Sophos/sophos-2021-threat-report.pdf) <br>
 :small_orange_diamond: Dec 02 2019 - [[Sophos] SOPHOS 2020 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-uncut-2020-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/Sophos/sophoslabs-uncut-2020-threat-report.pdf) <br>
+### 360
+:small_orange_diamond: Oct xx 2021 - [[360] Global APT Research Report for the first half of 2021](https://github.com/blackorbird/APT_REPORT/blob/master/summary/2021/Global%20APT%20Research%20Report%20for%20the%20first%20half%20of%202021-360.pdf)  | [:closed_book:](../../blob/master/Report/360/Global_APT_Research_Report_for_the_first_half_of_2021-360.pdf) <br>
+### Microsoft
+:small_orange_diamond: Oct xx 2021 - [[Microsoft] Microsoft Digital Defense Report October 2021](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)  | [:closed_book:](../../blob/master/Report/Microsoft/FY21_Microsoft_Digital_Defense_Report.pdf) <br>
 ### Other
 :small_orange_diamond: Nov 18 2020 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
 :small_orange_diamond: Nov 04 2020 - [[WEF] Partnership against
