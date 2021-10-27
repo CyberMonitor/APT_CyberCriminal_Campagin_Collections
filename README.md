@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Oct 26 - [[JPCERT] Malware WinDealer used by LuoYu Attack Group](https://blogs.jpcert.or.jp/en/2021/10/windealer.html) | [:closed_book:](../../blob/master/2021/2021.10.26.WinDealer_LuoYu_Group)
 * Oct 19 - [[Proofpoint] Whatta TA: TA505 Ramps Up Activity, Delivers New FlawedGrace Variant](https://www.proofpoint.com/us/blog/threat-insight/whatta-ta-ta505-ramps-activity-delivers-new-flawedgrace-variant) | [:closed_book:](../../blob/master/2021/2021.10.19.TA505_New_FlawedGrace)
 * Oct 19 - [[Trend Micro] PurpleFox Adds New Backdoor That Uses WebSockets](https://www.trendmicro.com/en_us/research/21/j/purplefox-adds-new-backdoor-that-uses-websockets.html) | [:closed_book:](../../blob/master/2021/2021.10.19.PurpleFox)
 * Oct 18 - [[Symantec] Harvester: Nation-state-backed group uses new toolset to target victims in South Asia](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/harvester-new-apt-attacks-asia) | [:closed_book:](../../blob/master/2021/2021.10.18.Harvester_South_Asia)
