@@ -29,6 +29,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2021
 * Oct 19 - [[CrowdStrike] LightBasin: A Roaming Threat to Telecommunications Companies](https://www.crowdstrike.com/blog/an-analysis-of-lightbasin-telecommunications-attacks/) | [:closed_book:](../../blob/master/2021/021.10.19.UNC1945_LightBasin)
+* Oct 26 - [[JPCERT] Malware WinDealer used by LuoYu Attack Group](https://blogs.jpcert.or.jp/en/2021/10/windealer.html) | [:closed_book:](../../blob/master/2021/2021.10.26.WinDealer_LuoYu_Group)
 * Oct 19 - [[Proofpoint] Whatta TA: TA505 Ramps Up Activity, Delivers New FlawedGrace Variant](https://www.proofpoint.com/us/blog/threat-insight/whatta-ta-ta505-ramps-activity-delivers-new-flawedgrace-variant) | [:closed_book:](../../blob/master/2021/2021.10.19.TA505_New_FlawedGrace)
 * Oct 19 - [[Trend Micro] PurpleFox Adds New Backdoor That Uses WebSockets](https://www.trendmicro.com/en_us/research/21/j/purplefox-adds-new-backdoor-that-uses-websockets.html) | [:closed_book:](../../blob/master/2021/2021.10.19.PurpleFox)
 * Oct 18 - [[Symantec] Harvester: Nation-state-backed group uses new toolset to target victims in South Asia](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/harvester-new-apt-attacks-asia) | [:closed_book:](../../blob/master/2021/2021.10.18.Harvester_South_Asia)
@@ -90,6 +91,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Apr 08 - [[CheckPoint] Iran’s APT34 Returns with an Updated Arsenal](https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/) | [:closed_book:](../../blob/master/2021/2021.04.08.APT34_Returns)
 * Apr 08 - [[ESET] (Are you) afreight of the dark? Watch out for Vyveva, new Lazarus backdoor](https://www.welivesecurity.com/2021/04/08/are-you-afreight-dark-watch-out-vyveva-new-lazarus-backdoor/) | [:closed_book:](../../blob/master/2021/2021.04.08.Vyveva_Lazarus)
 * Apr 07 - [[CISCO] Sowing Discord: Reaping the benefits of collaboration app abuse](https://blog.talosintelligence.com/2021/04/collab-app-abuse.html) | [:closed_book:](../../blob/master/2021/2021.04.07.Sowing_Discord)
+* Apr 06 - [[Cado Security] Threat Group Uses Voice Changing Software in Espionage Attempt](https://www.cadosecurity.com/threat-group-uses-voice-changing-software-in-espionage-attempt/)| [:closed_book:](../../blob/master/2021/2021.04.06.APT-C-23_Voice_Changing)
 * Mar XX - [[CSET] Academics, AI, and APTs](https://cset.georgetown.edu/wp-content/uploads/CSET-Academics-AI-and-APTs.pdf) | [:closed_book:](../../blob/master/2021/2021.03.XX.Academics_AI_APTs)
 * Mar 30 - [[Kaspersky] APT10: sophisticated multi-layered loader Ecipekac discovered in A41APT campaign](https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/) | [:closed_book:](../../blob/master/2021/2021.03.30.APT10)
 * Mar 30 - [[proofpoint] BadBlood: TA453 Targets US and Israeli Medical Research Personnel in Credential Phishing Campaigns](https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential) | [:closed_book:](../../blob/master/2021/2021.03.30.BadBlood_TA453)
@@ -1364,6 +1366,10 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ### Sophos
 :small_orange_diamond: Nov 18 2020 - [[Sophos] SOPHOS 2021 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophos-2021-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/Sophos/sophos-2021-threat-report.pdf) <br>
 :small_orange_diamond: Dec 02 2019 - [[Sophos] SOPHOS 2020 THREAT REPORT](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-uncut-2020-threat-report.pdf)  | [:closed_book:](../../blob/master/Report/Sophos/sophoslabs-uncut-2020-threat-report.pdf) <br>
+### 360
+:small_orange_diamond: Oct xx 2021 - [[360] Global APT Research Report for the first half of 2021](https://github.com/blackorbird/APT_REPORT/blob/master/summary/2021/Global%20APT%20Research%20Report%20for%20the%20first%20half%20of%202021-360.pdf)  | [:closed_book:](../../blob/master/Report/360/Global_APT_Research_Report_for_the_first_half_of_2021-360.pdf) <br>
+### Microsoft
+:small_orange_diamond: Oct xx 2021 - [[Microsoft] Microsoft Digital Defense Report October 2021](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)  | [:closed_book:](../../blob/master/Report/Microsoft/FY21_Microsoft_Digital_Defense_Report.pdf) <br>
 ### Other
 :small_orange_diamond: Nov 18 2020 - [[KELA] Zooming into Darknet Threats Targeting Japanese Organizations](https://ke-la.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/) | [:closed_book:](../../blob/master/Report/2020.11.18_Zooming_into_Darknet_Threats_Targeting_Japanese_Organizations/) <br>
 :small_orange_diamond: Nov 04 2020 - [[WEF] Partnership against
