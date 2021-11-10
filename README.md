@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Nov 08 - [[NCCGroup] TA505 exploits SolarWinds Serv-U vulnerability (CVE-2021-35211) for initial access](https://research.nccgroup.com/2021/11/08/ta505-exploits-solarwinds-serv-u-vulnerability-cve-2021-35211-for-initial-access/) | [:closed_book:](../../blob/master/2021/2021.11.08.TA505_SolarWinds)
 * Nov 04 - [[SSU] Gamaredon Armageddon Group](https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf) | [:closed_book:](../../blob/master/2021/2021.11.04.Gamaredon_Armageddon_Group)
 * Oct 19 - [[CrowdStrike] LightBasin: A Roaming Threat to Telecommunications Companies](https://www.crowdstrike.com/blog/an-analysis-of-lightbasin-telecommunications-attacks/) | [:closed_book:](../../blob/master/2021/2021.10.19.UNC1945_LightBasin)
 * Oct 26 - [[JPCERT] Malware WinDealer used by LuoYu Attack Group](https://blogs.jpcert.or.jp/en/2021/10/windealer.html) | [:closed_book:](../../blob/master/2021/2021.10.26.WinDealer_LuoYu_Group)
