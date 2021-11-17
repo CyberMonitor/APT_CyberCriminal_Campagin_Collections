@@ -28,6 +28,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Nov 16 - [[ESET] Strategic web compromises in the Middle East with a pinch of Candiru](https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/) | [:closed_book:](../../blob/master/2021/2021.11.16.Pinch_of_Candiru)
+* Nov 11 - [[Google] Analyzing a watering hole campaign using macOS exploits](https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/) | [:closed_book:](../../blob/master/2021/2021.11.11.watering_hole_macOS_exploits)
 * Nov 08 - [[NCCGroup] TA505 exploits SolarWinds Serv-U vulnerability (CVE-2021-35211) for initial access](https://research.nccgroup.com/2021/11/08/ta505-exploits-solarwinds-serv-u-vulnerability-cve-2021-35211-for-initial-access/) | [:closed_book:](../../blob/master/2021/2021.11.08.TA505_SolarWinds)
 * Nov 04 - [[SSU] Gamaredon Armageddon Group](https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf) | [:closed_book:](../../blob/master/2021/2021.11.04.Gamaredon_Armageddon_Group)
 * Oct 19 - [[CrowdStrike] LightBasin: A Roaming Threat to Telecommunications Companies](https://www.crowdstrike.com/blog/an-analysis-of-lightbasin-telecommunications-attacks/) | [:closed_book:](../../blob/master/2021/2021.10.19.UNC1945_LightBasin)
