@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2021
+* Dec 11 - [[ESET] Jumping the air gap: 15 years of nation-state effort](https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf) | [:closed_book:](../../blob/master/2021/2021.12.11.Jumping_the_air_gap)
 * Nov 16 - [[ESET] Strategic web compromises in the Middle East with a pinch of Candiru](https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/) | [:closed_book:](../../blob/master/2021/2021.11.16.Pinch_of_Candiru)
 * Nov 11 - [[Google] Analyzing a watering hole campaign using macOS exploits](https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/) | [:closed_book:](../../blob/master/2021/2021.11.11.watering_hole_macOS_exploits)
 * Nov 08 - [[NCCGroup] TA505 exploits SolarWinds Serv-U vulnerability (CVE-2021-35211) for initial access](https://research.nccgroup.com/2021/11/08/ta505-exploits-solarwinds-serv-u-vulnerability-cve-2021-35211-for-initial-access/) | [:closed_book:](../../blob/master/2021/2021.11.08.TA505_SolarWinds)
