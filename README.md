@@ -31,6 +31,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jan 07 - [[MalwareBytes] Patchwork APT caught in its own web
 ](https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/) | [:closed_book:](../../blob/master/2022/2022.01.07_Patchwork_APT_India)
 * Jan 05 - [[Sygnia] ELEPHANT BEETLE: UNCOVERING AN ORGANIZED FINANCIAL-THEFT OPERATION](https://blog.sygnia.co/elephant-beetle-an-organized-financial-theft-operation) | [:closed_book:](../../blob/master/2022/2022.01.05.Elephant_Beetle)
+* Jan 03 - [[Cluster25] North Korean Group “KONNI” Targets The Russian Diplomatic Sector With New Versions Of Malware Implants](https://cluster25.io/2022/01/03/konni-targets-the-russian-diplomatic-sector/) | [:closed_book:](../../blob/master/2022/2022.01.03.KONNI_Targets_Russian_Diplomatic)
+
+
 
 ## 2021
 * Dec 16 - [[Zscaler] New DarkHotel APT attack chain identified](https://www.zscaler.com/blogs/security-research/new-darkhotel-apt-attack-chain-identified) | [:closed_book:](../../blob/master/2021/2021.12.16.New_DarkHotel_APT)
