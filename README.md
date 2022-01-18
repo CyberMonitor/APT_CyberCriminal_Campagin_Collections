@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Jan 17 - [[Trend Micro] ](https://www.trendmicro.com/en_us/research/22/a/earth-lusca-sophisticated-infrastructure-varied-tools-and-techni.html) | [:closed_book:](../../blob/master/2022/2022.01.17_Earth_Lucsa)
 * Jan 07 - [[MalwareBytes] Patchwork APT caught in its own web
 ](https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/) | [:closed_book:](../../blob/master/2022/2022.01.07_Patchwork_APT_India)
 * Jan 05 - [[Sygnia] ELEPHANT BEETLE: UNCOVERING AN ORGANIZED FINANCIAL-THEFT OPERATION](https://blog.sygnia.co/elephant-beetle-an-organized-financial-theft-operation) | [:closed_book:](../../blob/master/2022/2022.01.05.Elephant_Beetle)
