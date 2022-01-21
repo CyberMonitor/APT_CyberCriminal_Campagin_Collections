@@ -29,9 +29,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2022
 * Jan 20 - [[Kaspersky] MoonBounce: the dark side of UEFI firmware](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/) | [:closed_book:](../../blob/master/2022/2022.01.20.MoonBounce)
-* Jan 17 - [[Trend Micro] Earth Lusca Employs Sophisticated Infrastructure, Varied Tools and Techniques](https://www.trendmicro.com/en_us/research/22/a/earth-lusca-sophisticated-infrastructure-varied-tools-and-techni.html) | [:closed_book:](../../blob/master/2022/2022.01.17_Earth_Lucsa)
+* Jan 17 - [[Trend Micro] Earth Lusca Employs Sophisticated Infrastructure, Varied Tools and Techniques](https://www.trendmicro.com/en_us/research/22/a/earth-lusca-sophisticated-infrastructure-varied-tools-and-techni.html) | [:closed_book:](../../blob/master/2022/2022.01.17.Earth_Lucsa)
 * Jan 07 - [[MalwareBytes] Patchwork APT caught in its own web
-](https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/) | [:closed_book:](../../blob/master/2022/2022.01.07_Patchwork_APT_India)
+](https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/) | [:closed_book:](../../blob/master/2022/2022.01.07.Patchwork_APT_India)
 * Jan 05 - [[Sygnia] ELEPHANT BEETLE: UNCOVERING AN ORGANIZED FINANCIAL-THEFT OPERATION](https://blog.sygnia.co/elephant-beetle-an-organized-financial-theft-operation) | [:closed_book:](../../blob/master/2022/2022.01.05.Elephant_Beetle)
 * Jan 03 - [[Cluster25] North Korean Group “KONNI” Targets The Russian Diplomatic Sector With New Versions Of Malware Implants](https://cluster25.io/2022/01/03/konni-targets-the-russian-diplomatic-sector/) | [:closed_book:](../../blob/master/2022/2022.01.03.KONNI_Targets_Russian_Diplomatic)
 
