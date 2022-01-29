@@ -1,0 +1,12 @@
+Indicator,Type,Description
+http://satkas.waw[.]pl/rainloop/forecast,C2,TrailBlazer
+1326932d63485e299ba8e03bfcd23057f7897c3ae0d26ed1235c4fb108adb105,SHA256,TrailBlazer
+vm-srv-1.gel.ulaval.ca,C2,GoldMax
+2a3b660e19b56dad92ba45dd164d300e9bd9c3b17736004878f45ee23a0177ac,SHA256,GoldMax
+156.96.46.116,TA Infrastructure,
+188.34.185.85,TA Infrastructure,
+212.103.61.74,TA Infrastructure,
+192.154.224.126,TA Infrastructure,
+23.29.115.180,TA Infrastructure,
+104.237.218.74,TA Infrastructure,
+23.82.128.144,TA Infrastructure,
