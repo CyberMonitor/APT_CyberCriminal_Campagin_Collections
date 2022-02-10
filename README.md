@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Jan 27 - [[CrowdStrike] Early Bird Catches the Wormhole: Observations from the StellarParticle Campaign](https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/) | [:closed_book:](../../blob/master/2022/2022.01.27.APT29_StellarParticle)
 * Jan 25 - [[Trellix] Prime Minister’s Office Compromised: Details of Recent Espionage Campaign](https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/prime-ministers-office-compromised.html) | [:closed_book:](../../blob/master/2022/2022.01.25.Prime_Minister_Compromised)
 * Jan 20 - [[Kaspersky] MoonBounce: the dark side of UEFI firmware](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/) | [:closed_book:](../../blob/master/2022/2022.01.20.MoonBounce)
 * Jan 17 - [[Trend Micro] Earth Lusca Employs Sophisticated Infrastructure, Varied Tools and Techniques](https://www.trendmicro.com/en_us/research/22/a/earth-lusca-sophisticated-infrastructure-varied-tools-and-techni.html) | [:closed_book:](../../blob/master/2022/2022.01.17.Earth_Lucsa)
