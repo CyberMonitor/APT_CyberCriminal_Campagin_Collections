@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Jan 31 - [[CISCO] Iranian APT MuddyWater targets Turkish users via malicious PDFs, executables](https://blog.talosintelligence.com/2022/01/iranian-apt-muddywater-targets-turkey.html)| [:closed_book:](../../blob/master/2022/2022.01.31.MuddyWater_Turkish)
 * Jan 31 - [[Symantec] Shuckworm Continues Cyber-Espionage Attacks Against Ukraine](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) | [:closed_book:](../../blob/master/2022/2022.01.31.Shuckworm_APT)
 * Jan 27 - [[MalwareBytes] North Korea’s Lazarus APT leverages Windows Update client, GitHub in latest campaign](https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/) | [:closed_book:](../../blob/master/2022/2022.01.27.Lazarus_APT)
 * Jan 27 - [[CrowdStrike] Early Bird Catches the Wormhole: Observations from the StellarParticle Campaign](https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/) | [:closed_book:](../../blob/master/2022/2022.01.27.APT29_StellarParticle)
