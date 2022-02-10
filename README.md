@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Jan 31 - [[Symantec] Shuckworm Continues Cyber-Espionage Attacks Against Ukraine](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) | [:closed_book:](../../blob/master/2022/2022.01.31.Shuckworm_APT)
 * Jan 27 - [[MalwareBytes] North Korea’s Lazarus APT leverages Windows Update client, GitHub in latest campaign](https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/) | [:closed_book:](../../blob/master/2022/2022.01.27.Lazarus_APT)
 * Jan 27 - [[CrowdStrike] Early Bird Catches the Wormhole: Observations from the StellarParticle Campaign](https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/) | [:closed_book:](../../blob/master/2022/2022.01.27.APT29_StellarParticle)
 * Jan 25 - [[Trellix] Prime Minister’s Office Compromised: Details of Recent Espionage Campaign](https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/prime-ministers-office-compromised.html) | [:closed_book:](../../blob/master/2022/2022.01.25.Prime_Minister_Compromised)
