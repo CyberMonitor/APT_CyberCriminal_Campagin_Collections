@@ -28,6 +28,12 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Apr 06 - [[Recorded Future] Continued Targeting of Indian Power Grid Assets by Chinese State-Sponsored Activity Group](https://www.recordedfuture.com/continued-targeting-of-indian-power-grid-assets/) | [:closed_book:](../../blob/master/2022/2022.04.06.Targeting_of_Indian_Power_Grid)
+* Mar 30 - [[Fortinet] New Milestones for Deep Panda: Log4Shell and Digitally Signed Fire Chili Rootkits](https://www.fortinet.com/blog/threat-research/deep-panda-log4shell-fire-chili-rootkits) | [:closed_book:](../../blob/master/2022/2022.03.30.Deep_Panda_New_Milestones)
+* Mar 23 - [[Dr.Web] Study of an APT attack on a telecommunications company in Kazakhstan](https://st.drweb.com/static/new-www/news/2022/march/telecom_research_en.pdf) | [:closed_book:](../../blob/master/2022/2022.03.23.Kazakhstan_APT)
+* Mar 23 - [[ESET] Mustang Panda’s Hodur: Old tricks, new Korplug variant](https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-korplug-variant/) | [:closed_book:](../../blob/master/2022/2022.03.23.Mustang_Panda)
+* Mar 07 - [[proofpoint] The Good, the Bad, and the Web Bug: TA416 Increases Operational Tempo Against European Governments as Conflict in Ukraine Escalates](https://www.proofpoint.com/us/blog/threat-insight/good-bad-and-web-bug-ta416-increases-operational-tempo-against-european) | [:closed_book:](../../blob/master/2022/2022.03.07.TA416)
+* Mar 01 - [[proofpoint] Asylum Ambuscade: State Actor Uses Compromised Private Ukrainian Military Emails to Target European Governments and Refugee Movement](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) | [:closed_book:](../../blob/master/2022/2022.03.01.Asylum_Ambuscade)
 * Feb 23 - [[Pangulab] Bvp47:Top-tier Backdoor of US NSA Equation Group](https://www.pangulab.cn/files/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.en.pdf) | [:closed_book:](../../blob/master/2022/2022.02.23.Bvp47)
 * Feb 23 - [[Mandiant] (Ex)Change of Pace: UNC2596 Observed Leveraging Vulnerabilities to Deploy Cuba Ransomware ](https://www.mandiant.com/resources/unc2596-cuba-ransomware) | [:closed_book:](../../blob/master/2022/2022.02.23.UNC2596)
 * Feb 15 - [[Dell] ShadowPad Malware Analysis](https://www.secureworks.com/research/shadowpad-malware-analysis) | [:closed_book:](../../blob/master/2022/2022.02.15_ShadowPad)
@@ -254,6 +260,7 @@ Focus: Kimsuky](https://us-cert.cisa.gov/sites/default/files/publications/TLP-WH
 * Aug 03 - [[CISA] MAR-10292089-1.v2 – Chinese Remote Access Trojan: TAIDOOR](https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a) | [:closed_book:](../../blob/master/2020/2020.08.03.TAIDOOR)
 * Jul 29 - [[McAfee] Operation North Star:  A Job Offer That’s Too Good to be True?](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/) | [:closed_book:](../../blob/master/2020/2020.07.29.Operation_North_Star)
 * Jul 28 - [[Group-IB] JOLLY ROGER’S PATRONS](https://www.group-ib.com/resources/threat-research/black-jack.html) | [:closed_book:](../../blob/master/2020/2020.07.28.black-jack)
+* Jul 28 - [[Recorded Future] Chinese State-Sponsored Group ‘RedDelta’ Targets the Vatican and Catholic Organizations](https://www.recordedfuture.com/reddelta-targets-catholic-organizations/) | [:closed_book:](../../blob/master/2020/2020.07.28.RedDelta_APT)
 * Jul 22 - [[Palo Alto Network] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/) | [:closed_book:](../../blob/master/2020/2020.07.22.OilRig_Middle_Eastern_Telecommunication)
 * Jul 22 - [[Kaspersky] MATA: Multi-platform targeted malware framework](https://securelist.com/mata-multi-platform-targeted-malware-framework/97746/) | [:closed_book:](../../blob/master/2020/2020.07.22_MATA_APT)
 * Jul 20 - [[Dr.Web] Study of the APT attacks on state institutions in Kazakhstan and Kyrgyzstan](https://st.drweb.com/static/new-www/news/2020/july/Study_of_the_APT_attacks_on_state_institutions_in_Kazakhstan_and_Kyrgyzstan_en.pdf) | [:closed_book:](../../blob/master/2020/2020.07.20.APT_attacks_Kazakhstan_Kyrgyzstan)
@@ -1346,8 +1353,11 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ### NSA
 :small_orange_diamond: Jan 08 2021 - [[NSA] 2020 Cybersecurity Year in Review report](https://media.defense.gov/2021/Jan/08/2002561651/-1/-1/0/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF) | [:closed_book:](../../blob/master/Report/NSA/NSA_CYBERSECURITY_2020_YEAR_IN_REVIEW.PDF)<br>
 ### Objective-See
+:small_orange_diamond: Jan 01 2022 - [[Objective-See] The Mac Malware of 2021](https://objective-see.com/downloads/MacMalware_2021.pdf) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2021.pdf)<br>
 :small_orange_diamond: Jan 04 2021 - [[Objective-See] The Mac Malware of 2020](https://objective-see.com/downloads/MacMalware_2020.pdf/) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2020.pdf)<br>
 ### ESET
+:small_orange_diamond: Feb 09 2022 - [[ESET] ESET Threat Report T3 2021](https://www.welivesecurity.com/2022/02/09/eset-threat-report-t32021/) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t32021.odf)<br>
+:small_orange_diamond: Sep 30 2021 - [[ESET] ESET Threat Report T2 2021](https://www.welivesecurity.com/2021/09/30/eset-threat-report-t22021/) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t22021.pdf)<br>
 :small_orange_diamond: Jun 03 2021 - [[ESET] ESET Threat Report T1 2021](https://www.welivesecurity.com/2021/06/03/eset-threat-report-t12021/) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t12021.pdf)<br>
 :small_orange_diamond: Oct 18 2020 - [[ESET] 2020 Q3 Threat Report](https://www.welivesecurity.com/2020/10/28/eset-threat-report-q32020/) | [:closed_book:](../../blob/master/Report/ESET/ESET_Threat_Report_Q32020.pdf)<br>
 :small_orange_diamond: Jul 29 2020 - [[ESET] 2020 Q2 Threat Report](https://www.welivesecurity.com/2020/07/29/eset-threat-report-q22020/) | [:closed_book:](../../blob/master/Report/ESET/ESET_Threat_Report_Q22020.pdf) <br>
