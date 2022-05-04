@@ -1365,6 +1365,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Jul 29 2020 - [[ESET] 2020 Q2 Threat Report](https://www.welivesecurity.com/2020/07/29/eset-threat-report-q22020/) | [:closed_book:](../../blob/master/Report/ESET/ESET_Threat_Report_Q22020.pdf) <br>
 :small_orange_diamond: Apr 2020 - [[ESET] 2020 Q1 Threat Report](https://www.welivesecurity.com/wp-content/uploads/2020/04/ESET_Threat_Report_Q12020.pdf) | [:closed_book:](../../blob/master/Report/ESET/ESET_Threat_Report_Q12020.pdf) <br>
 ### Kaspersky
+:small_orange_diamond: Apr 27 2022 - [[Kaspersky] APT trends report Q2 2022](https://securelist.com/apt-trends-report-q1-2022/106351/) | [:closed_book:](../../blob/master/Report/Kaspersky/APT_trends_report_Q2_2022_Securelist.pdf) <br>
 :small_orange_diamond: Jul 29 2021 - [[Kaspersky] APT trends report Q2 2021](https://securelist.com/apt-trends-report-q2-2021/103517/) | [:closed_book:](../../blob/master/Report/Kaspersky/APT_trends_report_Q2_2021_Securelist.pdf) <br>
 :small_orange_diamond: Apr 27 2021 - [[Kaspersky] APT trends report Q1 2021](https://securelist.com/apt-trends-report-q1-2021/101967/) | [:closed_book:](../../blob/master/Report/Kaspersky/APT_trends_report_Q1_2021_Securelist.pdf) <br>
 :small_orange_diamond: Nov 04 2020 - [[Kaspersky] APT trends report Q3 2020](https://securelist.com/apt-trends-report-q3-2020/99204/) | [:closed_book:](../../blob/master/Report/Kaspersky/APT_trends_report_Q3_2020_Securelist.pdf) <br>
