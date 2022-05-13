@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* May 02 - [[Mandiant] UNC3524: Eye Spy on Your Email](https://www.mandiant.com/resources/unc3524-eye-spy-email) | [:closed_book:](../../blob/master/2022/2022.05.02.UNC3524)
 * Apr 06 - [[Recorded Future] Continued Targeting of Indian Power Grid Assets by Chinese State-Sponsored Activity Group](https://www.recordedfuture.com/continued-targeting-of-indian-power-grid-assets/) | [:closed_book:](../../blob/master/2022/2022.04.06.Targeting_of_Indian_Power_Grid)
 * Mar 30 - [[Fortinet] New Milestones for Deep Panda: Log4Shell and Digitally Signed Fire Chili Rootkits](https://www.fortinet.com/blog/threat-research/deep-panda-log4shell-fire-chili-rootkits) | [:closed_book:](../../blob/master/2022/2022.03.30.Deep_Panda_New_Milestones)
 * Mar 23 - [[Dr.Web] Study of an APT attack on a telecommunications company in Kazakhstan](https://st.drweb.com/static/new-www/news/2022/march/telecom_research_en.pdf) | [:closed_book:](../../blob/master/2022/2022.03.23.Kazakhstan_APT)
