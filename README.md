@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* May 11 - [[CISCO] Bitter APT adds Bangladesh to their targets](https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html) | [:closed_book:](../../blob/master/2022/2022.05.11.Bitter_APT_Bangladesh)
 * May 05 - [[CISCO] Mustang Panda deploys a new wave of malware targeting Europe](https://blog.talosintelligence.com/2022/05/mustang-panda-targets-europe.html) | [:closed_book:](../../blob/master/2022/2022.05.05.Mustang_Panda_Europe)
 * May 02 - [[Mandiant] UNC3524: Eye Spy on Your Email](https://www.mandiant.com/resources/unc3524-eye-spy-email) | [:closed_book:](../../blob/master/2022/2022.05.02.UNC3524)
 * Apr 06 - [[Recorded Future] Continued Targeting of Indian Power Grid Assets by Chinese State-Sponsored Activity Group](https://www.recordedfuture.com/continued-targeting-of-indian-power-grid-assets/) | [:closed_book:](../../blob/master/2022/2022.04.06.Targeting_of_Indian_Power_Grid)
