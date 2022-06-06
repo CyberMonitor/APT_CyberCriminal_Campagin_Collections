@@ -28,6 +28,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Jun 02 - [[Kaspersky] WinDealer malware shows extremely sophisticated network abilities](https://securelist.com/windealer-dealing-on-the-side/105946/) | [:closed_book:](../../blob/master/2022/2022.06.02.WinDealer)
+* May 19 - [[CheckPoint] Twisted Panda: Chinese APT espionage operation against Russian’s state-owned defense institutes](https://research.checkpoint.com/2022/twisted-panda-chinese-apt-espionage-operation-against-russians-state-owned-defense-institutes/) | [:closed_book:](../../blob/master/2022/2022.05.19.Twisted_Panda)
 * May 11 - [[CISCO] Bitter APT adds Bangladesh to their targets](https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html) | [:closed_book:](../../blob/master/2022/2022.05.11.Bitter_APT_Bangladesh)
 * May 05 - [[CISCO] Mustang Panda deploys a new wave of malware targeting Europe](https://blog.talosintelligence.com/2022/05/mustang-panda-targets-europe.html) | [:closed_book:](../../blob/master/2022/2022.05.05.Mustang_Panda_Europe)
 * May 02 - [[Mandiant] UNC3524: Eye Spy on Your Email](https://www.mandiant.com/resources/unc3524-eye-spy-email) | [:closed_book:](../../blob/master/2022/2022.05.02.UNC3524)
@@ -1363,6 +1365,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 :small_orange_diamond: Jan 01 2022 - [[Objective-See] The Mac Malware of 2021](https://objective-see.com/downloads/MacMalware_2021.pdf) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2021.pdf)<br>
 :small_orange_diamond: Jan 04 2021 - [[Objective-See] The Mac Malware of 2020](https://objective-see.com/downloads/MacMalware_2020.pdf/) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2020.pdf)<br>
 ### ESET
+:small_orange_diamond: Jun 2022 - [[ESET] ESET Threat Report T1 2022](https://www.welivesecurity.com/wp-content/uploads/2022/06/eset_threat_report_t12022.pdf) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t12022.pdf)<br>
 :small_orange_diamond: Feb 09 2022 - [[ESET] ESET Threat Report T3 2021](https://www.welivesecurity.com/2022/02/09/eset-threat-report-t32021/) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t32021.odf)<br>
 :small_orange_diamond: Sep 30 2021 - [[ESET] ESET Threat Report T2 2021](https://www.welivesecurity.com/2021/09/30/eset-threat-report-t22021/) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t22021.pdf)<br>
 :small_orange_diamond: Jun 03 2021 - [[ESET] ESET Threat Report T1 2021](https://www.welivesecurity.com/2021/06/03/eset-threat-report-t12021/) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t12021.pdf)<br>
