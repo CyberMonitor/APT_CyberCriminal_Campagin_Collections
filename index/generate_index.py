@@ -7,7 +7,7 @@ import hashlib
 import PyPDF2
 import ntpath
 
-from PyPDF2.utils import PdfReadError
+from PyPDF2.errors import PdfReadError
 from urllib.parse import quote
 from datetime import datetime
 
