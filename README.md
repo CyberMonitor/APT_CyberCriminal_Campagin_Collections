@@ -28,7 +28,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
-* Jun 27 -- [[Kaspersky] Attacks on industrial control systems using ShadowPad](https://ics-cert.kaspersky.com/publications/reports/2022/06/27/attacks-on-industrial-control-systems-using-shadowpad/) | [:closed_book:](../../blob/master/2022/2022.06.27.ShadowPad_ICS)
+* Jul 26 - [[PWC] Old cat, new tricks, bad habits An analysis of Charming Kitten’s new tools and OPSEC errors](https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/old-cat-new-tricks.html) | [:closed_book:](../../blob/master/2022/2022.07.26.Charming_Kitten_APT)
+* Jul 25 - [[Kaspersky] CosmicStrand: the discovery of a sophisticated UEFI firmware rootkit](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/) | [:closed_book:](../../blob/master/2022/2022.07.25.CosmicStrand)
+* Jun 27 - [[Kaspersky] Attacks on industrial control systems using ShadowPad](https://ics-cert.kaspersky.com/publications/reports/2022/06/27/attacks-on-industrial-control-systems-using-shadowpad/) | [:closed_book:](../../blob/master/2022/2022.06.27.ShadowPad_ICS)
 * Jun 21 - [[Kaspersky] APT ToddyCat](https://securelist.com/toddycat/106799/) | [:closed_book:](../../blob/master/2022/2022.06.21.ToddyCat_APT)
 * Jun 02 - [[Kaspersky] WinDealer malware shows extremely sophisticated network abilities](https://securelist.com/windealer-dealing-on-the-side/105946/) | [:closed_book:](../../blob/master/2022/2022.06.02.WinDealer)
 * May 19 - [[CheckPoint] Twisted Panda: Chinese APT espionage operation against Russian’s state-owned defense institutes](https://research.checkpoint.com/2022/twisted-panda-chinese-apt-espionage-operation-against-russians-state-owned-defense-institutes/) | [:closed_book:](../../blob/master/2022/2022.05.19.Twisted_Panda)
