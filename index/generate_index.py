@@ -81,7 +81,7 @@ def process_reports(path: str):
         index_report(rep)
 
     with open("index.csv", "w", newline="") as csvfile:
-        sorted_reports = sorted(processed_reports_list, key=lambda x: x[0])
+        sorted_reports = sorted(processed_reports_list, key=lambda x: (x[0], x[1]))
         fieldnames = ["Published", "SHA-1", "Filename", "Download URL"]
         indexwriter = csv.writer(csvfile, dialect="excel")
         indexwriter.writerow(fieldnames)
