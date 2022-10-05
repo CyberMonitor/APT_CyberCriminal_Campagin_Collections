@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Oct 4 - [[Trend Micro] The Rise of Earth Aughisky](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/connecting-taidoors-dots-earth-aughisky-over-the-last-10-years) | [:closed_book:](../../blob/master/2022/2022.10.04.Rise_Earth_Aughisky)
 * Aug 12 - [[SEKOIA.IO] LuckyMouse uses a backdoored Electron app to target MacOS](https://blog.sekoia.io/luckymouse-uses-a-backdoored-electron-app-to-target-macos/) | [:closed_book:](../../blob/master/2022/2022.08.12.LuckyMouse)
 * Aug 12 - [[Trend Micro] Iron Tiger Compromises Chat Application Mimi, Targets Windows, Mac, and Linux Users](https://www.trendmicro.com/en_us/research/22/h/irontiger-compromises-chat-app-Mimi-targets-windows-mac-linux-users.html) | [:closed_book:](../../blob/master/2022/2022.08.12.Iron_Tiger_Mimi)
 * Jul 26 - [[PWC] Old cat, new tricks, bad habits An analysis of Charming Kitten’s new tools and OPSEC errors](https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/old-cat-new-tricks.html) | [:closed_book:](../../blob/master/2022/2022.07.26.Charming_Kitten_APT)
