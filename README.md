@@ -68,6 +68,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2021
+* Dec 29 - [[NTT] Report on APT Attacks by BlackTech](https://jp.security.ntt/resources/EN-BlackTech_2021.pdf) | [:closed_book:](../../blob/master/2021/2021.12.19.BlackTech_APT)
 * Dec 16 - [[Zscaler] New DarkHotel APT attack chain identified](https://www.zscaler.com/blogs/security-research/new-darkhotel-apt-attack-chain-identified) | [:closed_book:](../../blob/master/2021/2021.12.16.New_DarkHotel_APT)
 * Dec 11 - [[ESET] Jumping the air gap: 15 years of nation-state effort](https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf) | [:closed_book:](../../blob/master/2021/2021.12.11.Jumping_the_air_gap)
 * Dec 07 - [[Mandiant] FIN13: A Cybercriminal Threat Actor Focused on Mexico](https://www.mandiant.com/resources/fin13-cybercriminal-mexico) | [:closed_book:](../../blob/master/2021/2021.12.07.FIN13)
