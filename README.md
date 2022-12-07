@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Dec 06 - [[BlackBerry] Mustang Panda Uses the Russian-Ukrainian War to Attack Europe and Asia Pacific Targets](https://blogs.blackberry.com/en/2022/12/mustang-panda-uses-the-russian-ukrainian-war-to-attack-europe-and-asia-pacific-targets) | [:closed_book:](../../blob/master/2022/2022.12.06.Mustang_Panda)
 * Dec 02 - [[Palo Alto Networks] Blowing Cobalt Strike Out of the Water With Memory Analysis](https://unit42.paloaltonetworks.com/cobalt-strike-memory-analysis/) | [:closed_book:](../../blob/master/2022/2022.12.02.Cobalt_Strike_Out_of_the_Water)
 * Oct 04 - [[Trend Micro] The Rise of Earth Aughisky](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/connecting-taidoors-dots-earth-aughisky-over-the-last-10-years) | [:closed_book:](../../blob/master/2022/2022.10.04.Rise_Earth_Aughisky)
 * Sep 28 - [[Recorded Future] The Chinese Communist Party’s Strategy for Targeted Propaganda](https://go.recordedfuture.com/hubfs/reports/ta-2022-0928.pdf) | [:closed_book:](../../blob/master/2022/2022.09.28.Chinese_Communist_Party)
