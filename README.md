@@ -28,6 +28,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
 
 ## 2022
+* Dec 07 - [[Google] Internet Explorer 0-day exploited by North Korean actor APT37](https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/) | [:closed_book:](../../blob/master/2022/2022.12.07.APT37_0Day)
 * Dec 06 - [[BlackBerry] Mustang Panda Uses the Russian-Ukrainian War to Attack Europe and Asia Pacific Targets](https://blogs.blackberry.com/en/2022/12/mustang-panda-uses-the-russian-ukrainian-war-to-attack-europe-and-asia-pacific-targets) | [:closed_book:](../../blob/master/2022/2022.12.06.Mustang_Panda)
 * Dec 02 - [[Palo Alto Networks] Blowing Cobalt Strike Out of the Water With Memory Analysis](https://unit42.paloaltonetworks.com/cobalt-strike-memory-analysis/) | [:closed_book:](../../blob/master/2022/2022.12.02.Cobalt_Strike_Out_of_the_Water)
 * Nov 02 - [[BlackBerry] RomCom Threat Actor Abuses KeePass and SolarWinds to Target Ukraine and Potentially the United Kingdom](https://blogs.blackberry.com/en/2022/11/romcom-spoofing-solarwinds-keepass) | [:closed_book:](../../blob/master/2022/2022.11.02.RomCom_Ukraine_UK)
