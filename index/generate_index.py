@@ -33,18 +33,19 @@ def index_report(path: str):
 
     # Get the published date from the path name if possible
     published_raw = DATE_REGEX.match(os.path.basename(os.path.dirname(path)))
-    pypdf = PyPDF2.PdfFileReader(open(path, "rb"), strict=False)
+    pypdf = PyPDF2.PdfReader(open(path, "rb"), strict=False)
 
     if published_raw == None or (".00" in published_raw.group(0)):
         logging.debug(f"no published date for report: {path}")
 
-        if pypdf.isEncrypted:
+        if pypdf.is_encrypted:
             pypdf.decrypt("")
         try:
-            cdate_raw = pypdf.documentInfo["/CreationDate"]
-            cdate_clean = cdate_raw.replace("'", "").replace("D:", "")[:8]
-            cadate_parsed = datetime.strptime(cdate_clean, "%Y%m%d")
-            published = cadate_parsed.date()
+            cdate = pypdf.metadata.creation_date
+            if cdate != None:
+                published = pypdf.metadata.creation_date.date()
+            else:
+                published = datetime.min.date()
         except (KeyError, ValueError, PdfReadError) as derr:
             logging.error(f"no date for report: {path} | {derr}")
             return
@@ -67,7 +68,7 @@ def process_reports(path: str):
             if not filepath.endswith(".pdf"):
                 continue
             try:
-                PyPDF2.PdfFileReader(open(full_path, "rb"))
+                PyPDF2.PdfReader(open(full_path, "rb"))
                 rel_dir = os.path.relpath(path, os.getcwd())
                 rel_file = os.path.join(rel_dir, filepath)
                 report_list.append(rel_file)
@@ -81,7 +82,7 @@ def process_reports(path: str):
         index_report(rep)
 
     with open("index.csv", "w", newline="") as csvfile:
-        sorted_reports = sorted(processed_reports_list, key=lambda x: x[0])
+        sorted_reports = sorted(processed_reports_list, key=lambda x: (x[0], x[1]))
         fieldnames = ["Published", "SHA-1", "Filename", "Download URL"]
         indexwriter = csv.writer(csvfile, dialect="excel")
         indexwriter.writerow(fieldnames)
