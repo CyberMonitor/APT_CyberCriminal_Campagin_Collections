@@ -31,6 +31,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2024
 
+* Jan 10 - [[Volexity] Active Exploitation of Two Zero-Day Vulnerabilities in Ivanti Connect Secure VPN](https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn/) | [:closed_book:](../../blob/master/2024/2024.01.10.Active_Exploitation_UTA0178)
+
+
 ## 2023
 * Jan 26 - [[Mandiant] Welcome to Goot Camp: Tracking the Evolution of GOOTLOADER Operations](https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations) | [:closed_book:](../../blob/master/2023/2023.01.26.GOOTLOADER_Operations)
 * Jan 11 - [[GROUP-IB] Dark Pink](https://www.group-ib.com/blog/dark-pink-apt/) | [:closed_book:](../../blob/master/2023/2023.01.11.Dark_Pink_APT)
