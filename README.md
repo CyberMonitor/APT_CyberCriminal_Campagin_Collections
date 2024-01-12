@@ -26,6 +26,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
+:small_blue_diamond: [StrangerealIntel-EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv)  <br>
 
 
 ## 2024
