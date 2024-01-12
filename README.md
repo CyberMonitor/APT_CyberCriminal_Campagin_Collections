@@ -32,6 +32,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2023
 
+* Jan 09 - [[Intrinsec] Emotet returns and deploys loaders](https://www.intrinsec.com/emotet-returns-and-deploys-loaders/) | [:closed_book:](../../blob/master/2023/2023.01.09.Emotet_return)
+
 
 ## 2022
 * Dec 07 - [[Google] Internet Explorer 0-day exploited by North Korean actor APT37](https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/) | [:closed_book:](../../blob/master/2022/2022.12.07.APT37_0Day)
