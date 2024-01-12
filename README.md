@@ -30,7 +30,9 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2024
 
-## 2023
+## 
+
+* Jan 11 - [[GROUP-IB] Dark Pink](https://www.group-ib.com/blog/dark-pink-apt/) | [:closed_book:](../../blob/master/2023/2023.01.11.Dark_Pink_APT)
 
 * Jan 09 - [[Intrinsec] Emotet returns and deploys loaders](https://www.intrinsec.com/emotet-returns-and-deploys-loaders/) | [:closed_book:](../../blob/master/2023/2023.01.09.Emotet_return)
 
