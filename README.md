@@ -37,6 +37,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 ## 2023
 * Dec 27 - [[Kaspersky] Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/) | [:closed_book:](../../blob/master/2023/2023.12.27.Operation_Triangulation)
 * Dec 21 - [[CISCO] Intellexa and Cytrox: From fixer-upper to Intel Agency-grade spyware](https://blog.talosintelligence.com/intellexa-and-cytrox-intel-agency-grade-spyware/) | [:closed_book:](../../blob/master/2023/2023.12.21.Intellexa_Cytrox)
+* Dec 19 - [[Symantec] Seedworm: Iranian Hackers Target Telecoms Orgs in North and East Africa](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms) | [:closed_book:](../../blob/master/2023/2023.12.19.Seedworm)
 * Jan 26 - [[Mandiant] Welcome to Goot Camp: Tracking the Evolution of GOOTLOADER Operations](https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations) | [:closed_book:](../../blob/master/2023/2023.01.26.GOOTLOADER_Operations)
 * Jan 11 - [[GROUP-IB] Dark Pink](https://www.group-ib.com/blog/dark-pink-apt/) | [:closed_book:](../../blob/master/2023/2023.01.11.Dark_Pink_APT)
 * Jan 09 - [[Intrinsec] Emotet returns and deploys loaders](https://www.intrinsec.com/emotet-returns-and-deploys-loaders/) | [:closed_book:](../../blob/master/2023/2023.01.09.Emotet_return)
