@@ -30,7 +30,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
-
+* Jan 25 - [[KrCERT/CC] Lazarus Group’s Large-scale Threats
+via Watering Hole and Financial Software](https://jsac.jpcert.or.jp/archive/2024/pdf/JSAC2024_1_6_dongwook-kim_seulgi-lee_en.pdf) | [:closed_book:](../../blob/master/2024/2024.01.25.Lazarus_Group)
 * Jan 10 - [[Volexity] Active Exploitation of Two Zero-Day Vulnerabilities in Ivanti Connect Secure VPN](https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn/) | [:closed_book:](../../blob/master/2024/2024.01.10.Active_Exploitation_UTA0178)
 
 
