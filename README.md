@@ -30,6 +30,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Feb 13 - [[Trend Micro] CVE-2024-21412: Water Hydra Targets Traders With Microsoft Defender SmartScreen Zero-Day](https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html) | [:closed_book:](../../blob/master/2024/2024.02.13.Water_Hydra)
 * Jan 25 - [[KrCERT/CC] Lazarus Group’s Large-scale Threats
 via Watering Hole and Financial Software](https://jsac.jpcert.or.jp/archive/2024/pdf/JSAC2024_1_6_dongwook-kim_seulgi-lee_en.pdf) | [:closed_book:](../../blob/master/2024/2024.01.25.Lazarus_Group)
 * Jan 24 - [[itochuci] The Endless Struggle Against APT10: Insights from LODEINFO](https://blog-en.itochuci.co.jp/entry/2024/01/24/134100) | [:closed_book:](../../blob/master/2024/2024.01.24.APT10_LODEINFO)
