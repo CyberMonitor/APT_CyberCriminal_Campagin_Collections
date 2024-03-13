@@ -1,0 +1,185 @@
+:toc:
+:toclevels: 2
+
+= Evasive Panda –- Indicators of Compromise
+
+== Evasive Panda leverages Monlam Festival to target Tibetans
+
+The blog post on Evasive Panda about Tibetan targets is available on WeLiveSecurity at
+https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/
+
+=== Files
+
+[options="header"]
+|===
+|SHA-1                                     |Filename                                                |ESET detection name            |Description
+|`0A88C3B4709287F70CA2549A29353A804681CA78`|`autorun.exe`                                           |Win32/Agent.AGFU               |Dropper component added to the official installer package.
+|`1C7DF9B0023FB97000B71C7917556036A48657C5`|`default_ico.exe`                                       |Win32/Agent.AGFN               |Intermediate downloader.
+|`F0F8F60429E3316C463F397E8E29E1CB2D925FC2`|`default_ico.exe`                                       |Win64/Agent.DLY                |Intermediate downloader programmed in Rust.
+|`7A3FC280F79578414D71D70609FBDB49EC6AD648`|`default_ico.exe`                                       |Win32/Agent.AGFQ               |Nightdoor downloader.
+|`70B743E60F952A1238A469F529E89B0EB71B5EF7`|`UjGnsPwFaEtl.exe`                                      |Win32/Agent.AGFS               |Nightdoor dropper.
+|`FA44028115912C95B5EFB43218F3C7237D5C349F`|`RPHost.dll`                                            |Win32/Agent.AGFM               |Intermediate loader.
+|`5273B45C5EABE64EDBD0B79F5D1B31E2E8582324`|`certificate.pkg`                                       |OSX/Agent.DJ                   |MacOS dropper component.
+|`5E5274C7D931C1165AA592CDC3BFCEB4649F1FF7`|`certificate.exe`                                       |Win32/Agent.AGES               |Dropper component from the compromised website.
+|`59AA9BE378371183ED419A0B24C019CCF3DA97EC`|`default_ico_1.exe`                                     |Win32/Agent.AGFO               |Nightdoor dropper component.
+|`8591A7EE00FB1BB7CC5B0417479681290A51996E`|`memmgrset.dll`                                         |Win32/Agent.AGGH               |Intermediate loader for Nightdoor downloader component.
+|`82B99AD976429D0A6C545B64C520BE4880E1E4B8`|`pidgin.dll`                                            |Win32/Agent.AGGI               |Intermediate loader for Nightdoor.
+|`3EEE78EDE82F6319D094787F45AFD9BFB600E971`|`Monlam_Grand_Tibetan_Dictionary_2018.zip`              |Win32/Agent.AGFM               |Trojanized installer.
+|`2A96338BACCE3BB687BDC274DAAD120F32668CF4`|`jquery.js`                                             |JS/TrojanDownloader.Agent.AAPA |Malicious JavaScript added to the compromised website.
+|`8A389AFE1F85F83E340CA9DFC0005D904799D44C`|`Monlam Bodyig 3.1.exe`                                 |Win32/Agent.AGFU               |Trojanized installer.
+|`944B69B5E225C7712604EFC289E153210124505C`|`deutsch-tibetisches_wörterbuch_installer_windows.zip`  |MSIL/Agent.WSK                 |Trojanized installer package.
+|`A942099338C946FC196C62E87942217BF07FC5B3`|`monlam-bodyig3.zip`                                    |Win32/Agent.AGFU               |Trojanized installer package.
+|`52FE3FD399ED15077106BAE9EA475052FC8B4ACC`|`Monlam-Grand-Tibetan-Dictionary-for-mac-OS-X.zip`      |OSX/Agent.DJ                   |MacOS trojanized installer package.
+|`57FD698CCB5CB4F90C014EFC6754599E5B0FBE54`|`monlam-bodyig-mac-os.zip`                              |OSX/Agent.DJ                   |MacOS trojanized installer package.
+|`C0575AF04850EB1911B000BF56E8D5E9362A61E4`|`Security.x64`                                          |OSX/Agent.DJ                   |MacOS downloader.
+|`7C3FD8EE5D660BBF43E423818C6A8C3231B03817`|`Security.arm64`                                        |OSX/Agent.DJ                   |MacOS downloader.
+|`FA78E89AB95A0B49BC0663F7AB33AAF1A924C560`|`Security`                                              |OSX/Agent.DJ                   |MacOS downloader component.
+|`5748E11C87AEAB3C19D13DB899D3E2008BE928AD`|`Monlam_Grand_Dictionary`                               |OSX/Agent.DJ                   |Malicious component from macOS trojanized installer package.
+|===
+
+=== Network Indicators
+
+==== Domains
+
+[options="header"]
+|===
+|Domain                   |First seen |Details
+|`tibetpost[.]net`        |2023-11-29 |Compromised website.
+|`monlamit[.]com`         |2024-01-24 |Compromised website.
+|`update.devicebug[.]com` |2024-01-14 |C&C server.
+|===
+
+==== IP addresses
+
+[options="header"]
+|===
+|IP address          |First seen  |Details
+|`188.208.141[.]204` |2024-02-01  |Download server for Nightdoor dropper component.
+|===
+
+=== Certificates
+
+[options="header"]
+|===
+|Serial number |Thumbprint |Subject CN |Subject O Subject C |Valid from |Valid to
+|`0x494374D8553CA906F57674E24A13E933` | `77DBCDFACE92513590B7C3A407BE2717C19094E0`
+|Apple Development: ya ni yang (2289F6V4BN) |ya ni yang |US
+|2024-01-04 05:26:45 |2025-01-03 05:26:44
+
+|`0x6014B56E4FFF35DC4C948452B77C9AA9`| `D4938CB5C031EC7F04D73D4E75F5DB5C8A5C04CE`
+|KP MOBILE |KP MOBILE |KR
+|2021-10-25 00:00:00 |2022-10-25 23:59:59
+|===
+
+=== Targetted Networks
+
+[options="header"]
+|===
+|Network            |ISP                             |City        |Country
+|`124.171.71.0/24`  |iiNet                           |Sydney      |Australia
+|`125.209.157.0/24` |iiNet                           |Sydney      |Australia
+|`1.145.30.0/24`    |Telstra                         |Sydney      |Australia
+|`193.119.100.0/24` |TPG Telecom                     |Sydney      |Australia
+|`14.202.220.0/24`  |TPG Telecom                     |Sydney      |Australia
+|`123.243.114.0/24` |TPG Telecom                     |Sydney      |Australia
+|`45.113.1.0/24`    |HK 92server Technology          |Hong Kong   |Hong Kong
+|`172.70.191.0/24`  |Cloudflare                      |Ahmedabad   |India
+|`49.36.224.0/24`   |Reliance Jio Infocomm           |Airoli      |India
+|`106.196.24.0/24`  |Bharti Airtel                   |Bengaluru   |India
+|`106.196.25.0/24`  |Bharti Airtel                   |Bengaluru   |India
+|`14.98.12.0/24`    |Tata Teleservices               |Bengaluru   |India
+|`172.70.237.0/24`  |Cloudflare                      |Chandīgarh  |India
+|`117.207.51.0/24`  |Bharat Sanchar Nigam Limited    |Dalhousie   |India
+|`103.214.118.0/24` |Airnet Boardband                |Delhi       |India
+|`45.120.162.0/24`  |Ani Boardband                   |Delhi       |India
+|`103.198.173.0/24` |Anonet                          |Delhi       |India
+|`103.248.94.0/24`  |Anonet                          |Delhi       |India
+|`103.198.174.0/24` |Anonet                          |Delhi       |India
+|`43.247.41.0/24`   |Anonet                          |Delhi       |India
+|`122.162.147.0/24` |Bharti Airtel                   |Delhi       |India
+|`103.212.145.0/24` |Excitel                         |Delhi       |India
+|`45.248.28.0/24`   |Omkar Electronics               |Delhi       |India
+|`49.36.185.0/24`   |Reliance Jio Infocomm           |Delhi       |India
+|`59.89.176.0/24`   |Bharat Sanchar Nigam Limited    |Dharamsala  |India
+|`117.207.57.0/24`  |Bharat Sanchar Nigam Limited    |Dharamsala  |India
+|`103.210.33.0/24`  |Vayudoot                        |Dharamsala  |India
+|`182.64.251.0/24`  |Bharti Airtel                   |Gāndarbal   |India
+|`117.255.45.0/24`  |Bharat Sanchar Nigam Limited    |Haliyal     |India
+|`117.239.1.0/24`   |Bharat Sanchar Nigam Limited    |Hamīrpur    |India
+|`59.89.161.0/24`   |Bharat Sanchar Nigam Limited    |Jaipur      |India
+|`27.60.20.0/24`    |Bharti Airtel                   |Lucknow     |India
+|`223.189.252.0/24` |Bharti Airtel                   |Lucknow     |India
+|`223.188.237.0/24` |Bharti Airtel                   |Meerut      |India
+|`162.158.235.0/24` |Cloudflare                      |Mumbai      |India
+|`162.158.48.0/24`  |Cloudflare                      |Mumbai      |India
+|`162.158.191.0/24` |Cloudflare                      |Mumbai      |India
+|`162.158.227.0/24` |Cloudflare                      |Mumbai      |India
+|`172.69.87.0/24`   |Cloudflare                      |Mumbai      |India
+|`172.70.219.0/24`  |Cloudflare                      |Mumbai      |India
+|`172.71.198.0/24`  |Cloudflare                      |Mumbai      |India
+|`172.68.39.0/24`   |Cloudflare                      |New Delhi   |India
+|`59.89.177.0/24`   |Bharat Sanchar Nigam Limited    |Pālampur    |India
+|`103.195.253.0/24` |Protoact Digital Network        |Ranchi      |India
+|`169.149.224.0/24` |Reliance Jio Infocomm           |Shimla      |India
+|`169.149.226.0/24` |Reliance Jio Infocomm           |Shimla      |India
+|`169.149.227.0/24` |Reliance Jio Infocomm           |Shimla      |India
+|`169.149.229.0/24` |Reliance Jio Infocomm           |Shimla      |India
+|`169.149.231.0/24` |Reliance Jio Infocomm           |Shimla      |India
+|`117.255.44.0/24`  |Bharat Sanchar Nigam Limited    |Sirsi       |India
+|`122.161.241.0/24` |Bharti Airtel                   |Srinagar    |India
+|`122.161.243.0/24` |Bharti Airtel                   |Srinagar    |India
+|`122.161.240.0/24` |Bharti Airtel                   |Srinagar    |India
+|`117.207.48.0/24`  |Bharat Sanchar Nigam Limited    |Yol         |India
+|`175.181.134.0/24` |New Century InfoComm            |Hsinchu     |Taiwan
+|`36.238.185.0/24`  |Chunghwa Telecom                |Kaohsiung   |Taiwan
+|`36.237.104.0/24`  |Chunghwa Telecom                |Tainan      |Taiwan
+|`36.237.128.0/24`  |Chunghwa Telecom                |Tainan      |Taiwan
+|`36.237.189.0/24`  |Chunghwa Telecom                |Tainan      |Taiwan
+|`42.78.14.0/24`    |Chunghwa Telecom                |Tainan      |Taiwan
+|`61.216.48.0/24`   |Chunghwa Telecom                |Tainan      |Taiwan
+|`36.230.119.0/24`  |Chunghwa Telecom                |Taipei      |Taiwan
+|`114.43.219.0/24`  |Chunghwa Telecom                |Taipei      |Taiwan
+|`114.44.214.0/24`  |Chunghwa Telecom                |Taipei      |Taiwan
+|`114.45.2.0/24`    |Chunghwa Telecom                |Taipei      |Taiwan
+|`118.163.73.0/24`  |Chunghwa Telecom                |Taipei      |Taiwan
+|`118.167.21.0/24`  |Chunghwa Telecom                |Taipei      |Taiwan
+|`220.129.70.0/24`  |Chunghwa Telecom                |Taipei      |Taiwan
+|`106.64.121.0/24`  |Far EasTone Telecommunications  |Taoyuan     |Taiwan
+|`1.169.65.0/24`    |Chunghwa Telecom                |Xizhi       |Taiwan
+|`122.100.113.0/24` |Taiwan Mobile                   |Yilan       |Taiwan
+|`185.93.229.0/24`  |Sucuri Security                 |Ashburn     |United States
+|`128.61.64.0/24`   |Georgia Institute of Technology |Atlanta     |United States
+|`216.66.111.0/24`  |Vermont Telephone               |Wallingford |United States
+|===
+
+
+== Evasive Panda APT Group delivers malware via updates for popular Chinese software
+
+The blog post on Evasive Panda is available on WeLiveSecurity at
+https://www.welivesecurity.com/2023/04/26/evasive-panda-apt-group-malware-updates-popular-chinese-software/
+
+=== Files
+
+[options="header"]
+|===
+|SHA-1 |Filename |ESET detection name|Description
+|`10FB52E4A3D5D6BDA0D22BB7C962BDE95B8DA3DD` |`wcdbcrk.dll` |Win32/Agent.VFT |MgBot information stealer plugin.
+|`E5214AB93B3A1FC3993EF2B4AD04DFCC5400D5E2` |`sebasek.dll` |Win32/Agent.VFT |MgBot file stealer plugin.
+|`D60EE17418CC4202BB57909BEC69A76BD318EEB4` |`kstrcs.dll` |Win32/Agent.VFT |MgBot keylogger plugin.
+|`2AC41FFCDE6C8409153DF22872D46CD259766903` |`gmck.dll` |Win32/Agent.VFT |MgBot cookie stealer plugin.
+|`0781A2B6EB656D110A3A8F60E8BCE9D407E4C4FF` |`qmsdp.dll` |Win32/Agent.VFT |MgBot information stealer plugin.
+|`9D1ECBBE8637FED0D89FCA1AF35EA821277AD2E8` |`pRsm.dll` |Win32/Agent.VFT |MgBot audio capture plugin.
+|`22532A8C8594CD8A3294E68CEB56ACCF37A613B3` |`cbmrpa.dll` |Win32/Agent.ABUJ |MgBot clipboard text capture plugin.
+|`970BABE49945B98EFADA72B2314B25A008F75843` |`agentpwd.dll` |Win32/Agent.VFT |MgBot credential stealer plugin.
+|`8A98A023164B50DEC5126EDA270D394E06A144FF` |`maillfpassword.dll` |Win32/Agent.VFT |MgBot credential stealer plugin.
+|`65B03630E186D9B6ADC663C313B44CA122CA2079` |`QQUrlMgr_QQ88_4296.exe` |Win32/Kryptik.HRRI |MgBot installer.
+|===
+
+=== Network Indicators
+
+[options="header"]
+|===
+|IP address        |First seen | Details
+|`122.10.88[.]226` |2020-07-09 | MgBot C&C server.
+|`122.10.90[.]12`  |2020-07-14 | MgBot C&C server.
+|===
