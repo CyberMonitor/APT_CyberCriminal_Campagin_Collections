@@ -31,6 +31,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2024
 * Mar 7 - [[ESET] Evasive Panda leverages Monlam Festival to target Tibetans](https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/) | [:closed_book:](../../blob/master/2024/2024.03.07_Evasive_Panda)
+* Feb 27 - [[Mandiant] When Cats Fly: Suspected Iranian Threat Actor UNC1549 Targets Israeli and Middle East Aerospace and Defense Sectors](https://www.mandiant.com/resources/blog/suspected-iranian-unc1549-targets-israel-middle-east) | [:closed_book:](../../blob/master/2024/2024.02.27.UNC1549)
 * Feb 16 - [[---] inside I-Soon APT(Earth Lusca) operation center](https://github.com/I-S00N/I-S00N) | [:closed_book:](../../blob/master/2024/2024.02.16_I-Soon_Earth_Lusca)
 * Feb 14 - [[Microsoft] Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/) | [:closed_book:](../../blob/master/2024/2024.02.14_APT_AI)
 * Feb 13 - [[Trend Micro] CVE-2024-21412: Water Hydra Targets Traders With Microsoft Defender SmartScreen Zero-Day](https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html) | [:closed_book:](../../blob/master/2024/2024.02.13.Water_Hydra)
