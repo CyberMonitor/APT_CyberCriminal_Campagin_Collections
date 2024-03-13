@@ -1410,11 +1410,15 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 
 ## Report
 
+### SentinelOne 
+:small_orange_diamond: 2024 - [[SentinelOne] WatchTower 2023 Intelligence-Driven Threat Hunting](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/files/14435019/watchtower-2023-eoy-report-en.pdf/) | [:closed_book:](../../blob/master/Report/SentinelOne/watchtower-2023-eoy-report-en.pdf)<br>
+
 ### Red Canary 
 :small_orange_diamond: 2021 - [[Red_Canary] 2021 Threat Detection Report](https://redcanary.com/threat-detection-report/) | [:closed_book:](../../blob/master/Report/Red_Canary/2021-Threat-Detection-Report)<br>
 
 ### NSA
 :small_orange_diamond: Jan 08 2021 - [[NSA] 2020 Cybersecurity Year in Review report](https://media.defense.gov/2021/Jan/08/2002561651/-1/-1/0/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF) | [:closed_book:](../../blob/master/Report/NSA/NSA_CYBERSECURITY_2020_YEAR_IN_REVIEW.PDF)<br>
+
 ### Objective-See
 :small_orange_diamond: Jan 01 2024 - [[Objective-See] The Mac Malware of 2023](https://objective-see.org/downloads/MacMalware_2023.pdf) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2023.pdf)<br>
 :small_orange_diamond: Jan 01 2023 - [[Objective-See] The Mac Malware of 2022](https://objective-see.org/downloads/MacMalware_2022.pdf) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2022.pdf)<br>
