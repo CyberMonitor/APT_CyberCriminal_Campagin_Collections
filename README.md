@@ -1411,7 +1411,7 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 ## Report
 
 ### SentinelOne 
-:small_orange_diamond: 2024 - [[SentinelOne] WatchTower 2023 Intelligence-Driven Threat Hunting](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/files/14435019/watchtower-2023-eoy-report-en.pdf/) | [:closed_book:](../../blob/master/Report/SentinelOne/watchtower-2023-eoy-report-en.pdf)<br>
+:small_orange_diamond: 2024 - [[SentinelOne] WatchTower 2023 Intelligence-Driven Threat Hunting](https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/) | [:closed_book:](../../blob/master/Report/SentinelOne/watchtower-2023-eoy-report-en.pdf)<br>
 
 ### Red Canary 
 :small_orange_diamond: 2021 - [[Red_Canary] 2021 Threat Detection Report](https://redcanary.com/threat-detection-report/) | [:closed_book:](../../blob/master/Report/Red_Canary/2021-Threat-Detection-Report)<br>
