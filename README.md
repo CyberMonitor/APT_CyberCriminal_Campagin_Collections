@@ -26,12 +26,50 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel) <br>
 :small_blue_diamond: [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) <br>
 :small_blue_diamond: [vx-underground](https://vx-underground.org/apts.html) <br>
+:small_blue_diamond: [StrangerealIntel-EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv)  <br>
+
+
+## 2024
+* Mar 7 - [[ESET] Evasive Panda leverages Monlam Festival to target Tibetans](https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/) | [:closed_book:](../../blob/master/2024/2024.03.07_Evasive_Panda)
+* Feb 27 - [[Mandiant] When Cats Fly: Suspected Iranian Threat Actor UNC1549 Targets Israeli and Middle East Aerospace and Defense Sectors](https://www.mandiant.com/resources/blog/suspected-iranian-unc1549-targets-israel-middle-east) | [:closed_book:](../../blob/master/2024/2024.02.27.UNC1549)
+* Feb 23 - [[Sophos] ConnectWise ScreenConnect attacks deliver malware](https://news.sophos.com/en-us/2024/02/23/connectwise-screenconnect-attacks-deliver-malware/) | [:closed_book:](../../blob/master/2024/2024.02.23.ConnectWise_Malware)
+* Feb 16 - [[---] inside I-Soon APT(Earth Lusca) operation center](https://github.com/I-S00N/I-S00N) | [:closed_book:](../../blob/master/2024/2024.02.16_I-Soon_Earth_Lusca)
+* Feb 14 - [[Microsoft] Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/) | [:closed_book:](../../blob/master/2024/2024.02.14_APT_AI)
+* Feb 13 - [[Trend Micro] CVE-2024-21412: Water Hydra Targets Traders With Microsoft Defender SmartScreen Zero-Day](https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html) | [:closed_book:](../../blob/master/2024/2024.02.13.Water_Hydra)
+* Jan 25 - [[KrCERT/CC] Lazarus Group’s Large-scale Threats
+via Watering Hole and Financial Software](https://jsac.jpcert.or.jp/archive/2024/pdf/JSAC2024_1_6_dongwook-kim_seulgi-lee_en.pdf) | [:closed_book:](../../blob/master/2024/2024.01.25.Lazarus_Group)
+* Jan 24 - [[itochuci] The Endless Struggle Against APT10: Insights from LODEINFO](https://blog-en.itochuci.co.jp/entry/2024/01/24/134100) | [:closed_book:](../../blob/master/2024/2024.01.24.APT10_LODEINFO)
+* Jan 10 - [[Volexity] Active Exploitation of Two Zero-Day Vulnerabilities in Ivanti Connect Secure VPN](https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn/) | [:closed_book:](../../blob/master/2024/2024.01.10.Active_Exploitation_UTA0178)
+
+
+## 2023
+* Dec 27 - [[Kaspersky] Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/) | [:closed_book:](../../blob/master/2023/2023.12.27.Operation_Triangulation)
+* Dec 21 - [[CISCO] Intellexa and Cytrox: From fixer-upper to Intel Agency-grade spyware](https://blog.talosintelligence.com/intellexa-and-cytrox-intel-agency-grade-spyware/) | [:closed_book:](../../blob/master/2023/2023.12.21.Intellexa_Cytrox)
+* Dec 19 - [[Symantec] Seedworm: Iranian Hackers Target Telecoms Orgs in North and East Africa](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms) | [:closed_book:](../../blob/master/2023/2023.12.19.Seedworm)
+* Nov 30 - [[CISCO] New SugarGh0st RAT targets Uzbekistan government and South Korea](https://blog.talosintelligence.com/new-sugargh0st-rat/) | [:closed_book:](../../blob/master/2023/2023.11.30.New_SugarGh0st_RAT)
+* Nov 27 - [[Intezer] WildCard: The APT Behind SysJoker Targets Critical Sectors in Israel](https://blog.talosintelligence.com/new-sugargh0st-rat/https://intezer.com/blog/research/wildcard-evolution-of-sysjoker-cyber-threat/) | [:closed_book:](../../blob/master/2023/2023.11.27.WildCard_SysJoker_Israel)
+* Nov 23 - [[CheckPoint] ISRAEL-HAMAS WAR SPOTLIGHT: SHAKING THE RUST OFF SYSJOKER](https://research.checkpoint.com/2023/israel-hamas-war-spotlight-shaking-the-rust-off-sysjoker/) | [:closed_book:](../../blob/master/2023/2023.11.23.israel-hamas-sysjoker)
+* Nov 14 - [[HKUK] APT29 attacks Embassies using CVE-2023-38831](https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf) | [:closed_book:](../../blob/master/2023/2023.11.14.APT29_CVE-2023-38831)
+* Nov 09 - [[Kaspersky] Modern Asian APT groups’ tactics, techniques and procedures (TTPs)](https://securelist.com/modern-asia-apt-groups-ttp/111009/) | [:closed_book:](../../blob/master/2023/2023.11.09.Modern_Asian_APT_TTPs)
+* Nov 07 - [[Palo Alto Networks] Chinese APT Targeting Cambodian Government](https://unit42.paloaltonetworks.com/chinese-apt-linked-to-cambodia-government-attacks/) | [:closed_book:](../../blob/master/2023/2023.11.07.Chinese_APT_Cambodian)
+* Nov 06 - [[Palo Alto Networks] Agonizing Serpens (Aka Agrius) Targeting the Israeli Higher Education and Tech Sectors](https://unit42.paloaltonetworks.com/agonizing-serpens-targets-israeli-tech-higher-ed-sectors/) | [:closed_book:](../../blob/master/2023/2023.11.06.Agrius_Israeli)
+* Oct 31 - [[CheckPoint] FROM ALBANIA TO THE MIDDLE EAST: THE SCARRED MANTICORE IS LISTENING](https://research.checkpoint.com/2023/from-albania-to-the-middle-east-the-scarred-manticore-is-listening/) | [:closed_book:](../../blob/master/2023/2023.10.31.Scarred_Manticore)
+* Oct 26 - [[Kaspersky] StripedFly: Perennially flying under the radar](https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/) | [:closed_book:](../../blob/master/2023/2023.10.26.StripedFly)
+* Oct 13 - [[Trend Micro] Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant](https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html) | [:closed_book:](../../blob/master/2023/2023.10.13.Void_Rabisu)
+* Sep 19 - [[CISCO] New ShroudedSnooper actor targets telecommunications firms in the Middle East with novel Implants](https://blog.talosintelligence.com/introducing-shrouded-snooper/) | [:closed_book:](../../blob/master/2023/2023.09.19.ShroudedSnooper_Middle_East)
+* Jul 27 - [[Recorded Future] BlueBravo Adapts to Target Diplomatic Entities with GraphicalProton Malware](https://www.recordedfuture.com/bluebravo-adapts-to-target-diplomatic-entities-with-graphicalproton-malware) | [:closed_book:](../../blob/master/2023/2023.07.27.BlueBravo)
+* May 24 - [[Microsoft] Volt Typhoon targets US critical infrastructure with living-off-the-land techniques](https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/) | [:closed_book:](../../blob/master/2023/2023.05.24.Volt_Typhoon)
+* Jan 26 - [[Mandiant] Welcome to Goot Camp: Tracking the Evolution of GOOTLOADER Operations](https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations) | [:closed_book:](../../blob/master/2023/2023.01.26.GOOTLOADER_Operations)
+* Jan 11 - [[GROUP-IB] Dark Pink](https://www.group-ib.com/blog/dark-pink-apt/) | [:closed_book:](../../blob/master/2023/2023.01.11.Dark_Pink_APT)
+* Jan 09 - [[Intrinsec] Emotet returns and deploys loaders](https://www.intrinsec.com/emotet-returns-and-deploys-loaders/) | [:closed_book:](../../blob/master/2023/2023.01.09.Emotet_return)
+
 
 ## 2022
 * Dec 07 - [[Google] Internet Explorer 0-day exploited by North Korean actor APT37](https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/) | [:closed_book:](../../blob/master/2022/2022.12.07.APT37_0Day)
 * Dec 06 - [[BlackBerry] Mustang Panda Uses the Russian-Ukrainian War to Attack Europe and Asia Pacific Targets](https://blogs.blackberry.com/en/2022/12/mustang-panda-uses-the-russian-ukrainian-war-to-attack-europe-and-asia-pacific-targets) | [:closed_book:](../../blob/master/2022/2022.12.06.Mustang_Panda)
 * Dec 05 - [[Recorded Future] Exposing TAG-53’s Credential Harvesting Infrastructure Used for Russia-Aligned Espionage Operations](https://www.recordedfuture.com/exposing-tag-53-credential-harvesting-infrastructure-for-russia-aligned-espionage-operations) | [:closed_book:](../../blob/master/2022/2022.12.05.TAG-53_Russia)
 * Dec 02 - [[Palo Alto Networks] Blowing Cobalt Strike Out of the Water With Memory Analysis](https://unit42.paloaltonetworks.com/cobalt-strike-memory-analysis/) | [:closed_book:](../../blob/master/2022/2022.12.02.Cobalt_Strike_Out_of_the_Water)
+* Nov 03 - [[Zscaler] APT-36 Uses New TTPs and New Tools to Target Indian Governmental Organizations](https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations) | [:closed_book:](../../blob/master/2022/2022.11.03.APT-36)
 * Nov 02 - [[BlackBerry] RomCom Threat Actor Abuses KeePass and SolarWinds to Target Ukraine and Potentially the United Kingdom](https://blogs.blackberry.com/en/2022/11/romcom-spoofing-solarwinds-keepass) | [:closed_book:](../../blob/master/2022/2022.11.02.RomCom_Ukraine_UK)
 * Oct 06 - [[BlackBerry] Mustang Panda Abuses Legitimate Apps to Target Myanmar Based Victims](https://blogs.blackberry.com/en/2022/10/mustang-panda-abuses-legitimate-apps-to-target-myanmar-based-victims) | [:closed_book:](../../blob/master/2022/2022.10.06.Mustang_Panda_Myanmar)
 * Oct 04 - [[Trend Micro] The Rise of Earth Aughisky](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/connecting-taidoors-dots-earth-aughisky-over-the-last-10-years) | [:closed_book:](../../blob/master/2022/2022.10.04.Rise_Earth_Aughisky)
@@ -1375,15 +1413,22 @@ APT28 group](http://csecybsec.com/download/zlab/20180713_CSE_APT28_X-Agent_Op-Ro
 
 ## Report
 
+### SentinelOne 
+:small_orange_diamond: 2024 - [[SentinelOne] WatchTower 2023 Intelligence-Driven Threat Hunting](https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/) | [:closed_book:](../../blob/master/Report/SentinelOne/watchtower-2023-eoy-report-en.pdf)<br>
+
 ### Red Canary 
 :small_orange_diamond: 2021 - [[Red_Canary] 2021 Threat Detection Report](https://redcanary.com/threat-detection-report/) | [:closed_book:](../../blob/master/Report/Red_Canary/2021-Threat-Detection-Report)<br>
 
 ### NSA
 :small_orange_diamond: Jan 08 2021 - [[NSA] 2020 Cybersecurity Year in Review report](https://media.defense.gov/2021/Jan/08/2002561651/-1/-1/0/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF/NSA%20CYBERSECURITY%202020%20YEAR%20IN%20REVIEW.PDF) | [:closed_book:](../../blob/master/Report/NSA/NSA_CYBERSECURITY_2020_YEAR_IN_REVIEW.PDF)<br>
+
 ### Objective-See
+:small_orange_diamond: Jan 01 2024 - [[Objective-See] The Mac Malware of 2023](https://objective-see.org/downloads/MacMalware_2023.pdf) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2023.pdf)<br>
+:small_orange_diamond: Jan 01 2023 - [[Objective-See] The Mac Malware of 2022](https://objective-see.org/downloads/MacMalware_2022.pdf) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2022.pdf)<br>
 :small_orange_diamond: Jan 01 2022 - [[Objective-See] The Mac Malware of 2021](https://objective-see.com/downloads/MacMalware_2021.pdf) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2021.pdf)<br>
 :small_orange_diamond: Jan 04 2021 - [[Objective-See] The Mac Malware of 2020](https://objective-see.com/downloads/MacMalware_2020.pdf/) | [:closed_book:](../../blob/master/Report/Objective-See/MacMalware_2020.pdf)<br>
 ### ESET
+:small_orange_diamond: Q3 2023 - [[ESET] 2023 Q2-Q3 APT Activity Report](https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2023-q3-2023.pdf) | [:closed_book:](../../blob/master/Report/ESET/eset-apt-activity-report-q2-2023-q3-2023.pdf)<br>
 :small_orange_diamond: Jun 2022 - [[ESET] ESET Threat Report T1 2022](https://www.welivesecurity.com/wp-content/uploads/2022/06/eset_threat_report_t12022.pdf) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t12022.pdf)<br>
 :small_orange_diamond: Feb 09 2022 - [[ESET] ESET Threat Report T3 2021](https://www.welivesecurity.com/2022/02/09/eset-threat-report-t32021/) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t32021.pdf)<br>
 :small_orange_diamond: Sep 30 2021 - [[ESET] ESET Threat Report T2 2021](https://www.welivesecurity.com/2021/09/30/eset-threat-report-t22021/) | [:closed_book:](../../blob/master/Report/ESET/eset_threat_report_t22021.pdf)<br>

@@ -1,0 +1,160 @@
+﻿Type;Indicator;Description;Attribution;TLP
+url;https[:]//cs.com.sg/Backup/Bk778kXNKMiH5vH/oxnv1.ooccxx;Hardcoded URL hidden in XLS file sheet 6 pointing at a dropper. The host is a compromised server with a CMS wordpress.;Emotet;GREEN
+url;https[:]//j2ccamionmagasin.fr/css/1Mp8y/oxnv2.ooccxx;Hardcoded URL hidden in XLS file sheet 6 pointing at a dropper. The host is a compromised server with a CMS wordpress.;Emotet;GREEN
+url;http[:]//atici.net/old/PkZI74DD/oxnv3.ooccxx;Hardcoded URL hidden in XLS file sheet 6 pointing at a dropper. The host is a compromised server with a CMS wordpress.;Emotet;GREEN
+url;http[:]//clanbaker.org/css/khhl7kT2n69n/oxnv4.ooccxx;Hardcoded URL hidden in XLS file sheet 6 pointing at a dropper. The host is a compromised server with a CMS wordpress.;Emotet;GREEN
+domain;spkdeutshnewsupp[.]com ;We observed several IcedID samples dropped by Emotet communicating with this domain. The latter resolves 87.251.67[.]168;Emotet;GREEN
+sha256;910731579a78d2da6452bede7dfce8e1f89c285c22d8a7d40db2eafc2fcc45af;Hijacked thread email sent by Emotet botnet with a malicious XLS attachment;Emotet;GREEN
+sha256;91E19D7AEFDD6717A1F79167281E78B95AFB84195BA7525F5EFB6E0A3665AC6B;XLS maldoc downloading DLLs on remote compromised server via macros 4.0;Emotet;GREEN
+sha256;199a2e0e1bb46a5dd8eb3a58aa55de157f6005c65b70245e71cecec4905cc2c0 ;Excel file with malicious macro for Emotet dropped IcedID and BumbleBee;Emotet;GREEN
+sha256;e59c11ed62c813d1c19e02277e14bbeff0312440b4fdc235d3bcbfe1938743b6 ;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+sha256;09931bd43b6b1d5f664d4ea3b7d3b78a2e4a2e67a958032ea92640835d7b9f8f;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+sha256;ce2f3dddfce26433d18f020c8a3337d39d6d2af1eba61967db9be8359bf19fb1;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+sha256;36a2e445f25b38c95129260794ec0973b44f52ec69e8b819cf799fdab76319b5;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+sha1;a7e30946af32f0087bbee19dcb908fce2d9e6814;Hijacked thread email sent by Emotet botnet with a malicious XLS attachment;Emotet;GREEN
+sha1;64AF6F0E006D740601A92816D4EEF1F7B6007B89;XLS maldoc downloading DLLs on remote compromised server via macros 4.0;Emotet;GREEN
+sha1;a6e306f8841ff6fbd50188c738469143a6934df0;Excel file with malicious macro for Emotet dropped IcedID and BumbleBee;Emotet;GREEN
+sha1; ac5ad5ff7434c1ecbc3c96fcfc530a9f98f64a5e ;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+sha1;f8a58b9737cef1223e6cab7839f0921ab791317e;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+sha1;91f1cabf131ca0dccd8180b6faed2fea24ffcddd;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+sha1;d7412689e7f0df8f3425ffaf2a0ac5176202b9c3;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+md5;154014e2aec1638d8feb1c3900752a60;Hijacked thread email sent by Emotet botnet with a malicious XLS attachment;Emotet;GREEN
+md5;9DDFCFE774CBFA02FB31E36B819D7D91;XLS maldoc downloading DLLs on remote compromised server via macros 4.0;Emotet;GREEN
+md5;6493581b246b731e4937fbee64a68803;Excel file with malicious macro for Emotet dropped IcedID and BumbleBee;Emotet;GREEN
+md5;a856da67745c9910bb6efd1a63755f3b ;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+md5;5240ba05dc7e3179ab47487be788910e;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+md5;ef0229e461dd8e1475537a44e3bfe3f6;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+md5;6886babbe16ed7b5a8c84d54d2f9ca3e;dll downloaded from the URLs integrated in Emotet macros ;Emotet;GREEN
+ip;202.28.34.99;web server with associated IP address 202.28.34.99 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;80.211.107.116;web server with associated IP address 80.211.107.116 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;175.126.176.79;web server with associated IP address 175.126.176.79 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;218.38.121.17;web server with associated IP address 218.38.121.17 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;139.196.72.155;web server with associated IP address 139.196.72.155 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;103.71.99.57;web server with associated IP address 103.71.99.57 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;87.106.97.83;web server with associated IP address 87.106.97.83 used as a proxy listening on port 7080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;178.62.112.199;web server with associated IP address 178.62.112.199 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;64.227.55.231;web server with associated IP address 64.227.55.231 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;46.101.98.60;web server with associated IP address 46.101.98.60 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;54.37.228.122;web server with associated IP address 54.37.228.122 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;128.199.217.206;web server with associated IP address 128.199.217.206 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;190.145.8.4;web server with associated IP address 190.145.8.4 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;209.239.112.82;web server with associated IP address 209.239.112.82 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;85.214.67.203;web server with associated IP address 85.214.67.203 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;198.199.70.22;web server with associated IP address 198.199.70.22 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;128.199.242.164;web server with associated IP address 128.199.242.164 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;178.238.225.252;web server with associated IP address 178.238.225.252 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;103.85.95.4;web server with associated IP address 103.85.95.4 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;103.126.216.86;web server with associated IP address 103.126.216.86 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;104.244.79.94;web server with associated IP address 104.244.79.94 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;36.67.23.59;web server with associated IP address 36.67.23.59 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;37.44.244.177;web server with associated IP address 37.44.244.177 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;160.16.143.191;web server with associated IP address 160.16.143.191 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;85.25.120.45;web server with associated IP address 85.25.120.45 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;103.56.149.105;web server with associated IP address 103.56.149.105 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;210.57.209.142;web server with associated IP address 210.57.209.142 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;195.77.239.39;web server with associated IP address 195.77.239.39 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;62.171.178.147;web server with associated IP address 62.171.178.147 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;118.98.72.86;web server with associated IP address 118.98.72.86 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;103.224.241.74;web server with associated IP address 103.224.241.74 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;185.148.169.10;web server with associated IP address 185.148.169.10 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;103.41.204.169;web server with associated IP address 103.41.204.169 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;186.250.48.5;web server with associated IP address 186.250.48.5 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;165.22.254.236;web server with associated IP address 165.22.254.236 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;93.104.209.107;web server with associated IP address 93.104.209.107 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;139.59.80.108;web server with associated IP address 139.59.80.108 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;196.44.98.190;web server with associated IP address 196.44.98.190 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;114.79.130.68;web server with associated IP address 114.79.130.68 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;115.178.55.22;web server with associated IP address 115.178.55.22 used as a proxy listening on port 80 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;103.254.12.236;web server with associated IP address 103.254.12.236 used as a proxy listening on port 7080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;172.105.115.71;web server with associated IP address 172.105.115.71 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;174.138.33.49;web server with associated IP address 174.138.33.49 used as a proxy listening on port 7080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;51.75.33.122;web server with associated IP address 51.75.33.122 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;83.229.80.93;web server with associated IP address 83.229.80.93 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;78.47.204.80;web server with associated IP address 78.47.204.80 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;188.165.79.151;web server with associated IP address 188.165.79.151 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;202.134.4.210;web server with associated IP address 202.134.4.210 used as a proxy listening on port 7080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;82.98.180.154;web server with associated IP address 82.98.180.154 used as a proxy listening on port 7080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;185.4.135.165;web server with associated IP address 185.4.135.165 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;159.89.202.34;web server with associated IP address 159.89.202.34 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;82.223.21.224;web server with associated IP address 82.223.21.224 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;187.63.160.88;web server with associated IP address 187.63.160.88 used as a proxy listening on port 80 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;188.44.20.25;web server with associated IP address 188.44.20.25 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;91.187.140.35;web server with associated IP address 91.187.140.35 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;110.232.117.186;web server with associated IP address 110.232.117.186 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;197.242.150.244;web server with associated IP address 197.242.150.244 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;119.59.103.152;web server with associated IP address 119.59.103.152 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;182.162.143.56;web server with associated IP address 182.162.143.56 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;72.15.201.15;web server with associated IP address 72.15.201.15 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;173.255.211.88;web server with associated IP address 173.255.211.88 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;206.189.28.199;web server with associated IP address 206.189.28.199 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;94.23.45.86;web server with associated IP address 94.23.45.86 used as a proxy listening on port 4143 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;45.63.99.23;web server with associated IP address 45.63.99.23 used as a proxy listening on port 7080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;153.126.146.25;web server with associated IP address 153.126.146.25 used as a proxy listening on port 7080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;45.118.115.99;web server with associated IP address 45.118.115.99 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;115.68.227.76;web server with associated IP address 115.68.227.76 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;163.44.196.120;web server with associated IP address 163.44.196.120 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;159.65.140.115;web server with associated IP address 159.65.140.115 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;169.57.156.166;web server with associated IP address 169.57.156.166 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;139.59.56.73;web server with associated IP address 139.59.56.73 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;183.111.227.137;web server with associated IP address 183.111.227.137 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;202.129.205.3;web server with associated IP address 202.129.205.3 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;103.43.75.120;web server with associated IP address 103.43.75.120 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;45.176.232.124;web server with associated IP address 45.176.232.124 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;186.194.240.217;web server with associated IP address 186.194.240.217 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;173.212.193.249;web server with associated IP address 173.212.193.249 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;139.59.126.41;web server with associated IP address 139.59.126.41 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;149.56.131.28;web server with associated IP address 149.56.131.28 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;159.65.88.10;web server with associated IP address 159.65.88.10 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;201.94.166.162;web server with associated IP address 201.94.166.162 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;107.170.39.149;web server with associated IP address 107.170.39.149 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;103.75.201.2;web server with associated IP address 103.75.201.2 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;103.132.242.26;web server with associated IP address 103.132.242.26 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;209.97.163.214;web server with associated IP address 209.97.163.214 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;129.232.188.93;web server with associated IP address 129.232.188.93 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;79.137.35.198;web server with associated IP address 79.137.35.198 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;101.50.0.91;web server with associated IP address 101.50.0.91 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;147.139.166.154;web server with associated IP address 147.139.166.154 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;160.16.142.56;web server with associated IP address 160.16.142.56 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;153.92.5.27;web server with associated IP address 153.92.5.27 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;167.172.199.165;web server with associated IP address 167.172.199.165 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;95.217.221.146;web server with associated IP address 95.217.221.146 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;167.172.253.162;web server with associated IP address 167.172.253.162 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;164.90.222.65;web server with associated IP address 164.90.222.65 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;172.105.226.75;web server with associated IP address 172.105.226.75 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;164.68.99.3;web server with associated IP address 164.68.99.3 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;213.239.212.5;web server with associated IP address 213.239.212.5 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;91.207.28.33;web server with associated IP address 91.207.28.33 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;45.235.8.30;web server with associated IP address 45.235.8.30 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;172.104.251.154;web server with associated IP address 172.104.251.154 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;5.135.159.50;web server with associated IP address 5.135.159.50 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;212.24.98.99;web server with associated IP address 212.24.98.99 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;104.168.155.143;web server with associated IP address 104.168.155.143 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;1.234.2.232;web server with associated IP address 1.234.2.232 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;169.60.181.70;web server with associated IP address 169.60.181.70 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;149.28.143.92;web server with associated IP address 149.28.143.92 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;51.161.73.194;web server with associated IP address 51.161.73.194 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch4;Emotet;GREEN
+ip;172.105.115.71;web server with associated IP address 172.105.115.71 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;185.184.25.78;web server with associated IP address 185.184.25.78 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;191.252.103.16;web server with associated IP address 191.252.103.16 used as a proxy listening on port 80 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;207.148.81.119;web server with associated IP address 207.148.81.119 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;37.59.209.141;web server with associated IP address 37.59.209.141 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;59.148.253.194;web server with associated IP address 59.148.253.194 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;159.69.237.188;web server with associated IP address 159.69.237.188 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;195.154.146.35;web server with associated IP address 195.154.146.35 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;203.153.216.46;web server with associated IP address 203.153.216.46 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;104.131.62.48;web server with associated IP address 104.131.62.48 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;173.203.78.138;web server with associated IP address 173.203.78.138 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;217.182.143.207;web server with associated IP address 217.182.143.207 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;54.38.242.185;web server with associated IP address 54.38.242.185 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;116.124.128.206;web server with associated IP address 116.124.128.206 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;54.37.106.167;web server with associated IP address 54.37.106.167 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;198.199.98.78;web server with associated IP address 198.199.98.78 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;190.90.233.66;web server with associated IP address 190.90.233.66 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;185.148.168.15;web server with associated IP address 185.148.168.15 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;185.148.168.220;web server with associated IP address 185.148.168.220 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;142.4.219.173;web server with associated IP address 142.4.219.173 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;168.197.250.14;web server with associated IP address 168.197.250.14 used as a proxy listening on port 80 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;128.199.192.135;web server with associated IP address 128.199.192.135 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;78.46.73.125;web server with associated IP address 78.46.73.125 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;66.42.57.149;web server with associated IP address 66.42.57.149 used as a proxy listening on port 443 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
+ip;194.9.172.107;web server with associated IP address 194.9.172.107 used as a proxy listening on port 8080 hidding network traffic towards genuine C2 linked to botnet Epoch5;Emotet;GREEN
