@@ -30,6 +30,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Jun 24 - [[Recorded Future] Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation](https://go.recordedfuture.com/hubfs/reports/cta-cn-2024-0624.pdf) | [:closed_book:](../../blob/master/2024/2024.06.24_Chinese_State-Sponsored_Taiwanese)
 * Mar 7 - [[ESET] Evasive Panda leverages Monlam Festival to target Tibetans](https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/) | [:closed_book:](../../blob/master/2024/2024.03.07_Evasive_Panda)
 * Feb 27 - [[Mandiant] When Cats Fly: Suspected Iranian Threat Actor UNC1549 Targets Israeli and Middle East Aerospace and Defense Sectors](https://www.mandiant.com/resources/blog/suspected-iranian-unc1549-targets-israel-middle-east) | [:closed_book:](../../blob/master/2024/2024.02.27.UNC1549)
 * Feb 23 - [[Sophos] ConnectWise ScreenConnect attacks deliver malware](https://news.sophos.com/en-us/2024/02/23/connectwise-screenconnect-attacks-deliver-malware/) | [:closed_book:](../../blob/master/2024/2024.02.23.ConnectWise_Malware)
