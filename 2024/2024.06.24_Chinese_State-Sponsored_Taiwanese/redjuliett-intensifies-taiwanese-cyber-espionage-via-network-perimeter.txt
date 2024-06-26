@@ -1,0 +1,152 @@
+Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via
+Network Perimeter Exploitation
+
+   Posted: 24th June 2024
+   By: Insikt Group®
+   Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber
+   Espionage via Network Perimeter Exploitation
+
+   insikt-group-logo-updated-3-300x48.png
+
+   From November 2023 to April 2024, Insikt Group identified
+   cyber-espionage activities conducted by RedJuliett, a likely Chinese
+   state-sponsored group, primarily targeting government, academic,
+   technology, and diplomatic organizations in Taiwan. RedJuliett
+   exploited known vulnerabilities in network edge devices such as
+   firewalls, virtual private networks (VPNs), and load balancers for
+   initial access. The group likely operates from Fuzhou, China, aligning
+   with its persistent targeting of Taiwan. RedJuliett’s activities likely
+   aim to support Beijing's [22]intelligence collection on Taiwan’s
+   economic and diplomatic relations, as well as critical technology
+   development.
+
+   RedJuliett infographic-02.jpg
+
+   Chinese State-Sponsored RedJuliett Intensifies Cyber Espionage Against
+   Taiwanese Government, Academic, and Technology Sectors
+
+   RedJuliett’s focus on targeting Taiwanese entities aligns with the
+   group’s past activity. Insikt Group also observed RedJuliett expand its
+   operations to compromise organizations in Hong Kong, Malaysia, Laos,
+   South Korea, the United States, Djibouti, Kenya, and Rwanda.
+
+   In addition to targeting vulnerabilities in internet-facing devices,
+   RedJuliett also used structured query language (SQL) injection and
+   directory traversal exploits against web and SQL applications.
+   Organizations should complement routine patching with defense-in-depth
+   strategies focused on detecting post-exploitation persistence,
+   discovery, and lateral movement activity to counter these threats.
+   Organizations should also regularly audit internet-facing devices and
+   reduce their attack surface where possible. RedJuliett closely overlaps
+   with public reporting under the aliases Flax Typhoon and Ethereal
+   Panda.
+
+   RedJuliett infographic-01 (1).jpg
+
+   Key Findings
+     * Victim Organizations: RedJuliett compromised 24 organizations,
+       including government organizations in Taiwan, Laos, Kenya, and
+       Rwanda. The group also conducted network reconnaissance or
+       attempted exploitation against over 70 academic, government, think
+       tank, and technology organizations in Taiwan, as well as multiple
+       de facto embassies operating on the island.
+     * Exploitation Techniques: RedJuliett created a SoftEther VPN bridge
+       or client in victim networks. Additionally, the group conducted
+       reconnaissance and attempted exploitation activity using Acunetix
+       Web Application Security Scanners. RedJuliett also attempted SQL
+       injection and directory traversal exploits against web and SQL
+       applications. Post-exploitation, the group used open-source web
+       shells and exploited an elevation of privilege vulnerability in the
+       Linux operating system.
+     * Infrastructure: RedJuliett administers operational infrastructure
+       using SoftEther VPN, leveraging both threat actor-controlled leased
+       servers and compromised infrastructure belonging to Taiwanese
+       universities.
+     * Implications for Taiwan: RedJuliett's activities align with
+       Beijing's objectives to gather intelligence on Taiwan’s economic
+       policy, trade, and diplomatic relations. The group also targeted
+       multiple critical technology companies, highlighting the strategic
+       importance of this sector for Chinese state-sponsored threat
+       actors.
+
+   Recommendations for Organizations
+
+   Organizations likely to be targeted by RedJuliett should adopt the
+   following measures:
+    1. Network Segmentation: Practice network segmentation by isolating
+       internet-facing services in a demilitarized zone (DMZ).
+    2. Security Monitoring: Ensure security monitoring and detection
+       capabilities for all external-facing services and devices. Monitor
+       for follow-on activities such as the use of web shells, backdoors,
+       or reverse shells and lateral movement within internal networks.
+    3. Review Public Guidance: Review public guidance on mitigating common
+       TTPs used by Chinese state-sponsored groups and Insikt Group’s
+       [23]report on trends and recommendations for mitigating Chinese APT
+       activity more broadly.
+    4. Risk-Based Patching: Ensure a risk-based approach for patching
+       vulnerabilities, prioritizing high-risk vulnerabilities and those
+       being exploited in the wild, as identified by [24]Recorded Future
+       Vulnerability Intelligence.
+    5. Prioritize RCE Vulnerabilities: Focus on addressing remote code
+       execution (RCE) vulnerabilities in popular VPN, mail server,
+       firewall, and load-balancing appliances, particularly F5 BIG-IP,
+       Fortinet FortiGate, and ZyXEL ZyWALL devices.
+    6. Malicious Traffic Analysis: Monitor Malicious Traffic Analysis
+       (MTA) to proactively detect and alert on infrastructure
+       communicating with known RedJuliett command-and-control (C2) IP
+       addresses.
+    7. Monitor Supply Chains: [25]Use Recorded Future Third-Party
+       Intelligence to monitor real-time output and identify suspected
+       intrusion activities involving key vendors and partners.
+    8. Threat Intelligence Extension: Install the [26]Recorded Future
+       Threat Intelligence Browser Extension for instant access to threat
+       intelligence from any web-based resource, enabling faster alert
+       processing within security information and event management (SIEM)
+       and prioritizing vulnerabilities for patching.
+
+   Insikt Group anticipates that RedJuliett and other Chinese
+   state-sponsored threat actors will continue to target Taiwan for
+   intelligence-gathering, focusing on universities, government
+   organizations, think tanks, and technology companies. Chinese
+   state-sponsored groups are expected to continue their reconnaissance
+   and exploitation of public-facing devices, a tactic that has proven
+   effective in scaling their operations to gain initial access to a broad
+   range of global targets.
+
+   To read the entire analysis, [27]click here to download the report as a
+   PDF.
+
+Appendix A — Indicators of Compromise
+
+   Active RedJuliett servers as of May 21, 2024:
+   38.147.190[.]192 (since 2024-04-07)
+   61.238.103[.]155 (since 2024-02-23)
+   122.10.89[.]230 (since 2024-01-24)
+   137.220.36[.]87 (since 2024-05-09)
+   140.120.98[.]115 (since 2023-11-14)
+   154.197.98[.]3 (since 2023-11-14)
+   154.197.99[.]202 (since 2023-12-16)
+   176.119.150[.]92 (since 2024-04-01)
+   Known RedJuliett SoftEther TLS Certificates (SHA-1 Fingerprint)
+   7992c0a816246b287d991c4ecf68f2d32e4bca18
+   5437d0195c31bf7cedc9d90b8cb0074272bc55df
+   cc1f0cdc131dfafd43f60ff0e6a6089cd03e92f1
+   2c95b971aa47dc4d94a3c52db74a3de11d9ba658
+   0cc0ba859981e0c8142a4877f3af99d98dc0b707
+   9f01fc7cad8cdd8d934e2d2f033d7199a5e96e4a
+   Domains:
+   cktime.ooguy[.]com
+   www.sofeter[.]ml
+   www.dns361[.]tk
+
+Appendix B — Mitre ATT&CK Techniques
+
+   Tactic: Technique ATT&CK Code
+   Resource Development: Acquire Infrastructure: Virtual Private Server
+   [28]T1583.003
+   Resource Development: Compromise Infrastructure: Server [29]T1584
+   Reconnaissance: Active Scanning: Vulnerability Scanning [30]T1595.002
+   Initial Access: Exploit Public-Facing Application [31]T1190
+   Persistence: External Remote Services [32]T1133
+   Persistence: Server Software Component: Web Shell [33]T1505.003
+   Privilege Escalation: Exploitation for Privilege Escalation [34]T1068

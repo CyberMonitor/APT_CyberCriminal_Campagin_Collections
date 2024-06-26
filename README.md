@@ -31,6 +31,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 ## 2024
 * Jun 24 - [[Recorded Future] Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation](https://go.recordedfuture.com/hubfs/reports/cta-cn-2024-0624.pdf) | [:closed_book:](../../blob/master/2024/2024.06.24_Chinese_State-Sponsored_Taiwanese)
+* June 24 - [[Recorded Future] Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation](https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter) | [:closed_book:](../../blob/master/2024/2024.06.24_Chinese_State-Sponsored_Taiwanese)
 * Jun 21 - [[CISCO] SneakyChef espionage group targets government agencies with SugarGh0st and more infection techniques](https://blog.talosintelligence.com/sneakychef-sugarghost-rat/) | [:closed_book:](../../blob/master/2024/2024.06.21.sneakychef-sugarghost-rat)
 * Jun 16 - [[Sygnia] China-Nexus Threat Group ‘Velvet Ant’ Abuses F5 Load Balancers for Persistence](https://blog.talosintelligence.com/sneakychef-sugarghost-rat/) | [:closed_book:](../../blob/master/2024/2024.06.16.velvet-ant)
 * Jun 10 - [[BlackBerry] Kimsuky is targeting an arms manufacturer in Europe](https://www.linkedin.com/pulse/kimsuky-targeting-arms-manufacturer-europe-dmitry-melikov-dquge/) | [:closed_book:](../../blob/master/2024/2024.06.10.Kimsuky_Europe)
