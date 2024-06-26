@@ -34,7 +34,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jun 21 - [[CISCO] SneakyChef espionage group targets government agencies with SugarGh0st and more infection techniques](https://blog.talosintelligence.com/sneakychef-sugarghost-rat/) | [:closed_book:](../../blob/master/2024/2024.06.21.sneakychef-sugarghost-rat)
 * Jun 16 - [[Sygnia] China-Nexus Threat Group ‘Velvet Ant’ Abuses F5 Load Balancers for Persistence](https://blog.talosintelligence.com/sneakychef-sugarghost-rat/) | [:closed_book:](../../blob/master/2024/2024.06.16.velvet-ant)
 * Jun 10 - [[BlackBerry] Kimsuky is targeting an arms manufacturer in Europe](https://www.linkedin.com/pulse/kimsuky-targeting-arms-manufacturer-europe-dmitry-melikov-dquge/) | [:closed_book:](../../blob/master/2024/2024.06.10.Kimsuky_Europe)
-* Mar 7 - [[ESET] Evasive Panda leverages Monlam Festival to target Tibetans](https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/) | [:closed_book:](../../blob/master/2024/2024.03.07_Evasive_Panda)
+* Mar 07 - [[ESET] Evasive Panda leverages Monlam Festival to target Tibetans](https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/) | [:closed_book:](../../blob/master/2024/2024.03.07_Evasive_Panda)
 * Feb 27 - [[Mandiant] When Cats Fly: Suspected Iranian Threat Actor UNC1549 Targets Israeli and Middle East Aerospace and Defense Sectors](https://www.mandiant.com/resources/blog/suspected-iranian-unc1549-targets-israel-middle-east) | [:closed_book:](../../blob/master/2024/2024.02.27.UNC1549)
 * Feb 23 - [[Sophos] ConnectWise ScreenConnect attacks deliver malware](https://news.sophos.com/en-us/2024/02/23/connectwise-screenconnect-attacks-deliver-malware/) | [:closed_book:](../../blob/master/2024/2024.02.23.ConnectWise_Malware)
 * Feb 16 - [[---] inside I-Soon APT(Earth Lusca) operation center](https://github.com/I-S00N/I-S00N) | [:closed_book:](../../blob/master/2024/2024.02.16_I-Soon_Earth_Lusca)
@@ -43,6 +43,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * Jan 25 - [[KrCERT/CC] Lazarus Group’s Large-scale Threats via Watering Hole and Financial Software](https://jsac.jpcert.or.jp/archive/2024/pdf/JSAC2024_1_6_dongwook-kim_seulgi-lee_en.pdf) | [:closed_book:](../../blob/master/2024/2024.01.25.Lazarus_Group)
 * Jan 24 - [[itochuci] The Endless Struggle Against APT10: Insights from LODEINFO](https://blog-en.itochuci.co.jp/entry/2024/01/24/134100) | [:closed_book:](../../blob/master/2024/2024.01.24.APT10_LODEINFO)
 * Jan 10 - [[Volexity] Active Exploitation of Two Zero-Day Vulnerabilities in Ivanti Connect Secure VPN](https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn/) | [:closed_book:](../../blob/master/2024/2024.01.10.Active_Exploitation_UTA0178)
+* Jan 03 - [[Greg Lesnewich] 100DaysofYARA - SpectralBlur](https://g-les.github.io/yara/2024/01/03/100DaysofYARA_SpectralBlur.html) | [:closed_book:](../../blob/master/2024/2024.01.03_SpectralBlur_North_Korean)
 
 
 ## 2023
