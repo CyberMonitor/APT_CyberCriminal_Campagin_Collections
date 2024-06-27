@@ -1,0 +1,126 @@
+
+Pawn Storm Uses Brute Force and Stealth Against High-Value Targets 
+==============================================================================
+CVEs used by Pawn Storm
+==============================================================================
+CVE-2023-23397 
+CVE-2023-38831 
+==============================================================================
+URLs
+==============================================================================
+14.198.168.140 		Phishing site hosting 		EdgeOS device 
+24.11.70.85 		Phishing site hosting 		EdgeOS device
+202.73.49.182		Phishing site hosting 		EdgeOS device
+202.55.80.225		Phishing site hosting 		EdgeOS device
+24.142.165.2 		C&C server			EdgeOS device 
+42.98.5.225 		Source spear phishing emails 	EdgeOS device 
+45.83.90.11 		Source spear phishing emails 	 
+45.91.95.181 		Source spear phishing emails 	Whoer VPN 
+50.173.136.70 		C&C server			EdgeOS device 
+61.14.68.33 		C&C server			EdgeOS device 
+62.4.36.126 		Phishing site hosting 		EdgeOS device 
+68.76.150.97 		Phishing site hosting		EdgeOS device 
+69.51.2.106 		Phishing site hosting		EdgeOS device 
+69.162.253.21 		C&C server 			EdgeOS device 
+73.80.9.137 		Phishing site hosting		EdgeOS device 
+74.208.228.186 		Source spear phishing emails	 
+80.246.28.58 		Source spear phishing emails	IPVanish 
+85.195.206.7 		Source spear phishing emails 	EdgeOS device 
+85.240.182.23 		Phishing site hosting 		EdgeOS device 
+89.96.196.150 		C&C server 			Fortigate Device 
+87.249.139.239 		Source spear phishing emails	IPVanish 
+87.249.139.243 		Source spear phishing emails 	IPVanish 
+89.117.88.2 		Source spear phishing emails 	Anchorfree VPN 
+95.85.72.160 		Source spear phishing emails 	Le VPN  
+101.255.119.42 		Source spear phishing emails 	EdgeOS device 
+108.165.249.2 		Source spear phishing emails	Anchorfree VPN 
+109.169.22.87 		Source spear phishing emails 	Cactus VPN 
+113.160.234.229 	Source spear phishing emails	EdgeOS device 
+141.98.255.143 		Testing 			Mullvad VPN 
+144.76.16.109  		Source spear phishing emails 	 
+149.50.208.22 		Source spear phishing emails	IPVanish 
+149.102.246.51 		Source spear phishing emails 	Mullvad VPN 
+166.0.24.2 		Source spear phishing emails 	Anchorfree VPN 
+168.205.200.55 		Source spear phishing emails 	EdgeOS router 
+174.53.242.108 		Phishing site hosting 		EdgeOS device 
+176.67.83.7 		Source spear phishing emails	IPVanish 
+181.209.99.204 		C&C server			EdgeOS device 
+183.178.180.158 	Phishing site hosting 		EdgeOS device 
+185.132.17.160 		Source spear phishing emails 	EdgeOS device 
+185.147.214.177 	Source spear phishing emails 	IPVanish 
+193.138.218.161 	Testing 			Mullvad VPN 
+194.14.208.15 		Testing 			Le VPN  
+194.14.217.63 		Source spear phishing emails	Whoer VPN 
+195.231.67.193 		Source spear phishing emails 	Cactus VPN 
+202.175.177.238 	Phishing site hosting 		EdgeOS device 
+203.149.168.34 		Source spear phishing emails	EdgeOS device 
+213.32.252.221 		Source spear phishing emails	EdgeOS device 
+216.131.111.138 	Source spear phishing emails 	IPVanish 
+Tor exit nodes 		Source spear phishing emails	 
+DESKTOP-EODEPEI 	Sender hostname in emails 	 
+DESKTOP-GB06JMT 	Sender hostname in emails 	 
+consumerapp.frge.io 	Phishing site 	 
+dsfhdjhgkjhllgdhsh.000webhostapp.com 	Phishing site 	 
+hamster-795.frge.io 	Phishing site 		 
+sdrhsrthytr.wuaze.com 	Phishing site 		 
+settings-inform.rf.gd 	Phishing site 	
+settings-panel.frge.io 	Phishing site 	 
+==============================================================================
+mockbin.org 		Legitimate service, but heavily abused by Pawn Storm 	 
+run.mocky.io 		Legitimate service, but heavily abused by Pawn Storm 	 
+webhook.site 		Legitimate service, but heavily abused by Pawn Storm 	 
+==============================================================================	 
+calc-dwn.infinityfreeapp.com 		Malicious scripts 	 
+clouddrive.infinityfreeapp.com 		Malicious scripts 	 
+cloud-for-files.rf.gd 			Malicious scripts 	 
+document-c.infinityfreeapp.com 		Malicious scripts 	 
+document-d.infinityfreeapp.com 		Malicious scripts 	 
+downloadc.infinityfreeapp.com 		Malicious scripts 	 
+downloaddoc.infinityfreeapp.com 	Malicious scripts 	 
+downloadfile.infinityfreeapp.com 	Malicious scripts	 
+downloading.infinityfreeapp.com 	Malicious scripts 	 
+downloadingdoc.infinityfreeapp.com 	Malicious scripts 	 
+downloadinge.infinityfreeapp.com 	Malicious scripts 	 
+downloadingf.infinityfreeapp.com 	Malicious scripts 	 
+downloadingq.infinityfreeapp.com 	Malicious scripts 	 
+downloadingw.infinityfreeapp.com 	Malicious scripts 	 
+downloadx.infinityfreeapp.com 		Malicious scripts 	 
+downloadz.infinityfreeapp.com 		Malicious scripts 	 
+driveonline.rf.gd 			Malicious scripts 	 
+file-download.infinityfreeapp.com 	Malicious scripts 	 
+filedownload.infinityfreeapp.com 	Malicious scripts 	 
+filedwn.infinityfreeapp.com 		Malicious scripts 	 
+filehosting.infinityfreeapp.com 	Malicious scripts 	 
+filihosting.infinityfreeapp.com 	Malicious scripts 	 
+microsoftcloud.rf.gd 			Malicious scripts 	 
+microsoft-files.infinityfreeapp.com 	Malicious scripts 	 
+microsoft-update-com.github.io 		Malicious scripts 	 
+online-shopping.infinityfreeapp.com 	Malicious scripts 	 
+opendoc.infinityfreeapp.com 		Malicious scripts 	 
+opendocument.infinityfreeapp.com 	Malicious scripts 	 
+radkaulmanova.github.io 		Malicious scripts 	 
+rosaharvey1985.github.io 		Malicious scripts 	 
+shared-files.rf.gd 			Malicious scripts 	 
+=========================================================================================	 
+SHA-256 
+=========================================================================================	 
+52951f2d92e3d547bad86e33c1b0a8622ac391c614efa3c5d167d8a825937179 	payload_1.ps1 
+c8a86d0132b355ee8a22e48e81bb8aef71d3b418878df1bd9c46e53cfb3d2d61 	db-access-key.exe 
+4f3992b9dbd1c2a64588a5bc23f1b37a12a4355688d6e1a06408ea2449c59368 	file_worker.exe 
+45e44afeb8b890004fd1cb535978d0754ceaa7129082cb72386a80a5532700d1	Zeyilname.zip
+22ed5c5cd9c6a351398f1e56efdfb16d52cd33cb4b206237487a03443d3de893	Zeyilname.zip
+9a798e0b14004e01c5f336aeb471816c11a62af851b1a0f36284078b8cf09847	WindowsCodecs.dll
+243bab79863327915c315c188c0589202f64b3500a3fee3e2c9f3d34e8e1f154	Zeyilname.docx
+2f1c2afdf17831e744841029bb5d5a3ea9fda569958303be03e50fb3a764913f	Zeyilname.zip
+f5b7a2d9872312e000acbe3dc8153707acecc5ba184f97ad6014327db16549c7	command.cmd
+ed56740c66609d2bbd39dc60cf29ee47743344a9a6861bee7c08ccfb27376506	Zeyilname.lnk
+19e95b32b77d8dfd294c085793cd542d82eddac8e772818fea2826fa02a5cc54	command.cmd
+00ff432de1e4698d68a5ebc2f09056f230836b4cc9e4da8565286abaaade3ae6        mod.zip
+9f31754206df706ad45b9a8f12c780295da1c71d98cdb6b8d119ab8001c64bf8	pol.zip
+494b6bc171912c22ecc3613c93cbb46880a659a1c0a487de1221e40eb01c5b86	wody.zip
+19d0c55ac466e4188c4370e204808ca0bc02bba480ec641da8190cb8aee92bdc	KFP.311.152.2023.pdf .lnk
+593583b312bf48b7748f4372e6f4a560fd38e969399cf2a96798e2594a517bf4	KFP.311.152.2023.pdf.lnk
+d84c39579e61c406380f37da7c2a6758ed9a4c9a0e7697c073e2ddbb563360cd	Official Information of Azerbaijan Defense Ministry.pdf.lnk
+1b598c7c35f00d2c940dfd3745bd9e5d036df781d391b8f3603a2969c666761b	KFP.311.152.2023.pdf.lnk
+0429bdc6a302b4288aea1b1e2f2a7545731c50d647672fa65b012b2a2caa386e	Client.py
+=========================================================================================	 
