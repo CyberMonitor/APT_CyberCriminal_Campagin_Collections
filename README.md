@@ -30,6 +30,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* July 10 - [[Zscaler] A deep dive into the updated arsenal of APT41 ](https://www.zscaler.com/blogs/security-research/dodgebox-deep-dive-updated-arsenal-apt41-part-1) | [:closed_book:](../../blob/master/2024/2024.07.10.A_deep_dive_into_the_updated_arsenal_of_APT41)
 * Jun 24 - [[Recorded Future] Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation](https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter) | [:closed_book:](../../blob/master/2024/2024.06.24_Chinese_State-Sponsored_Taiwanese)
 * Jun 21 - [[CISCO] SneakyChef espionage group targets government agencies with SugarGh0st and more infection techniques](https://blog.talosintelligence.com/sneakychef-sugarghost-rat/) | [:closed_book:](../../blob/master/2024/2024.06.21.sneakychef-sugarghost-rat)
 * Jun 16 - [[Sygnia] China-Nexus Threat Group ‘Velvet Ant’ Abuses F5 Load Balancers for Persistence](https://blog.talosintelligence.com/sneakychef-sugarghost-rat/) | [:closed_book:](../../blob/master/2024/2024.06.16.velvet-ant)
